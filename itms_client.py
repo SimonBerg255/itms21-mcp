@@ -28,7 +28,8 @@ MAX_RETRIES = 2
 RETRY_DELAYS = [2, 4]
 
 # Track whether API is reachable — avoid retrying every call if first one fails
-_api_reachable: Optional[bool] = None
+# Start as False: always use cache first, switch to True only if API proves reachable
+_api_reachable: Optional[bool] = False
 
 # Async client
 _async_client: Optional[httpx.AsyncClient] = None
