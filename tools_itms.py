@@ -17,7 +17,7 @@ from itms_client import (
 # ──────────────────────────────────────────────
 # Tool 1: search_open_calls
 # ──────────────────────────────────────────────
-def search_open_calls(
+async def search_open_calls(
     code: str = "",
     programme_code: str = "",
     applicant_type_code: str = "",
@@ -63,7 +63,7 @@ def search_open_calls(
     if region:
         params["miestoRealizacie"] = region
 
-    items = get_list("/vyzva", limit=limit, extra_params=params)
+    items = await get_list("/vyzva", limit=limit, extra_params=params)
 
     if not items:
         return "No open calls found matching your criteria."
@@ -107,7 +107,7 @@ def search_open_calls(
 # ──────────────────────────────────────────────
 # Tool 2: get_call_detail
 # ──────────────────────────────────────────────
-def get_call_detail(call_id: int) -> str:
+async def get_call_detail(call_id: int) -> str:
     """
     Get complete detail of a specific EU funding call (výzva) by its ID.
 
@@ -123,7 +123,7 @@ def get_call_detail(call_id: int) -> str:
     Returns:
         Full call detail with all fields.
     """
-    data = get(f"/vyzva/id/{call_id}")
+    data = await get(f"/vyzva/id/{call_id}")
 
     lines = []
     lines.append(f"# {data.get('nazovSk', 'N/A')}")
@@ -233,7 +233,7 @@ def get_call_detail(call_id: int) -> str:
 # ──────────────────────────────────────────────
 # Tool 3: search_planned_calls
 # ──────────────────────────────────────────────
-def search_planned_calls(
+async def search_planned_calls(
     code: str = "",
     programme_code: str = "",
     applicant_type_code: str = "",
@@ -267,7 +267,7 @@ def search_planned_calls(
     if applicant_type_code:
         params["opravnenyZiadatel"] = applicant_type_code
 
-    items = get_list("/planovanavyzva", limit=limit, extra_params=params)
+    items = await get_list("/planovanavyzva", limit=limit, extra_params=params)
 
     if not items:
         return "No planned calls found matching your criteria."
@@ -310,7 +310,7 @@ def search_planned_calls(
 # ──────────────────────────────────────────────
 # Tool 4: search_approved_applications
 # ──────────────────────────────────────────────
-def search_approved_applications(
+async def search_approved_applications(
     code: str = "",
     applicant: str = "",
     call_id: int = 0,
@@ -356,7 +356,7 @@ def search_approved_applications(
     if programme_code:
         params["program"] = programme_code
 
-    items = get_list("/zonfp", limit=limit, extra_params=params)
+    items = await get_list("/zonfp", limit=limit, extra_params=params)
 
     if not items:
         return "No approved applications found matching your criteria."
@@ -385,7 +385,7 @@ def search_approved_applications(
 # ──────────────────────────────────────────────
 # Tool 5: get_application_detail
 # ──────────────────────────────────────────────
-def get_application_detail(application_id: int) -> str:
+async def get_application_detail(application_id: int) -> str:
     """
     Get complete detail of a specific grant application (žiadosť o NFP) by ID.
 
@@ -407,7 +407,7 @@ def get_application_detail(application_id: int) -> str:
     Returns:
         Full application detail with all significant text fields.
     """
-    data = get(f"/zonfp/id/{application_id}")
+    data = await get(f"/zonfp/id/{application_id}")
 
     lines = []
     lines.append(f"# {data.get('nazov', 'N/A')}")
@@ -549,7 +549,7 @@ def get_application_detail(application_id: int) -> str:
 # ──────────────────────────────────────────────
 # Tool 6: search_projects
 # ──────────────────────────────────────────────
-def search_projects(
+async def search_projects(
     code: str = "",
     beneficiary: str = "",
     call_id: int = 0,
@@ -606,7 +606,7 @@ def search_projects(
     if region:
         params["miestoRealizacie"] = region
 
-    items = get_list("/projekt", limit=limit, extra_params=params)
+    items = await get_list("/projekt", limit=limit, extra_params=params)
 
     if not items:
         return "No projects found matching your criteria."
@@ -639,7 +639,7 @@ def search_projects(
 # ──────────────────────────────────────────────
 # Tool 7: get_project_detail
 # ──────────────────────────────────────────────
-def get_project_detail(project_id: int) -> str:
+async def get_project_detail(project_id: int) -> str:
     """
     Get complete detail of a funded EU project by ID.
 
@@ -656,7 +656,7 @@ def get_project_detail(project_id: int) -> str:
     Returns:
         Full project detail with all significant fields.
     """
-    data = get(f"/projekt/id/{project_id}")
+    data = await get(f"/projekt/id/{project_id}")
 
     lines = []
     lines.append(f"# {data.get('nazov', 'N/A')}")
@@ -803,7 +803,7 @@ def get_project_detail(project_id: int) -> str:
 # ──────────────────────────────────────────────
 # Tool 8: get_programme_structure
 # ──────────────────────────────────────────────
-def get_programme_structure(programme_code: str = "") -> str:
+async def get_programme_structure(programme_code: str = "") -> str:
     """
     Get the EU Programme structure for Slovakia (Program Slovensko 2021-2027).
 
@@ -820,7 +820,7 @@ def get_programme_structure(programme_code: str = "") -> str:
         Programme structure with priorities and specific objectives.
     """
     # Get programmes
-    programmes = get_list("/program", limit=-1)
+    programmes = await get_list("/program", limit=-1)
 
     if programme_code:
         programmes = [p for p in programmes if p.get("kod", "").startswith(programme_code) or p.get("skratka", "") == programme_code]
@@ -829,7 +829,7 @@ def get_programme_structure(programme_code: str = "") -> str:
         return "No programmes found matching your criteria."
 
     # Get specific objectives
-    spec_ciele = get_list("/specifickycielprogramu", limit=-1)
+    spec_ciele = await get_list("/specifickycielprogramu", limit=-1)
 
     lines = []
     for prog in programmes:
