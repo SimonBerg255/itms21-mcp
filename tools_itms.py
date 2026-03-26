@@ -20,30 +20,32 @@ from itms_client import (
 async def search_open_calls(
     code: str = "",
     programme_code: str = "",
-    applicant_type_code: str = "",
+    applicant_type_kod: str = "",
     specific_objective_id: int = 0,
-    region: str = "",
+    region_nuts_kod: str = "",
     limit: int = 20,
 ) -> str:
     """
     Search open (not yet closed) calls for EU funding applications (výzvy) in Slovakia.
 
-    IMPORTANT: There is NO free-text search on call names or descriptions.
-    The only text filter is `code` which does substring matching on the call
-    code (e.g. "PSK-UV" matches "PSK-UV-005-2024-DV-ESF+"). To find calls
-    by topic, either leave all filters empty to get all open calls and scan
-    their names, or use programme_code / applicant_type_code / specific_objective_id
-    to narrow by policy area.
+    There is NO free-text search on call names. To find calls by topic, use `code`
+    (substring on call code) or leave filters empty to list all open calls.
 
     Args:
-        code: Substring search on the call code (e.g. "PSK-UV-005"). NOT a name search.
-        programme_code: Filter by programme code (e.g. "401000" for Programme Slovakia).
-        applicant_type_code: Filter by eligible applicant type kodZdroj
-            (e.g. "1009801" for municipalities/obce). Use get_programme_structure
-            to discover codes.
+        code: Substring match on call CODE (e.g. "PSK-UV" matches
+            "PSK-UV-005-2024-DV-ESF+", "MRK" finds codes containing MRK,
+            "005" finds calls with 005 in the code).
+        programme_code: Filter by programme CODE (e.g. "401000" for Programme
+            Slovakia). NOT a name search — use the numeric programme code.
+        applicant_type_kod: Filter by eligible applicant kodZdroj code
+            (e.g. "1009801" for municipalities/obce). NOT a name search.
+            Common codes: 1009801=Obec/mesto, 1009321=Rozpočtová organizácia,
+            1009331=Príspevková organizácia.
         specific_objective_id: Filter by specific objective ID (integer).
-        region: Filter by region (miestoRealizacie value).
-        limit: Maximum number of results to return (default 50).
+        region_nuts_kod: Filter by NUTS region full kod (e.g. "1006SK041"
+            for Prešovský kraj, "1006SK042" for Košický kraj).
+            NOT a name search — use the full NUTS code with 1006 prefix.
+        limit: Maximum number of results (default 20).
 
     Returns:
         List of open calls with name, code, deadline, funding amount,
@@ -56,12 +58,12 @@ async def search_open_calls(
         params["kod"] = code
     if programme_code:
         params["program"] = programme_code
-    if applicant_type_code:
-        params["opravnenyZiadatel"] = applicant_type_code
+    if applicant_type_kod:
+        params["opravnenyZiadatel"] = applicant_type_kod
     if specific_objective_id:
         params["specifickyCielProgramuId"] = str(specific_objective_id)
-    if region:
-        params["miestoRealizacie"] = region
+    if region_nuts_kod:
+        params["miestoRealizacie"] = region_nuts_kod
 
     items = await get_list("/vyzva", limit=limit, extra_params=params)
 
@@ -236,25 +238,21 @@ async def get_call_detail(call_id: int) -> str:
 async def search_planned_calls(
     code: str = "",
     programme_code: str = "",
-    applicant_type_code: str = "",
+    applicant_type_kod: str = "",
+    region_nuts_kod: str = "",
     limit: int = 20,
 ) -> str:
     """
     Search planned (upcoming) EU funding calls that are not yet open.
 
-    Use this to help applicants prepare in advance. Returns planned opening
-    dates, expected funding amounts, eligible applicants, and specific objectives.
-
-    IMPORTANT: There is NO free-text search on names. The `code` param does
-    substring matching on the planned call code only. To browse planned calls
-    by topic, leave filters empty to get all non-cancelled planned calls.
+    Use this to help applicants prepare in advance.
 
     Args:
-        code: Substring search on the planned call code. NOT a name search.
-        programme_code: Filter by programme code (e.g. "401000").
-        applicant_type_code: Filter by eligible applicant type kodZdroj
-            (e.g. "1009801" for municipalities).
-        limit: Maximum number of results to return (default 50).
+        code: Substring match on the planned call CODE.
+        programme_code: Filter by programme CODE (e.g. "401000").
+        applicant_type_kod: Filter by applicant kodZdroj code (e.g. "1009801").
+        region_nuts_kod: Filter by NUTS region full kod (e.g. "1006SK041").
+        limit: Maximum number of results (default 20).
 
     Returns:
         List of planned calls with details.
@@ -264,8 +262,10 @@ async def search_planned_calls(
         params["kod"] = code
     if programme_code:
         params["program"] = programme_code
-    if applicant_type_code:
-        params["opravnenyZiadatel"] = applicant_type_code
+    if applicant_type_kod:
+        params["opravnenyZiadatel"] = applicant_type_kod
+    if region_nuts_kod:
+        params["miestoRealizacie"] = region_nuts_kod
 
     items = await get_list("/planovanavyzva", limit=limit, extra_params=params)
 
@@ -312,33 +312,32 @@ async def search_planned_calls(
 # ──────────────────────────────────────────────
 async def search_approved_applications(
     code: str = "",
-    applicant: str = "",
+    applicant_name: str = "",
     call_id: int = 0,
-    call_code: str = "",
     programme_code: str = "",
+    region_name: str = "",
     limit: int = 10,
 ) -> str:
     """
     Search approved grant applications (schválené žiadosti o NFP).
 
-    Use this to find real examples of successful applications. Useful for
-    understanding what approved projects look like and what indicators were
-    committed to.
+    Use this to find real examples of successful applications.
 
-    IMPORTANT: There is NO free-text search on application/project names.
-    The `code` param does substring matching on the application code only
-    (e.g. "NFP401406"). The `applicant` param does substring matching on
-    the applicant organisation name. To find applications under a specific
-    call, use `call_id` (most reliable) or `call_code`.
+    IMPORTANT: The BEST and MOST RELIABLE way to find applications for a specific
+    call is by call_id (integer). Get the call ID from search_open_calls.
 
     Args:
-        code: Substring search on application code (e.g. "NFP401406"). NOT a name search.
-        applicant: Substring search on applicant organisation name (e.g. "Bratislava").
-        call_id: Filter by call ID (integer). Use this to find all applications
-            under a specific call. Get the ID from search_open_calls results.
-        call_code: Filter by call code string (e.g. "PSK-UV-005-2024-DV-ESF+").
-        programme_code: Filter by programme code (e.g. "401000").
-        limit: Maximum number of results to return (default 10).
+        code: Substring match on APPLICATION CODE (e.g. "NFP401406").
+        applicant_name: Substring match on applicant entity NAME
+            (e.g. "Varhaňovce" finds Obec Varhaňovce, "obec" finds
+            all applications by entities with "obec" in the name).
+        call_id: Filter by call ID (integer, exact match). ALWAYS use this
+            to find applications under a specific call — it is the only
+            reliable call filter. Get the ID from search_open_calls.
+        programme_code: Filter by programme CODE (e.g. "401000").
+        region_name: Substring match on region NAME in Slovak
+            (e.g. "Prešovský" for Prešov region).
+        limit: Maximum number of results (default 10).
 
     Returns:
         List of approved applications with code, name, applicant, call,
@@ -347,14 +346,14 @@ async def search_approved_applications(
     params = {"schvalena": "true"}
     if code:
         params["kod"] = code
-    if applicant:
-        params["ziadatel"] = applicant
+    if applicant_name:
+        params["ziadatel"] = applicant_name
     if call_id:
         params["vyzvaId"] = str(call_id)
-    if call_code:
-        params["vyzva"] = call_code
     if programme_code:
         params["program"] = programme_code
+    if region_name:
+        params["miestoRealizacie"] = region_name
 
     items = await get_list("/zonfp", limit=limit, extra_params=params)
 
@@ -551,11 +550,10 @@ async def get_application_detail(application_id: int) -> str:
 # ──────────────────────────────────────────────
 async def search_projects(
     code: str = "",
-    beneficiary: str = "",
+    beneficiary_name: str = "",
     call_id: int = 0,
-    call_code: str = "",
     programme_code: str = "",
-    region: str = "",
+    region_name: str = "",
     in_realisation: bool = True,
     completed: bool = False,
     limit: int = 10,
@@ -564,26 +562,23 @@ async def search_projects(
     Search EU-funded projects in Slovakia (projekty).
 
     Returns projects with their contracted amounts, realisation dates,
-    beneficiary, and implementation status. Use to find reference projects
-    or understand what has been funded in a specific region or area.
+    beneficiary, and implementation status.
 
-    IMPORTANT: There is NO free-text search on project names or descriptions.
-    The `code` param does substring matching on the project code only.
-    The `beneficiary` param does substring matching on the beneficiary
-    organisation name (prijímateľ). To find projects under a specific call,
-    use `call_id` (most reliable) or `call_code`.
+    IMPORTANT: Use call_id (integer) to find projects under a specific call.
 
     Args:
-        code: Substring search on project code. NOT a name search.
-        beneficiary: Substring search on beneficiary name (prijímateľ),
-            e.g. "Bratislava" to find projects by entities with Bratislava in the name.
-        call_id: Filter by call ID (integer). Get the ID from search_open_calls.
-        call_code: Filter by call code string.
-        programme_code: Filter by programme code (e.g. "401000").
-        region: Filter by region (miestoRealizacie value).
-        in_realisation: If True, only show projects currently in realisation (default True).
+        code: Substring match on PROJECT CODE (e.g. "NFP401406").
+        beneficiary_name: Substring match on beneficiary entity NAME
+            (e.g. "obec" finds projects by municipalities, "Bratislava"
+            finds projects by entities with Bratislava in the name).
+        call_id: Filter by call ID (integer, exact match). ALWAYS use this
+            to find projects under a specific call.
+        programme_code: Filter by programme CODE (e.g. "401000").
+        region_name: Substring match on region NAME or NUTS kod
+            (e.g. "Prešovský" or "1006SK041" — both work for Prešov region).
+        in_realisation: If True, only show projects in realisation (default True).
         completed: If True, only show completed projects (default False).
-        limit: Maximum number of results to return (default 10).
+        limit: Maximum number of results (default 10).
 
     Returns:
         List of projects with key details.
@@ -595,16 +590,14 @@ async def search_projects(
         params["ukonceny"] = "true"
     if code:
         params["kod"] = code
-    if beneficiary:
-        params["prijimatel"] = beneficiary
+    if beneficiary_name:
+        params["prijimatel"] = beneficiary_name
     if call_id:
         params["vyzvaId"] = str(call_id)
-    if call_code:
-        params["vyzva"] = call_code
     if programme_code:
         params["program"] = programme_code
-    if region:
-        params["miestoRealizacie"] = region
+    if region_name:
+        params["miestorealizacie"] = region_name
 
     items = await get_list("/projekt", limit=limit, extra_params=params)
 
