@@ -1,6 +1,8 @@
 # itms_client.py
 """Thin async HTTP client for the ITMS21+ public API (api.itms21.sk)."""
 
+import asyncio
+import logging
 import re
 from datetime import datetime, timezone
 from html import unescape
@@ -8,8 +10,15 @@ from typing import Any, Optional
 
 import httpx
 
+logger = logging.getLogger(__name__)
+
 BASE_URL = "https://api.itms21.sk/public/v1"
-TIMEOUT = httpx.Timeout(connect=15.0, read=120.0, write=10.0, pool=15.0)
+# Very generous connect timeout — the Slovak gov API is slow to accept
+# connections from non-EU servers (Railway is US-based)
+TIMEOUT = httpx.Timeout(connect=60.0, read=120.0, write=10.0, pool=60.0)
+
+MAX_RETRIES = 3
+RETRY_DELAYS = [2, 5, 10]  # seconds between retries
 
 # Async client for use in the MCP server (non-blocking)
 _async_client: Optional[httpx.AsyncClient] = None
@@ -22,19 +31,45 @@ def _get_async_client() -> httpx.AsyncClient:
         _async_client = httpx.AsyncClient(
             timeout=TIMEOUT,
             limits=httpx.Limits(max_connections=10, max_keepalive_connections=5),
-            headers={"Accept": "application/json"},
+            headers={
+                "Accept": "application/json",
+                "User-Agent": "ITMS21-MCP-Server/1.0 (EU Funds Intelligence)",
+            },
             follow_redirects=True,
         )
     return _async_client
 
 
 async def get(endpoint: str, params: Optional[dict] = None) -> Any:
-    """Make an async GET request to the ITMS21+ public API."""
+    """Make an async GET request to the ITMS21+ public API with retries."""
     url = f"{BASE_URL}{endpoint}"
     client = _get_async_client()
-    r = await client.get(url, params=params or {})
-    r.raise_for_status()
-    return r.json()
+    last_exc = None
+
+    for attempt in range(MAX_RETRIES):
+        try:
+            r = await client.get(url, params=params or {})
+            r.raise_for_status()
+            return r.json()
+        except (httpx.ConnectTimeout, httpx.ReadTimeout, httpx.ConnectError) as e:
+            last_exc = e
+            if attempt < MAX_RETRIES - 1:
+                delay = RETRY_DELAYS[attempt]
+                logger.warning(
+                    f"ITMS21+ API attempt {attempt+1}/{MAX_RETRIES} failed "
+                    f"({type(e).__name__}), retrying in {delay}s: {url}"
+                )
+                await asyncio.sleep(delay)
+            else:
+                logger.error(
+                    f"ITMS21+ API failed after {MAX_RETRIES} attempts: {url} — {e}"
+                )
+        except httpx.HTTPStatusError as e:
+            # Don't retry 4xx errors
+            logger.error(f"ITMS21+ API HTTP {e.response.status_code}: {url}")
+            raise
+
+    raise last_exc
 
 
 async def get_list(endpoint: str, limit: int = 20, extra_params: Optional[dict] = None) -> list:

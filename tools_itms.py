@@ -23,7 +23,7 @@ async def search_open_calls(
     applicant_type_code: str = "",
     specific_objective_id: int = 0,
     region: str = "",
-    limit: int = 50,
+    limit: int = 20,
 ) -> str:
     """
     Search open (not yet closed) calls for EU funding applications (výzvy) in Slovakia.
@@ -237,7 +237,7 @@ async def search_planned_calls(
     code: str = "",
     programme_code: str = "",
     applicant_type_code: str = "",
-    limit: int = 50,
+    limit: int = 20,
 ) -> str:
     """
     Search planned (upcoming) EU funding calls that are not yet open.
