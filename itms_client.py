@@ -1,11 +1,19 @@
 # itms_client.py
-"""Thin async HTTP client for the ITMS21+ public API (api.itms21.sk)."""
+"""Async HTTP client for the ITMS21+ public API with local cache fallback.
+
+When the API (api.itms21.sk) is unreachable (e.g. from US-based Railway servers),
+falls back to pre-cached JSON files in the ./cache/ directory. The cache is
+generated locally where the API is reachable and committed to the repo.
+"""
 
 import asyncio
+import json
 import logging
+import os
 import re
 from datetime import datetime, timezone
 from html import unescape
+from pathlib import Path
 from typing import Any, Optional
 
 import httpx
@@ -13,19 +21,20 @@ import httpx
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://api.itms21.sk/public/v1"
-# Very generous connect timeout — the Slovak gov API is slow to accept
-# connections from non-EU servers (Railway is US-based)
-TIMEOUT = httpx.Timeout(connect=60.0, read=120.0, write=10.0, pool=60.0)
+TIMEOUT = httpx.Timeout(connect=15.0, read=60.0, write=10.0, pool=15.0)
+CACHE_DIR = Path(__file__).parent / "cache"
 
-MAX_RETRIES = 3
-RETRY_DELAYS = [2, 5, 10]  # seconds between retries
+MAX_RETRIES = 2
+RETRY_DELAYS = [2, 4]
 
-# Async client for use in the MCP server (non-blocking)
+# Track whether API is reachable — avoid retrying every call if first one fails
+_api_reachable: Optional[bool] = None
+
+# Async client
 _async_client: Optional[httpx.AsyncClient] = None
 
 
 def _get_async_client() -> httpx.AsyncClient:
-    """Get or create the async HTTP client (lazy init)."""
     global _async_client
     if _async_client is None or _async_client.is_closed:
         _async_client = httpx.AsyncClient(
@@ -33,23 +42,170 @@ def _get_async_client() -> httpx.AsyncClient:
             limits=httpx.Limits(max_connections=10, max_keepalive_connections=5),
             headers={
                 "Accept": "application/json",
-                "User-Agent": "ITMS21-MCP-Server/1.0 (EU Funds Intelligence)",
+                "User-Agent": "ITMS21-MCP-Server/1.0",
             },
             follow_redirects=True,
         )
     return _async_client
 
 
+# ─── Cache mapping ───────────────────────────────────────────────
+# Maps (endpoint, key_params) → cache filename
+# This lets us serve cached data for the most common queries
+
+def _cache_key(endpoint: str, params: Optional[dict] = None) -> Optional[str]:
+    """Determine which cache file to use for a given request, if any."""
+    p = params or {}
+
+    # /vyzva list (open calls)
+    if endpoint == "/vyzva" and p.get("ajUkoncene") == "false":
+        return "vyzva_open"
+
+    # /vyzva detail
+    if endpoint.startswith("/vyzva/id/"):
+        call_id = endpoint.split("/")[-1]
+        return f"vyzva_detail_{call_id}"
+
+    # /planovanavyzva list
+    if endpoint == "/planovanavyzva":
+        return "planovanavyzva"
+
+    # /zonfp list — by call ID
+    if endpoint == "/zonfp" and "vyzvaId" in p:
+        vid = p["vyzvaId"]
+        return f"zonfp_call_{vid}"
+
+    # /zonfp list — approved (general)
+    if endpoint == "/zonfp" and p.get("schvalena") == "true":
+        return "zonfp_approved"
+
+    # /zonfp detail
+    if endpoint.startswith("/zonfp/id/"):
+        app_id = endpoint.split("/")[-1]
+        return f"zonfp_detail_{app_id}"
+
+    # /projekt list — by call ID
+    if endpoint == "/projekt" and "vyzvaId" in p:
+        vid = p["vyzvaId"]
+        return f"projekt_call_{vid}"
+
+    # /program list
+    if endpoint == "/program":
+        return "program"
+
+    # /specifickycielprogramu list
+    if endpoint == "/specifickycielprogramu":
+        return "specifickycielprogramu"
+
+    return None
+
+
+def _load_cache(cache_name: str) -> Optional[Any]:
+    """Load a cached JSON file if it exists."""
+    path = CACHE_DIR / f"{cache_name}.json"
+    if path.exists():
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            logger.info(f"Cache hit: {cache_name}")
+            return data
+        except (json.JSONDecodeError, IOError) as e:
+            logger.warning(f"Cache read failed for {cache_name}: {e}")
+    return None
+
+
+def _filter_cached_results(items: list, params: dict) -> list:
+    """Apply query filters to cached data (client-side filtering)."""
+    results = items
+
+    # kod = substring match on item code
+    kod = params.get("kod", "")
+    if kod:
+        results = [i for i in results if kod.lower() in i.get("kod", "").lower()]
+
+    # program = match on programme code
+    prog = params.get("program", "")
+    if prog:
+        results = [i for i in results
+                   if i.get("program", {}).get("kod", "") == prog]
+
+    # opravnenyZiadatel = match on kodZdroj of eligible applicants
+    oz = params.get("opravnenyZiadatel", "")
+    if oz:
+        results = [i for i in results
+                   if any(z.get("kod", "") == oz for z in i.get("ziadatel", []))]
+
+    # miestoRealizacie = match on region kod
+    mr = params.get("miestoRealizacie", "")
+    if mr:
+        results = [i for i in results
+                   if any(m.get("kod", "") == mr for m in i.get("miestoRealizacie", []))]
+
+    # specifickyCielProgramuId = match on specific objective ID
+    sc_id = params.get("specifickyCielProgramuId", "")
+    if sc_id:
+        sc_id_int = int(sc_id)
+        results = [i for i in results
+                   if any(sc.get("id") == sc_id_int
+                          for sc in i.get("specifickyCielProgramu", []))]
+
+    # vyzvaId = match on call ID (for zonfp/projekt)
+    vyzva_id = params.get("vyzvaId", "")
+    if vyzva_id:
+        vid = int(vyzva_id)
+        results = [i for i in results
+                   if i.get("vyzva", {}).get("id") == vid]
+
+    # ziadatel = substring on applicant name (for zonfp)
+    ziadatel = params.get("ziadatel", "")
+    if ziadatel:
+        results = [i for i in results
+                   if ziadatel.lower() in i.get("ziadatel", {}).get("nazov", "").lower()]
+
+    # prijimatel = substring on beneficiary name (for projekt)
+    prijimatel = params.get("prijimatel", "")
+    if prijimatel:
+        results = [i for i in results
+                   if prijimatel.lower() in i.get("prijimatel", {}).get("nazov", "").lower()]
+
+    # miestorealizacie = substring on region name (for projekt)
+    mr2 = params.get("miestorealizacie", "")
+    if mr2:
+        results = [i for i in results
+                   if any(mr2.lower() in m.get("nazovSk", "").lower()
+                          for m in i.get("miestoRealizacie", []))]
+
+    # vrealizacii filter
+    if params.get("vrealizacii") == "true":
+        # Already filtered in cache, but just in case
+        pass
+
+    # schvalena filter
+    if params.get("schvalena") == "true":
+        results = [i for i in results if i.get("schvalena")]
+
+    return results
+
+
 async def get(endpoint: str, params: Optional[dict] = None) -> Any:
-    """Make an async GET request to the ITMS21+ public API with retries."""
+    """Fetch from API with cache fallback."""
+    global _api_reachable
     url = f"{BASE_URL}{endpoint}"
+    p = params or {}
+
+    # If API was already unreachable, go straight to cache
+    if _api_reachable is False:
+        return _get_from_cache_or_raise(endpoint, p)
+
+    # Try the live API
     client = _get_async_client()
     last_exc = None
 
     for attempt in range(MAX_RETRIES):
         try:
-            r = await client.get(url, params=params or {})
+            r = await client.get(url, params=p)
             r.raise_for_status()
+            _api_reachable = True
             return r.json()
         except (httpx.ConnectTimeout, httpx.ReadTimeout, httpx.ConnectError) as e:
             last_exc = e
@@ -61,70 +217,61 @@ async def get(endpoint: str, params: Optional[dict] = None) -> Any:
                 )
                 await asyncio.sleep(delay)
             else:
-                logger.error(
-                    f"ITMS21+ API failed after {MAX_RETRIES} attempts: {url} — {e}"
+                logger.warning(
+                    f"ITMS21+ API unreachable after {MAX_RETRIES} attempts, "
+                    f"switching to cache: {url}"
                 )
+                _api_reachable = False
         except httpx.HTTPStatusError as e:
-            # Don't retry 4xx errors
             logger.error(f"ITMS21+ API HTTP {e.response.status_code}: {url}")
             raise
 
-    raise last_exc
+    # API failed — try cache
+    return _get_from_cache_or_raise(endpoint, p)
+
+
+def _get_from_cache_or_raise(endpoint: str, params: dict) -> Any:
+    """Try to serve from cache, raise if no cache available."""
+    cache_name = _cache_key(endpoint, params)
+    if cache_name:
+        data = _load_cache(cache_name)
+        if data is not None:
+            return data
+
+    raise httpx.ConnectTimeout(
+        f"ITMS21+ API unreachable and no cache available for {endpoint}"
+    )
 
 
 async def get_list(endpoint: str, limit: int = 20, extra_params: Optional[dict] = None) -> list:
-    """Fetch a list endpoint, return the items array."""
+    """Fetch a list endpoint with cache-aware filtering."""
     params = {"limit": limit}
     if extra_params:
-        # Remove None/empty values
         params.update({k: v for k, v in extra_params.items() if v is not None and v != ""})
+
     data = await get(endpoint, params)
-    # ITMS21+ wraps lists in {"offset":..., "limit":..., "size":..., "results":[...]}
+
+    # Extract results array
     if isinstance(data, dict) and "results" in data:
-        return data["results"]
-    if isinstance(data, list):
-        return data
-    return []
+        items = data["results"]
+    elif isinstance(data, list):
+        items = data
+    else:
+        items = []
+
+    # If serving from cache, we need to apply filters client-side
+    # (cache contains ALL records, not filtered)
+    if _api_reachable is False and items:
+        items = _filter_cached_results(items, params)
+
+    # Apply limit
+    if limit > 0 and len(items) > limit:
+        items = items[:limit]
+
+    return items
 
 
-# === Sync wrappers for test_tools.py (NOT used by the MCP server) ===
-_sync_client: Optional[httpx.Client] = None
-
-
-def _get_sync_client() -> httpx.Client:
-    global _sync_client
-    if _sync_client is None or _sync_client.is_closed:
-        _sync_client = httpx.Client(
-            timeout=TIMEOUT,
-            limits=httpx.Limits(max_connections=10, max_keepalive_connections=5),
-            headers={"Accept": "application/json"},
-            follow_redirects=True,
-        )
-    return _sync_client
-
-
-def get_sync(endpoint: str, params: Optional[dict] = None) -> Any:
-    """Synchronous GET for testing only."""
-    url = f"{BASE_URL}{endpoint}"
-    r = _get_sync_client().get(url, params=params or {})
-    r.raise_for_status()
-    return r.json()
-
-
-def get_list_sync(endpoint: str, limit: int = 20, extra_params: Optional[dict] = None) -> list:
-    """Synchronous get_list for testing only."""
-    params = {"limit": limit}
-    if extra_params:
-        params.update({k: v for k, v in extra_params.items() if v is not None and v != ""})
-    data = get_sync(endpoint, params)
-    if isinstance(data, dict) and "results" in data:
-        return data["results"]
-    if isinstance(data, list):
-        return data
-    return []
-
-
-# === Utility functions (unchanged) ===
+# === Utility functions ===
 
 def strip_html(text) -> str:
     """Strip HTML tags and decode HTML entities from text."""

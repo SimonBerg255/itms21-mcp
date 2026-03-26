@@ -1,0 +1,3517 @@
+{
+ "id": 3165,
+ "href": "/vyzva/id/3165",
+ "kod": "PSK-UV-005-2024-DV-ESF+",
+ "nazovSk": "Podpora usporiadania právnych vzťahov k pozemkom v obciach  s prítomnosťou MRK formou jednoduchých pozemkových úprav",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 33,
+   "href": "/specifickycielprogramu/id/33",
+   "kod": "401406E410",
+   "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 12,
+    "href": "/priorita/id/12",
+    "kod": "401406",
+    "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867956
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869696
+  }
+ ],
+ "opatrenie": [
+  {
+   "id": 154,
+   "href": "/opatrenie/id/154",
+   "kod": "401406E41000",
+   "nazovSk": "401406E41000",
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "createdAt": 1772540869710
+  }
+ ],
+ "miestoRealizacie": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 92,
+   "kod": "1009801",
+   "kodZdroj": "801",
+   "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+   "nazovEn": "Municipality (municipal office)",
+   "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+   "popisEn": "Municipality Municipality (municipal office)",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1712872800000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 401,
+  "kod": "21_SO_PSK_UVSR",
+  "nazov": "Sprostredkovateľský orgán PSK – Úrad vlády SR",
+  "subjekt": {
+   "id": 100000,
+   "href": "/subjekt/id/100000",
+   "nazov": "Úrad vlády Slovenskej republiky",
+   "ico": "00151513",
+   "dic": "2020845057",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2020845057",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Námestie slobody",
+    "cislo": "2899/1",
+    "psc": "81370",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "OTVORENA",
+ "zameranieProjektu": "DOPYT_21",
+ "createdAt": 1707827521038,
+ "updatedAt": 1773216244058,
+ "sumaEu": 8927955.0,
+ "sumaSr": 1787358.47,
+ "predvyber": false,
+ "posudzovaneObdobie": [
+  {
+   "poradoveCislo": 1,
+   "datumUzavierky": 1717106400000
+  },
+  {
+   "poradoveCislo": 2,
+   "datumUzavierky": 1724277600000
+  },
+  {
+   "poradoveCislo": 3,
+   "datumUzavierky": 1732230000000
+  },
+  {
+   "poradoveCislo": 4,
+   "datumUzavierky": 1745964000000
+  },
+  {
+   "poradoveCislo": 5,
+   "datumUzavierky": 1770937200000
+  }
+ ],
+ "pocetPredlozenychZiadosti": 120,
+ "pocetSchvalenychZiadosti": 95,
+ "pocetZiadostiVKonani": 17,
+ "pocetNeschvalenychZiadosti": 8,
+ "pocetRealizovanychProjektov": 86,
+ "planovanaVyzva": [],
+ "programoveObdobie": "2021-2027",
+ "mrk": "ANO",
+ "fond": [
+  {
+   "id": 7,
+   "kod": "1032ESF+",
+   "kodZdroj": "ESF+",
+   "nazovSk": "Európsky sociálny fond plus",
+   "nazovEn": "Európsky sociálny fond plus",
+   "popisSk": "Európsky sociálny fond plus",
+   "popisEn": "Európsky sociálny fond plus",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "cielVyzvy": "<div><div><b>Cieľom v&yacute;zvy</b> je usporiadanie vlastn&iacute;ckych a&nbsp;už&iacute;vac&iacute;ch vzťahov k&nbsp;pozemkom v&nbsp;prospech obce, v&nbsp;d&ocirc;sledku čoho sa umožn&iacute; komplexn&yacute; rozvoj obce a&nbsp;os&iacute;dlenia prostredn&iacute;ctvom n&aacute;sledn&yacute;ch kombinovan&yacute;ch aktiv&iacute;t z&nbsp;ESF+ a&nbsp;invest&iacute;ci&iacute; z&nbsp;EFRR. Z&aacute;roveň sa dom&aacute;cnostiam MRK vytvoria z&aacute;kladn&eacute; predpoklady na zlep&scaron;enie &nbsp;&scaron;tandardov hygieny b&yacute;vania realiz&aacute;ciou n&aacute;sledn&yacute;ch opatren&iacute; v&nbsp;oblasti občianskej vybavenosti obce (kanaliz&aacute;cia, vodovod, pr&iacute;stupov&eacute; komunik&aacute;cie a&nbsp;pod.) a&nbsp;opatren&iacute; smeruj&uacute;cich k&nbsp;legaliz&aacute;cii stavieb v&nbsp;prospech obyvateľov MRK, ako aj ďal&scaron;&iacute;ch opatren&iacute; prispievaj&uacute;cich k&nbsp;zlep&scaron;eniu kvality života a &nbsp;integr&aacute;cii MRK.</div><div><div>&nbsp;</div></div></div>",
+ "sposobFinancovania": [
+  "ZALOHA",
+  "PREDFINANCOVANIE",
+  "REFUNDACIA"
+ ],
+ "typPartnerstva": "INFORMATIVNE_EVIDENCIE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktNazov": "Sekcia európskych programov",
+ "kontaktEmail": "vyzvy.mrk@vlada.gov.sk",
+ "kontaktnaOsoba": [],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "Právna forma žiadateľa/partnera",
+   "popisSk": "<div><div><div><div><div>Opr&aacute;vnen&yacute;m žiadateľom/partnerom s&uacute;</div><ul><li><b>obce s&nbsp;pr&iacute;tomnosťou marginalizovan&yacute;ch komun&iacute;t<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><b>[1]</b></a></b> (ďalej len &bdquo;MRK&ldquo;), ktor&eacute; s&uacute; uveden&eacute; v&nbsp;<a href=\"https://www.romovia.vlada.gov.sk/atlas-romskych-komunit/\">Atlase R&oacute;mskych komun&iacute;t 2019</a> a&nbsp;jeho n&aacute;sledn&yacute;ch aktualiz&aacute;ci&aacute;ch, resp. kombin&aacute;cii aktu&aacute;lneho Atlasu R&oacute;mskych komun&iacute;t a&nbsp;jeho n&aacute;sledn&yacute;ch aktualiz&aacute;ci&iacute; (ďalej len &bdquo;ARK&ldquo;)<a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\">[2]</a>.</li></ul><div>In&scaron;tit&uacute;t partnera je opr&aacute;vnen&yacute; v&nbsp;projekte len v pr&iacute;pade realiz&aacute;cie hlavnej aktivity <b>Podpora usporiadania pr&aacute;vnych vzťahov k pozemkom pod os&iacute;dlen&iacute;m MRK </b>a/alebo&nbsp;hlavnej aktivity<b> Podpora usporiadania pr&aacute;vnych vzťahov k pozemkom v&nbsp;roz&scaron;&iacute;renom os&iacute;dlen&iacute; MRK </b>za podmienok uveden&yacute;ch vo v&yacute;zve.</div><div>V&nbsp;pr&iacute;pade využitia in&scaron;tit&uacute;tu partnera sa podmienky poskytnutia pr&iacute;spevku vzťahuj&uacute;ce sa na žiadateľa, primerane vzťahuj&uacute; aj na partnera.</div><div>Ak je osoba konaj&uacute;ca v&nbsp;mene opr&aacute;vnen&eacute;ho žiadateľa odli&scaron;n&aacute; od&nbsp;&scaron;tatut&aacute;rneho org&aacute;nu žiadateľa, &nbsp;mus&iacute; byť riadne splnomocnen&aacute;, resp. poveren&aacute; na v&yacute;kon predmetn&yacute;ch &uacute;konov.</div><div><b><u>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</u></b></div><div>Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom:</div><ul><li><b>Formul&aacute;ra ŽoNFP</b>, vyplnen&iacute;m časti 1. <i>Identifik&aacute;cia žiadateľa</i>, časti 2. <i>Identifik&aacute;cia partnera</i> a časti&nbsp;4. <i>Komunik&aacute;cia vo veci žiadosti</i><b>;</b></li><li><b>Pr&iacute;lohy č. 1 ŽoNFP </b>&ndash; v&nbsp;pr&iacute;pade, ak &uacute;kony vo vzťahu k&nbsp;ŽoNFP vykon&aacute;va osoba splnomocnen&aacute; žiadateľom, žiadateľ predklad&aacute;:</li></ul><div style=\"margin-left:44.4pt\"><b>Plnomocenstvo </b>podľa z&aacute;v&auml;zn&eacute;ho vzoru zverejnen&eacute;ho v&nbsp;r&aacute;mci Pr&iacute;lohy č. 1 v&yacute;zvy - Formul&aacute;r ŽoNFP</div><div style=\"margin-left:44.4pt\"><b>alebo</b></div><div style=\"margin-left:44.4pt\"><b>P&iacute;somn&eacute; poverenie starostu obce<a href=\"#_ftn3\" name=\"_ftnref3\" title=\"\"><b>[3]</b></a></b></div><div>Bliž&scaron;ie inform&aacute;cie k pr&iacute;loh&aacute;m ŽoNFP s&uacute; uveden&eacute; v Pr&iacute;lohe č. 2 v&yacute;zvy - <b>Zoznam a popis povinn&yacute;ch pr&iacute;loh ŽoNFP</b>.</div><div><b><u>Sp&ocirc;sob overenia splnenia PPP zo strany poskytovateľa</u></b></div><div>Poskytovateľ overuje splnenie PPP prostredn&iacute;ctvom:</div><ul><li><b>Registra a identifik&aacute;tora pr&aacute;vnick&yacute;ch os&ocirc;b, podnikateľov a org&aacute;nov verejnej moci</b> <a href=\"https://rpo.statistics.sk/rpo/\">(</a><a href=\"https://rpo.statistics.sk/rpo/\">https://rpo.statistics.sk</a><a href=\"https://rpo.statistics.sk/rpo/\">)</a>, resp. in&yacute;ch verejn&yacute;ch registrov<a href=\"#_ftn4\" name=\"_ftnref4\" title=\"\">[4]</a>;</li></ul><ul><li><b>Formul&aacute;ra&nbsp; ŽoNFP;</b></li><li><b>Pr&iacute;lohy č. 1 ŽoNFP</b> <b>Plnomocenstvo/P&iacute;somn&eacute; poverenie starostu obce</b> (ak relevantn&eacute;);</li></ul><div><b><u>Overenie PPP/ukončenie uplatniteľnosti PPP</u></b></div><div>PPP sa overuje v konan&iacute; o žiadosti, a je potrebn&eacute; ju plniť až do skončenia doby udržateľnosti projektu v&nbsp;zmysle čl. 65 NSU<a href=\"#_ftn5\" name=\"_ftnref5\" title=\"\">[5]</a>, ak sa udržateľnosť na projekt nevzťahuje, do skončenia trvania Zmluvy o&nbsp;poskytnut&iacute; NFP<a href=\"#_ftn6\" name=\"_ftnref6\" title=\"\">[6]</a>.</div></div></div><div style=\"clear:both\">&nbsp;</div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Pre &uacute;čely tejto v&yacute;zvy sa pod pojmom obec, v pr&iacute;pade mesta Bratislava a&nbsp;mesta Ko&scaron;ice, rozumej&uacute; aj jednotliv&eacute; mestsk&eacute; časti, ktor&eacute; maj&uacute; vlastn&eacute; katastr&aacute;lne &uacute;zemie v&nbsp;rozsahu zverenom z&aacute;konom&nbsp; č. 401/1990 Zb. o&nbsp;meste Ko&scaron;ice v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov alebo&nbsp;z&aacute;konom č. 377/1990 Zb. o hlavnom meste Slovenskej republiky Bratislave v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov a &scaron;tat&uacute;tom. &nbsp;</div></div><div id=\"ftn2\"><div><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> ARK je zverejnen&yacute; na webovom s&iacute;dle Splnomocnenca vl&aacute;dy SR pre r&oacute;mske komunity.</div></div><div id=\"ftn3\"><div><a href=\"#_ftnref3\" name=\"_ftn3\" title=\"\">[3]</a> V zmysle &sect; 13b z&aacute;kona č. 369/1990 Zb. o obecnom zriaden&iacute; v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov.</div></div><div id=\"ftn4\"><div><a href=\"#_ftnref4\" name=\"_ftn4\" title=\"\">[4]</a> Napr. <a href=\"https://oversi.gov.sk/\">https://oversi.gov.sk/</a></div></div><div id=\"ftn5\"><div><a href=\"#_ftnref5\" name=\"_ftn5\" title=\"\">[5]</a> NSU - Nariadenie Eur&oacute;pskeho parlamentu a&nbsp;Rady (E&Uacute;) 2021/1060 z 24. j&uacute;na 2021, ktor&yacute;m sa stanovuj&uacute; spoločn&eacute; ustanovenia o Eur&oacute;pskom fonde region&aacute;lneho rozvoja, Eur&oacute;pskom soci&aacute;lnom fonde plus, Koh&eacute;znom fonde, Fonde na spravodliv&uacute; transform&aacute;ciu a Eur&oacute;pskom n&aacute;mornom, rybolovnom a akvakult&uacute;rnom fonde a rozpočtov&eacute; pravidl&aacute; pre uveden&eacute; fondy, ako aj pre Fond pre azyl, migr&aacute;ciu a integr&aacute;ciu, Fond pre vn&uacute;torn&uacute; bezpečnosť a N&aacute;stroj finančnej podpory na riadenie hran&iacute;c a v&iacute;zov&uacute; politiku (ďalej len &bdquo;NSU&ldquo;)</div></div><div id=\"ftn6\"><div><a href=\"#_ftnref6\" name=\"_ftn6\" title=\"\">[6]</a> Slovn&eacute; spojenie &bdquo;skončenie trvania Zmluvy o&nbsp;poskytnut&iacute; NFP&ldquo; <u>nezahŕňa</u> v&yacute;nimky podľa čl. 5 ods. 5.2 Zmluvy o poskytnut&iacute; NFP pre niektor&eacute; čl&aacute;nky Zmluvy, ktor&eacute; maj&uacute; osobitne stanoven&uacute; &uacute;činnosť. Uveden&eacute; sa uv&aacute;dza z&nbsp;d&ocirc;vodu, aby bola vyl&uacute;čen&aacute; nejednoznačnosť určenia, dokedy sa m&aacute; predmetn&aacute; podmienka poskytnutia pr&iacute;spevku uplatniť.</div><div>&nbsp;</div></div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Formulár ŽoNFP",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Plnomocenstvo",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 6,
+   "nazovSk": "Súlad projektu s princípmi desegregácie, degetoizácie a destigmatizácieSúlad projektu s princípmi desegregácie, degetoizácie a destigmatizácie",
+   "popisSk": "<div><div><div><div>Projekt mus&iacute; byť v&nbsp;s&uacute;lade a&nbsp;princ&iacute;pmi desegreg&aacute;cie, degetoiz&aacute;cie a&nbsp;destigmatiz&aacute;cie.</div><div>Defin&iacute;cia princ&iacute;pov, ako aj podmienky, ktor&eacute; mus&iacute; projekt spĺňať, aby bol v&nbsp;s&uacute;lade s&nbsp;princ&iacute;pmi desegreg&aacute;cie, degetoiz&aacute;cie a&nbsp;destigmatiz&aacute;cie a&nbsp;aby bola ŽoNFP v&nbsp;r&aacute;mci administrat&iacute;vneho overovania vyhodnoten&aacute; kladne, s&uacute; uveden&eacute; v&nbsp;pr&iacute;lohe č. 5 v&yacute;zvy - <b>Podmienky s&uacute;ladu projektu s&nbsp;princ&iacute;pmi desegreg&aacute;cie, degetoiz&aacute;cie a&nbsp;destigmatiz&aacute;cie.</b></div><div><b><u>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</u></b></div><div>Žiadateľ za &uacute;čelom pos&uacute;denia splnenia tejto PPP predklad&aacute;:</div><ul><li><b>Formul&aacute;r ŽoNFP, </b>v r&aacute;mci ktor&eacute;ho uvedie inform&aacute;cie v častiach 7.</li></ul><div><i>Popis projektu;</i></div><ul><li><b>Pr&iacute;lohu č. 8 ŽoNFP</b> &ndash; <b>Situačn&yacute; n&aacute;kres </b></li></ul><div>Bliž&scaron;ie inform&aacute;cie k pr&iacute;loh&aacute;m ŽoNFP, ako aj sp&ocirc;sob ich predloženia s&uacute; uveden&eacute; v r&aacute;mci Pr&iacute;lohy č. 2 v&yacute;zvy <b>Zoznam a popis povinn&yacute;ch pr&iacute;loh ŽoNFP</b>.</div><div><b><u>Sp&ocirc;sob overenia splnenia PPP zo strany poskytovateľa</u></b></div><div>Poskytovateľ overuje splnenie PPP prostredn&iacute;ctvom inform&aacute;ci&iacute; uveden&yacute;ch v/vo:</div><ul><li><b>Formul&aacute;ri&nbsp; ŽoNFP</b>, v častiach 7. <i>Popis projektu</i></li><li><b>Pr&iacute;lohe č. 8 ŽoNFP &ndash; Situačn&yacute; n&aacute;kres </b></li></ul><div><b><u>Overenie PPP/ukončenie uplatniteľnosti PPP</u></b></div><div>PPP sa overuje v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť až do skončenia doby udržateľnosti projektu v&nbsp;zmysle čl. 65 NSU, ak sa udržateľnosť na projekt nevzťahuje, do skončenia trvania Zmluvy o&nbsp;poskytnut&iacute; NFP.</div></div></div><div style=\"clear:both\">&nbsp;</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Formulár ŽoNFP – (tabuľka č. 7 -  Popis projektu)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Prílohy definované RO/SO",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "Podmienka zákazu vedenia výkonu rozhodnutia voči žiadateľovi/partnerovi",
+   "popisSk": "<div><div><div><div><div><div><div>Voči žiadateľovi/partnerovi nesmie byť vykon&aacute;van&aacute; exek&uacute;cia podľa Exekučn&eacute;ho poriadku<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a> (s v&yacute;nimkou exek&uacute;cie, ktorej v&yacute;kon je odložen&yacute; zložen&iacute;m z&aacute;bezpeky podľa Exekučn&eacute;ho poriadku), ani veden&yacute; in&yacute; v&yacute;kon rozhodnutia podľa osobitn&yacute;ch predpisov, ktor&eacute;ho predmetom je n&uacute;ten&yacute; v&yacute;kon povinnosti zaplatiť peňažn&uacute; sumu vo v&yacute;&scaron;ke vym&aacute;han&eacute;ho n&aacute;roku, vr&aacute;tane v&scaron;etk&yacute;ch trov s&uacute;visiacich s v&yacute;konom rozhodnutia za v&scaron;etky takto vykon&aacute;van&eacute; exek&uacute;cie alebo in&eacute; v&yacute;kony rozhodnutia vy&scaron;&scaron;ej ako 1&nbsp; % NFP požadovan&eacute;ho žiadateľom v podanej ŽoNFP.</div><div>Voči žiadateľovi/partnerovi tiež nesmie byť veden&yacute; v&yacute;kon rozhodnutia na plnenie inej povinnosti, ktor&aacute; nespoč&iacute;va v zaplaten&iacute; peňažnej sumy, pokiaľ t&aacute;to nepeňažn&aacute; povinnosť akokoľvek priamo alebo nepriamo s&uacute;vis&iacute; s projektom, ktor&yacute; je predmetom podanej ŽoNFP žiadateľa.</div><div>V pr&iacute;pade, ak celkov&aacute; s&uacute;hrnn&aacute; v&yacute;&scaron;ka vym&aacute;han&eacute;ho n&aacute;roku za v&scaron;etky exek&uacute;cie<a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\"><sup><sup>[2]</sup></sup></a> alebo in&eacute; v&yacute;kony rozhodnutia presiahla sumu 1&nbsp; % NFP požadovan&eacute;ho žiadateľom v podanej ŽoNFP, je pre &uacute;čely pos&uacute;denia tejto podmienky rozhoduj&uacute;ca skutočnosť, či dlžn&aacute; suma a v&scaron;etky trovy s&uacute;visiace s v&yacute;konom rozhodnutia boli uhraden&eacute;<a href=\"#_ftn3\" name=\"_ftnref3\" title=\"\"><sup><sup>[3]</sup></sup></a>, resp. bola dlžn&aacute; suma a v&yacute;&scaron;ka v&scaron;etk&yacute;ch trov exek&uacute;cie zložen&eacute; do z&aacute;bezpeky v celkovej v&yacute;&scaron;ke vym&aacute;han&eacute;ho n&aacute;roku, na osobitn&yacute; &uacute;čet exek&uacute;tora, zriaden&yacute; na tento &uacute;čel podľa Exekučn&eacute;ho poriadku.</div><div>V&yacute;&scaron;ka n&aacute;roku uhradenej exek&uacute;cie alebo odložen&eacute;ho v&yacute;konu exek&uacute;cie sa nezapoč&iacute;tava do celkovej v&yacute;&scaron;ky vym&aacute;han&eacute;ho n&aacute;roku 1 % zo žiadan&eacute;ho NFP.</div><div>Uveden&aacute; PPP sa net&yacute;ka v&yacute;konu rozhodnutia voči členom riadiacich a&nbsp;dozorn&yacute;ch org&aacute;nov žiadateľa/partnera, ale je relevantn&aacute; vo vzťahu k subjektu žiadateľa/partnera.</div><div>Na &uacute;čely tejto PPP sa za začatie vedenia v&yacute;konu rozhodnutia považuje doručenie poverenia na vykonanie exek&uacute;cie exek&uacute;torovi, resp. in&aacute; skutočnosť určuj&uacute;ca začiatok v&yacute;konu rozhodnutia podľa osobitn&eacute;ho predpisu (napr. vydanie rozhodnutia o začat&iacute; daňov&eacute;ho alebo coln&eacute;ho exekučn&eacute;ho konania).</div><div>V pr&iacute;pade exek&uacute;cie, ktorej v&yacute;kon je odložen&yacute; zložen&iacute;m z&aacute;bezpeky v&nbsp;hodnote s&uacute;hrnn&eacute;ho vym&aacute;han&eacute;ho n&aacute;roku na osobitn&yacute; &uacute;čet exek&uacute;tora zriaden&yacute; na tento &uacute;čel podľa Exekučn&eacute;ho poriadku, je Poskytovateľ v&nbsp;pr&iacute;pade pochybnost&iacute; opr&aacute;vnen&yacute; vyžiadať si od žiadateľa aj doklad (najm&auml; &uacute;radn&yacute; z&aacute;znam) o zložen&iacute; z&aacute;bezpeky v hodnote s&uacute;hrnn&eacute;ho vym&aacute;han&eacute;ho n&aacute;roku na osobitn&yacute; &uacute;čet exek&uacute;tora, ktor&yacute; obsahuje v&yacute;&scaron;ku z&aacute;bezpeky a dĺžku jej trvania.</div><div><b><u>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</u></b></div><div>Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom:</div><ul><li><b>Formul&aacute;ra ŽoNFP</b>, vyplnen&iacute;m časti 15 <i>Čestn&eacute; vyhl&aacute;senie žiadateľa</i></li><li><b>Pr&iacute;lohy č.</b> <b>3 ŽoNFP</b> &ndash; <b>S&uacute;hrnn&eacute; čestn&eacute; vyhl&aacute;senie partnera žiadateľa</b> - predklad&aacute; sa iba v&nbsp;pr&iacute;pade uplatnenia partnera na projekte;</li><li><b>Pr&iacute;lohy č. 4 ŽoNFP &ndash; Upovedomenie o&nbsp;odklade exek&uacute;cie &nbsp;- </b>v&nbsp;pr&iacute;pade, ak je v&yacute;kon exek&uacute;cie odložen&yacute; zložen&iacute;m z&aacute;bezpeky v&nbsp;celkovej v&yacute;&scaron;ke vym&aacute;han&eacute;ho n&aacute;roku na osobitn&yacute; &uacute;čet exek&uacute;tora (vydan&yacute; exek&uacute;torom) (ak&nbsp;relevantn&eacute;).</li></ul><div>Bliž&scaron;ie inform&aacute;cie k&nbsp;pr&iacute;loh&aacute;m ŽoNFP, ako aj sp&ocirc;sob ich predloženia s&uacute; uveden&eacute; v&nbsp;r&aacute;mci Pr&iacute;lohy č. 2 v&yacute;zvy <b>Zoznam a&nbsp;popis povinn&yacute;ch pr&iacute;loh ŽoNFP</b>.</div><div><b><u>Sp&ocirc;sob overenia splnenia PPP zo strany poskytovateľa</u></b></div><div>Poskytovateľ overuje splnenie PPP prostredn&iacute;ctvom:</div><ul><li><b>Centr&aacute;lneho registra exek&uacute;ci&iacute;</b>, ktor&yacute; je verejne dostupn&yacute; na <a href=\"https://cre.sk/\">https://cre.sk</a>, resp. prostredn&iacute;ctvom informačn&eacute;ho syst&eacute;mu verejnej spr&aacute;vy OverSi na www.oversi.gov.sk</li><li><b>Formul&aacute;ra ŽoNFP;</b></li><li><b>Pr&iacute;lohy č.</b> <b>3 ŽoNFP</b> &ndash; <b>S&uacute;hrnn&eacute; čestn&eacute; vyhl&aacute;senie partnera žiadateľa </b>(ak relevantn&eacute;);</li><li><b>Pr&iacute;lohy č. 4 ŽoNFP &ndash; Upovedomenie o&nbsp;odklade exek&uacute;cie </b>(ak relevantn&eacute;).</li></ul><div><b><u>Overenie PPP/ukončenie uplatniteľnosti PPP</u></b></div><div>PPP sa overuje v konan&iacute; o žiadosti &nbsp;a je potrebn&eacute; ju plniť až do skončenia doby udržateľnosti projektu v zmysle čl. 65 NSU, ak sa udržateľnosť na projekt nevzťahuje, do skončenia trvania Zmluvy o poskytnut&iacute; NFP.</div><div>V&nbsp;čase implement&aacute;cie projektu je možn&eacute; uplatniť preru&scaron;enie plnenia danej podmienky s&nbsp;t&yacute;m, že prij&iacute;mateľ je povinn&yacute; podmienku op&auml;ť začať plniť v&nbsp;term&iacute;ne stanovenom poskytovateľom &ndash; ak k&nbsp;op&auml;tovn&eacute;mu plneniu podmienky d&ocirc;jde tak, že dočasn&eacute; neplnenie nesp&ocirc;sob&iacute; ohrozenie cieľov projektu, podmienka sa nepovažuje za poru&scaron;en&uacute; (t.j. nie je potrebn&eacute; postupovať v zmysle čl. 65 NSU).</div></div></div><div style=\"clear:both\">&nbsp;</div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Z&aacute;kon č. 233/1995 Z. z. o s&uacute;dnych exek&uacute;toroch a exekučnej činnosti (Exekučn&yacute; poriadok) a o zmene a doplnen&iacute; ďal&scaron;&iacute;ch z&aacute;konov v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov.</div></div><div id=\"ftn2\"><div><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> Veden&eacute; podľa z&aacute;k. č. 233/1995 Z. z. o s&uacute;dnych exek&uacute;toroch a exekučnej činnosti (Exekučn&yacute; poriadok) a o zmene a doplnen&iacute; ďal&scaron;&iacute;ch z&aacute;konov v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov.</div></div><div id=\"ftn3\"><div><a href=\"#_ftnref3\" name=\"_ftn3\" title=\"\">[3]</a> V pr&iacute;pade, ak ide o exekučn&eacute; konania začat&eacute; pred 01.04.2017, podmienka &uacute;hrady trov s&uacute;visiacich s v&yacute;konom rozhodnutia nie je relevantn&aacute; v pr&iacute;pade, ak ide o exek&uacute;cie, od vykonania ktor&yacute;ch sa up&uacute;&scaron;ťa.</div></div></div></div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Formulár ŽoNFP (tabuľka č. 15 - Čestné vyhlásenie žiadateľa)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Súhrnné čestné vyhlásenie partnera žiadateľa",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Upovedomenie o odklade exekúcie",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "Podmienka oprávnenosti cieľovej skupiny",
+   "popisSk": "<div><div>Aktivity projektu s&uacute; zameran&eacute; na cieľov&eacute; skupiny, v prospech ktor&yacute;ch m&aacute; byť projekt realizovan&yacute;. V s&uacute;lade so &scaron;pecifick&yacute;m cieľom ESO4.10 Podpora soci&aacute;lno-ekonomickej integr&aacute;cie marginalizovan&yacute;ch komun&iacute;t, ako s&uacute; napr&iacute;klad R&oacute;movia&nbsp; s&uacute; opr&aacute;vnen&yacute;mi cieľov&yacute;mi skupinami:</div><div style=\"margin-left:36.0pt\">&bull;obyvatelia MRK;</div><div style=\"margin-left:36.0pt\">&bull;obyvatelia v s&iacute;dlach s pr&iacute;tomnosťou MRK.</div><div><b><u>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</u></b></div><div>Žiadateľ za &uacute;čelom pos&uacute;denia splnenia tejto PPP predklad&aacute; <b>Formul&aacute;r ŽoNFP</b>, v r&aacute;mci ktor&eacute;ho uvedie inform&aacute;cie v časti 8. <i>Popis cieľovej skupiny.</i></div><div><b><u>Sp&ocirc;sob overenia splnenia PPP zo strany poskytovateľa</u></b></div><div>Poskytovateľ overuje splnenie PPP prostredn&iacute;ctvom inform&aacute;ci&iacute; uveden&yacute;ch vo <b>Formul&aacute;ri&nbsp; ŽoNFP</b>, časť&nbsp; 8. <i>Popis cieľovej skupiny</i>.</div><div><b><u>Overenie PPP/ukončenie uplatniteľnosti PPP</u></b></div>PPP sa overuje v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť až do skončenia doby udržateľnosti projektu v&nbsp;zmysle čl. 65 NSU, ak sa udržateľnosť na projekt nevzťahuje, do skončenia trvania Zmluvy o&nbsp;poskytnut&iacute; NFP.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Formulár ŽoNFP",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "Podmienka, že hlavné aktivity projektu sú oprávnené",
+   "popisSk": "<div><div><div><div><div><div><div>Hlavn&eacute; aktivity projektu musia byť vo vecnom s&uacute;lade s&nbsp;typom akcie Programu Slovensko 2021-2027 na realiz&aacute;ciu ktorej je vyhl&aacute;sen&aacute; t&aacute;to v&yacute;zva.</div><div>V&nbsp;r&aacute;mci &scaron;pecifick&eacute;ho cieľa ESO4.10. Podpora soci&aacute;lno-ekonomickej integr&aacute;cie marginalizovan&yacute;ch komun&iacute;t, ako s&uacute; napr&iacute;klad R&oacute;movia (ESF+) je pre t&uacute;to v&yacute;zvu opr&aacute;vnen&yacute; typ akcie:</div><div>,,<b>Poskytovanie pr&aacute;vnej, konzultačnej a koordinačnej podpory obciam<br />s pr&iacute;tomnosťou MRK v procese vysporiadania pozemkov a&nbsp;legaliz&aacute;cie obydl&iacute; vr&aacute;tane jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav&ldquo;</b></div><div>Aktivity projektu prispievaj&uacute; k&nbsp;plneniu z&aacute;kladnej podmienky Programu Slovensko 2021-2027 &nbsp;definovanej v <a href=\"https://www.romovia.vlada.gov.sk/strategie/\">Strat&eacute;gii rovnosti, inkl&uacute;zie a particip&aacute;cie R&oacute;mov do roku 2030</a> (ďalej len Strat&eacute;gia) a&nbsp;v&nbsp;Akčnom pl&aacute;ne k Strat&eacute;gi&iacute;,<br />v oblasti b&yacute;vania.</div><div>Hlavn&eacute; aktivity projektu:</div><ol><li><b>Podpora&nbsp;usporiadania pr&aacute;vnych vzťahov k pozemkom pod &nbsp;os&iacute;dlen&iacute;m MRK </b></li><li><b>Podpora usporiadania pr&aacute;vnych vzťahov k&nbsp;pozemkom v&nbsp;roz&scaron;&iacute;renom os&iacute;dlen&iacute; MRK</b></li><li><b>Podpora usporiadania pr&aacute;vnych vzťahov k pozemkom mimo os&iacute;dlenia MRK </b></li><li><b>Vykonanie projektu jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav</b></li></ol><div>&nbsp;</div><div>Realiz&aacute;cia hlavn&yacute;ch aktiv&iacute;t projektu mus&iacute; byť vykon&aacute;van&aacute; <b>formou jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav</b> podľa z&aacute;kona č. 330/1991 Zb.<br />o pozemkov&yacute;ch &uacute;prav&aacute;ch, usporiadan&iacute; pozemkov&eacute;ho vlastn&iacute;ctva, pozemkov&yacute;ch &uacute;radoch, pozemkovom fonde a o pozemkov&yacute;ch spoločenstv&aacute;ch v znen&iacute; neskor&scaron;&iacute;ch predpisov (ďalej len &bdquo;z&aacute;kon<br />o pozemkov&yacute;ch &uacute;prav&aacute;ch&ldquo;)<b>.</b></div><div><b>Os&iacute;dlen&iacute;m MRK </b>sa na &uacute;čely tejto v&yacute;zvy rozumie os&iacute;dlenie<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a> v&nbsp;zmysle &sect; 2 ods. 5 z&aacute;kona o&nbsp;pozemkov&yacute;ch &uacute;prav&aacute;ch.</div><div><b><u>Podpora usporiadania pr&aacute;vnych vzťahov k&nbsp;pozemkom pod v&nbsp;os&iacute;dlen&iacute;m MRK (ďalej len &bdquo;HAP 1&ldquo;)</u></b></div><div>Podpora v&nbsp;r&aacute;mci&nbsp; HAP 1&nbsp; je zameran&aacute; na:</div><ol><li>usporiadanie vlastn&iacute;ckych a&nbsp;už&iacute;vac&iacute;ch pomerov k&nbsp;pozemkom, ktor&eacute; sa nach&aacute;dzaj&uacute; pod os&iacute;dleniami MRK (<b>obvod I. typu </b>)</li><li>činnosť konzultanta JP&Uacute;</li></ol><div>Opr&aacute;vnen&yacute;m sp&ocirc;sobom realiz&aacute;cie HAP 1 pod p&iacute;sm. a) je vykonanie jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav z&nbsp;d&ocirc;vodu podľa &sect; 2 ods. 1 p&iacute;sm. j) z&aacute;kona o pozemkov&yacute;ch &uacute;prav&aacute;ch, ak je to potrebn&eacute; na usporiadanie vlastn&iacute;ckych<br />a už&iacute;vac&iacute;ch pomerov k pozemkom, ktor&eacute; sa nach&aacute;dzaj&uacute; pod os&iacute;dleniami MRK.</div><div><b><u>Podpora usporiadania pr&aacute;vnych vzťahov k pozemkom v&nbsp;roz&scaron;&iacute;renom os&iacute;dlen&iacute; MRK (ďalej len &bdquo;HAP 2&ldquo;)</u></b></div><div>Podpora v&nbsp;r&aacute;mci&nbsp; HAP 2 je zameran&aacute; na:</div><ol><li>usporiadanie vlastn&iacute;ckych a&nbsp;už&iacute;vac&iacute;ch pomerov k&nbsp;pozemkom priamo nadv&auml;zuj&uacute;cim na os&iacute;dlenie MRK,&nbsp; vzhľadom na ich bud&uacute;ce využitie na in&eacute; &uacute;čely ako je hospod&aacute;renie na p&ocirc;de (<b>obvod II. typu</b>)</li></ol><ol><li value=\"2\">činnosť konzultanta JP&Uacute;</li></ol><div>Opr&aacute;vnen&yacute;m sp&ocirc;sobom realiz&aacute;cie HAP 2 pod p&iacute;sm. a) je vykonanie jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav z&nbsp;d&ocirc;vodu podľa &sect; 2 ods. 1 p&iacute;sm. h) z&aacute;kona o&nbsp;pozemkov&yacute;ch &uacute;prav&aacute;ch, ak je potrebn&eacute; usporiadať pozemky vzhľadom na ich bud&uacute;ce použitie na in&eacute; &uacute;čely, ako je hospod&aacute;renie na p&ocirc;de.</div><div>Realiz&aacute;cia aktiv&iacute;t v roz&scaron;&iacute;renom os&iacute;dlen&iacute; (obvod II. typu) je opr&aacute;vnen&aacute; len za predpokladu usporiadania vlastn&iacute;ckych a už&iacute;vac&iacute;ch pomerov k pozemkom za &uacute;čelom bud&uacute;cej z&aacute;stavby a roz&scaron;&iacute;renia obytnej z&oacute;ny, ktor&aacute; bude spojen&aacute;<br />s existuj&uacute;cim os&iacute;dlen&iacute;m MRK, pr&iacute;padne za &uacute;čelom realiz&aacute;cie inžinierskych siet&iacute; a&nbsp;pod., t. j.&nbsp;aktivity, ktor&eacute; maj&uacute; pozit&iacute;vny vplyv na kvalitu života<br />a podporu inkl&uacute;zie MRK.</div><div>Realiz&aacute;cia HAP 2 nie je podmienen&aacute; realiz&aacute;ciou HAP 1. V&nbsp;pr&iacute;pade, ak žiadateľ bude realizovať HAP 2 bez realiz&aacute;cie HAP 1, uveden&eacute; n&aacute;ležit&eacute; zd&ocirc;vodn&iacute; v&nbsp;časti 7 Formul&aacute;ru ŽoNFP.</div><div><b><u>Podpora usporiadania pr&aacute;vnych vzťahov k pozemkom mimo os&iacute;dlenia MRK (ďalej len &bdquo; HAP 3&ldquo;)</u></b></div><div>Podpora v&nbsp;r&aacute;mci&nbsp; HAP 3 je zameran&aacute; na:</div><ol><li>usporiadanie vlastn&iacute;ckych a už&iacute;vac&iacute;ch pomerov k pozemkom v&nbsp;novo navrhovan&yacute;ch lokalit&aacute;ch bez priamej nadv&auml;znosti na existuj&uacute;ce os&iacute;dlenie MRK, vzhľadom na ich bud&uacute;ce použitie na in&eacute; &uacute;čely ako je hospod&aacute;renie na p&ocirc;de (<b>obvod III. typu</b>)</li><li>činnosť konzultanta JP&Uacute;</li></ol><div>Opr&aacute;vnen&yacute;m sp&ocirc;sobom realiz&aacute;cie HAP 3 pod p&iacute;sm. a) je vykonanie jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav z&nbsp;d&ocirc;vodu podľa &sect; 2 ods. 1 p&iacute;sm. h) z&aacute;kona o&nbsp;pozemkov&yacute;ch &uacute;prav&aacute;ch, ak je potrebn&eacute; usporiadať pozemky vzhľadom na ich bud&uacute;ce použitie na in&eacute; &uacute;čely, ako je hospod&aacute;renie na p&ocirc;de.</div><div>JP&Uacute; v novo navrhovan&yacute;ch lokalit&aacute;ch bez priamej nadv&auml;znosti na existuj&uacute;ce os&iacute;dlenie MRK m&ocirc;žu byť predmetom podpory len v pr&iacute;pade realiz&aacute;cie JP&Uacute;&nbsp; za&nbsp; &uacute;čelom invest&iacute;ci&iacute; zameran&yacute;ch na podporu inkl&uacute;zie MRK.</div><div>Realiz&aacute;cia HAP 3 nie je podmienen&aacute; realiz&aacute;ciou HAP 1. V&nbsp;pr&iacute;pade, ak žiadateľ bude realizovať HAP 3 bez realiz&aacute;cie HAP 1, uveden&eacute; n&aacute;ležit&eacute; zd&ocirc;vodn&iacute; v&nbsp;časti 7 Formul&aacute;ru ŽoNFP.</div><div><b><u>Vykonanie projektu jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav (ďalej len &bdquo; HAP 4&ldquo;)</u></b></div><div>Podmienkou realiz&aacute;cie HAP 4 je &uacute;spe&scaron;n&eacute; ukončenie projektu v&nbsp;r&aacute;mci v&yacute;zvy OPLZ-PO5-2020-4<a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\">[2]</a>, t. j. ukončenie 2. f&aacute;zy projektu JP&Uacute; v&nbsp;s&uacute;lade s&nbsp;podmienkami v&yacute;zvy OPLZ-PO5-2020-4.</div><div>Realiz&aacute;cia HAP 4 predstavuje 3. f&aacute;zu realiz&aacute;cie projektu JP&Uacute;, ktorou je vykonanie projektu JP&Uacute;.</div><div><b>Predmetom jednej ŽoNFP m&ocirc;že byť jedna alebo viacero hlavn&yacute;ch aktiv&iacute;t.</b></div><div>Konanie o&nbsp;jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav&aacute;ch v&nbsp;každom obvode je samostatn&yacute;m spr&aacute;vnym konan&iacute;m na okresnom &uacute;rade, pozemkov&yacute; a&nbsp;lesn&yacute; odbor, ktor&eacute; je nez&aacute;visl&eacute; od konania o&nbsp;ŽoNFP, pričom jedno konanie o&nbsp;JP&Uacute; na okresnom &uacute;rade, pozemkov&yacute; a&nbsp;lesn&yacute; odbor &uacute;rade zodpoved&aacute; jednej HAP.</div><div><b>Činnosť konzultanta JP&Uacute;</b> je opr&aacute;vnen&aacute; len v&nbsp;r&aacute;mci realiz&aacute;cie HAP 1, HAP 2 a&nbsp;HAP 3, a to po podan&iacute; žiadosti o povolenie JP&Uacute; na pr&iacute;slu&scaron;n&yacute; okresn&yacute; &uacute;rad, pozemkov&yacute; a&nbsp;lesn&yacute; odbor až do začatia realiz&aacute;cie činnosti projektanta JP&Uacute; na z&aacute;klade zmluvy o&nbsp;poskytnut&iacute; služieb/zmluvy o dielo, predmetom, ktorej je spracovanie a&nbsp;vykonanie projektu JP&Uacute;. Činnosť konzultanta JP&Uacute;&nbsp;je bliž&scaron;ie vymedzen&aacute; v&nbsp;pr&iacute;lohe č. 4 v&yacute;zvy <i>Zoznam opr&aacute;vnen&yacute;ch v&yacute;davkov</i>.</div><div><b>Osobitn&eacute; podmienky realiz&aacute;cie HAP 1 a HAP 2, ak sa časť obvodu I. typu a/alebo časť obvodu II. typu nach&aacute;dza <u>mimo katastr&aacute;lneho &uacute;zemia žiadateľa,</u> t. j. na &uacute;zem&iacute; viacer&yacute;ch obc&iacute; a&nbsp;žiadateľ zahrnul toto &uacute;zemie do ŽoNFP ako opr&aacute;vnen&yacute; v&yacute;davok projektu:</b></div><div><b>Alternat&iacute;va A</b></div><ul><li>dotknut&aacute; susediaca obec<a href=\"#_ftn3\" name=\"_ftnref3\" title=\"\">[3]</a> <b>je partnerom žiadateľa</b></li><li>žiadateľ predklad&aacute; uznesenie obecn&eacute;ho zastupiteľstva dotknutej susediacej obce, ktor&yacute;m obecn&eacute; zastupiteľstvo s&uacute;hlas&iacute; s&nbsp;usporiadan&iacute;m vlastn&iacute;ckych a&nbsp;už&iacute;vac&iacute;ch pomerov k&nbsp;pozemkom v&nbsp;os&iacute;dlen&iacute; MRK (obvod I. typu), resp. v&nbsp;roz&scaron;&iacute;ren&iacute; os&iacute;dlenia (obvod II. typu);</li><li>v&yacute;sledkom konania o&nbsp;JP&Uacute; sa dosiahne stav, kedy vlastn&iacute;kom dotknut&yacute;ch pozemkov v&nbsp;obvode I. typu, resp. v&nbsp;obvode II. typu sa stane obec, na &uacute;zem&iacute; ktorej sa nach&aacute;dza časť os&iacute;dlenia MRK, resp. časť roz&scaron;&iacute;renia os&iacute;dlenia MRK.</li></ul><div><b>Alternat&iacute;va B</b></div><ul><li>dotknut&aacute; susediaca obec<a href=\"#_ftn4\" name=\"_ftnref4\" title=\"\">[4]</a> <b>nie je partnerom žiadateľa</b></li><li>žiadateľ predklad&aacute; uznesenie obecn&eacute;ho zastupiteľstva dotknutej susediacej obce, ktor&yacute;m obecn&eacute; zastupiteľstvo s&uacute;hlas&iacute; s&nbsp;usporiadan&iacute;m vlastn&iacute;ckych a&nbsp;už&iacute;vac&iacute;ch pomerov k&nbsp;pozemkom v&nbsp;os&iacute;dlen&iacute; MRK (obvod I. typu), resp. v&nbsp;roz&scaron;&iacute;ren&iacute; os&iacute;dlenia (obvod II. typu)</li><li>v&yacute;sledkom konania o&nbsp;JP&Uacute; sa dosiahne stav, kedy vlastn&iacute;kom dotknut&yacute;ch pozemkov v&nbsp;obvode I. typu, resp. v&nbsp;obvode II. typu sa stane žiadateľ v d&ocirc;sledku zmeny katastr&aacute;lneho &uacute;zemia obce, v&nbsp;opačnom pr&iacute;pade bud&uacute; v&yacute;davky pripadaj&uacute;ce na časť &uacute;zemia susediacej obce neopr&aacute;vnen&yacute;m v&yacute;davkom projektu.</li></ul><div>Alternat&iacute;vy A&nbsp;a&nbsp;B sa m&ocirc;žu v&nbsp;ŽoNFP kombinovať.</div><div><b>Podrobnej&scaron;&iacute; opis aktiv&iacute;t s uveden&iacute;m et&aacute;p konania o JP&Uacute; je &scaron;pecifikovan&yacute; v pr&iacute;lohe č. 4 V&yacute;zvy - <i>Zoznam opr&aacute;vnen&yacute;ch v&yacute;davkov</i>.</b></div><div><b><u>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</u></b></div><div>Žiadateľ za &uacute;čelom pos&uacute;denia splnenia tejto PPP predklad&aacute;:</div><ul><li><b>Formul&aacute;r ŽoNFP</b>, vyplnen&iacute;m časti 7. <i>Popis projektu</i>, časti 9. H<i>armonogram realiz&aacute;cie aktiv&iacute;t, 10.1 Aktivity projektu a&nbsp;očak&aacute;van&eacute; merateľn&eacute; ukazovatele a&nbsp;10.2 Prehľad merateľn&yacute;ch ukazovateľov projektu </i></li><li><b>Pr&iacute;lohu č. 3 ŽoNFP - S&uacute;hrnn&eacute; čestn&eacute; vyhl&aacute;senie partnera žiadateľa </b>(ak relevantn&eacute;);</li><li><b>Pr&iacute;lohu č. 6 ŽoNFP <i>- </i>Rozpočet projektu </b>(podľa z&aacute;v&auml;zn&eacute;ho formul&aacute;ra);</li><li><b>Pr&iacute;lohu č. 5 ŽoNFP - Uznesenie (v&yacute;pis z&nbsp;uznesenia) obecn&eacute;ho zastupiteľstva dotknutej susediacej obce (ak relevantn&eacute;);</b></li><li><b>Pr&iacute;lohu č. 8</b> <b>ŽoNFP</b> - <b>Situačn&yacute; n&aacute;kres; </b></li><li><b>Pr&iacute;lohu č. 2 ŽoNFP &ndash; Uznesenie (v&yacute;pis z&nbsp;uznesenia) obecn&eacute;ho zastupiteľstva žiadateľa</b></li></ul><div style=\"margin-left:37.3pt\">Ak s&uacute; tieto uznesenia (Pr&iacute;loha č. 2 ŽoNFP a&nbsp;Pr&iacute;loha č. 5 ŽoNFP) zverejnen&eacute; na webovom s&iacute;dle obce/obc&iacute;, žiadateľ pr&iacute;lohy nepredklad&aacute; a preuk&aacute;že splnenie PPP prostredn&iacute;ctvom <b>Formul&aacute;ra ŽoNFP, časti 7, kde uvedie </b>funkčn&yacute; odkaz na webov&eacute; s&iacute;dlo obce/obc&iacute;, kde je zverejnen&eacute;:</div><ul><li>uznesenie (v&yacute;pis uznesenia) obecn&eacute;ho zastupiteľstva, ktor&yacute;m obecn&eacute; zastupiteľstvo žiadateľa a dotknutej susediacej obce (ak relevantn&eacute;)&nbsp;s&uacute;hlas&iacute; s&nbsp;realiz&aacute;ciou&nbsp;projektu v zmysle predloženej ŽoNFP</li><li>&nbsp;</li><li>uznesenie (v&yacute;pis z&nbsp;uznesenia) obecn&eacute;ho zastupiteľstva žiadateľa a&nbsp;dotknutej susediacej obce (ak relevantn&eacute;), ktor&eacute; bude žiadateľ/dotknut&aacute; susediaca obec predkladať okresn&eacute;mu &uacute;radu, pozemkov&yacute; a lesn&yacute; odbor za &uacute;čelom vydania rozhodnutia o povolen&iacute; JP&Uacute;,</li></ul><div>Bliž&scaron;ie inform&aacute;cie k pr&iacute;loh&aacute;m ŽoNFP, ako aj sp&ocirc;sob ich predloženia s&uacute; uveden&eacute; v r&aacute;mci Pr&iacute;lohy č. 2 v&yacute;zvy <b>Zoznam a popis povinn&yacute;ch pr&iacute;loh ŽoNFP</b>.</div><div><b><u>Sp&ocirc;sob overenia splnenia PPP zo strany poskytovateľa</u></b></div><div>Poskytovateľ overuje splnenie PPP prostredn&iacute;ctvom inform&aacute;ci&iacute; uveden&yacute;ch v/vo.</div><ul><li><b>Formul&aacute;ri&nbsp; ŽoNFP</b>, časť&nbsp; 7. <i>Popis projektu, časť </i>&nbsp;9. <i>Harmonogram realiz&aacute;cie aktiv&iacute;t, časť 10.1 Aktivity projektu a&nbsp;očak&aacute;van&eacute; merateľn&eacute; ukazovatele a&nbsp;časť 10.2 Prehľad merateľn&yacute;ch ukazovateľov projektu</i>;</li><li><b>Pr&iacute;lohe č. 3 ŽoNFP</b> - <b>S&uacute;hrnn&eacute; čestn&eacute; vyhl&aacute;senie partnera žiadateľa </b>(ak relevantn&eacute;);</li><li><b>Pr&iacute;lohe č. 6 ŽoNFP - </b>&nbsp;<b>Rozpočet projektu</b> (podľa z&aacute;v&auml;zn&eacute;ho formul&aacute;ra);</li><li><b>Pr&iacute;lohe č</b>. <b>5 ŽoNFP</b>&nbsp; - <b>Uznesenie (v&yacute;pis z&nbsp;uznesenia) obecn&eacute;ho zastupiteľstva dotknutej susediacej obce</b> (ak relevantn&eacute;);</li><li><b>Pr&iacute;lohe č</b>. <b>8 ŽoNFP</b> &ndash; <b>Situačn&yacute; n&aacute;kres;</b></li><li><b>Pr&iacute;lohe č. 2 ŽoNFP &ndash; Uznesenie (v&yacute;pis z&nbsp;uznesenia) obecn&eacute;ho zastupiteľstva žiadateľa </b>(ak relevantn&eacute;);</li><li><b>ITMS</b></li></ul><div><b><u>Overenie PPP/ukončenie uplatniteľnosti PPP</u></b></div><div>PPP sa overuje v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť až do skončenia doby udržateľnosti projektu v&nbsp;zmysle čl. 65 NSU, ak sa udržateľnosť na projekt nevzťahuje, do skončenia trvania Zmluvy o&nbsp;poskytnut&iacute; NFP.</div></div></div><div style=\"clear:both\">&nbsp;</div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Os&iacute;dlen&iacute;m je s&iacute;deln&aacute; koncentr&aacute;cia obydl&iacute; ob&yacute;van&yacute;ch prevažne priestorovo alebo soci&aacute;lne vyl&uacute;čen&yacute;mi skupinami obyvateľstva s prihliadnut&iacute;m na jeho s&uacute;časn&eacute; využitie a bud&uacute;ce usporiadanie.</div></div><div id=\"ftn2\"><div><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> V&yacute;zva z&nbsp;Operačn&eacute;ho programu Ľudsk&eacute; zdroje PO 2014-2020 zameran&aacute; na podporu vysporiadania majetkovopr&aacute;vnych vzťahov k&nbsp;pozemkom v&nbsp;obciach s&nbsp;pr&iacute;tomnosťou MRK postupom jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav</div></div><div id=\"ftn3\"><div><a href=\"#_ftnref3\" name=\"_ftn3\" title=\"\">[3]</a> Dotknut&aacute; susediaca obec na &uacute;čely v&yacute;zvy je obec, na &uacute;zem&iacute; ktorej sa nach&aacute;dza časť os&iacute;dlenia MRK a/alebo roz&scaron;&iacute;renia os&iacute;dlenia MRK a ktor&aacute; je odli&scaron;n&aacute; od žiadateľa.</div><div>&nbsp;</div></div><div id=\"ftn4\"><div><a href=\"#_ftnref4\" name=\"_ftn4\" title=\"\">[4]</a> Dotknut&aacute; susediaca obec na &uacute;čely v&yacute;zvy je obec na &uacute;zem&iacute; ktorej sa nach&aacute;dza časť os&iacute;dlenia MRK a/alebo roz&scaron;&iacute;renia os&iacute;dlenia MRK a ktor&aacute; je odli&scaron;n&aacute; od žiadateľa.</div><div>&nbsp;</div></div></div></div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Formulár ŽoNFP",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Prílohy definované RO/SO",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Rozpočet projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 4,
+     "nazovSk": "Súhrnné čestné vyhlásenie partnera žiadateľa",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 5,
+     "nazovSk": "uznesenie obecného zastupiteľstva vyjadrujúce súhlas s realizáciou projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 5,
+   "nazovSk": "Podmienka oprávnenosti miesta realizácie projektu",
+   "popisSk": "<div><div><div><div><div><div><div>Žiadateľ/partner je povinn&yacute; realizovať projekt na opr&aacute;vnenom &uacute;zem&iacute;.</div><div>Pre t&uacute;to v&yacute;zvu je opr&aacute;vnen&yacute;m miestom realiz&aacute;cie projektu <b>cel&eacute; &uacute;zemie Slovenskej republiky.</b></div><div>NUTS II &ndash; Bratislavsk&yacute; samospr&aacute;vny kraj</div><div>NUTS II &ndash; Z&aacute;padn&eacute; Slovensko (Trnavsk&yacute;, Nitriansky a Trenčiansky samospr&aacute;vny kraj),</div><div>NUTS II &ndash; Stredn&eacute; Slovensko (Žilinsk&yacute; a Banskobystrick&yacute; samospr&aacute;vny kraj),</div><div>NUTS II &ndash; V&yacute;chodn&eacute; Slovensko (Pre&scaron;ovsk&yacute; a Ko&scaron;ick&yacute; samospr&aacute;vny kraj).</div><div><b><u>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</u></b></div><div>Žiadateľ za &uacute;čelom pos&uacute;denia splnenia tejto PPP predklad&aacute; <b>Formul&aacute;r ŽoNFP</b>, v r&aacute;mci ktor&eacute;ho uvedie inform&aacute;cie v častiach 6. <i>Miesto realiz&aacute;cie projektu</i>.</div><div><b><u>Sp&ocirc;sob overenia splnenia PPP zo strany poskytovateľa</u></b></div><div>Poskytovateľ overuje splnenie PPP prostredn&iacute;ctvom inform&aacute;ci&iacute; uveden&yacute;ch vo <b>Formul&aacute;ri&nbsp; ŽoNFP</b>, časť&nbsp; 6. <i>Miesto realiz&aacute;cie projektu</i>.</div><div><b><u>Overenie PPP/ukončenie uplatniteľnosti PPP</u></b></div><div>PPP sa overuje v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť až do skončenia doby udržateľnosti projektu v&nbsp;zmysle čl. 65 NSU, ak sa udržateľnosť na projekt nevzťahuje, do skončenia trvania Zmluvy o&nbsp;poskytnut&iacute; NFP.</div></div></div><div style=\"clear:both\">&nbsp;</div></div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Formulár ŽoNFP – (tabuľka č. 6 – Miesto realizácie projektu)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 7,
+   "nazovSk": "Podmienka definovania merateľných ukazovateľov",
+   "popisSk": "<div><div><div><div><div><div><div>V&yacute;stupy/v&yacute;sledky, ktor&eacute; maj&uacute; byť dosiahnut&eacute; realiz&aacute;ciou aktiv&iacute;t projektu musia byť kvantifikovan&eacute; prostredn&iacute;ctvom merateľn&yacute;ch ukazovateľov (ďalej len &bdquo;MU&ldquo;), ktor&eacute; s&uacute; uveden&eacute; v Pr&iacute;lohe č. 3 v&yacute;zvy -<b> Zoznam merateľn&yacute;ch ukazovateľov a&nbsp;In&yacute;ch &uacute;dajov</b>. Žiadateľ je povinn&yacute; ku každej hlavnej aktivite projektu, ktor&aacute; je predmetom projektu priradiť v&scaron;etky MU definovan&eacute; ako povinn&eacute; k danej hlavnej aktivite v zmysle pr&iacute;lohy v&yacute;zvy a&nbsp;uviesť ako cieľov&uacute; hodnotu t&yacute;chto MU kladn&eacute; č&iacute;slo v&auml;č&scaron;ie ako nula.</div><div>MU predstavuje kvantifik&aacute;ciu toho, čo sa realiz&aacute;ciou aktivity za požadovan&eacute; v&yacute;davky dosiahne.</div><div>Pl&aacute;novan&eacute; hodnoty merateľn&yacute;ch ukazovateľov bud&uacute; premietnut&eacute; do pr&iacute;lohy Zmluvy o&nbsp;poskytnut&iacute; NFP a &nbsp;bud&uacute; sledovan&eacute; počas celej realiz&aacute;cie projektu ako aj počas obdobia udržateľnosti projektu (ak relevantn&eacute;). Vybran&eacute; M&Uacute; s&uacute; pre žiadateľa z&aacute;v&auml;zn&eacute; z hľadiska dosiahnutia ich pl&aacute;novanej hodnoty, pričom akceptovateľn&aacute; miera odch&yacute;lky, ktor&aacute; nebude mať za n&aacute;sledok vznik finančnej zodpovednosti, ako aj mechanizmus vr&aacute;tenia pr&iacute;spevku alebo jeho časti, s&uacute; určen&eacute; v&nbsp;Zmluve o&nbsp;poskytnut&iacute; NFP a v Pr&iacute;ručke pre Prij&iacute;mateľa v jej platnej verzii.</div><div><b><u>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</u></b></div><div>Žiadateľ za &uacute;čelom pos&uacute;denia splnenia tejto PPP predklad&aacute; <b>Formul&aacute;r ŽoNFP</b>, v r&aacute;mci ktor&eacute;ho uvedie inform&aacute;cie v častiach 10.1 <i>Aktivity projektu a&nbsp;očak&aacute;van&eacute; merateľn&eacute; ukazovatele</i> a&nbsp;10.2 <i>Prehľad merateľn&yacute;ch ukazovateľov projektu.</i></div><div><b><u>Sp&ocirc;sob overenia splneia PPP zo strany poskytovateľa</u></b></div><div>Poskytovateľ overuje splnenie PPP prostredn&iacute;ctvom inform&aacute;ci&iacute; uveden&yacute;ch vo <b>Formul&aacute;ri&nbsp; ŽoNFP</b>, v častiach 10.1 <i>Aktivity projektu a&nbsp;očak&aacute;van&eacute; merateľn&eacute; ukazovatele</i> a&nbsp;10.2 <i>Prehľad merateľn&yacute;ch ukazovateľov projektu.</i></div><div><b><u>Overenie PPP/ukončenie uplatniteľnosti PPP</u></b></div><div>PPP sa overuje v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť až do skončenia doby udržateľnosti projektu v&nbsp;zmysle čl. 65 NSU, ak sa udržateľnosť na projekt nevzťahuje, do skončenia trvania Zmluvy o&nbsp;poskytnut&iacute; NFP.</div></div></div><div style=\"clear:both\">&nbsp;</div><div style=\"clear:both\">&nbsp;</div></div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Formulár ŽoNFP",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 8,
+   "nazovSk": "Podmienka splnenia kritérií pre výber projektov",
+   "popisSk": "<div><div><div><div>ŽoNFP mus&iacute; splniť krit&eacute;ria pre v&yacute;ber projektov.</div><div><b>Krit&eacute;ri&aacute; pre v&yacute;ber projektov</b> pozost&aacute;vaj&uacute; z vylučuj&uacute;cich krit&eacute;ri&iacute; podľa čl&aacute;nku 73 NSU, vecn&yacute;ch hodnotiacich krit&eacute;ri&iacute; a z v&yacute;berov&yacute;ch krit&eacute;ri&iacute;.</div><div>&nbsp;</div><div><b>Vylučuj&uacute;ce krit&eacute;ri&aacute;</b> podľa čl&aacute;nku 73 NSU &ndash; ide o vylučuj&uacute;ce krit&eacute;ri&aacute;, ktor&yacute;mi sa zabezpečuje pos&uacute;denie požiadaviek podľa čl&aacute;nku 73 NSU.</div><div>Doplňuj&uacute;ce inform&aacute;cie k zneniu vylučuj&uacute;ceho krit&eacute;ria HP:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div><b><i>Krit&eacute;rium č.1</i>: </b></div><div>Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a>, s prihliadnut&iacute;m na&nbsp; dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup<br />k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie<br />a pracovn&eacute; podmienky.</div><div>V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a&nbsp;zabraňovať &nbsp;v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m<a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\">[2]</a>.</div><div>&nbsp;</div><div><b><i>Krit&eacute;rium č. 2:</i></b></div><div>Žiadateľ m&ocirc;že začať s&nbsp;realiz&aacute;ciou aktivity projektu najsk&ocirc;r od 1.1.2021 a nesmie ukončiť fyzick&uacute; realiz&aacute;ciu hlavnej aktivity projektu, t. j. plne zrealizovať hlavn&uacute; aktivitu projektu, pred predložen&iacute;m ŽoNFP poskytovateľovi, a to bez ohľadu na to, či žiadateľ uhradil v&scaron;etky s&uacute;visiace platby.</div><div>&nbsp;</div><div><b>Vecn&eacute; hodnotiace krit&eacute;ri&aacute;</b> &ndash; ide o krit&eacute;ri&aacute;, prostredn&iacute;ctvom ktor&yacute;ch poskytovateľ posudzuje kvalitat&iacute;vnu (obsahov&uacute;) str&aacute;nku navrhovan&eacute;ho projektu. Vecn&eacute; hodnotiace krit&eacute;ri&aacute; s&uacute; definovan&eacute; ako vylučuj&uacute;ce krit&eacute;ri&aacute; a&nbsp;bodovan&eacute; krit&eacute;ri&aacute;. Vylučuj&uacute;ce krit&eacute;ri&aacute; s&uacute; s&uacute;časťou bodovan&yacute;ch krit&eacute;ri&iacute; v podobe nulov&eacute;ho bodov&eacute;ho hodnotenia.</div><div>&nbsp;</div><div><b>V&yacute;berov&eacute; krit&eacute;ri&aacute;</b> &ndash; ide o krit&eacute;ria, prostredn&iacute;ctvom ktor&yacute;ch aplik&aacute;cie sa vytvor&iacute; poradie predložen&yacute;ch projektov v&nbsp;r&aacute;mci pr&iacute;slu&scaron;n&eacute;ho hodnotiaceho kola v&yacute;zvy. V&yacute;berov&eacute; krit&eacute;ri&aacute; sa uplatnia iba v pr&iacute;pade, ak je disponibiln&aacute; alok&aacute;cia v&yacute;zvy niž&scaron;ia ako s&uacute;hrnn&aacute; v&yacute;&scaron;ka NFP za v&scaron;etky &uacute;spe&scaron;n&eacute; ŽoNFP, t.j. ktor&eacute; dosiahli aspoň minim&aacute;lny počet bodov odborn&eacute;ho hodnotenia pre jednotliv&eacute; oblasti a s&uacute;časne je potrebn&eacute; určiť poradie žiadost&iacute; o NFP<br />s rovnak&yacute;m počtom dosiahnut&yacute;ch bodov, ktor&eacute; sa ocitli na hranici disponibilnej alok&aacute;cie, podľa ktor&eacute;ho s&uacute; žiadosti o NFP schvaľovan&eacute; až do v&yacute;&scaron;ky disponibilnej alok&aacute;cie na v&yacute;zvu. T&yacute;mto nie je dotknut&eacute; p&ocirc;vodn&eacute; poradie určen&eacute; na z&aacute;klade bodovan&yacute;ch krit&eacute;ri&iacute;, ktor&eacute; sa nem&ocirc;že v&yacute;berov&yacute;mi krit&eacute;riami meniť.</div><div>S&uacute;časťou v&yacute;berov&yacute;ch krit&eacute;ri&iacute; s&uacute; aj <b>rozli&scaron;ovacie krit&eacute;ria</b>. Ak s&uacute; aj po aplik&aacute;cii <u>rozli&scaron;ovac&iacute;ch bodovan&yacute;ch krit&eacute;ri&iacute;</u> žiadosti na hranici alok&aacute;cie v&yacute;zvy, poskytovateľ bude aplikovať <u>rozli&scaron;ovacie (objekt&iacute;vne) krit&eacute;ri&aacute; podľa nasleduj&uacute;ceho poradia</u>:</div><ol><li><b>&bdquo;Aktivity projektu v&nbsp;ŽoNFP realizovan&eacute; v prospech cieľovej skupiny z najmenej rozvinut&eacute;ho okresu (aj čiastočne)&ldquo; </b></li></ol><div>Ak s&uacute; aj po aplik&aacute;cii rozli&scaron;ovacieho (objekt&iacute;vneho) krit&eacute;ria pod bodom 1. žiadosti na hranici alok&aacute;cie v&yacute;zvy, poskytovateľ bude aplikovať rozli&scaron;ovacie (objekt&iacute;vne) krit&eacute;rium:</div><ol><li value=\"2\"><b>&bdquo;Term&iacute;n odoslania ŽoNFP&ldquo;.</b></li></ol><div>Krit&eacute;ria pre v&yacute;ber projektov s&uacute; pr&iacute;lohou č. 6 v&yacute;zvy.</div><div><b><u>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</u></b></div><div>Žiadateľ preukazuje splnenie &nbsp;PPP prostredn&iacute;ctvom:</div><ul><li><b>Formul&aacute;ra ŽoNFP</b></li><li>Formul&aacute;ra ŽoNFP, časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa (vzťahuje sa v&yacute;lučne k povinn&eacute;mu vylučuj&uacute;cemu krit&eacute;riu t&yacute;kaj&uacute;ceho sa HP);</li><li><b>Pr&iacute;lohy č. 6 ŽoNFP - Rozpočet projektu</b> (podľa z&aacute;v&auml;zn&eacute;ho formul&aacute;ra)</li></ul><div><b><u>Sp&ocirc;sob overenia splnenia PPP zo strany poskytovateľa</u></b></div><div>Poskytovateľ overuje splnenie PPP prostredn&iacute;ctvom:</div><ul><li>Inform&aacute;ci&iacute; uveden&yacute;ch vo <b>Formul&aacute;ri ŽoNFP</b></li><li>Formul&aacute;ra ŽoNFP, časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa (vzťahuje sa v&yacute;lučne k povinn&eacute;mu vylučuj&uacute;cemu krit&eacute;riu t&yacute;kaj&uacute;ceho sa HP)</li><li><b>Pr&iacute;lohy č. 6 ŽoNFP </b><b>Rozpočet projektu</b>.</li></ul><div><b><u>Ukončenie uplatniteľnosti PPP</u></b></div><div>Do skončenia konania o&nbsp;ŽoNFP.</div><div>Ukončenie uplatniteľnosti PPP je skončen&iacute;m konania o&nbsp;žiadosti s&nbsp;v&yacute;nimkou t&yacute;ch krit&eacute;ri&iacute;, ktor&eacute; je podľa obsahu v&yacute;zvy alebo v&nbsp;nadv&auml;znosti na čl. 65 NSU potrebn&eacute; plniť kontinu&aacute;lne počas realiz&aacute;cie projektu a/alebo obdobia&nbsp; jeho udržateľnosti.</div></div></div><div><hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> <a href=\"https://www.eurofondy.gov.sk/wp-content/uploads/2022/06/Nariadenie-2021-1060-CELEX_32021R1060_SK_TXT.pdf\">https://www.eurofondy.gov.sk/wp-content/uploads/2022/06/Nariadenie-2021-1060-CELEX_32021R1060_SK_TXT.pdf</a></div></div><div id=\"ftn2\"><div><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> <a href=\"https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf\">https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf</a></div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Formulár ŽoNFP",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Rozpočet projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 9,
+   "nazovSk": "Podmienka, že žiadateľ/partner nie je evidovaný v Systéme včasného odhaľovania rizika a vylúčenia (EDES) ako vylúčená osoba alebo subjekt (v zmysle článku 137 nariadenia č. 2024/2509 ).",
+   "popisSk": "<div><div><div><div>Žiadateľ/partner nesmie byť evidovan&yacute; v Syst&eacute;me včasn&eacute;ho odhaľovania rizika a vyl&uacute;čenia (EDES) ako vyl&uacute;čen&aacute; osoba alebo subjekt v zmysle čl&aacute;nku 137 nariadenia č. 2024/2509.</div><div>&nbsp;</div><div><b><u>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</u></b></div><div>Nie je potrebn&eacute; preukazovať splnenie PPP zo strany žiadateľa samostatnou pr&iacute;lohou.</div><div><b><u>Sp&ocirc;sob overenia splnenia PPP zo strany poskytovateľa</u></b></div><div>Poskytovateľ overuje splnenie PPP prostredn&iacute;ctvom:</div><ul><li>&uacute;dajov evidovan&yacute;ch v informačn&yacute;ch syst&eacute;moch verejnej spr&aacute;vy, resp. &uacute;dajov v Syst&eacute;me včasn&eacute;ho odhaľovania rizika a vyl&uacute;čenia (EDES) (<a href=\"https://ec.europa.eu/budget/edes/index_en.cfm\">https://ec.europa.eu/budget/edes/index_en.cfm</a>);</li></ul><div><b><u>Overenie PPP/ukončenie uplatniteľnosti PPP</u></b></div><div>PPP sa overuje v konan&iacute; o&nbsp;žiadosti o&nbsp;NFP. Ukončenie uplatniteľnosti PPP je do skončenia konania o&nbsp;žiadosti.</div></div></div><div style=\"clear:both\">&nbsp;</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 10,
+   "nazovSk": "Podmienka, že žiadateľ/partner má schválený program rozvoja a príslušnú územnoplánovaciu dokumentáciu v súlade s ustanovením § 7 ods. 8 a § 8 ods. 6/§ 8a ods. 7 zákona č. 539/2008 Z. z. o podpore regionálneho rozvoja.",
+   "popisSk": "<div><div>Žiadateľ/partner, na ktor&yacute;ch &uacute;zemiach sa projekt realizuje mus&iacute; mať schv&aacute;len&yacute; program rozvoja obce, resp. spoločn&yacute; program rozvoja obc&iacute; a&nbsp;pr&iacute;slu&scaron;n&yacute; &uacute;zemn&yacute; pl&aacute;n obce v&nbsp;s&uacute;lade s&nbsp;ustanoven&iacute;m &sect; 8 ods. 6/&sect; 8a ods. 7 z&aacute;kona o podpore region&aacute;lneho rozvoja.</div><div><b>Upozornenie na podmienky spojen&eacute; s&nbsp;platn&yacute;m &uacute;zemn&yacute;m pl&aacute;nom obce, bez splnenia ktor&yacute;ch okresn&yacute; &uacute;rad, pozemkov&yacute; a&nbsp;lesn&yacute; odbor nepovol&iacute; JP&Uacute;:</b></div><div>V&nbsp;tejto s&uacute;vislosti upozorňujeme, v&nbsp;pr&iacute;pade realiz&aacute;cie JP&Uacute; z&nbsp;d&ocirc;vodu</div><ol><li><b>podľa &sect; 2 ods. 1 p&iacute;sm. j) z&aacute;kona o&nbsp;pozemkov&yacute;ch &uacute;prav&aacute;ch</b> na podmienky vypl&yacute;vaj&uacute;ce z&nbsp;ustanovenia <b>&sect; 8g ods. 2</b> tohto z&aacute;kona, v&nbsp;zmysle ktor&eacute;ho umiestnenie os&iacute;dlenia MRK a&nbsp;&uacute;čel využitia pozemkov mus&iacute; byť v&nbsp;s&uacute;lade s&nbsp;platn&yacute;m &uacute;zemn&yacute;m pl&aacute;nom obce.</li><li><b>podľa &sect; 2 ods. 1 p&iacute;sm. h) z&aacute;kona o&nbsp;pozemkov&yacute;ch &uacute;prav&aacute;ch na </b>podmienky vypl&yacute;vaj&uacute;ce z&nbsp;ustanovenia <b>&sect; 8d ods. 2</b> tohto z&aacute;kona, v&nbsp;zmysle ktor&eacute;ho bud&uacute;ci &uacute;čel využitia pozemkov v&nbsp;navrhovanom obvode projektu pozemkov&yacute;ch &uacute;prav mus&iacute; byť v&nbsp;s&uacute;lade s&nbsp;platn&yacute;m &uacute;zemn&yacute;m pl&aacute;nom obce.</li></ol><div><b>Podmienky pod p&iacute;sm. a) a&nbsp;b) s&uacute; predmetom overenia okresn&eacute;ho &uacute;radu, pozemkov&yacute; a&nbsp;lesn&yacute; odbor v&nbsp;r&aacute;mci pr&iacute;pravn&eacute;ho konania.</b></div><div><b><u>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</u></b></div><div>Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom:</div><ul><li><b>Formul&aacute;ra ŽoNFP, časť č. 7. </b>Popis projektu &nbsp;&ndash; kde uvedie funkčn&yacute; odkaz na webov&eacute; s&iacute;dlo obce/samospr&aacute;vneho kraja, kde je zverejnen&eacute;:</li></ul><ul><li>Uznesenie (v&yacute;pis uznesenia) o&nbsp;schv&aacute;len&iacute; programu rozvoja,</li><li>Uznesenie (v&yacute;pis uznesenia) o&nbsp;schv&aacute;len&iacute; pr&iacute;slu&scaron;nej &uacute;zemnopl&aacute;novacej dokument&aacute;cie (ak relevantn&eacute;),</li></ul><div>ak tieto uznesenia nie s&uacute; zverejnen&eacute; na webovom s&iacute;dle obce/samospr&aacute;vneho kraja, preuk&aacute;že žiadateľ splnenie PPP prostredn&iacute;ctvom predloženia:</div><ul><li><b>Pr&iacute;lohy č. 7 ŽoNFP</b> - <b>Uznesenie (v&yacute;pis uznesenia) o&nbsp;schv&aacute;len&iacute; programu rozvoja obce a&nbsp;pr&iacute;slu&scaron;nej &uacute;zemnopl&aacute;novacej dokument&aacute;cie</b> (ak relevantn&eacute;).</li></ul><div>Ak&nbsp; obec na &uacute;zem&iacute; ktorej sa projekt fyzicky realizuje nem&aacute; schv&aacute;len&yacute; &uacute;zemn&yacute; pl&aacute;n obce a&nbsp;z&aacute;roveň je splnen&yacute; jeden z&nbsp;nasleduj&uacute;cich d&ocirc;vodov:</div><ol><li>cel&eacute; &uacute;zemie obce je s&uacute;časťou &uacute;zemn&eacute;ho pl&aacute;nu mikroregi&oacute;nu podľa &sect; 22 ods. 1 z&aacute;kona o&nbsp;&uacute;zemnom pl&aacute;novan&iacute;<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><sup><sup>[1]</sup></sup></a>;</li><li>obec postupuje podľa ustanovenia &sect; 40 ods. 2 z&aacute;kona o&nbsp;&uacute;zemnom pl&aacute;novan&iacute; (relevantn&eacute; pre ŽoNFP predložen&eacute; od 1.4.2025);</li><li>nebola &nbsp;povinn&aacute; mať vypracovan&uacute; &uacute;zemnopl&aacute;novaciu dokument&aacute;ciu podľa &sect; 11 stavebn&eacute;ho z&aacute;kona<a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\">[2]</a> <a href=\"#_ftn3\" name=\"_ftnref3\" title=\"\"><sup><sup>[3]</sup></sup></a> (relevantn&eacute; pre ŽoNFP predložen&eacute; do 31.3.2025);</li></ol><div>&nbsp;preuk&aacute;že žiadateľ splnenie PPP prostredn&iacute;ctvom:</div><ul><li><b>Formul&aacute;ra ŽoNFP, časť č. 7.2, </b>v r&aacute;mci ktor&eacute;ho t&uacute;to skutočnosť uvedie resp. vymenuje obec/obce, na ktor&yacute;ch &uacute;zem&iacute; sa fyzicky realizuje projekt a ktor&eacute; nie s&uacute; povinn&eacute; mať schv&aacute;len&uacute; &uacute;zemnopl&aacute;novaciu dokument&aacute;ciu&nbsp; vr&aacute;tane d&ocirc;vodov pre ktor&eacute; sa povinnosť vypracovania &uacute;zemnopl&aacute;novacej dokument&aacute;cie na obec nevzťahuje.</li></ul><div>Bliž&scaron;ie inform&aacute;cie k&nbsp;obsahovej str&aacute;nke pr&iacute;loh ŽoNFP, ako aj sp&ocirc;sobe ich predloženia s&uacute; uveden&eacute; v&nbsp;r&aacute;mci pr&iacute;lohy č. 2 v&yacute;zvy <b>Zoznam a&nbsp;popis povinn&yacute;ch pr&iacute;loh ŽoNFP</b>.</div><div><b><u>Sp&ocirc;sob overenia splnenia PPP zo strany poskytovateľa</u></b></div><div>Poskytovateľ overuje splnenie PPP prostredn&iacute;ctvom:</div><ul><li><b>Formul&aacute;ra&nbsp; ŽoNFP;</b></li><li><b>Pr&iacute;lohy č. 3 ŽoNFP - S&uacute;hrnn&eacute; čestn&eacute; vyhl&aacute;senie partnera žiadateľa </b>(ak relevantn&eacute;);</li><li><b>Pr&iacute;lohy č. 7 ŽoNFP - &nbsp;Uznesenie (v&yacute;pis uznesenia) o schv&aacute;len&iacute; programu rozvoja obce a pr&iacute;slu&scaron;nej &uacute;zemnopl&aacute;novacej dokument&aacute;cie </b>(ak relevantn&eacute;)</li></ul><div><b><u>Overenie PPP/ukončenie uplatniteľnosti PPP</u></b></div><div>PPP sa overuje v konan&iacute; o&nbsp;žiadosti a&nbsp;jej uplatniteľnosť konč&iacute; skončen&iacute;m konania o žiadosti.</div></div><div style=\"clear:both\">&nbsp;</div><div><hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Z&aacute;kon č. 200/2022 Z. z. o&nbsp;&uacute;zemnom pl&aacute;novan&iacute; v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov</div></div><div id=\"ftn2\"><div><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> z&aacute;kon č. 50/1976 Zb. o &uacute;zemnom pl&aacute;novan&iacute; a stavebnom poriadku (stavebn&yacute; z&aacute;kon) v&nbsp;znen&iacute; platnom do 31.3.2024.</div></div><div id=\"ftn3\"><div><a href=\"#_ftnref3\" name=\"_ftn3\" title=\"\">[3]</a> Z&aacute;kon č. 50/1976 Zb. o &uacute;zemnom pl&aacute;novan&iacute; a stavebnom poriadku (stavebn&yacute; z&aacute;kon) v&nbsp;znen&iacute; platnom do 31.3.2024.</div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Formulár ŽoNFP",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Formulár ŽoNFP (tabuľka č. 15 - Čestné vyhlásenie žiadateľa)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Formulár ŽoNFP – (tabuľka č. 7 -  Popis projektu)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 4,
+     "nazovSk": "Uznesenie (výpis z uznesenia) o schválení programu rozvoja a príslušnej územnoplánovacej dokumentácie",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [],
+ "miestoRealizacieFull": [],
+ "miestoRealizacieStat": [
+  {
+   "id": 210,
+   "kod": "1012SK",
+   "kodZdroj": "703",
+   "nazovSk": "Slovensko",
+   "nazovEn": "Slovakia",
+   "popisSk": "Slovenská republika",
+   "popisEn": "Slovak Republic",
+   "platnostOd": 725842800000,
+   "lokalizacia": "SLOVENSKA_REPUBLIKA"
+  }
+ ],
+ "cielovaSkupina": [
+  {
+   "id": 200127,
+   "kod": "1039_117",
+   "nazovSk": "obyvatelia MRK",
+   "popisSk": "obyvatelia MRK",
+   "platnostOd": 1688680800000
+  },
+  {
+   "id": 200128,
+   "kod": "1039_118",
+   "nazovSk": "obyvatelia v sídlach s prítomnosťou MRK",
+   "popisSk": "obyvatelia v sídlach s prítomnosťou MRK",
+   "platnostOd": 1688680800000
+  }
+ ],
+ "partner": [
+  {
+   "id": 92,
+   "kod": "1009801",
+   "kodZdroj": "801",
+   "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+   "nazovEn": "Municipality (municipal office)",
+   "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+   "popisEn": "Municipality Municipality (municipal office)",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "opravneneVydavky": [
+  {
+   "kod": "1040019",
+   "nazovSk": "Ostatný dlhodobý nehmotný majetok",
+   "typAkcieProgramu": {
+    "id": 547,
+    "href": "/typakcieprogramu/id/547"
+   }
+  },
+  {
+   "kod": "1040930",
+   "nazovSk": "Rezerva na nepredvídané výdavky",
+   "typAkcieProgramu": {
+    "id": 547,
+    "href": "/typakcieprogramu/id/547"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 547,
+    "href": "/typakcieprogramu/id/547"
+   }
+  },
+  {
+   "kod": "1040019",
+   "nazovSk": "Ostatný dlhodobý nehmotný majetok",
+   "typAkcieProgramu": {
+    "id": 539,
+    "href": "/typakcieprogramu/id/539"
+   }
+  },
+  {
+   "kod": "1040930",
+   "nazovSk": "Rezerva na nepredvídané výdavky",
+   "typAkcieProgramu": {
+    "id": 539,
+    "href": "/typakcieprogramu/id/539"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 539,
+    "href": "/typakcieprogramu/id/539"
+   }
+  },
+  {
+   "kod": "1040907",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. a) NSU",
+   "typAkcieProgramu": {
+    "id": 1242,
+    "href": "/typakcieprogramu/id/1242"
+   }
+  },
+  {
+   "kod": "1040907",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. a) NSU",
+   "typAkcieProgramu": {
+    "id": 1241,
+    "href": "/typakcieprogramu/id/1241"
+   }
+  }
+ ],
+ "externyZdroj": [],
+ "dokument": [
+  {
+   "nazov": "ARCHÍV_Zmluva o NFP_výzva 005.zip",
+   "uuid": "07edac00-ecad-480e-9bc0-0158f1515f2b"
+  },
+  {
+   "nazov": "Oznam_výzva 005.pdf",
+   "uuid": "a09990b3-3e54-4d77-aee9-beb55d94a67a"
+  },
+  {
+   "nazov": "Výzva_PSK-UV-005-2024-DV-ESF+_zmena č.2_účinná od 10.11.2025.zip",
+   "uuid": "c5124636-eb0e-4999-9454-f45c54ff0ebd"
+  },
+  {
+   "nazov": "Vzor_Zmluva o NFP_účinná od 01.10.2025_výzva 005.zip",
+   "uuid": "54403ecf-2085-4ff5-ae46-384b30692d26"
+  },
+  {
+   "nazov": "Zmluva o partnerstve_005_platná od 12.04.2024.zip",
+   "uuid": "1be0d52f-3af4-4f9f-ae0a-4aca3dba192d"
+  }
+ ],
+ "dovodVznikuVerzie": "<div><div>Nav&yacute;&scaron;enie finančn&yacute;ch prostriedkov z d&ocirc;vodu efekt&iacute;vneho finančn&eacute;ho riadenia a zabezpečenia dostatočnej alok&aacute;cie pre plynul&eacute; schvaľovanie žiadost&iacute;.</div></div>",
+ "dalsiaSkutocnost": [],
+ "dalsiaFormalnaNalezitost": [],
+ "verzia": [
+  {
+   "id": 5345,
+   "cislo": 1,
+   "dovodVznikuVerzie": "<div>Z d&ocirc;vodu existencie predpokladu vyčerpania finančn&yacute;ch prostriedkov určen&yacute;ch na vyčerpanie vo v&yacute;zve a nedostatočn&eacute;ho dopytu zo strany opr&aacute;vnen&yacute;ch žiadateľov v r&aacute;mci opatrenia 2.5.1.</div>"
+  },
+  {
+   "id": 6499,
+   "cislo": 2,
+   "datumVykonaniaZmeny": 1750197600000,
+   "dovodVznikuVerzie": "<div>Aktualiz&aacute;cia PPP, nav&yacute;&scaron;enie alok&aacute;cie v&yacute;zvy a aktualiz&aacute;cia pr&iacute;loh v&yacute;zvy.</div>"
+  },
+  {
+   "id": 7059,
+   "cislo": 5,
+   "datumVykonaniaZmeny": 1773183600000,
+   "dovodVznikuVerzie": "<div><div>Nav&yacute;&scaron;enie finančn&yacute;ch prostriedkov z d&ocirc;vodu efekt&iacute;vneho finančn&eacute;ho riadenia a zabezpečenia dostatočnej alok&aacute;cie pre plynul&eacute; schvaľovanie žiadost&iacute;.</div></div>"
+  },
+  {
+   "id": 6663,
+   "cislo": 3,
+   "datumVykonaniaZmeny": 1756850400000,
+   "dovodVznikuVerzie": "<div><div>Technick&aacute; zmena v&yacute;zvy:&nbsp;</div><div><b>Od 24.07.2025 je v&nbsp;syst&eacute;me ITMS21+ v detaile v&yacute;zvy doplnen&aacute; z&aacute;ložka &bdquo;Finančn&eacute; prostriedky&ldquo;</b>, prostredn&iacute;ctvom ktorej je možn&eacute; pri vytv&aacute;ran&iacute; alebo aktualiz&aacute;cii v&yacute;zvy rozp&iacute;sať pl&aacute;novan&uacute; sumu finančn&yacute;ch prostriedkov na menej a viac rozvinut&eacute; regi&oacute;ny.&nbsp;</div><div>Keďže je potrebn&eacute; sledovať alok&aacute;ciu vo v&yacute;zvach až na t&uacute;to niž&scaron;iu &uacute;roveň,&nbsp;<b>dovoľujeme si V&aacute;s&nbsp; požiadať o korektn&eacute; rozp&iacute;sanie alok&aacute;cie</b>&nbsp;<b>uveden&yacute;ch v&yacute;ziev</b>&nbsp;na pr&iacute;slu&scaron;n&eacute; &Scaron;C a&nbsp;kateg&oacute;rie regi&oacute;nov.</div><div>&nbsp;</div><div>Meil zo dna 26.8.2025 od&nbsp;<a href=\"mailto:monitorovanie.psk@mirri.gov.sk\">monitorovanie.psk@mirri.gov.sk</a>. Priložen&yacute; v&nbsp;spise aktualiz&aacute;cie.</div></div>"
+  },
+  {
+   "id": 6835,
+   "cislo": 4,
+   "datumVykonaniaZmeny": 1762729200000,
+   "dovodVznikuVerzie": "<div>Nav&yacute;&scaron;enie finančn&yacute;ch prostriedkov z d&ocirc;vodu efekt&iacute;vneho finančn&eacute;ho riadenia a zabezpečenia dostatočnej alok&aacute;cie pre plynul&eacute; schvaľovanie žiadost&iacute;.</div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [
+  {
+   "id": 322,
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1633,
+    "href": "/ukazovatelprojektovy/id/1633",
+    "kod": "PSKPR125",
+    "nazovSk": "Počet projektov jednoduchých pozemkových úprav",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet projektov jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav, ktor&eacute; s&uacute; v&yacute;sledkom konania o pozemkov&yacute;ch &uacute;prav&aacute;ch z d&ocirc;vodu podľa&nbsp; &sect; 2 ods. 1 p&iacute;sm. j) z&aacute;kona č. 330/1991 Zb. o pozemkov&yacute;ch &uacute;prav&aacute;ch, usporiadan&iacute; pozemkov&eacute;ho vlastn&iacute;ctva, pozemkov&yacute;ch &uacute;radoch, pozemkovom fonde a o pozemkov&yacute;ch spoločenstv&aacute;ch v znen&iacute; neskor&scaron;&iacute;ch predpisov, (ďalej len &bdquo;z&aacute;kon č.&nbsp;330/1991 Zb.&ldquo;) veden&eacute; okresn&yacute;mi &uacute;radmi, pozemkov&yacute; a lesn&yacute; odbor.</div><div><b>Povinnosť plnenia:</b> minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div></div><div>Pr&aacute;voplatn&eacute; rozhodnutie okresn&eacute;ho &uacute;radu, pozemkov&yacute; a lesn&yacute; odbor o schv&aacute;len&iacute; vykonania projektu pozemkov&yacute;ch &uacute;prav.</div><div><div><b>1.2</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet projektov jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav, ktor&eacute; s&uacute; v&yacute;sledkom konania o pozemkov&yacute;ch &uacute;prav&aacute;ch z d&ocirc;vodu podľa &sect; 2 ods. 1 p&iacute;sm. h) z&aacute;kona č. 330/1991 Zb. veden&eacute; okresn&yacute;mi &uacute;radmi, pozemkov&yacute; a&nbsp;lesn&yacute; odbor, predmetom, ktor&eacute;ho je usporiadanie &uacute;zemia za &uacute;čelom invest&iacute;ci&iacute; zameran&yacute;ch na podporu MRK.</div><div><b>Povinnosť plnenia:</b> minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Pr&aacute;voplatn&eacute; rozhodnutie okresn&eacute;ho &uacute;radu, pozemkov&yacute; a lesn&yacute; odbor o schv&aacute;len&iacute; vykonania projektu pozemkov&yacute;ch &uacute;prav.</div><div><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>&Uacute;častn&iacute;kom konania o JP&Uacute; je obec s&nbsp;pr&iacute;tomnosťou MRK.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div></div>&nbsp;<a href=\"https://www.romovia.vlada.gov.sk/atlas-romskych-komunit/\">Atlas r&oacute;mskych komun&iacute;t 2019</a><font size=\"1\">&nbsp;</font>a jeho n&aacute;sledn&eacute; aktualiz&aacute;cie resp. kombin&aacute;cie aktu&aacute;lneho Atlasu R&oacute;mskych komun&iacute;t&nbsp; v čase vyhl&aacute;senia v&yacute;zvy a jeho n&aacute;sledn&yacute;ch aktualiz&aacute;ci&iacute; zverejnen&yacute;ch na&nbsp;webovom s&iacute;dle Splnomocnenca vl&aacute;dy SR pre r&oacute;mske komunity.</div><div><div><div><div id=\"ftn1\">&nbsp;<div>&nbsp;</div></div></div></div><div>&nbsp;</div><div style=\"clear:both\">&nbsp;</div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1706783155491,
+    "updatedAt": 1749028962148
+   }
+  },
+  {
+   "id": 323,
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1634,
+    "href": "/ukazovatelprojektovy/id/1634",
+    "kod": "PSKPR126",
+    "nazovSk": "Počet opatrení podporujúcich marginalizované rómske komunity",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div style=\"text-align: justify;\"><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Počet vypracovan&yacute;ch materi&aacute;lov t&yacute;kaj&uacute;cich sa invest&iacute;ci&iacute;:</div><ul><li>smeruj&uacute;cich k zlep&scaron;eniu &scaron;tandardov hygieny b&yacute;vania MRK;</li><li>v oblasti občianskej vybavenosti obce (kanaliz&aacute;cia, vodovod, pr&iacute;stupov&eacute; komunik&aacute;cie a pod.) v prospech MRK;</li><li>smeruj&uacute;cich k inkl&uacute;zii MRK.</li></ul></div><div><b>Povinnosť plnenia:</b>&nbsp;minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Projektov&aacute; dokument&aacute;cia, pr&aacute;voplatn&eacute; povolenie na realiz&aacute;ciu stavby a pod.</div><div><div><b>1.2</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Počet rozostavan&yacute;ch/rozpracovan&yacute;ch opatren&iacute;:</div><ul><li>smeruj&uacute;cich k zlep&scaron;eniu &scaron;tandardov hygieny b&yacute;vania MRK;</li><li>v oblasti občianskej vybavenosti obce (kanaliz&aacute;cia, vodovod, pr&iacute;stupov&eacute; komunik&aacute;cie a pod.) v prospech MRK;</li><li>smeruj&uacute;cich k inkl&uacute;zii MRK.</li></ul></div></div></div><div><b>Povinnosť plnenia:</b> <span style=\"text-align:justify\">minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</span></div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Z&aacute;pis rozostavanej stavby v s&uacute;bore popisn&yacute;ch a geodetick&yacute;ch inform&aacute;ci&iacute;&nbsp; katastra nehnuteľnost&iacute; a pod.</div><div><div><b>1.3</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet opatren&iacute;, ktor&yacute;m sa zlep&scaron;ili &scaron;tandardy hygieny b&yacute;vania MRK; počet vybudovan&yacute;ch zariaden&iacute; občianskej vybavenosti obce (kanaliz&aacute;cia, vodovod, pr&iacute;stupov&eacute; komunik&aacute;cie a pod.) v prospech MRK; počet zariaden&iacute;/opatren&iacute; smeruj&uacute;cich k inkl&uacute;zii MRK.</div><div><b>Povinnosť plnenia:</b> minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Kolaudačn&eacute; rozhodnutie,&nbsp; povolenie už&iacute;vania stavby, z&aacute;pis stavby v s&uacute;bore popisn&yacute;ch a geodetick&yacute;ch inform&aacute;ci&iacute; katastra nehnuteľnost&iacute; a pod.</div><div><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>&Uacute;zemie obce, na ktorom do&scaron;lo k usporiadaniu vlastn&iacute;ckych a už&iacute;vac&iacute;ch vzťahov k pozemkom formou jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav z d&ocirc;vodu podľa &sect; 2 ods. 1 p&iacute;sm. h) z&aacute;kona č. 330/1991 Zb. o pozemkov&yacute;ch &uacute;prav&aacute;ch, usporiadan&iacute; pozemkov&eacute;ho vlastn&iacute;ctva, pozemkov&yacute;ch &uacute;radoch, pozemkovom fonde a o pozemkov&yacute;ch spoločenstv&aacute;ch v znen&iacute; neskor&scaron;&iacute;ch predpisov.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Pr&aacute;voplatn&eacute; rozhodnutie o schv&aacute;len&iacute; vykonania projektu pozemkov&yacute;ch &uacute;prav, z&aacute;pis v katastri nehnuteľnost&iacute;.</div></div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1706784741740,
+    "updatedAt": 1749030564985
+   }
+  },
+  {
+   "id": 324,
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1209,
+    "href": "/ukazovatelprojektovy/id/1209",
+    "kod": "PSKPSRI08",
+    "nazovSk": "Počet domácností, ktorým sa zlepšili, alebo ktorým sa vytvorili podmienky na zlepšenie  hygienických štandardov bývania",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div>Počet vysporiadan&yacute;ch pozemkov v d&ocirc;sledku čoho sa dom&aacute;cnostiam vytvorili podmienky na zlep&scaron;enie &scaron;tandardov hygieny b&yacute;vania.&nbsp;</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div></div><div><div>Technick&aacute; dokument&aacute;cia, podporovan&eacute; projekty, počet zapojen&yacute;ch samospr&aacute;v,</div><div>overenie z&aacute;pisu zmeny vlastn&iacute;ckeho, alebo už&iacute;vacieho pr&aacute;va k pozemku v katastri nehnuteľnost&iacute;, rozhodnutie o schv&aacute;len&iacute; vykonania projektu jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav</div></div></div><div><div><div><b>1.2</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Počet dom&aacute;cnost&iacute; s pr&iacute;stupom k vode, ktor&yacute;m sa zlep&scaron;ili hygienick&eacute; &scaron;tandardy b&yacute;vania, alebo ktor&yacute;m sa vytvorili podmienky na zlep&scaron;enie &scaron;tandardov hygieny b&yacute;vania &nbsp;v d&ocirc;sledku invest&iacute;ci&iacute; zameran&yacute;ch na&nbsp;zv&yacute;&scaron;enie &scaron;tandardov hygieny b&yacute;vania do&nbsp;zlep&scaron;en&yacute;ch foriem soci&aacute;lneho b&yacute;vania.</div></div></div><div style=\"clear:both\"><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Hl&aacute;senie o&nbsp;dosiahnut&iacute; hodnoty ukazovateľa prostredn&iacute;ctvom ITMS.<br />Technick&aacute; dokument&aacute;cia, podporen&eacute; projekty, počet zapojen&yacute;ch samospr&aacute;v.</div></div></div></div><div><b>1.3</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Počet dom&aacute;cnost&iacute; s pr&iacute;stupom ku kanaliz&aacute;cii, ktor&yacute;m sa zlep&scaron;ili hygienick&eacute; &scaron;tandardy b&yacute;vania, alebo ktor&yacute;m sa vytvorili podmienky na zlep&scaron;enie &scaron;tandardov hygieny b&yacute;vania &nbsp;v d&ocirc;sledku invest&iacute;ci&iacute; zameran&yacute;ch zv&yacute;&scaron;enie &scaron;tandardov hygieny b&yacute;vania do zlep&scaron;en&yacute;ch foriem soci&aacute;lneho b&yacute;vania.</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div></div></div></div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div>Hl&aacute;senie o&nbsp;dosiahnut&iacute; hodnoty ukazovateľa prostredn&iacute;ctvom ITMS.<br />Technick&aacute; dokument&aacute;cia, podporen&eacute; projekty, počet zapojen&yacute;ch samospr&aacute;v.</div><div><div><b>1.4</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet dom&aacute;cnost&iacute; s pr&iacute;stupom k&nbsp;infra&scaron;trukt&uacute;re, ktor&yacute;m sa zlep&scaron;ili hygienick&eacute; &scaron;tandardy b&yacute;vania, alebo ktor&yacute;m sa vytvorili podmienky na zlep&scaron;enie &scaron;tandardov hygieny b&yacute;vania &nbsp;v d&ocirc;sledku invest&iacute;ci&iacute; zameran&yacute;ch zv&yacute;&scaron;enie &scaron;tandardov hygieny b&yacute;vania do zlep&scaron;en&yacute;ch foriem soci&aacute;lneho b&yacute;vania.</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Hl&aacute;senie o dosiahnut&iacute; hodnoty ukazovateľa prostredn&iacute;ctvom ITMS.<br />Technick&aacute; dokument&aacute;cia, podporen&eacute; projekty, počet zapojen&yacute;ch samospr&aacute;v.</div><div><div><b>1.5</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet dom&aacute;cnost&iacute; s in&yacute;m vylep&scaron;en&iacute;m hygienick&yacute;ch podmienok b&yacute;vania , alebo vytvoren&iacute;m podmienok na zlep&scaron;enie &scaron;tandardov hygieny b&yacute;vania v d&ocirc;sledku invest&iacute;ci&iacute; zameran&yacute;ch na zv&yacute;&scaron;enie &scaron;tandardov hygieny b&yacute;vania do zlep&scaron;en&yacute;ch foriem soci&aacute;lneho b&yacute;vania.</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Hl&aacute;senie o dosiahnut&iacute; hodnoty ukazovateľa prostredn&iacute;ctvom ITMS.<br />Technick&aacute; dokument&aacute;cia, podporen&eacute; projekty, počet zapojen&yacute;ch samospr&aacute;v.</div><div><div><b>2.1</b></div></div><div><div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Dom&aacute;cnosťou sa rozumie rodina, ktor&aacute; m&aacute; bydlisko v obydl&iacute; na &uacute;zem&iacute; os&iacute;dlenia, v obci alebo v objekte v obci, na ktorom do&scaron;lo k invest&iacute;cii zameranej na zv&yacute;&scaron;enie &scaron;tandardov hygieny b&yacute;vania.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Hl&aacute;senie o dosiahnut&iacute; hodnoty ukazovateľa prostredn&iacute;ctvom ITMS.<br />Technick&aacute; dokument&aacute;cia, podporen&eacute; projekty, počet zapojen&yacute;ch samospr&aacute;v.</div></div></div></div></div></div></div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div></div><div style=\"clear:both\">&nbsp;</div></div></div><div><br />&nbsp;</div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1673943829350,
+    "updatedAt": 1749025917445
+   }
+  },
+  {
+   "id": 336,
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1633,
+    "href": "/ukazovatelprojektovy/id/1633",
+    "kod": "PSKPR125",
+    "nazovSk": "Počet projektov jednoduchých pozemkových úprav",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet projektov jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav, ktor&eacute; s&uacute; v&yacute;sledkom konania o pozemkov&yacute;ch &uacute;prav&aacute;ch z d&ocirc;vodu podľa&nbsp; &sect; 2 ods. 1 p&iacute;sm. j) z&aacute;kona č. 330/1991 Zb. o pozemkov&yacute;ch &uacute;prav&aacute;ch, usporiadan&iacute; pozemkov&eacute;ho vlastn&iacute;ctva, pozemkov&yacute;ch &uacute;radoch, pozemkovom fonde a o pozemkov&yacute;ch spoločenstv&aacute;ch v znen&iacute; neskor&scaron;&iacute;ch predpisov, (ďalej len &bdquo;z&aacute;kon č.&nbsp;330/1991 Zb.&ldquo;) veden&eacute; okresn&yacute;mi &uacute;radmi, pozemkov&yacute; a lesn&yacute; odbor.</div><div><b>Povinnosť plnenia:</b> minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div></div><div>Pr&aacute;voplatn&eacute; rozhodnutie okresn&eacute;ho &uacute;radu, pozemkov&yacute; a lesn&yacute; odbor o schv&aacute;len&iacute; vykonania projektu pozemkov&yacute;ch &uacute;prav.</div><div><div><b>1.2</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet projektov jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav, ktor&eacute; s&uacute; v&yacute;sledkom konania o pozemkov&yacute;ch &uacute;prav&aacute;ch z d&ocirc;vodu podľa &sect; 2 ods. 1 p&iacute;sm. h) z&aacute;kona č. 330/1991 Zb. veden&eacute; okresn&yacute;mi &uacute;radmi, pozemkov&yacute; a&nbsp;lesn&yacute; odbor, predmetom, ktor&eacute;ho je usporiadanie &uacute;zemia za &uacute;čelom invest&iacute;ci&iacute; zameran&yacute;ch na podporu MRK.</div><div><b>Povinnosť plnenia:</b> minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Pr&aacute;voplatn&eacute; rozhodnutie okresn&eacute;ho &uacute;radu, pozemkov&yacute; a lesn&yacute; odbor o schv&aacute;len&iacute; vykonania projektu pozemkov&yacute;ch &uacute;prav.</div><div><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>&Uacute;častn&iacute;kom konania o JP&Uacute; je obec s&nbsp;pr&iacute;tomnosťou MRK.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div></div>&nbsp;<a href=\"https://www.romovia.vlada.gov.sk/atlas-romskych-komunit/\">Atlas r&oacute;mskych komun&iacute;t 2019</a><font size=\"1\">&nbsp;</font>a jeho n&aacute;sledn&eacute; aktualiz&aacute;cie resp. kombin&aacute;cie aktu&aacute;lneho Atlasu R&oacute;mskych komun&iacute;t&nbsp; v čase vyhl&aacute;senia v&yacute;zvy a jeho n&aacute;sledn&yacute;ch aktualiz&aacute;ci&iacute; zverejnen&yacute;ch na&nbsp;webovom s&iacute;dle Splnomocnenca vl&aacute;dy SR pre r&oacute;mske komunity.</div><div><div><div><div id=\"ftn1\">&nbsp;<div>&nbsp;</div></div></div></div><div>&nbsp;</div><div style=\"clear:both\">&nbsp;</div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1706783155491,
+    "updatedAt": 1749028962148
+   }
+  },
+  {
+   "id": 338,
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1634,
+    "href": "/ukazovatelprojektovy/id/1634",
+    "kod": "PSKPR126",
+    "nazovSk": "Počet opatrení podporujúcich marginalizované rómske komunity",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div style=\"text-align: justify;\"><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Počet vypracovan&yacute;ch materi&aacute;lov t&yacute;kaj&uacute;cich sa invest&iacute;ci&iacute;:</div><ul><li>smeruj&uacute;cich k zlep&scaron;eniu &scaron;tandardov hygieny b&yacute;vania MRK;</li><li>v oblasti občianskej vybavenosti obce (kanaliz&aacute;cia, vodovod, pr&iacute;stupov&eacute; komunik&aacute;cie a pod.) v prospech MRK;</li><li>smeruj&uacute;cich k inkl&uacute;zii MRK.</li></ul></div><div><b>Povinnosť plnenia:</b>&nbsp;minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Projektov&aacute; dokument&aacute;cia, pr&aacute;voplatn&eacute; povolenie na realiz&aacute;ciu stavby a pod.</div><div><div><b>1.2</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Počet rozostavan&yacute;ch/rozpracovan&yacute;ch opatren&iacute;:</div><ul><li>smeruj&uacute;cich k zlep&scaron;eniu &scaron;tandardov hygieny b&yacute;vania MRK;</li><li>v oblasti občianskej vybavenosti obce (kanaliz&aacute;cia, vodovod, pr&iacute;stupov&eacute; komunik&aacute;cie a pod.) v prospech MRK;</li><li>smeruj&uacute;cich k inkl&uacute;zii MRK.</li></ul></div></div></div><div><b>Povinnosť plnenia:</b> <span style=\"text-align:justify\">minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</span></div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Z&aacute;pis rozostavanej stavby v s&uacute;bore popisn&yacute;ch a geodetick&yacute;ch inform&aacute;ci&iacute;&nbsp; katastra nehnuteľnost&iacute; a pod.</div><div><div><b>1.3</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet opatren&iacute;, ktor&yacute;m sa zlep&scaron;ili &scaron;tandardy hygieny b&yacute;vania MRK; počet vybudovan&yacute;ch zariaden&iacute; občianskej vybavenosti obce (kanaliz&aacute;cia, vodovod, pr&iacute;stupov&eacute; komunik&aacute;cie a pod.) v prospech MRK; počet zariaden&iacute;/opatren&iacute; smeruj&uacute;cich k inkl&uacute;zii MRK.</div><div><b>Povinnosť plnenia:</b> minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Kolaudačn&eacute; rozhodnutie,&nbsp; povolenie už&iacute;vania stavby, z&aacute;pis stavby v s&uacute;bore popisn&yacute;ch a geodetick&yacute;ch inform&aacute;ci&iacute; katastra nehnuteľnost&iacute; a pod.</div><div><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>&Uacute;zemie obce, na ktorom do&scaron;lo k usporiadaniu vlastn&iacute;ckych a už&iacute;vac&iacute;ch vzťahov k pozemkom formou jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav z d&ocirc;vodu podľa &sect; 2 ods. 1 p&iacute;sm. h) z&aacute;kona č. 330/1991 Zb. o pozemkov&yacute;ch &uacute;prav&aacute;ch, usporiadan&iacute; pozemkov&eacute;ho vlastn&iacute;ctva, pozemkov&yacute;ch &uacute;radoch, pozemkovom fonde a o pozemkov&yacute;ch spoločenstv&aacute;ch v znen&iacute; neskor&scaron;&iacute;ch predpisov.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Pr&aacute;voplatn&eacute; rozhodnutie o schv&aacute;len&iacute; vykonania projektu pozemkov&yacute;ch &uacute;prav, z&aacute;pis v katastri nehnuteľnost&iacute;.</div></div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1706784741740,
+    "updatedAt": 1749030564985
+   }
+  },
+  {
+   "id": 339,
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1209,
+    "href": "/ukazovatelprojektovy/id/1209",
+    "kod": "PSKPSRI08",
+    "nazovSk": "Počet domácností, ktorým sa zlepšili, alebo ktorým sa vytvorili podmienky na zlepšenie  hygienických štandardov bývania",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div>Počet vysporiadan&yacute;ch pozemkov v d&ocirc;sledku čoho sa dom&aacute;cnostiam vytvorili podmienky na zlep&scaron;enie &scaron;tandardov hygieny b&yacute;vania.&nbsp;</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div></div><div><div>Technick&aacute; dokument&aacute;cia, podporovan&eacute; projekty, počet zapojen&yacute;ch samospr&aacute;v,</div><div>overenie z&aacute;pisu zmeny vlastn&iacute;ckeho, alebo už&iacute;vacieho pr&aacute;va k pozemku v katastri nehnuteľnost&iacute;, rozhodnutie o schv&aacute;len&iacute; vykonania projektu jednoduch&yacute;ch pozemkov&yacute;ch &uacute;prav</div></div></div><div><div><div><b>1.2</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Počet dom&aacute;cnost&iacute; s pr&iacute;stupom k vode, ktor&yacute;m sa zlep&scaron;ili hygienick&eacute; &scaron;tandardy b&yacute;vania, alebo ktor&yacute;m sa vytvorili podmienky na zlep&scaron;enie &scaron;tandardov hygieny b&yacute;vania &nbsp;v d&ocirc;sledku invest&iacute;ci&iacute; zameran&yacute;ch na&nbsp;zv&yacute;&scaron;enie &scaron;tandardov hygieny b&yacute;vania do&nbsp;zlep&scaron;en&yacute;ch foriem soci&aacute;lneho b&yacute;vania.</div></div></div><div style=\"clear:both\"><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Hl&aacute;senie o&nbsp;dosiahnut&iacute; hodnoty ukazovateľa prostredn&iacute;ctvom ITMS.<br />Technick&aacute; dokument&aacute;cia, podporen&eacute; projekty, počet zapojen&yacute;ch samospr&aacute;v.</div></div></div></div><div><b>1.3</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Počet dom&aacute;cnost&iacute; s pr&iacute;stupom ku kanaliz&aacute;cii, ktor&yacute;m sa zlep&scaron;ili hygienick&eacute; &scaron;tandardy b&yacute;vania, alebo ktor&yacute;m sa vytvorili podmienky na zlep&scaron;enie &scaron;tandardov hygieny b&yacute;vania &nbsp;v d&ocirc;sledku invest&iacute;ci&iacute; zameran&yacute;ch zv&yacute;&scaron;enie &scaron;tandardov hygieny b&yacute;vania do zlep&scaron;en&yacute;ch foriem soci&aacute;lneho b&yacute;vania.</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div></div></div></div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div>Hl&aacute;senie o&nbsp;dosiahnut&iacute; hodnoty ukazovateľa prostredn&iacute;ctvom ITMS.<br />Technick&aacute; dokument&aacute;cia, podporen&eacute; projekty, počet zapojen&yacute;ch samospr&aacute;v.</div><div><div><b>1.4</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet dom&aacute;cnost&iacute; s pr&iacute;stupom k&nbsp;infra&scaron;trukt&uacute;re, ktor&yacute;m sa zlep&scaron;ili hygienick&eacute; &scaron;tandardy b&yacute;vania, alebo ktor&yacute;m sa vytvorili podmienky na zlep&scaron;enie &scaron;tandardov hygieny b&yacute;vania &nbsp;v d&ocirc;sledku invest&iacute;ci&iacute; zameran&yacute;ch zv&yacute;&scaron;enie &scaron;tandardov hygieny b&yacute;vania do zlep&scaron;en&yacute;ch foriem soci&aacute;lneho b&yacute;vania.</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Hl&aacute;senie o dosiahnut&iacute; hodnoty ukazovateľa prostredn&iacute;ctvom ITMS.<br />Technick&aacute; dokument&aacute;cia, podporen&eacute; projekty, počet zapojen&yacute;ch samospr&aacute;v.</div><div><div><b>1.5</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet dom&aacute;cnost&iacute; s in&yacute;m vylep&scaron;en&iacute;m hygienick&yacute;ch podmienok b&yacute;vania , alebo vytvoren&iacute;m podmienok na zlep&scaron;enie &scaron;tandardov hygieny b&yacute;vania v d&ocirc;sledku invest&iacute;ci&iacute; zameran&yacute;ch na zv&yacute;&scaron;enie &scaron;tandardov hygieny b&yacute;vania do zlep&scaron;en&yacute;ch foriem soci&aacute;lneho b&yacute;vania.</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Hl&aacute;senie o dosiahnut&iacute; hodnoty ukazovateľa prostredn&iacute;ctvom ITMS.<br />Technick&aacute; dokument&aacute;cia, podporen&eacute; projekty, počet zapojen&yacute;ch samospr&aacute;v.</div><div><div><b>2.1</b></div></div><div><div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Dom&aacute;cnosťou sa rozumie rodina, ktor&aacute; m&aacute; bydlisko v obydl&iacute; na &uacute;zem&iacute; os&iacute;dlenia, v obci alebo v objekte v obci, na ktorom do&scaron;lo k invest&iacute;cii zameranej na zv&yacute;&scaron;enie &scaron;tandardov hygieny b&yacute;vania.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Hl&aacute;senie o dosiahnut&iacute; hodnoty ukazovateľa prostredn&iacute;ctvom ITMS.<br />Technick&aacute; dokument&aacute;cia, podporen&eacute; projekty, počet zapojen&yacute;ch samospr&aacute;v.</div></div></div></div></div></div></div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div></div><div style=\"clear:both\">&nbsp;</div></div></div><div><br />&nbsp;</div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1673943829350,
+    "updatedAt": 1749025917445
+   }
+  }
+ ],
+ "ukazovatelVystupovy": [
+  {
+   "id": 428,
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1388,
+    "href": "/ukazovatelprojektovy/id/1388",
+    "kod": "PSKPEECO18",
+    "nazovSk": "Počet podporovaných orgánov verejnej správy alebo verejných služieb na národnej, regionálnej alebo miestnej úrovni",
+    "mernaJednotka": {
+     "id": 200118,
+     "kod": "1053119",
+     "nazovSk": "počet subjektov",
+     "popisSk": "počet subjektov",
+     "platnostOd": 1690927200000
+    },
+    "definiciaSk": "<div><div><div><div><div><div><div>Definičn&aacute; matica</div><div>1.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div>Org&aacute;nmi verejnej spr&aacute;vy s&uacute;:<br />a) org&aacute;ny &scaron;t&aacute;tnej spr&aacute;vy,&nbsp;</div><div>b) org&aacute;ny &uacute;zemnej samospr&aacute;vy, ktor&yacute;mi s&uacute; obce, mest&aacute;, a v hlavnom meste Slovenskej republiky Bratislave a v meste Ko&scaron;ice mestsk&eacute; časti a samospr&aacute;vne kraje,</div><div>c) org&aacute;ny z&aacute;ujmovej samospr&aacute;vy, ktor&yacute;m osobitn&yacute; predpis zveril rozhodovanie o pr&aacute;vach, pr&aacute;vom chr&aacute;nen&yacute;ch z&aacute;ujmoch a povinnostiach fyzickej osoby a pr&aacute;vnickej osoby v oblasti verejnej spr&aacute;vy,<br />d) pr&aacute;vnick&eacute; osoby a fyzick&eacute; osoby, ktor&yacute;m osobitn&yacute; predpis zveril rozhodovanie o pr&aacute;vach, pr&aacute;vom<br />chr&aacute;nen&yacute;ch z&aacute;ujmoch a povinnostiach fyzickej osoby a pr&aacute;vnickej osoby v oblasti<br />verejnej spr&aacute;vy,<br />e) &scaron;t&aacute;tne org&aacute;ny, in&eacute; org&aacute;ny alebo subjekty, ktor&yacute;m osobitn&yacute; predpis zveril rozhodovanie o pr&aacute;vach, pr&aacute;vom chr&aacute;nen&yacute;ch z&aacute;ujmoch a povinnostiach fyzickej osoby a pr&aacute;vnickej osoby v oblasti verejnej spr&aacute;vy</div><div><b><span style=\"background-attachment:initial; background-clip:initial; background-image:initial; background-origin:initial; background-position:initial; background-repeat:initial; background-size:initial; line-height:107%\">Povinnosť plnenia:</span></b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Pr&iacute;slu&scaron;n&eacute; legislat&iacute;vne predpisy, menovacie dekr&eacute;ty/rozhodnutia o menovan&iacute; o zvolen&iacute;</div><div>1.2</div><div><div><b>Popis znaku, charakteristiky, pravidla</b></div></div><div>Pr&aacute;vnick&aacute; osoba bez ohľadu na pr&aacute;vnu formu (napr. neziskov&aacute; organiz&aacute;cia, ktor&aacute; poskytuje&nbsp; vo verejnom z&aacute;ujme).</div><div><b><span style=\"background-attachment:initial; background-clip:initial; background-image:initial; background-origin:initial; background-position:initial; background-repeat:initial; background-size:initial; line-height:107%\">Povinnosť plnenia:</span></b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Register pr&aacute;vnick&yacute;ch os&ocirc;b, podnikateľov a org&aacute;nov verejnej moci, &scaron;peci&aacute;lne registre (akreditovan&eacute; služby).<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />&nbsp;</div></div></div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1678104291958,
+    "updatedAt": 1731069840618
+   }
+  },
+  {
+   "id": 429,
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1388,
+    "href": "/ukazovatelprojektovy/id/1388",
+    "kod": "PSKPEECO18",
+    "nazovSk": "Počet podporovaných orgánov verejnej správy alebo verejných služieb na národnej, regionálnej alebo miestnej úrovni",
+    "mernaJednotka": {
+     "id": 200118,
+     "kod": "1053119",
+     "nazovSk": "počet subjektov",
+     "popisSk": "počet subjektov",
+     "platnostOd": 1690927200000
+    },
+    "definiciaSk": "<div><div><div><div><div><div><div>Definičn&aacute; matica</div><div>1.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div>Org&aacute;nmi verejnej spr&aacute;vy s&uacute;:<br />a) org&aacute;ny &scaron;t&aacute;tnej spr&aacute;vy,&nbsp;</div><div>b) org&aacute;ny &uacute;zemnej samospr&aacute;vy, ktor&yacute;mi s&uacute; obce, mest&aacute;, a v hlavnom meste Slovenskej republiky Bratislave a v meste Ko&scaron;ice mestsk&eacute; časti a samospr&aacute;vne kraje,</div><div>c) org&aacute;ny z&aacute;ujmovej samospr&aacute;vy, ktor&yacute;m osobitn&yacute; predpis zveril rozhodovanie o pr&aacute;vach, pr&aacute;vom chr&aacute;nen&yacute;ch z&aacute;ujmoch a povinnostiach fyzickej osoby a pr&aacute;vnickej osoby v oblasti verejnej spr&aacute;vy,<br />d) pr&aacute;vnick&eacute; osoby a fyzick&eacute; osoby, ktor&yacute;m osobitn&yacute; predpis zveril rozhodovanie o pr&aacute;vach, pr&aacute;vom<br />chr&aacute;nen&yacute;ch z&aacute;ujmoch a povinnostiach fyzickej osoby a pr&aacute;vnickej osoby v oblasti<br />verejnej spr&aacute;vy,<br />e) &scaron;t&aacute;tne org&aacute;ny, in&eacute; org&aacute;ny alebo subjekty, ktor&yacute;m osobitn&yacute; predpis zveril rozhodovanie o pr&aacute;vach, pr&aacute;vom chr&aacute;nen&yacute;ch z&aacute;ujmoch a povinnostiach fyzickej osoby a pr&aacute;vnickej osoby v oblasti verejnej spr&aacute;vy</div><div><b><span style=\"background-attachment:initial; background-clip:initial; background-image:initial; background-origin:initial; background-position:initial; background-repeat:initial; background-size:initial; line-height:107%\">Povinnosť plnenia:</span></b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Pr&iacute;slu&scaron;n&eacute; legislat&iacute;vne predpisy, menovacie dekr&eacute;ty/rozhodnutia o menovan&iacute; o zvolen&iacute;</div><div>1.2</div><div><div><b>Popis znaku, charakteristiky, pravidla</b></div></div><div>Pr&aacute;vnick&aacute; osoba bez ohľadu na pr&aacute;vnu formu (napr. neziskov&aacute; organiz&aacute;cia, ktor&aacute; poskytuje&nbsp; vo verejnom z&aacute;ujme).</div><div><b><span style=\"background-attachment:initial; background-clip:initial; background-image:initial; background-origin:initial; background-position:initial; background-repeat:initial; background-size:initial; line-height:107%\">Povinnosť plnenia:</span></b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Register pr&aacute;vnick&yacute;ch os&ocirc;b, podnikateľov a org&aacute;nov verejnej moci, &scaron;peci&aacute;lne registre (akreditovan&eacute; služby).<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />&nbsp;</div></div></div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1678104291958,
+    "updatedAt": 1731069840618
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 547,
+   "href": "/typakcieprogramu/id/547",
+   "kod": "401406E41000132",
+   "nazovSk": "Poskytovanie právnej, konzultačnej a koordinačnej podpory obciam s prítomnosťou MRK v procese vysporiadania pozemkov a legalizácie obydlí vrátane jednoduchých pozemkových úprav",
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "opatrenie": {
+    "id": 154,
+    "href": "/opatrenie/id/154",
+    "kod": "401406E41000",
+    "nazovSk": "401406E41000",
+    "specifickyCielProgramu": {
+     "id": 33,
+     "href": "/specifickycielprogramu/id/33",
+     "kod": "401406E410",
+     "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 12,
+      "href": "/priorita/id/12",
+      "kod": "401406",
+      "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867956
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869696
+    },
+    "createdAt": 1772540869710
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516230863,
+   "updatedAt": 1772541490822
+  },
+  {
+   "id": 539,
+   "href": "/typakcieprogramu/id/539",
+   "kod": "401406E41000031",
+   "nazovSk": "Poskytovanie právnej, konzultačnej a koordinačnej podpory obciam s prítomnosťou MRK v procese vysporiadania pozemkov a legalizácie obydlí vrátane jednoduchých pozemkových úprav",
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "opatrenie": {
+    "id": 154,
+    "href": "/opatrenie/id/154",
+    "kod": "401406E41000",
+    "nazovSk": "401406E41000",
+    "specifickyCielProgramu": {
+     "id": 33,
+     "href": "/specifickycielprogramu/id/33",
+     "kod": "401406E410",
+     "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 12,
+      "href": "/priorita/id/12",
+      "kod": "401406",
+      "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867956
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869696
+    },
+    "createdAt": 1772540869710
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516230858,
+   "updatedAt": 1772541490822
+  },
+  {
+   "id": 1242,
+   "href": "/typakcieprogramu/id/1242",
+   "kod": "401406E410000P2",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "opatrenie": {
+    "id": 154,
+    "href": "/opatrenie/id/154",
+    "kod": "401406E41000",
+    "nazovSk": "401406E41000",
+    "specifickyCielProgramu": {
+     "id": 33,
+     "href": "/specifickycielprogramu/id/33",
+     "kod": "401406E410",
+     "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 12,
+      "href": "/priorita/id/12",
+      "kod": "401406",
+      "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867956
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869696
+    },
+    "createdAt": 1772540869710
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717861475357,
+   "updatedAt": 1772541490821
+  },
+  {
+   "id": 1241,
+   "href": "/typakcieprogramu/id/1241",
+   "kod": "401406E410000P1",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "opatrenie": {
+    "id": 154,
+    "href": "/opatrenie/id/154",
+    "kod": "401406E41000",
+    "nazovSk": "401406E41000",
+    "specifickyCielProgramu": {
+     "id": 33,
+     "href": "/specifickycielprogramu/id/33",
+     "kod": "401406E410",
+     "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 12,
+      "href": "/priorita/id/12",
+      "kod": "401406",
+      "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867956
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869696
+    },
+    "createdAt": 1772540869710
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717861475265,
+   "updatedAt": 1772541490821
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200163,
+    "kod": "10364PO154",
+    "kodZdroj": "154",
+    "nazovSk": "Opatrenia na zlepšenie prístupu k vzdelávaniu a zamestnaniu pre marginalizované skupiny, napríklad pre Rómov, a podpora ich sociálneho začlenenia",
+    "nazovEn": "Opatrenia na zlepšenie prístupu k vzdelávaniu a zamestnaniu pre marginalizované skupiny, napríklad pre Rómov, a podpora ich sociálneho začlenenia",
+    "nazovDe": "Maßnahmen zur Verbesserung des Zugangs marginalisierter Gruppen, wie etwa der Roma, zu Bildung und Beschäftigung und Förderung ihrer sozialen Inklusion",
+    "popisSk": "Opatrenia na zlepšenie prístupu k vzdelávaniu a zamestnaniu pre marginalizované skupiny, napríklad pre Rómov, a podpora ich sociálneho začlenenia",
+    "popisDe": "Maßnahmen zur Verbesserung des Zugangs marginalisierter Gruppen, wie etwa der Roma, zu Bildung und Beschäftigung und Förderung ihrer sozialen Inklusion",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200163,
+    "kod": "10364PO154",
+    "kodZdroj": "154",
+    "nazovSk": "Opatrenia na zlepšenie prístupu k vzdelávaniu a zamestnaniu pre marginalizované skupiny, napríklad pre Rómov, a podpora ich sociálneho začlenenia",
+    "nazovEn": "Opatrenia na zlepšenie prístupu k vzdelávaniu a zamestnaniu pre marginalizované skupiny, napríklad pre Rómov, a podpora ich sociálneho začlenenia",
+    "nazovDe": "Maßnahmen zur Verbesserung des Zugangs marginalisierter Gruppen, wie etwa der Roma, zu Bildung und Beschäftigung und Förderung ihrer sozialen Inklusion",
+    "popisSk": "Opatrenia na zlepšenie prístupu k vzdelávaniu a zamestnaniu pre marginalizované skupiny, napríklad pre Rómov, a podpora ich sociálneho začlenenia",
+    "popisDe": "Maßnahmen zur Verbesserung des Zugangs marginalisierter Gruppen, wie etwa der Roma, zu Bildung und Beschäftigung und Förderung ihrer sozialen Inklusion",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200026,
+    "kod": "10384PO26",
+    "kodZdroj": "26",
+    "nazovSk": "Iné nešpecifikované služby",
+    "nazovEn": "Iné nešpecifikované služby",
+    "nazovDe": "Sonstige Dienstleistungen",
+    "popisSk": "Iné nešpecifikované služby",
+    "popisDe": "Sonstige Dienstleistungen",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200026,
+    "kod": "10384PO26",
+    "kodZdroj": "26",
+    "nazovSk": "Iné nešpecifikované služby",
+    "nazovEn": "Iné nešpecifikované služby",
+    "nazovDe": "Sonstige Dienstleistungen",
+    "popisSk": "Iné nešpecifikované služby",
+    "popisDe": "Sonstige Dienstleistungen",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [
+  {
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "sekundarnyTematickyOkruh": {
+    "id": 200008,
+    "kod": "10444PO09",
+    "kodZdroj": "09",
+    "nazovSk": "Neuplatňuje sa",
+    "nazovEn": "Neuplatňuje sa",
+    "popisSk": "Neuplatňuje sa",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "sekundarnyTematickyOkruh": {
+    "id": 200008,
+    "kod": "10444PO09",
+    "kodZdroj": "09",
+    "nazovSk": "Neuplatňuje sa",
+    "nazovEn": "Neuplatňuje sa",
+    "popisSk": "Neuplatňuje sa",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200001,
+    "kod": "12084PO02",
+    "kodZdroj": "02",
+    "nazovSk": "Uplatňovanie hľadiska rodovej rovnosti",
+    "nazovEn": "Uplatňovanie hľadiska rodovej rovnosti",
+    "nazovDe": "Durchgängige Berücksichtigung der Geschlechtergleichstellung",
+    "popisSk": "Uplatňovanie hľadiska rodovej rovnosti",
+    "popisDe": "Durchgängige Berücksichtigung der Geschlechtergleichstellung",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200001,
+    "kod": "12084PO02",
+    "kodZdroj": "02",
+    "nazovSk": "Uplatňovanie hľadiska rodovej rovnosti",
+    "nazovEn": "Uplatňovanie hľadiska rodovej rovnosti",
+    "nazovDe": "Durchgängige Berücksichtigung der Geschlechtergleichstellung",
+    "popisSk": "Uplatňovanie hľadiska rodovej rovnosti",
+    "popisDe": "Durchgängige Berücksichtigung der Geschlechtergleichstellung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200010,
+    "kod": "12094PO11",
+    "kodZdroj": "11",
+    "nazovSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovEn": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "popisSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "popisDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 33,
+    "href": "/specifickycielprogramu/id/33",
+    "kod": "401406E410",
+    "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 12,
+     "href": "/priorita/id/12",
+     "kod": "401406",
+     "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867956
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 7,
+     "kod": "1032ESF+",
+     "kodZdroj": "ESF+",
+     "nazovSk": "Európsky sociálny fond plus",
+     "nazovEn": "Európsky sociálny fond plus",
+     "popisSk": "Európsky sociálny fond plus",
+     "popisEn": "Európsky sociálny fond plus",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869696
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200010,
+    "kod": "12094PO11",
+    "kodZdroj": "11",
+    "nazovSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovEn": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "popisSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "popisDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 1,
+   "kod": "1033MRR",
+   "kodZdroj": "MRR",
+   "nazovSk": "Menej rozvinutý región",
+   "nazovEn": "less-developed regions",
+   "popisSk": "Menej rozvinutý región",
+   "popisEn": "less-developed regions",
+   "platnostOd": 725842800000
+  },
+  {
+   "id": 2,
+   "kod": "1033VRR",
+   "kodZdroj": "VRR",
+   "nazovSk": "Viac rozvinutý región",
+   "nazovEn": "more-developed regions",
+   "popisSk": "Viac rozvinutý región",
+   "popisEn": "more-developed regions",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [
+  {
+   "datumZverejnenia": 1750197600000,
+   "nazov": "Zverejnenie verzie výzvy",
+   "text": "<div>Aktualiz&aacute;cia PPP, nav&yacute;&scaron;enie alok&aacute;cie v&yacute;zvy a aktualiz&aacute;cia pr&iacute;loh v&yacute;zvy.</div>",
+   "dokument": []
+  },
+  {
+   "datumZverejnenia": 1756850400000,
+   "nazov": "Zverejnenie verzie výzvy",
+   "text": "<div><div>Technick&aacute; zmena v&yacute;zvy:&nbsp;</div><div><b>Od 24.07.2025 je v&nbsp;syst&eacute;me ITMS21+ v detaile v&yacute;zvy doplnen&aacute; z&aacute;ložka &bdquo;Finančn&eacute; prostriedky&ldquo;</b>, prostredn&iacute;ctvom ktorej je možn&eacute; pri vytv&aacute;ran&iacute; alebo aktualiz&aacute;cii v&yacute;zvy rozp&iacute;sať pl&aacute;novan&uacute; sumu finančn&yacute;ch prostriedkov na menej a viac rozvinut&eacute; regi&oacute;ny.&nbsp;</div><div>Keďže je potrebn&eacute; sledovať alok&aacute;ciu vo v&yacute;zvach až na t&uacute;to niž&scaron;iu &uacute;roveň,&nbsp;<b>dovoľujeme si V&aacute;s&nbsp; požiadať o korektn&eacute; rozp&iacute;sanie alok&aacute;cie</b>&nbsp;<b>uveden&yacute;ch v&yacute;ziev</b>&nbsp;na pr&iacute;slu&scaron;n&eacute; &Scaron;C a&nbsp;kateg&oacute;rie regi&oacute;nov.</div><div>&nbsp;</div><div>Meil zo dna 26.8.2025 od&nbsp;<a href=\"mailto:monitorovanie.psk@mirri.gov.sk\">monitorovanie.psk@mirri.gov.sk</a>. Priložen&yacute; v&nbsp;spise aktualiz&aacute;cie.</div></div>",
+   "dokument": []
+  },
+  {
+   "datumZverejnenia": 1762729200000,
+   "nazov": "Zverejnenie verzie výzvy",
+   "text": "<div>Nav&yacute;&scaron;enie finančn&yacute;ch prostriedkov z d&ocirc;vodu efekt&iacute;vneho finančn&eacute;ho riadenia a zabezpečenia dostatočnej alok&aacute;cie pre plynul&eacute; schvaľovanie žiadost&iacute;.</div>",
+   "dokument": []
+  },
+  {
+   "datumZverejnenia": 1773183600000,
+   "nazov": "Zverejnenie verzie výzvy",
+   "text": "<div><div>Nav&yacute;&scaron;enie finančn&yacute;ch prostriedkov z d&ocirc;vodu efekt&iacute;vneho finančn&eacute;ho riadenia a zabezpečenia dostatočnej alok&aacute;cie pre plynul&eacute; schvaľovanie žiadost&iacute;.</div></div>",
+   "dokument": []
+  }
+ ],
+ "projektovyZamerIUS": []
+}

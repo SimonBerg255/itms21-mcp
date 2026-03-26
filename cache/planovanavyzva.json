@@ -1,0 +1,4620 @@
+{
+ "offset": 0,
+ "limit": -1,
+ "size": 11,
+ "results": [
+  {
+   "id": 87,
+   "href": "/planovanavyzva/id/87",
+   "kod": "2026/00009",
+   "nazovSk": "Podpora inkluzívneho vzdelávania Rómov",
+   "programSkratka": "PSK",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 19,
+     "href": "/specifickycielprogramu/id/19",
+     "kod": "401404E406",
+     "nazovSk": "ESO4.6 Podpora rovného prístupu, a to najmä znevýhodnených skupín, ku kvalitnému a inkluzívnemu vzdelávaniu a odbornej príprave a podpora ich úspešného ukončenia, počnúc vzdelávaním a starostlivosťou v ranom detstve cez všeobecné a odborné vzdelávanie a prípravu až po terciárnu úroveň a vzdelávanie a učenie dospelých vrátane uľahčovania vzdelávacej mobility pre všetkých a prístupnosti pre osoby so zdravotným postihnutím (ESF+)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 10,
+      "href": "/priorita/id/10",
+      "kod": "401404",
+      "nazovSk": "4P4 Záruka pre mladých (Zamestnanosť mladých ľudí)",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867959
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869408
+    }
+   ],
+   "opatrenie": [],
+   "miestoRealizacie": [
+    {
+     "id": 9,
+     "kod": "1006SK010",
+     "kodZdroj": "SK010",
+     "nazovSk": "Bratislavský kraj",
+     "nazovEn": "Region of Bratislava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 10,
+     "kod": "1006SK021",
+     "kodZdroj": "SK021",
+     "nazovSk": "Trnavský kraj",
+     "nazovEn": "Region of Trnava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 11,
+     "kod": "1006SK022",
+     "kodZdroj": "SK022",
+     "nazovSk": "Trenčiansky kraj",
+     "nazovEn": "Region of Trenčín",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 12,
+     "kod": "1006SK023",
+     "kodZdroj": "SK023",
+     "nazovSk": "Nitriansky kraj",
+     "nazovEn": "Region of Nitra",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 13,
+     "kod": "1006SK031",
+     "kodZdroj": "SK031",
+     "nazovSk": "Žilinský kraj",
+     "nazovEn": "Region of Žilina",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 14,
+     "kod": "1006SK032",
+     "kodZdroj": "SK032",
+     "nazovSk": "Banskobystrický kraj",
+     "nazovEn": "Region of Banská Bystrica",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 15,
+     "kod": "1006SK041",
+     "kodZdroj": "SK041",
+     "nazovSk": "Prešovský kraj",
+     "nazovEn": "Region of Prešov",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 16,
+     "kod": "1006SK042",
+     "kodZdroj": "SK042",
+     "nazovSk": "Košický kraj",
+     "nazovEn": "Region of Košice",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [
+    {
+     "id": 42,
+     "kod": "1009321",
+     "kodZdroj": "321",
+     "nazovSk": "Rozpočtová organizácia",
+     "nazovEn": "Budgetary organization",
+     "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+     "popisEn": "Budgetary organization Budgetary organization",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "datumVyhlasenia1Kolo": 1772319600000,
+   "sumaEu": 6800000.0,
+   "druh": "VYZVA_21",
+   "vyhlasena": false,
+   "zrusena": false,
+   "zameranieProjektu": "NP_21",
+   "vyhlasovatel": {
+    "id": 385,
+    "kod": "21_SO_PSK_MSVVaMSR",
+    "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo školstva, výskumu, vývoja a mládeže SR",
+    "subjekt": {
+     "id": 100007,
+     "href": "/subjekt/id/100007",
+     "nazov": "Ministerstvo školstva, výskumu, vývoja a mládeže Slovenskej republiky",
+     "ico": "00164381",
+     "dic": "2020798725",
+     "icz": "1000107988",
+     "platitelDph": false,
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Černyševského",
+      "cislo": "3760/50",
+      "psc": "85101",
+      "obec": "Bratislava - mestská časť Petržalka",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "poskytovatel": {
+    "id": 376,
+    "kod": "21_RO_PSK_MIRRISR",
+    "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+    "subjekt": {
+     "id": 102012,
+     "href": "/subjekt/id/102012",
+     "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+     "ico": "50349287",
+     "dic": "2120287004",
+     "platitelDph": true,
+     "podlaParagrafu": "§7",
+     "icDph": "SK2120287004",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Pribinova",
+      "cislo": "4195/25",
+      "psc": "81109",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "createdAt": 1774516801847,
+   "updatedAt": 1774516801893
+  },
+  {
+   "id": 86,
+   "href": "/planovanavyzva/id/86",
+   "kod": "2026/00008",
+   "nazovSk": "Vytváranie a uskutočňovanie vysokošpecializovaných študijných programov v zmysle Platformy strategických technológií pre Európu („platforma STEP“) II.",
+   "programSkratka": "PSK",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 97,
+     "href": "/specifickycielprogramu/id/97",
+     "kod": "401103R106",
+     "nazovSk": "RSO1.6. Podpory investícií, ktoré prispievajú k cieľom Platformy strategických technológií pre Európu uvedeným v článku 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/795 (EFRR)",
+     "nazovDe": "RSO1.6 Unterstützung von Investitionen, die zu den in Artikel 2 der Verordnung (EU) 2024/795 genannten STEP-Zielen beitragen",
+     "nazovEn": "RSO1.6 Supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 41,
+      "href": "/priorita/id/41",
+      "kod": "401103",
+      "nazovSk": "1P3 Platforma strategických technológií pre Európu (STEP)",
+      "nazovDe": "1P3 Plattform für strategische Technologien für Europa (STEP)",
+      "nazovEn": "1P3 Strategic Technologies for Europe Platform (STEP)",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867966
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540867984
+    }
+   ],
+   "opatrenie": [],
+   "miestoRealizacie": [
+    {
+     "id": 9,
+     "kod": "1006SK010",
+     "kodZdroj": "SK010",
+     "nazovSk": "Bratislavský kraj",
+     "nazovEn": "Region of Bratislava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 10,
+     "kod": "1006SK021",
+     "kodZdroj": "SK021",
+     "nazovSk": "Trnavský kraj",
+     "nazovEn": "Region of Trnava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 11,
+     "kod": "1006SK022",
+     "kodZdroj": "SK022",
+     "nazovSk": "Trenčiansky kraj",
+     "nazovEn": "Region of Trenčín",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 12,
+     "kod": "1006SK023",
+     "kodZdroj": "SK023",
+     "nazovSk": "Nitriansky kraj",
+     "nazovEn": "Region of Nitra",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 13,
+     "kod": "1006SK031",
+     "kodZdroj": "SK031",
+     "nazovSk": "Žilinský kraj",
+     "nazovEn": "Region of Žilina",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 14,
+     "kod": "1006SK032",
+     "kodZdroj": "SK032",
+     "nazovSk": "Banskobystrický kraj",
+     "nazovEn": "Region of Banská Bystrica",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 15,
+     "kod": "1006SK041",
+     "kodZdroj": "SK041",
+     "nazovSk": "Prešovský kraj",
+     "nazovEn": "Region of Prešov",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 16,
+     "kod": "1006SK042",
+     "kodZdroj": "SK042",
+     "nazovSk": "Košický kraj",
+     "nazovEn": "Region of Košice",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [
+    {
+     "id": 42,
+     "kod": "1009321",
+     "kodZdroj": "321",
+     "nazovSk": "Rozpočtová organizácia",
+     "nazovEn": "Budgetary organization",
+     "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+     "popisEn": "Budgetary organization Budgetary organization",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 43,
+     "kod": "1009331",
+     "kodZdroj": "331",
+     "nazovSk": "Príspevková organizácia",
+     "nazovEn": "Organization based on state contributions",
+     "popisSk": "Príspevková organizácia Príspevková organizácia",
+     "popisEn": "Org.based on contrib. Organization based on state contributions",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 49,
+     "kod": "1009382",
+     "kodZdroj": "382",
+     "nazovSk": "Verejnoprávna inštitúcia",
+     "nazovEn": "Public legal institution",
+     "popisSk": "Verejnopráv.inštitúcia Verejnoprávna inštitúcia",
+     "popisEn": "Public legal institut. Public legal institution",
+     "platnostOd": 838850400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "datumVyhlasenia1Kolo": 1772319600000,
+   "sumaEu": 3500000.0,
+   "druh": "VYZVA_21",
+   "vyhlasena": false,
+   "zrusena": false,
+   "zameranieProjektu": "DOPYT_21",
+   "vyhlasovatel": {
+    "id": 385,
+    "kod": "21_SO_PSK_MSVVaMSR",
+    "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo školstva, výskumu, vývoja a mládeže SR",
+    "subjekt": {
+     "id": 100007,
+     "href": "/subjekt/id/100007",
+     "nazov": "Ministerstvo školstva, výskumu, vývoja a mládeže Slovenskej republiky",
+     "ico": "00164381",
+     "dic": "2020798725",
+     "icz": "1000107988",
+     "platitelDph": false,
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Černyševského",
+      "cislo": "3760/50",
+      "psc": "85101",
+      "obec": "Bratislava - mestská časť Petržalka",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "poskytovatel": {
+    "id": 376,
+    "kod": "21_RO_PSK_MIRRISR",
+    "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+    "subjekt": {
+     "id": 102012,
+     "href": "/subjekt/id/102012",
+     "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+     "ico": "50349287",
+     "dic": "2120287004",
+     "platitelDph": true,
+     "podlaParagrafu": "§7",
+     "icDph": "SK2120287004",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Pribinova",
+      "cislo": "4195/25",
+      "psc": "81109",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "createdAt": 1774516176662,
+   "updatedAt": 1774516176706
+  },
+  {
+   "id": 85,
+   "href": "/planovanavyzva/id/85",
+   "kod": "2026/00007",
+   "nazovSk": "Vytváranie a uskutočňovanie vysokošpecializovaných študijných programov v zmysle Platformy strategických technológií pre Európu („platforma STEP“) I.",
+   "programSkratka": "PSK",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 97,
+     "href": "/specifickycielprogramu/id/97",
+     "kod": "401103R106",
+     "nazovSk": "RSO1.6. Podpory investícií, ktoré prispievajú k cieľom Platformy strategických technológií pre Európu uvedeným v článku 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/795 (EFRR)",
+     "nazovDe": "RSO1.6 Unterstützung von Investitionen, die zu den in Artikel 2 der Verordnung (EU) 2024/795 genannten STEP-Zielen beitragen",
+     "nazovEn": "RSO1.6 Supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 41,
+      "href": "/priorita/id/41",
+      "kod": "401103",
+      "nazovSk": "1P3 Platforma strategických technológií pre Európu (STEP)",
+      "nazovDe": "1P3 Plattform für strategische Technologien für Europa (STEP)",
+      "nazovEn": "1P3 Strategic Technologies for Europe Platform (STEP)",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867966
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540867984
+    }
+   ],
+   "opatrenie": [],
+   "miestoRealizacie": [
+    {
+     "id": 9,
+     "kod": "1006SK010",
+     "kodZdroj": "SK010",
+     "nazovSk": "Bratislavský kraj",
+     "nazovEn": "Region of Bratislava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 10,
+     "kod": "1006SK021",
+     "kodZdroj": "SK021",
+     "nazovSk": "Trnavský kraj",
+     "nazovEn": "Region of Trnava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 11,
+     "kod": "1006SK022",
+     "kodZdroj": "SK022",
+     "nazovSk": "Trenčiansky kraj",
+     "nazovEn": "Region of Trenčín",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 12,
+     "kod": "1006SK023",
+     "kodZdroj": "SK023",
+     "nazovSk": "Nitriansky kraj",
+     "nazovEn": "Region of Nitra",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 13,
+     "kod": "1006SK031",
+     "kodZdroj": "SK031",
+     "nazovSk": "Žilinský kraj",
+     "nazovEn": "Region of Žilina",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 14,
+     "kod": "1006SK032",
+     "kodZdroj": "SK032",
+     "nazovSk": "Banskobystrický kraj",
+     "nazovEn": "Region of Banská Bystrica",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 15,
+     "kod": "1006SK041",
+     "kodZdroj": "SK041",
+     "nazovSk": "Prešovský kraj",
+     "nazovEn": "Region of Prešov",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 16,
+     "kod": "1006SK042",
+     "kodZdroj": "SK042",
+     "nazovSk": "Košický kraj",
+     "nazovEn": "Region of Košice",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [
+    {
+     "id": 42,
+     "kod": "1009321",
+     "kodZdroj": "321",
+     "nazovSk": "Rozpočtová organizácia",
+     "nazovEn": "Budgetary organization",
+     "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+     "popisEn": "Budgetary organization Budgetary organization",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 43,
+     "kod": "1009331",
+     "kodZdroj": "331",
+     "nazovSk": "Príspevková organizácia",
+     "nazovEn": "Organization based on state contributions",
+     "popisSk": "Príspevková organizácia Príspevková organizácia",
+     "popisEn": "Org.based on contrib. Organization based on state contributions",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 49,
+     "kod": "1009382",
+     "kodZdroj": "382",
+     "nazovSk": "Verejnoprávna inštitúcia",
+     "nazovEn": "Public legal institution",
+     "popisSk": "Verejnopráv.inštitúcia Verejnoprávna inštitúcia",
+     "popisEn": "Public legal institut. Public legal institution",
+     "platnostOd": 838850400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "datumVyhlasenia1Kolo": 1772319600000,
+   "sumaEu": 16532399.0,
+   "druh": "VYZVA_21",
+   "vyhlasena": false,
+   "zrusena": false,
+   "zameranieProjektu": "DOPYT_21",
+   "vyhlasovatel": {
+    "id": 385,
+    "kod": "21_SO_PSK_MSVVaMSR",
+    "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo školstva, výskumu, vývoja a mládeže SR",
+    "subjekt": {
+     "id": 100007,
+     "href": "/subjekt/id/100007",
+     "nazov": "Ministerstvo školstva, výskumu, vývoja a mládeže Slovenskej republiky",
+     "ico": "00164381",
+     "dic": "2020798725",
+     "icz": "1000107988",
+     "platitelDph": false,
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Černyševského",
+      "cislo": "3760/50",
+      "psc": "85101",
+      "obec": "Bratislava - mestská časť Petržalka",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "poskytovatel": {
+    "id": 376,
+    "kod": "21_RO_PSK_MIRRISR",
+    "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+    "subjekt": {
+     "id": 102012,
+     "href": "/subjekt/id/102012",
+     "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+     "ico": "50349287",
+     "dic": "2120287004",
+     "platitelDph": true,
+     "podlaParagrafu": "§7",
+     "icDph": "SK2120287004",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Pribinova",
+      "cislo": "4195/25",
+      "psc": "81109",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "createdAt": 1774513812216,
+   "updatedAt": 1774513812288
+  },
+  {
+   "id": 84,
+   "href": "/planovanavyzva/id/84",
+   "kod": "2026/00006",
+   "nazovSk": "Obstaranie ekologických veľkokapacitných ucelených jednotiek – 2. časť",
+   "programSkratka": "PSK",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 39,
+     "href": "/specifickycielprogramu/id/39",
+     "kod": "401301R301",
+     "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 6,
+      "href": "/priorita/id/6",
+      "kod": "401301",
+      "nazovSk": "3P1 Doprava",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867951
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868716
+    }
+   ],
+   "opatrenie": [
+    {
+     "id": 29,
+     "href": "/opatrenie/id/29",
+     "kod": "401301R30101",
+     "nazovSk": "Odstránenie kľúčových úzkych miest na železničnej infraštruktúre prostredníctvom modernizácie a rozvoja hlavných železničných tratí a uzlov",
+     "specifickyCielProgramu": {
+      "id": 39,
+      "href": "/specifickycielprogramu/id/39",
+      "kod": "401301R301",
+      "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "priorita": {
+       "id": 6,
+       "href": "/priorita/id/6",
+       "kod": "401301",
+       "nazovSk": "3P1 Doprava",
+       "program": {
+        "id": 1,
+        "href": "/program/id/1"
+       },
+       "createdAt": 1772540867951
+      },
+      "kategoriaRegionov": [
+       {
+        "id": 1,
+        "kod": "1033MRR",
+        "kodZdroj": "MRR",
+        "nazovSk": "Menej rozvinutý región",
+        "nazovEn": "less-developed regions",
+        "popisSk": "Menej rozvinutý región",
+        "popisEn": "less-developed regions",
+        "platnostOd": 725842800000
+       },
+       {
+        "id": 2,
+        "kod": "1033VRR",
+        "kodZdroj": "VRR",
+        "nazovSk": "Viac rozvinutý región",
+        "nazovEn": "more-developed regions",
+        "popisSk": "Viac rozvinutý región",
+        "popisEn": "more-developed regions",
+        "platnostOd": 725842800000
+       }
+      ],
+      "fond": {
+       "id": 6,
+       "kod": "1032EFRR",
+       "kodZdroj": "EFRR",
+       "nazovSk": "Európsky fond regionálneho rozvoja",
+       "nazovEn": "European Regional Development Fund",
+       "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+       "popisSk": "Európsky fond regionálneho rozvoja",
+       "popisEn": "European Regional Development Fund",
+       "popisDe": "Europäischen Fonds für regionale Entwicklung",
+       "platnostOd": 1668121200000
+      },
+      "technickaAsistencia": false,
+      "createdAt": 1772540868716
+     },
+     "createdAt": 1772540868728
+    }
+   ],
+   "miestoRealizacie": [
+    {
+     "id": 9,
+     "kod": "1006SK010",
+     "kodZdroj": "SK010",
+     "nazovSk": "Bratislavský kraj",
+     "nazovEn": "Region of Bratislava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 10,
+     "kod": "1006SK021",
+     "kodZdroj": "SK021",
+     "nazovSk": "Trnavský kraj",
+     "nazovEn": "Region of Trnava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 11,
+     "kod": "1006SK022",
+     "kodZdroj": "SK022",
+     "nazovSk": "Trenčiansky kraj",
+     "nazovEn": "Region of Trenčín",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 13,
+     "kod": "1006SK031",
+     "kodZdroj": "SK031",
+     "nazovSk": "Žilinský kraj",
+     "nazovEn": "Region of Žilina",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [
+    {
+     "id": 22,
+     "kod": "1009121",
+     "kodZdroj": "121",
+     "nazovSk": "Akciová spoločnosť",
+     "nazovEn": "Joint stock company",
+     "popisSk": "Akc. spol. Akciová spoločnosť",
+     "popisEn": "Joint stock company Joint stock company",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "datumUzavretia1Kolo": 1869688800000,
+   "datumVyhlasenia1Kolo": 1772319600000,
+   "sumaEu": 21613338.53,
+   "sumaSr": 6467374.34,
+   "druh": "VYZVA_21",
+   "vyhlasena": false,
+   "zrusena": false,
+   "zameranieProjektu": "NP_21",
+   "vyhlasovatel": {
+    "id": 382,
+    "kod": "21_SO_PSK_MDSR",
+    "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo dopravy SR",
+    "subjekt": {
+     "id": 100008,
+     "href": "/subjekt/id/100008",
+     "nazov": "Ministerstvo dopravy Slovenskej republiky",
+     "ico": "30416094",
+     "dic": "2020799209",
+     "platitelDph": true,
+     "podlaParagrafu": "§7a",
+     "icDph": "SK2020799209",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Námestie slobody",
+      "cislo": "2902/6",
+      "psc": "81005",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "poskytovatel": {
+    "id": 376,
+    "kod": "21_RO_PSK_MIRRISR",
+    "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+    "subjekt": {
+     "id": 102012,
+     "href": "/subjekt/id/102012",
+     "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+     "ico": "50349287",
+     "dic": "2120287004",
+     "platitelDph": true,
+     "podlaParagrafu": "§7",
+     "icDph": "SK2120287004",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Pribinova",
+      "cislo": "4195/25",
+      "psc": "81109",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "createdAt": 1772177794820,
+   "updatedAt": 1772177794858
+  },
+  {
+   "id": 83,
+   "href": "/planovanavyzva/id/83",
+   "kod": "2026/00005",
+   "nazovSk": "Zvýšenie bezpečnosti železničnej dopravy dodaním a inštaláciou rádiostaníc a BlackBoxov do železničných koľajových vozidiel – II. časť",
+   "programSkratka": "PSK",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 39,
+     "href": "/specifickycielprogramu/id/39",
+     "kod": "401301R301",
+     "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 6,
+      "href": "/priorita/id/6",
+      "kod": "401301",
+      "nazovSk": "3P1 Doprava",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867951
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868716
+    }
+   ],
+   "opatrenie": [
+    {
+     "id": 29,
+     "href": "/opatrenie/id/29",
+     "kod": "401301R30101",
+     "nazovSk": "Odstránenie kľúčových úzkych miest na železničnej infraštruktúre prostredníctvom modernizácie a rozvoja hlavných železničných tratí a uzlov",
+     "specifickyCielProgramu": {
+      "id": 39,
+      "href": "/specifickycielprogramu/id/39",
+      "kod": "401301R301",
+      "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "priorita": {
+       "id": 6,
+       "href": "/priorita/id/6",
+       "kod": "401301",
+       "nazovSk": "3P1 Doprava",
+       "program": {
+        "id": 1,
+        "href": "/program/id/1"
+       },
+       "createdAt": 1772540867951
+      },
+      "kategoriaRegionov": [
+       {
+        "id": 1,
+        "kod": "1033MRR",
+        "kodZdroj": "MRR",
+        "nazovSk": "Menej rozvinutý región",
+        "nazovEn": "less-developed regions",
+        "popisSk": "Menej rozvinutý región",
+        "popisEn": "less-developed regions",
+        "platnostOd": 725842800000
+       },
+       {
+        "id": 2,
+        "kod": "1033VRR",
+        "kodZdroj": "VRR",
+        "nazovSk": "Viac rozvinutý región",
+        "nazovEn": "more-developed regions",
+        "popisSk": "Viac rozvinutý región",
+        "popisEn": "more-developed regions",
+        "platnostOd": 725842800000
+       }
+      ],
+      "fond": {
+       "id": 6,
+       "kod": "1032EFRR",
+       "kodZdroj": "EFRR",
+       "nazovSk": "Európsky fond regionálneho rozvoja",
+       "nazovEn": "European Regional Development Fund",
+       "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+       "popisSk": "Európsky fond regionálneho rozvoja",
+       "popisEn": "European Regional Development Fund",
+       "popisDe": "Europäischen Fonds für regionale Entwicklung",
+       "platnostOd": 1668121200000
+      },
+      "technickaAsistencia": false,
+      "createdAt": 1772540868716
+     },
+     "createdAt": 1772540868728
+    }
+   ],
+   "miestoRealizacie": [
+    {
+     "id": 9,
+     "kod": "1006SK010",
+     "kodZdroj": "SK010",
+     "nazovSk": "Bratislavský kraj",
+     "nazovEn": "Region of Bratislava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 10,
+     "kod": "1006SK021",
+     "kodZdroj": "SK021",
+     "nazovSk": "Trnavský kraj",
+     "nazovEn": "Region of Trnava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 11,
+     "kod": "1006SK022",
+     "kodZdroj": "SK022",
+     "nazovSk": "Trenčiansky kraj",
+     "nazovEn": "Region of Trenčín",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 12,
+     "kod": "1006SK023",
+     "kodZdroj": "SK023",
+     "nazovSk": "Nitriansky kraj",
+     "nazovEn": "Region of Nitra",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 13,
+     "kod": "1006SK031",
+     "kodZdroj": "SK031",
+     "nazovSk": "Žilinský kraj",
+     "nazovEn": "Region of Žilina",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 14,
+     "kod": "1006SK032",
+     "kodZdroj": "SK032",
+     "nazovSk": "Banskobystrický kraj",
+     "nazovEn": "Region of Banská Bystrica",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 15,
+     "kod": "1006SK041",
+     "kodZdroj": "SK041",
+     "nazovSk": "Prešovský kraj",
+     "nazovEn": "Region of Prešov",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 16,
+     "kod": "1006SK042",
+     "kodZdroj": "SK042",
+     "nazovSk": "Košický kraj",
+     "nazovEn": "Region of Košice",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [
+    {
+     "id": 22,
+     "kod": "1009121",
+     "kodZdroj": "121",
+     "nazovSk": "Akciová spoločnosť",
+     "nazovEn": "Joint stock company",
+     "popisSk": "Akc. spol. Akciová spoločnosť",
+     "popisEn": "Joint stock company Joint stock company",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "datumUzavretia1Kolo": 1869688800000,
+   "datumVyhlasenia1Kolo": 1772319600000,
+   "sumaEu": 8763129.81,
+   "sumaSr": 1719020.19,
+   "druh": "VYZVA_21",
+   "vyhlasena": false,
+   "zrusena": false,
+   "zameranieProjektu": "NP_21",
+   "vyhlasovatel": {
+    "id": 382,
+    "kod": "21_SO_PSK_MDSR",
+    "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo dopravy SR",
+    "subjekt": {
+     "id": 100008,
+     "href": "/subjekt/id/100008",
+     "nazov": "Ministerstvo dopravy Slovenskej republiky",
+     "ico": "30416094",
+     "dic": "2020799209",
+     "platitelDph": true,
+     "podlaParagrafu": "§7a",
+     "icDph": "SK2020799209",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Námestie slobody",
+      "cislo": "2902/6",
+      "psc": "81005",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "poskytovatel": {
+    "id": 376,
+    "kod": "21_RO_PSK_MIRRISR",
+    "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+    "subjekt": {
+     "id": 102012,
+     "href": "/subjekt/id/102012",
+     "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+     "ico": "50349287",
+     "dic": "2120287004",
+     "platitelDph": true,
+     "podlaParagrafu": "§7",
+     "icDph": "SK2120287004",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Pribinova",
+      "cislo": "4195/25",
+      "psc": "81109",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "createdAt": 1772175350391,
+   "updatedAt": 1772175350502
+  },
+  {
+   "id": 82,
+   "href": "/planovanavyzva/id/82",
+   "kod": "2026/00004",
+   "nazovSk": "NP Monitorovanie a hodnotenie II. fáza",
+   "programSkratka": "PSK",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 33,
+     "href": "/specifickycielprogramu/id/33",
+     "kod": "401406E410",
+     "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 12,
+      "href": "/priorita/id/12",
+      "kod": "401406",
+      "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867956
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869696
+    }
+   ],
+   "opatrenie": [
+    {
+     "id": 154,
+     "href": "/opatrenie/id/154",
+     "kod": "401406E41000",
+     "nazovSk": "401406E41000",
+     "specifickyCielProgramu": {
+      "id": 33,
+      "href": "/specifickycielprogramu/id/33",
+      "kod": "401406E410",
+      "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "priorita": {
+       "id": 12,
+       "href": "/priorita/id/12",
+       "kod": "401406",
+       "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+       "program": {
+        "id": 1,
+        "href": "/program/id/1"
+       },
+       "createdAt": 1772540867956
+      },
+      "kategoriaRegionov": [
+       {
+        "id": 1,
+        "kod": "1033MRR",
+        "kodZdroj": "MRR",
+        "nazovSk": "Menej rozvinutý región",
+        "nazovEn": "less-developed regions",
+        "popisSk": "Menej rozvinutý región",
+        "popisEn": "less-developed regions",
+        "platnostOd": 725842800000
+       },
+       {
+        "id": 2,
+        "kod": "1033VRR",
+        "kodZdroj": "VRR",
+        "nazovSk": "Viac rozvinutý región",
+        "nazovEn": "more-developed regions",
+        "popisSk": "Viac rozvinutý región",
+        "popisEn": "more-developed regions",
+        "platnostOd": 725842800000
+       }
+      ],
+      "fond": {
+       "id": 7,
+       "kod": "1032ESF+",
+       "kodZdroj": "ESF+",
+       "nazovSk": "Európsky sociálny fond plus",
+       "nazovEn": "Európsky sociálny fond plus",
+       "popisSk": "Európsky sociálny fond plus",
+       "popisEn": "Európsky sociálny fond plus",
+       "platnostOd": 1668121200000
+      },
+      "technickaAsistencia": false,
+      "createdAt": 1772540869696
+     },
+     "createdAt": 1772540869710
+    }
+   ],
+   "miestoRealizacie": [
+    {
+     "id": 9,
+     "kod": "1006SK010",
+     "kodZdroj": "SK010",
+     "nazovSk": "Bratislavský kraj",
+     "nazovEn": "Region of Bratislava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 10,
+     "kod": "1006SK021",
+     "kodZdroj": "SK021",
+     "nazovSk": "Trnavský kraj",
+     "nazovEn": "Region of Trnava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 11,
+     "kod": "1006SK022",
+     "kodZdroj": "SK022",
+     "nazovSk": "Trenčiansky kraj",
+     "nazovEn": "Region of Trenčín",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 12,
+     "kod": "1006SK023",
+     "kodZdroj": "SK023",
+     "nazovSk": "Nitriansky kraj",
+     "nazovEn": "Region of Nitra",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 13,
+     "kod": "1006SK031",
+     "kodZdroj": "SK031",
+     "nazovSk": "Žilinský kraj",
+     "nazovEn": "Region of Žilina",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 14,
+     "kod": "1006SK032",
+     "kodZdroj": "SK032",
+     "nazovSk": "Banskobystrický kraj",
+     "nazovEn": "Region of Banská Bystrica",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 15,
+     "kod": "1006SK041",
+     "kodZdroj": "SK041",
+     "nazovSk": "Prešovský kraj",
+     "nazovEn": "Region of Prešov",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 16,
+     "kod": "1006SK042",
+     "kodZdroj": "SK042",
+     "nazovSk": "Košický kraj",
+     "nazovEn": "Region of Košice",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [
+    {
+     "id": 42,
+     "kod": "1009321",
+     "kodZdroj": "321",
+     "nazovSk": "Rozpočtová organizácia",
+     "nazovEn": "Budgetary organization",
+     "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+     "popisEn": "Budgetary organization Budgetary organization",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "datumUzavretia1Kolo": 1796079600000,
+   "datumVyhlasenia1Kolo": 1788213600000,
+   "sumaEu": 2190000.0,
+   "druh": "VYZVA_21",
+   "vyhlasena": false,
+   "zrusena": false,
+   "zameranieProjektu": "NP_21",
+   "vyhlasovatel": {
+    "id": 401,
+    "kod": "21_SO_PSK_UVSR",
+    "nazov": "Sprostredkovateľský orgán PSK – Úrad vlády SR",
+    "subjekt": {
+     "id": 100000,
+     "href": "/subjekt/id/100000",
+     "nazov": "Úrad vlády Slovenskej republiky",
+     "ico": "00151513",
+     "dic": "2020845057",
+     "platitelDph": true,
+     "podlaParagrafu": "§7",
+     "icDph": "SK2020845057",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Námestie slobody",
+      "cislo": "2899/1",
+      "psc": "81370",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "poskytovatel": {
+    "id": 376,
+    "kod": "21_RO_PSK_MIRRISR",
+    "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+    "subjekt": {
+     "id": 102012,
+     "href": "/subjekt/id/102012",
+     "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+     "ico": "50349287",
+     "dic": "2120287004",
+     "platitelDph": true,
+     "podlaParagrafu": "§7",
+     "icDph": "SK2120287004",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Pribinova",
+      "cislo": "4195/25",
+      "psc": "81109",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "createdAt": 1771837355278,
+   "updatedAt": 1771837355336
+  },
+  {
+   "id": 81,
+   "href": "/planovanavyzva/id/81",
+   "kod": "2026/00003",
+   "nazovSk": "NP Sprievodné asistenčné služby pre udržateľnosť bývania",
+   "programSkratka": "PSK",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 33,
+     "href": "/specifickycielprogramu/id/33",
+     "kod": "401406E410",
+     "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 12,
+      "href": "/priorita/id/12",
+      "kod": "401406",
+      "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867956
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869696
+    }
+   ],
+   "opatrenie": [
+    {
+     "id": 154,
+     "href": "/opatrenie/id/154",
+     "kod": "401406E41000",
+     "nazovSk": "401406E41000",
+     "specifickyCielProgramu": {
+      "id": 33,
+      "href": "/specifickycielprogramu/id/33",
+      "kod": "401406E410",
+      "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "priorita": {
+       "id": 12,
+       "href": "/priorita/id/12",
+       "kod": "401406",
+       "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+       "program": {
+        "id": 1,
+        "href": "/program/id/1"
+       },
+       "createdAt": 1772540867956
+      },
+      "kategoriaRegionov": [
+       {
+        "id": 1,
+        "kod": "1033MRR",
+        "kodZdroj": "MRR",
+        "nazovSk": "Menej rozvinutý región",
+        "nazovEn": "less-developed regions",
+        "popisSk": "Menej rozvinutý región",
+        "popisEn": "less-developed regions",
+        "platnostOd": 725842800000
+       },
+       {
+        "id": 2,
+        "kod": "1033VRR",
+        "kodZdroj": "VRR",
+        "nazovSk": "Viac rozvinutý región",
+        "nazovEn": "more-developed regions",
+        "popisSk": "Viac rozvinutý región",
+        "popisEn": "more-developed regions",
+        "platnostOd": 725842800000
+       }
+      ],
+      "fond": {
+       "id": 7,
+       "kod": "1032ESF+",
+       "kodZdroj": "ESF+",
+       "nazovSk": "Európsky sociálny fond plus",
+       "nazovEn": "Európsky sociálny fond plus",
+       "popisSk": "Európsky sociálny fond plus",
+       "popisEn": "Európsky sociálny fond plus",
+       "platnostOd": 1668121200000
+      },
+      "technickaAsistencia": false,
+      "createdAt": 1772540869696
+     },
+     "createdAt": 1772540869710
+    }
+   ],
+   "miestoRealizacie": [
+    {
+     "id": 10,
+     "kod": "1006SK021",
+     "kodZdroj": "SK021",
+     "nazovSk": "Trnavský kraj",
+     "nazovEn": "Region of Trnava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 11,
+     "kod": "1006SK022",
+     "kodZdroj": "SK022",
+     "nazovSk": "Trenčiansky kraj",
+     "nazovEn": "Region of Trenčín",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 12,
+     "kod": "1006SK023",
+     "kodZdroj": "SK023",
+     "nazovSk": "Nitriansky kraj",
+     "nazovEn": "Region of Nitra",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 13,
+     "kod": "1006SK031",
+     "kodZdroj": "SK031",
+     "nazovSk": "Žilinský kraj",
+     "nazovEn": "Region of Žilina",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 14,
+     "kod": "1006SK032",
+     "kodZdroj": "SK032",
+     "nazovSk": "Banskobystrický kraj",
+     "nazovEn": "Region of Banská Bystrica",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 15,
+     "kod": "1006SK041",
+     "kodZdroj": "SK041",
+     "nazovSk": "Prešovský kraj",
+     "nazovEn": "Region of Prešov",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 16,
+     "kod": "1006SK042",
+     "kodZdroj": "SK042",
+     "nazovSk": "Košický kraj",
+     "nazovEn": "Region of Košice",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [
+    {
+     "id": 200012,
+     "kod": "1009125",
+     "kodZdroj": "125",
+     "nazovSk": "Jednoduchá spoločnosť na akcie",
+     "nazovEn": "Simple joint stock company",
+     "popisSk": "Jednoduchá spoločnosť na akcie",
+     "popisEn": "Simple joint stock company",
+     "platnostOd": 1483225200000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "datumUzavretia1Kolo": 1796079600000,
+   "datumVyhlasenia1Kolo": 1788213600000,
+   "sumaEu": 4000000.0,
+   "druh": "VYZVA_21",
+   "vyhlasena": false,
+   "zrusena": false,
+   "zameranieProjektu": "NP_21",
+   "vyhlasovatel": {
+    "id": 401,
+    "kod": "21_SO_PSK_UVSR",
+    "nazov": "Sprostredkovateľský orgán PSK – Úrad vlády SR",
+    "subjekt": {
+     "id": 100000,
+     "href": "/subjekt/id/100000",
+     "nazov": "Úrad vlády Slovenskej republiky",
+     "ico": "00151513",
+     "dic": "2020845057",
+     "platitelDph": true,
+     "podlaParagrafu": "§7",
+     "icDph": "SK2020845057",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Námestie slobody",
+      "cislo": "2899/1",
+      "psc": "81370",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "poskytovatel": {
+    "id": 376,
+    "kod": "21_RO_PSK_MIRRISR",
+    "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+    "subjekt": {
+     "id": 102012,
+     "href": "/subjekt/id/102012",
+     "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+     "ico": "50349287",
+     "dic": "2120287004",
+     "platitelDph": true,
+     "podlaParagrafu": "§7",
+     "icDph": "SK2120287004",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Pribinova",
+      "cislo": "4195/25",
+      "psc": "81109",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "createdAt": 1771837243774,
+   "updatedAt": 1771837243844
+  },
+  {
+   "id": 80,
+   "href": "/planovanavyzva/id/80",
+   "kod": "2026/00002",
+   "nazovSk": "Miestne obecné služby",
+   "programSkratka": "PSK",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 33,
+     "href": "/specifickycielprogramu/id/33",
+     "kod": "401406E410",
+     "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 12,
+      "href": "/priorita/id/12",
+      "kod": "401406",
+      "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867956
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869696
+    }
+   ],
+   "opatrenie": [
+    {
+     "id": 154,
+     "href": "/opatrenie/id/154",
+     "kod": "401406E41000",
+     "nazovSk": "401406E41000",
+     "specifickyCielProgramu": {
+      "id": 33,
+      "href": "/specifickycielprogramu/id/33",
+      "kod": "401406E410",
+      "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "priorita": {
+       "id": 12,
+       "href": "/priorita/id/12",
+       "kod": "401406",
+       "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+       "program": {
+        "id": 1,
+        "href": "/program/id/1"
+       },
+       "createdAt": 1772540867956
+      },
+      "kategoriaRegionov": [
+       {
+        "id": 1,
+        "kod": "1033MRR",
+        "kodZdroj": "MRR",
+        "nazovSk": "Menej rozvinutý región",
+        "nazovEn": "less-developed regions",
+        "popisSk": "Menej rozvinutý región",
+        "popisEn": "less-developed regions",
+        "platnostOd": 725842800000
+       },
+       {
+        "id": 2,
+        "kod": "1033VRR",
+        "kodZdroj": "VRR",
+        "nazovSk": "Viac rozvinutý región",
+        "nazovEn": "more-developed regions",
+        "popisSk": "Viac rozvinutý región",
+        "popisEn": "more-developed regions",
+        "platnostOd": 725842800000
+       }
+      ],
+      "fond": {
+       "id": 7,
+       "kod": "1032ESF+",
+       "kodZdroj": "ESF+",
+       "nazovSk": "Európsky sociálny fond plus",
+       "nazovEn": "Európsky sociálny fond plus",
+       "popisSk": "Európsky sociálny fond plus",
+       "popisEn": "Európsky sociálny fond plus",
+       "platnostOd": 1668121200000
+      },
+      "technickaAsistencia": false,
+      "createdAt": 1772540869696
+     },
+     "createdAt": 1772540869710
+    }
+   ],
+   "miestoRealizacie": [
+    {
+     "id": 9,
+     "kod": "1006SK010",
+     "kodZdroj": "SK010",
+     "nazovSk": "Bratislavský kraj",
+     "nazovEn": "Region of Bratislava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 10,
+     "kod": "1006SK021",
+     "kodZdroj": "SK021",
+     "nazovSk": "Trnavský kraj",
+     "nazovEn": "Region of Trnava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 11,
+     "kod": "1006SK022",
+     "kodZdroj": "SK022",
+     "nazovSk": "Trenčiansky kraj",
+     "nazovEn": "Region of Trenčín",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 12,
+     "kod": "1006SK023",
+     "kodZdroj": "SK023",
+     "nazovSk": "Nitriansky kraj",
+     "nazovEn": "Region of Nitra",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 13,
+     "kod": "1006SK031",
+     "kodZdroj": "SK031",
+     "nazovSk": "Žilinský kraj",
+     "nazovEn": "Region of Žilina",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 14,
+     "kod": "1006SK032",
+     "kodZdroj": "SK032",
+     "nazovSk": "Banskobystrický kraj",
+     "nazovEn": "Region of Banská Bystrica",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 15,
+     "kod": "1006SK041",
+     "kodZdroj": "SK041",
+     "nazovSk": "Prešovský kraj",
+     "nazovEn": "Region of Prešov",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 16,
+     "kod": "1006SK042",
+     "kodZdroj": "SK042",
+     "nazovSk": "Košický kraj",
+     "nazovEn": "Region of Košice",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [
+    {
+     "id": 92,
+     "kod": "1009801",
+     "kodZdroj": "801",
+     "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+     "nazovEn": "Municipality (municipal office)",
+     "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+     "popisEn": "Municipality Municipality (municipal office)",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "datumVyhlasenia1Kolo": 1780264800000,
+   "sumaEu": 15000000.0,
+   "druh": "VYZVA_21",
+   "vyhlasena": false,
+   "zrusena": false,
+   "zameranieProjektu": "DOPYT_21",
+   "vyhlasovatel": {
+    "id": 401,
+    "kod": "21_SO_PSK_UVSR",
+    "nazov": "Sprostredkovateľský orgán PSK – Úrad vlády SR",
+    "subjekt": {
+     "id": 100000,
+     "href": "/subjekt/id/100000",
+     "nazov": "Úrad vlády Slovenskej republiky",
+     "ico": "00151513",
+     "dic": "2020845057",
+     "platitelDph": true,
+     "podlaParagrafu": "§7",
+     "icDph": "SK2020845057",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Námestie slobody",
+      "cislo": "2899/1",
+      "psc": "81370",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "poskytovatel": {
+    "id": 376,
+    "kod": "21_RO_PSK_MIRRISR",
+    "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+    "subjekt": {
+     "id": 102012,
+     "href": "/subjekt/id/102012",
+     "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+     "ico": "50349287",
+     "dic": "2120287004",
+     "platitelDph": true,
+     "podlaParagrafu": "§7",
+     "icDph": "SK2120287004",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Pribinova",
+      "cislo": "4195/25",
+      "psc": "81109",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "createdAt": 1771835391587,
+   "updatedAt": 1771835391638
+  },
+  {
+   "id": 79,
+   "href": "/planovanavyzva/id/79",
+   "kod": "2026/00001",
+   "nazovSk": "Inkluzívne opatrenia proti diskriminácii a segregácii",
+   "programSkratka": "PSK",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 33,
+     "href": "/specifickycielprogramu/id/33",
+     "kod": "401406E410",
+     "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 12,
+      "href": "/priorita/id/12",
+      "kod": "401406",
+      "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867956
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869696
+    }
+   ],
+   "opatrenie": [
+    {
+     "id": 154,
+     "href": "/opatrenie/id/154",
+     "kod": "401406E41000",
+     "nazovSk": "401406E41000",
+     "specifickyCielProgramu": {
+      "id": 33,
+      "href": "/specifickycielprogramu/id/33",
+      "kod": "401406E410",
+      "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "priorita": {
+       "id": 12,
+       "href": "/priorita/id/12",
+       "kod": "401406",
+       "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+       "program": {
+        "id": 1,
+        "href": "/program/id/1"
+       },
+       "createdAt": 1772540867956
+      },
+      "kategoriaRegionov": [
+       {
+        "id": 1,
+        "kod": "1033MRR",
+        "kodZdroj": "MRR",
+        "nazovSk": "Menej rozvinutý región",
+        "nazovEn": "less-developed regions",
+        "popisSk": "Menej rozvinutý región",
+        "popisEn": "less-developed regions",
+        "platnostOd": 725842800000
+       },
+       {
+        "id": 2,
+        "kod": "1033VRR",
+        "kodZdroj": "VRR",
+        "nazovSk": "Viac rozvinutý región",
+        "nazovEn": "more-developed regions",
+        "popisSk": "Viac rozvinutý región",
+        "popisEn": "more-developed regions",
+        "platnostOd": 725842800000
+       }
+      ],
+      "fond": {
+       "id": 7,
+       "kod": "1032ESF+",
+       "kodZdroj": "ESF+",
+       "nazovSk": "Európsky sociálny fond plus",
+       "nazovEn": "Európsky sociálny fond plus",
+       "popisSk": "Európsky sociálny fond plus",
+       "popisEn": "Európsky sociálny fond plus",
+       "platnostOd": 1668121200000
+      },
+      "technickaAsistencia": false,
+      "createdAt": 1772540869696
+     },
+     "createdAt": 1772540869710
+    }
+   ],
+   "miestoRealizacie": [
+    {
+     "id": 9,
+     "kod": "1006SK010",
+     "kodZdroj": "SK010",
+     "nazovSk": "Bratislavský kraj",
+     "nazovEn": "Region of Bratislava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 10,
+     "kod": "1006SK021",
+     "kodZdroj": "SK021",
+     "nazovSk": "Trnavský kraj",
+     "nazovEn": "Region of Trnava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 11,
+     "kod": "1006SK022",
+     "kodZdroj": "SK022",
+     "nazovSk": "Trenčiansky kraj",
+     "nazovEn": "Region of Trenčín",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 12,
+     "kod": "1006SK023",
+     "kodZdroj": "SK023",
+     "nazovSk": "Nitriansky kraj",
+     "nazovEn": "Region of Nitra",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 13,
+     "kod": "1006SK031",
+     "kodZdroj": "SK031",
+     "nazovSk": "Žilinský kraj",
+     "nazovEn": "Region of Žilina",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 14,
+     "kod": "1006SK032",
+     "kodZdroj": "SK032",
+     "nazovSk": "Banskobystrický kraj",
+     "nazovEn": "Region of Banská Bystrica",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 15,
+     "kod": "1006SK041",
+     "kodZdroj": "SK041",
+     "nazovSk": "Prešovský kraj",
+     "nazovEn": "Region of Prešov",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 16,
+     "kod": "1006SK042",
+     "kodZdroj": "SK042",
+     "nazovSk": "Košický kraj",
+     "nazovEn": "Region of Košice",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [
+    {
+     "id": 21,
+     "kod": "1009119",
+     "kodZdroj": "119",
+     "nazovSk": "Nezisková organizácia",
+     "nazovEn": "Not profitable organization",
+     "popisSk": "Nezisková organizácia Nezisková organizácia",
+     "popisEn": "Not profit.organization Not profitable organization",
+     "platnostOd": 870386400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 85,
+     "kod": "1009721",
+     "kodZdroj": "721",
+     "nazovSk": "Cirkevná organizácia",
+     "nazovEn": "Ecclesiastical organization",
+     "popisSk": "Cirkevná organizácia Cirkevná organizácia",
+     "popisEn": "Ecclesiastical organiz. Ecclesiastical organization",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "datumVyhlasenia1Kolo": 1780264800000,
+   "sumaEu": 4000000.0,
+   "druh": "VYZVA_21",
+   "vyhlasena": false,
+   "zrusena": false,
+   "zameranieProjektu": "DOPYT_21",
+   "vyhlasovatel": {
+    "id": 401,
+    "kod": "21_SO_PSK_UVSR",
+    "nazov": "Sprostredkovateľský orgán PSK – Úrad vlády SR",
+    "subjekt": {
+     "id": 100000,
+     "href": "/subjekt/id/100000",
+     "nazov": "Úrad vlády Slovenskej republiky",
+     "ico": "00151513",
+     "dic": "2020845057",
+     "platitelDph": true,
+     "podlaParagrafu": "§7",
+     "icDph": "SK2020845057",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Námestie slobody",
+      "cislo": "2899/1",
+      "psc": "81370",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "poskytovatel": {
+    "id": 376,
+    "kod": "21_RO_PSK_MIRRISR",
+    "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+    "subjekt": {
+     "id": 102012,
+     "href": "/subjekt/id/102012",
+     "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+     "ico": "50349287",
+     "dic": "2120287004",
+     "platitelDph": true,
+     "podlaParagrafu": "§7",
+     "icDph": "SK2120287004",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Pribinova",
+      "cislo": "4195/25",
+      "psc": "81109",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "createdAt": 1771834201607,
+   "updatedAt": 1771834201682
+  },
+  {
+   "id": 57,
+   "href": "/planovanavyzva/id/57",
+   "kod": "2025/00012",
+   "nazovSk": "Zmiernenie následkov vyvolaných klimatickou zmenou",
+   "programSkratka": "PRH SR",
+   "program": {
+    "id": 7,
+    "href": "/program/id/7",
+    "kod": "402000",
+    "nazovSk": "Program Rybné hospodárstvo SR",
+    "nazovEn": "Programme Slovakia - EMFAF",
+    "skratka": "PRH SR",
+    "sumaEu": 15225428.0,
+    "sumaSr": 6525185.0,
+    "sumaSpolu": 21750613.0,
+    "typProgramu": {
+     "typ": "RYBY",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK14MFPR001",
+    "riadiaciOrgan": {
+     "id": 413
+    },
+    "createdAt": 1759305536159,
+    "updatedAt": 1759305536398
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 92,
+     "href": "/specifickycielprogramu/id/92",
+     "kod": "4022210021",
+     "nazovSk": "2.1 Podpora udržateľných akvakultúrnych činností, najmä posilnenie konkurencieschopnosti akvakultúrnej produkcie pri súčasnom zabezpečení dlhodobej environmentálnej udržateľnosti týchto činností",
+     "nazovDe": "2.1 Förderung nachhaltiger Aquakulturtätigkeiten, insbesondere Stärkung der Wettbewerbsfähigkeit der Aquakulturproduktion bei gleichzeitiger Sicherstellung der langfristigen Umweltverträglichkeit dieser Tätigkeiten",
+     "nazovEn": "2.1 Promoting sustainable aquaculture activities, especially strengthening the competitiveness of aquaculture production, while ensuring that the activities are environmentally sustainable in the long term",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "priorita": {
+      "id": 37,
+      "href": "/priorita/id/37",
+      "kod": "402221",
+      "nazovSk": "2. Podpora udržateľných akvakultúrnych činností a spracovania a uvádzania produktov rybolovu a akvakultúry na trh, čím sa prispeje k potravinovej bezpečnosti v Únii (ŠC 2.1)",
+      "nazovDe": "2. Förderung nachhaltiger Aquakulturtätigkeiten sowie der Verarbeitung und Vermarktung von Fischerei- und Aquakulturerzeugnissen als Beitrag zur Ernährungssicherheit in der Union",
+      "nazovEn": "2. Fostering sustainable aquaculture activities and processing and marketing of fishery and aquaculture products, thus contributing to food security in the Union",
+      "program": {
+       "id": 7,
+       "href": "/program/id/7"
+      },
+      "createdAt": 1759305536534
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 200000,
+       "kod": "1033N/A",
+       "kodZdroj": "N/A",
+       "nazovSk": "Bez kategórie regiónu",
+       "popisSk": "Bez kategórie regiónu",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 10,
+      "kod": "1032ENRAF",
+      "kodZdroj": "ENRAF",
+      "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1759305536663
+    }
+   ],
+   "opatrenie": [],
+   "miestoRealizacie": [
+    {
+     "id": 9,
+     "kod": "1006SK010",
+     "kodZdroj": "SK010",
+     "nazovSk": "Bratislavský kraj",
+     "nazovEn": "Region of Bratislava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 10,
+     "kod": "1006SK021",
+     "kodZdroj": "SK021",
+     "nazovSk": "Trnavský kraj",
+     "nazovEn": "Region of Trnava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 11,
+     "kod": "1006SK022",
+     "kodZdroj": "SK022",
+     "nazovSk": "Trenčiansky kraj",
+     "nazovEn": "Region of Trenčín",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 12,
+     "kod": "1006SK023",
+     "kodZdroj": "SK023",
+     "nazovSk": "Nitriansky kraj",
+     "nazovEn": "Region of Nitra",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 13,
+     "kod": "1006SK031",
+     "kodZdroj": "SK031",
+     "nazovSk": "Žilinský kraj",
+     "nazovEn": "Region of Žilina",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 14,
+     "kod": "1006SK032",
+     "kodZdroj": "SK032",
+     "nazovSk": "Banskobystrický kraj",
+     "nazovEn": "Region of Banská Bystrica",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 15,
+     "kod": "1006SK041",
+     "kodZdroj": "SK041",
+     "nazovSk": "Prešovský kraj",
+     "nazovEn": "Region of Prešov",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 16,
+     "kod": "1006SK042",
+     "kodZdroj": "SK042",
+     "nazovSk": "Košický kraj",
+     "nazovEn": "Region of Košice",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [],
+   "datumVyhlasenia1Kolo": 1751320800000,
+   "sumaEu": 600000.0,
+   "druh": "VYZVA_21",
+   "vyhlasena": false,
+   "zrusena": false,
+   "zameranieProjektu": "NP_21",
+   "vyhlasovatel": {
+    "id": 413,
+    "kod": "21_RO_PRH",
+    "nazov": "Riadiaci orgán Program Rybné hospodárstvo SR (2021-2027)",
+    "subjekt": {
+     "id": 100012,
+     "href": "/subjekt/id/100012",
+     "nazov": "Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky",
+     "ico": "00156621",
+     "dic": "2021291382",
+     "platitelDph": false,
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Dobrovičova",
+      "cislo": "12",
+      "psc": "81266",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "poskytovatel": {
+    "id": 413,
+    "kod": "21_RO_PRH",
+    "nazov": "Riadiaci orgán Program Rybné hospodárstvo SR (2021-2027)",
+    "subjekt": {
+     "id": 100012,
+     "href": "/subjekt/id/100012",
+     "nazov": "Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky",
+     "ico": "00156621",
+     "dic": "2021291382",
+     "platitelDph": false,
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Dobrovičova",
+      "cislo": "12",
+      "psc": "81266",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "createdAt": 1744234104920,
+   "updatedAt": 1744234311273
+  },
+  {
+   "id": 35,
+   "href": "/planovanavyzva/id/35",
+   "kod": "2024/00035",
+   "nazovSk": "NP Zamestnanosť  Oblasť zvýšenia zamestnanosti Rómov",
+   "programSkratka": "PSK",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 33,
+     "href": "/specifickycielprogramu/id/33",
+     "kod": "401406E410",
+     "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 12,
+      "href": "/priorita/id/12",
+      "kod": "401406",
+      "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867956
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869696
+    }
+   ],
+   "opatrenie": [
+    {
+     "id": 154,
+     "href": "/opatrenie/id/154",
+     "kod": "401406E41000",
+     "nazovSk": "401406E41000",
+     "specifickyCielProgramu": {
+      "id": 33,
+      "href": "/specifickycielprogramu/id/33",
+      "kod": "401406E410",
+      "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "priorita": {
+       "id": 12,
+       "href": "/priorita/id/12",
+       "kod": "401406",
+       "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+       "program": {
+        "id": 1,
+        "href": "/program/id/1"
+       },
+       "createdAt": 1772540867956
+      },
+      "kategoriaRegionov": [
+       {
+        "id": 1,
+        "kod": "1033MRR",
+        "kodZdroj": "MRR",
+        "nazovSk": "Menej rozvinutý región",
+        "nazovEn": "less-developed regions",
+        "popisSk": "Menej rozvinutý región",
+        "popisEn": "less-developed regions",
+        "platnostOd": 725842800000
+       },
+       {
+        "id": 2,
+        "kod": "1033VRR",
+        "kodZdroj": "VRR",
+        "nazovSk": "Viac rozvinutý región",
+        "nazovEn": "more-developed regions",
+        "popisSk": "Viac rozvinutý región",
+        "popisEn": "more-developed regions",
+        "platnostOd": 725842800000
+       }
+      ],
+      "fond": {
+       "id": 7,
+       "kod": "1032ESF+",
+       "kodZdroj": "ESF+",
+       "nazovSk": "Európsky sociálny fond plus",
+       "nazovEn": "Európsky sociálny fond plus",
+       "popisSk": "Európsky sociálny fond plus",
+       "popisEn": "Európsky sociálny fond plus",
+       "platnostOd": 1668121200000
+      },
+      "technickaAsistencia": false,
+      "createdAt": 1772540869696
+     },
+     "createdAt": 1772540869710
+    }
+   ],
+   "miestoRealizacie": [
+    {
+     "id": 10,
+     "kod": "1006SK021",
+     "kodZdroj": "SK021",
+     "nazovSk": "Trnavský kraj",
+     "nazovEn": "Region of Trnava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 11,
+     "kod": "1006SK022",
+     "kodZdroj": "SK022",
+     "nazovSk": "Trenčiansky kraj",
+     "nazovEn": "Region of Trenčín",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 12,
+     "kod": "1006SK023",
+     "kodZdroj": "SK023",
+     "nazovSk": "Nitriansky kraj",
+     "nazovEn": "Region of Nitra",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 13,
+     "kod": "1006SK031",
+     "kodZdroj": "SK031",
+     "nazovSk": "Žilinský kraj",
+     "nazovEn": "Region of Žilina",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 14,
+     "kod": "1006SK032",
+     "kodZdroj": "SK032",
+     "nazovSk": "Banskobystrický kraj",
+     "nazovEn": "Region of Banská Bystrica",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 15,
+     "kod": "1006SK041",
+     "kodZdroj": "SK041",
+     "nazovSk": "Prešovský kraj",
+     "nazovEn": "Region of Prešov",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 16,
+     "kod": "1006SK042",
+     "kodZdroj": "SK042",
+     "nazovSk": "Košický kraj",
+     "nazovEn": "Region of Košice",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [
+    {
+     "id": 42,
+     "kod": "1009321",
+     "kodZdroj": "321",
+     "nazovSk": "Rozpočtová organizácia",
+     "nazovEn": "Budgetary organization",
+     "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+     "popisEn": "Budgetary organization Budgetary organization",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "datumUzavretia1Kolo": 1780264800000,
+   "datumVyhlasenia1Kolo": 1772319600000,
+   "sumaEu": 15000000.0,
+   "druh": "VYZVA_21",
+   "vyhlasena": false,
+   "zrusena": false,
+   "zameranieProjektu": "NP_21",
+   "vyhlasovatel": {
+    "id": 401,
+    "kod": "21_SO_PSK_UVSR",
+    "nazov": "Sprostredkovateľský orgán PSK – Úrad vlády SR",
+    "subjekt": {
+     "id": 100000,
+     "href": "/subjekt/id/100000",
+     "nazov": "Úrad vlády Slovenskej republiky",
+     "ico": "00151513",
+     "dic": "2020845057",
+     "platitelDph": true,
+     "podlaParagrafu": "§7",
+     "icDph": "SK2020845057",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Námestie slobody",
+      "cislo": "2899/1",
+      "psc": "81370",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "poskytovatel": {
+    "id": 376,
+    "kod": "21_RO_PSK_MIRRISR",
+    "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+    "subjekt": {
+     "id": 102012,
+     "href": "/subjekt/id/102012",
+     "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+     "ico": "50349287",
+     "dic": "2120287004",
+     "platitelDph": true,
+     "podlaParagrafu": "§7",
+     "icDph": "SK2120287004",
+     "pravnaForma": {
+      "id": 42,
+      "kod": "1009321",
+      "kodZdroj": "321",
+      "nazovSk": "Rozpočtová organizácia",
+      "nazovEn": "Budgetary organization",
+      "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+      "popisEn": "Budgetary organization Budgetary organization",
+      "platnostOd": 662684400000,
+      "statPlatnosti": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     },
+     "adresa": {
+      "ulica": "Pribinova",
+      "cislo": "4195/25",
+      "psc": "81109",
+      "obec": "Bratislava - mestská časť Staré Mesto",
+      "stat": {
+       "id": 210,
+       "kod": "1012SK",
+       "kodZdroj": "703",
+       "nazovSk": "Slovensko",
+       "nazovEn": "Slovakia",
+       "popisSk": "Slovenská republika",
+       "popisEn": "Slovak Republic",
+       "platnostOd": 725842800000,
+       "lokalizacia": "SLOVENSKA_REPUBLIKA"
+      }
+     }
+    }
+   },
+   "createdAt": 1731330725627,
+   "updatedAt": 1765890603942
+  }
+ ]
+}

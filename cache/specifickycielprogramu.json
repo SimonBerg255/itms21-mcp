@@ -1,0 +1,6025 @@
+{
+ "offset": 0,
+ "limit": -1,
+ "size": 87,
+ "results": [
+  {
+   "id": 72,
+   "href": "/specifickycielprogramu/id/72",
+   "kod": "40803000TA",
+   "nazovSk": "Technická pomoc - BMVI",
+   "nazovEn": "Technical assistance - BMVI",
+   "program": {
+    "id": 4,
+    "href": "/program/id/4",
+    "kod": "408030",
+    "nazovSk": "Nástroj finančnej podpory na riadenie hraníc a vízovú politiku",
+    "skratka": "BMVI",
+    "sumaEu": 29769482.5,
+    "sumaSr": 5278477.42,
+    "sumaSpolu": 35047959.92,
+    "typProgramu": {
+     "typ": "VF",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": false,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK65BVPR001",
+    "riadiaciOrgan": {
+     "id": 399
+    },
+    "createdAt": 1736862461398,
+    "updatedAt": 1736862461419
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 13,
+    "kod": "1032BMVI",
+    "kodZdroj": "BMVI",
+    "nazovSk": "Nástroj finančnej podpory na riadenie hraníc a vízovú politiku",
+    "nazovEn": "Nástroj finančnej podpory na riadenie hraníc a vízovú politiku",
+    "popisSk": "Nástroj finančnej podpory na riadenie hraníc a vízovú politiku",
+    "popisEn": "Nástroj finančnej podpory na riadenie hraníc a vízovú politiku",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": true,
+   "createdAt": 1736862461540
+  },
+  {
+   "id": 71,
+   "href": "/specifickycielprogramu/id/71",
+   "kod": "4080300002",
+   "nazovSk": "Spoločná vízová politika",
+   "nazovEn": "Common visa policy",
+   "program": {
+    "id": 4,
+    "href": "/program/id/4",
+    "kod": "408030",
+    "nazovSk": "Nástroj finančnej podpory na riadenie hraníc a vízovú politiku",
+    "skratka": "BMVI",
+    "sumaEu": 29769482.5,
+    "sumaSr": 5278477.42,
+    "sumaSpolu": 35047959.92,
+    "typProgramu": {
+     "typ": "VF",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": false,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK65BVPR001",
+    "riadiaciOrgan": {
+     "id": 399
+    },
+    "createdAt": 1736862461398,
+    "updatedAt": 1736862461419
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 13,
+    "kod": "1032BMVI",
+    "kodZdroj": "BMVI",
+    "nazovSk": "Nástroj finančnej podpory na riadenie hraníc a vízovú politiku",
+    "nazovEn": "Nástroj finančnej podpory na riadenie hraníc a vízovú politiku",
+    "popisSk": "Nástroj finančnej podpory na riadenie hraníc a vízovú politiku",
+    "popisEn": "Nástroj finančnej podpory na riadenie hraníc a vízovú politiku",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1736862461508
+  },
+  {
+   "id": 70,
+   "href": "/specifickycielprogramu/id/70",
+   "kod": "4080300001",
+   "nazovSk": "Európske integrované riadenie hraníc",
+   "nazovEn": "European integrated border management",
+   "program": {
+    "id": 4,
+    "href": "/program/id/4",
+    "kod": "408030",
+    "nazovSk": "Nástroj finančnej podpory na riadenie hraníc a vízovú politiku",
+    "skratka": "BMVI",
+    "sumaEu": 29769482.5,
+    "sumaSr": 5278477.42,
+    "sumaSpolu": 35047959.92,
+    "typProgramu": {
+     "typ": "VF",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": false,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK65BVPR001",
+    "riadiaciOrgan": {
+     "id": 399
+    },
+    "createdAt": 1736862461398,
+    "updatedAt": 1736862461419
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 13,
+    "kod": "1032BMVI",
+    "kodZdroj": "BMVI",
+    "nazovSk": "Nástroj finančnej podpory na riadenie hraníc a vízovú politiku",
+    "nazovEn": "Nástroj finančnej podpory na riadenie hraníc a vízovú politiku",
+    "popisSk": "Nástroj finančnej podpory na riadenie hraníc a vízovú politiku",
+    "popisEn": "Nástroj finančnej podpory na riadenie hraníc a vízovú politiku",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1736862461456
+  },
+  {
+   "id": 76,
+   "href": "/specifickycielprogramu/id/76",
+   "kod": "40802000TA",
+   "nazovSk": "Technická pomoc - ISF",
+   "nazovEn": "Technical assistance - BMVI",
+   "program": {
+    "id": 5,
+    "href": "/program/id/5",
+    "kod": "408020",
+    "nazovSk": "Fond pre vnútornú bezpečnosť",
+    "nazovEn": "Internal Security Fund",
+    "skratka": "ISF",
+    "sumaEu": 34534751.0,
+    "sumaSr": 9476651.26,
+    "sumaSpolu": 44011402.26,
+    "typProgramu": {
+     "typ": "VF",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": false,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK65ISPR001",
+    "riadiaciOrgan": {
+     "id": 399
+    },
+    "createdAt": 1719302268533,
+    "updatedAt": 1719302268557
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 12,
+    "kod": "1032ISF",
+    "kodZdroj": "ISF",
+    "nazovSk": "Fond pre vnútornú bezpečnosť",
+    "nazovEn": "Fond pre vnútornú bezpečnosť",
+    "popisSk": "Fond pre vnútornú bezpečnosť",
+    "popisEn": "Fond pre vnútornú bezpečnosť",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": true,
+   "createdAt": 1719302268692
+  },
+  {
+   "id": 75,
+   "href": "/specifickycielprogramu/id/75",
+   "kod": "4080200003",
+   "nazovSk": "Predchádzanie a boj proti trestnej činnosti",
+   "nazovEn": "Preventing and combating crime",
+   "program": {
+    "id": 5,
+    "href": "/program/id/5",
+    "kod": "408020",
+    "nazovSk": "Fond pre vnútornú bezpečnosť",
+    "nazovEn": "Internal Security Fund",
+    "skratka": "ISF",
+    "sumaEu": 34534751.0,
+    "sumaSr": 9476651.26,
+    "sumaSpolu": 44011402.26,
+    "typProgramu": {
+     "typ": "VF",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": false,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK65ISPR001",
+    "riadiaciOrgan": {
+     "id": 399
+    },
+    "createdAt": 1719302268533,
+    "updatedAt": 1719302268557
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 12,
+    "kod": "1032ISF",
+    "kodZdroj": "ISF",
+    "nazovSk": "Fond pre vnútornú bezpečnosť",
+    "nazovEn": "Fond pre vnútornú bezpečnosť",
+    "popisSk": "Fond pre vnútornú bezpečnosť",
+    "popisEn": "Fond pre vnútornú bezpečnosť",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1719302268667,
+   "updatedAt": 1719302741388
+  },
+  {
+   "id": 74,
+   "href": "/specifickycielprogramu/id/74",
+   "kod": "4080200002",
+   "nazovSk": "Cezhraničná spolupráca",
+   "nazovEn": "Cross-border cooperation",
+   "program": {
+    "id": 5,
+    "href": "/program/id/5",
+    "kod": "408020",
+    "nazovSk": "Fond pre vnútornú bezpečnosť",
+    "nazovEn": "Internal Security Fund",
+    "skratka": "ISF",
+    "sumaEu": 34534751.0,
+    "sumaSr": 9476651.26,
+    "sumaSpolu": 44011402.26,
+    "typProgramu": {
+     "typ": "VF",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": false,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK65ISPR001",
+    "riadiaciOrgan": {
+     "id": 399
+    },
+    "createdAt": 1719302268533,
+    "updatedAt": 1719302268557
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 12,
+    "kod": "1032ISF",
+    "kodZdroj": "ISF",
+    "nazovSk": "Fond pre vnútornú bezpečnosť",
+    "nazovEn": "Fond pre vnútornú bezpečnosť",
+    "popisSk": "Fond pre vnútornú bezpečnosť",
+    "popisEn": "Fond pre vnútornú bezpečnosť",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1719302268643
+  },
+  {
+   "id": 73,
+   "href": "/specifickycielprogramu/id/73",
+   "kod": "4080200001",
+   "nazovSk": "Výmena informácií",
+   "nazovEn": "Exchange of information",
+   "program": {
+    "id": 5,
+    "href": "/program/id/5",
+    "kod": "408020",
+    "nazovSk": "Fond pre vnútornú bezpečnosť",
+    "nazovEn": "Internal Security Fund",
+    "skratka": "ISF",
+    "sumaEu": 34534751.0,
+    "sumaSr": 9476651.26,
+    "sumaSpolu": 44011402.26,
+    "typProgramu": {
+     "typ": "VF",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": false,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK65ISPR001",
+    "riadiaciOrgan": {
+     "id": 399
+    },
+    "createdAt": 1719302268533,
+    "updatedAt": 1719302268557
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 12,
+    "kod": "1032ISF",
+    "kodZdroj": "ISF",
+    "nazovSk": "Fond pre vnútornú bezpečnosť",
+    "nazovEn": "Fond pre vnútornú bezpečnosť",
+    "popisSk": "Fond pre vnútornú bezpečnosť",
+    "popisEn": "Fond pre vnútornú bezpečnosť",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1719302268599
+  },
+  {
+   "id": 78,
+   "href": "/specifickycielprogramu/id/78",
+   "kod": "40801000TA",
+   "nazovSk": "Technická pomoc - AMIF",
+   "program": {
+    "id": 6,
+    "href": "/program/id/6",
+    "kod": "408010",
+    "nazovSk": "Fond pre azyl, migráciu a integráciu",
+    "nazovEn": "Asylum, Migration and Integration Fund",
+    "skratka": "AMIF",
+    "sumaEu": 36959799.32,
+    "sumaSr": 8869584.45,
+    "sumaSpolu": 45829383.77,
+    "typProgramu": {
+     "typ": "VF",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": false,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK65AMPR001",
+    "riadiaciOrgan": {
+     "id": 399
+    },
+    "createdAt": 1751271783339,
+    "updatedAt": 1751271783376
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 11,
+    "kod": "1032AMIF",
+    "kodZdroj": "AMIF",
+    "nazovSk": "Fond pre azyl, migráciu a integráciu",
+    "nazovEn": "Fond pre azyl, migráciu a integráciu",
+    "popisSk": "Fond pre azyl, migráciu a integráciu",
+    "popisEn": "Fond pre azyl, migráciu a integráciu",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": true,
+   "createdAt": 1751271783483
+  },
+  {
+   "id": 79,
+   "href": "/specifickycielprogramu/id/79",
+   "kod": "4080100004",
+   "nazovSk": "Solidarita",
+   "nazovEn": "Solidarity",
+   "program": {
+    "id": 6,
+    "href": "/program/id/6",
+    "kod": "408010",
+    "nazovSk": "Fond pre azyl, migráciu a integráciu",
+    "nazovEn": "Asylum, Migration and Integration Fund",
+    "skratka": "AMIF",
+    "sumaEu": 36959799.32,
+    "sumaSr": 8869584.45,
+    "sumaSpolu": 45829383.77,
+    "typProgramu": {
+     "typ": "VF",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": false,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK65AMPR001",
+    "riadiaciOrgan": {
+     "id": 399
+    },
+    "createdAt": 1751271783339,
+    "updatedAt": 1751271783376
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 11,
+    "kod": "1032AMIF",
+    "kodZdroj": "AMIF",
+    "nazovSk": "Fond pre azyl, migráciu a integráciu",
+    "nazovEn": "Fond pre azyl, migráciu a integráciu",
+    "popisSk": "Fond pre azyl, migráciu a integráciu",
+    "popisEn": "Fond pre azyl, migráciu a integráciu",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1751271783512
+  },
+  {
+   "id": 81,
+   "href": "/specifickycielprogramu/id/81",
+   "kod": "4080100003",
+   "nazovSk": "Návrat",
+   "nazovEn": "Return",
+   "program": {
+    "id": 6,
+    "href": "/program/id/6",
+    "kod": "408010",
+    "nazovSk": "Fond pre azyl, migráciu a integráciu",
+    "nazovEn": "Asylum, Migration and Integration Fund",
+    "skratka": "AMIF",
+    "sumaEu": 36959799.32,
+    "sumaSr": 8869584.45,
+    "sumaSpolu": 45829383.77,
+    "typProgramu": {
+     "typ": "VF",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": false,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK65AMPR001",
+    "riadiaciOrgan": {
+     "id": 399
+    },
+    "createdAt": 1751271783339,
+    "updatedAt": 1751271783376
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 11,
+    "kod": "1032AMIF",
+    "kodZdroj": "AMIF",
+    "nazovSk": "Fond pre azyl, migráciu a integráciu",
+    "nazovEn": "Fond pre azyl, migráciu a integráciu",
+    "popisSk": "Fond pre azyl, migráciu a integráciu",
+    "popisEn": "Fond pre azyl, migráciu a integráciu",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1751271783569
+  },
+  {
+   "id": 77,
+   "href": "/specifickycielprogramu/id/77",
+   "kod": "4080100002",
+   "nazovSk": "Legálna migrácia a integrácia",
+   "nazovEn": "Legal migration and integration",
+   "program": {
+    "id": 6,
+    "href": "/program/id/6",
+    "kod": "408010",
+    "nazovSk": "Fond pre azyl, migráciu a integráciu",
+    "nazovEn": "Asylum, Migration and Integration Fund",
+    "skratka": "AMIF",
+    "sumaEu": 36959799.32,
+    "sumaSr": 8869584.45,
+    "sumaSpolu": 45829383.77,
+    "typProgramu": {
+     "typ": "VF",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": false,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK65AMPR001",
+    "riadiaciOrgan": {
+     "id": 399
+    },
+    "createdAt": 1751271783339,
+    "updatedAt": 1751271783376
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 11,
+    "kod": "1032AMIF",
+    "kodZdroj": "AMIF",
+    "nazovSk": "Fond pre azyl, migráciu a integráciu",
+    "nazovEn": "Fond pre azyl, migráciu a integráciu",
+    "popisSk": "Fond pre azyl, migráciu a integráciu",
+    "popisEn": "Fond pre azyl, migráciu a integráciu",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1751271783426
+  },
+  {
+   "id": 80,
+   "href": "/specifickycielprogramu/id/80",
+   "kod": "4080100001",
+   "nazovSk": "Spoločný európsky azylový systém",
+   "nazovEn": "Common European Asylum System",
+   "program": {
+    "id": 6,
+    "href": "/program/id/6",
+    "kod": "408010",
+    "nazovSk": "Fond pre azyl, migráciu a integráciu",
+    "nazovEn": "Asylum, Migration and Integration Fund",
+    "skratka": "AMIF",
+    "sumaEu": 36959799.32,
+    "sumaSr": 8869584.45,
+    "sumaSpolu": 45829383.77,
+    "typProgramu": {
+     "typ": "VF",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": false,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK65AMPR001",
+    "riadiaciOrgan": {
+     "id": 399
+    },
+    "createdAt": 1751271783339,
+    "updatedAt": 1751271783376
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 11,
+    "kod": "1032AMIF",
+    "kodZdroj": "AMIF",
+    "nazovSk": "Fond pre azyl, migráciu a integráciu",
+    "nazovEn": "Fond pre azyl, migráciu a integráciu",
+    "popisSk": "Fond pre azyl, migráciu a integráciu",
+    "popisEn": "Fond pre azyl, migráciu a integráciu",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1751271783542
+  },
+  {
+   "id": 69,
+   "href": "/specifickycielprogramu/id/69",
+   "kod": "404601I603",
+   "nazovSk": "4.2 Budovanie vzájomnej dôvery, najmä propagáciou akcií typu „ľudia ľuďom“",
+   "nazovDe": "4.2 Aufbau von gegenseitigem Vertrauen, insbesondere durch die Förderung von Maßnahmen zwischen den Menschen",
+   "nazovEn": "4.2 Build up mutual trust, in particular by encouraging people-to people actions",
+   "program": {
+    "id": 3,
+    "href": "/program/id/3",
+    "kod": "404000",
+    "nazovSk": "Interreg VI-A Slovenská republika - Rakúsko",
+    "nazovDe": "Interreg VI-A Slowakei - Österreich",
+    "nazovEn": "Interreg VI-A Slovakia-Austria",
+    "skratka": "VI A SKAT",
+    "sumaEu": 55500000.0,
+    "sumaSr": 13875002.0,
+    "sumaSpolu": 69375002.0,
+    "typProgramu": {
+     "typ": "PCS",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021TC16RFCB003",
+    "riadiaciOrgan": {
+     "id": 387
+    },
+    "createdAt": 1717148341903,
+    "updatedAt": 1717743988220
+   },
+   "priorita": {
+    "id": 29,
+    "href": "/priorita/id/29",
+    "kod": "404601",
+    "nazovSk": "4. Lepšie spolupracujúci cezhraničný región",
+    "nazovDe": "4. Eine verstärkt kooperierende grenzüberschreitende Region",
+    "nazovEn": "4. A better cooperating SK-AT border region",
+    "program": {
+     "id": 3,
+     "href": "/program/id/3"
+    },
+    "createdAt": 1717155324122,
+    "updatedAt": 1717568859034
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1717423939020,
+   "updatedAt": 1717568859288
+  },
+  {
+   "id": 68,
+   "href": "/specifickycielprogramu/id/68",
+   "kod": "404601I602",
+   "nazovSk": "4.1 Zvyšovanie efektivity verejnej správy podporou právnej a administratívnej spolupráce a spolupráce medzi občanmi, aktérmi občianskej spoločnosti a  inštitúciami, najmä s ohľadom na riešenie právnych a iných prekážok v pohraničných regiónoch",
+   "nazovDe": "4.1 Verbesserung einer effizienten öffentlichen Verwaltung durch Förderung der rechtlichen und administrativen Zusammenarbeit und der Zusammenarbeit zwischen Bürgern, Akteuren der Zivilgesellschaft und Institutionen, insbesondere im Hinblick auf die Beseitigung rechtlicher und anderer Hindernisse in Grenzregionen",
+   "nazovEn": "4.1 Enhance efficient public administration by promoting legal and administrative cooperation and cooperation between citizens, civil society actors and institutions, in particular, with a view to resolving legal and other obstacles in border regions",
+   "program": {
+    "id": 3,
+    "href": "/program/id/3",
+    "kod": "404000",
+    "nazovSk": "Interreg VI-A Slovenská republika - Rakúsko",
+    "nazovDe": "Interreg VI-A Slowakei - Österreich",
+    "nazovEn": "Interreg VI-A Slovakia-Austria",
+    "skratka": "VI A SKAT",
+    "sumaEu": 55500000.0,
+    "sumaSr": 13875002.0,
+    "sumaSpolu": 69375002.0,
+    "typProgramu": {
+     "typ": "PCS",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021TC16RFCB003",
+    "riadiaciOrgan": {
+     "id": 387
+    },
+    "createdAt": 1717148341903,
+    "updatedAt": 1717743988220
+   },
+   "priorita": {
+    "id": 29,
+    "href": "/priorita/id/29",
+    "kod": "404601",
+    "nazovSk": "4. Lepšie spolupracujúci cezhraničný región",
+    "nazovDe": "4. Eine verstärkt kooperierende grenzüberschreitende Region",
+    "nazovEn": "4. A better cooperating SK-AT border region",
+    "program": {
+     "id": 3,
+     "href": "/program/id/3"
+    },
+    "createdAt": 1717155324122,
+    "updatedAt": 1717568859034
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1717423726326,
+   "updatedAt": 1717568859251
+  },
+  {
+   "id": 67,
+   "href": "/specifickycielprogramu/id/67",
+   "kod": "404401R406",
+   "nazovSk": "3.3 Posilnenie úlohy kultúry a udržateľného cestovného ruchu v oblasti hospodárskeho rozvoja, sociálneho začlenenia a sociálnej inovácie",
+   "nazovDe": "3.3 Stärkung der Rolle von Kultur und nachhaltigem Tourismus für wirtschaftliche Entwicklung, soziale Eingliederung und soziale Innovation",
+   "nazovEn": "3.3 Enhancing the role of culture and sustainable tourism in economic development, social inclusion and social innovation",
+   "program": {
+    "id": 3,
+    "href": "/program/id/3",
+    "kod": "404000",
+    "nazovSk": "Interreg VI-A Slovenská republika - Rakúsko",
+    "nazovDe": "Interreg VI-A Slowakei - Österreich",
+    "nazovEn": "Interreg VI-A Slovakia-Austria",
+    "skratka": "VI A SKAT",
+    "sumaEu": 55500000.0,
+    "sumaSr": 13875002.0,
+    "sumaSpolu": 69375002.0,
+    "typProgramu": {
+     "typ": "PCS",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021TC16RFCB003",
+    "riadiaciOrgan": {
+     "id": 387
+    },
+    "createdAt": 1717148341903,
+    "updatedAt": 1717743988220
+   },
+   "priorita": {
+    "id": 28,
+    "href": "/priorita/id/28",
+    "kod": "404401",
+    "nazovSk": "3. Sociálnejší cezhraničný región",
+    "nazovDe": "3. Eine sozialere grenzüberschreitende Region",
+    "nazovEn": "3. A more social SK-AT border region",
+    "program": {
+     "id": 3,
+     "href": "/program/id/3"
+    },
+    "createdAt": 1717155163984,
+    "updatedAt": 1717568859034
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1717423531272,
+   "updatedAt": 1717568859213
+  },
+  {
+   "id": 66,
+   "href": "/specifickycielprogramu/id/66",
+   "kod": "404401R405",
+   "nazovSk": "3.2 Zabezpečenie rovného prístupu k zdravotnej starostlivosti a zvýšením odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z  inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť",
+   "nazovDe": "3.2 Gewährleistung eines gleichberechtigten Zugangs zur Gesundheitsversorgung und Förderung der Widerstandsfähigkeit der Gesundheitssysteme, einschließlich der Primärversorgung, sowie Förderung am Schnittpunkt zwischen institutioneller und familiärer und gemeinschaftlicher Versorgung",
+   "nazovEn": "3.2 Ensuring equal access to health care and fostering resilience of health systems, including primary care, and promoting the transition from institutional to family- and community-based care",
+   "program": {
+    "id": 3,
+    "href": "/program/id/3",
+    "kod": "404000",
+    "nazovSk": "Interreg VI-A Slovenská republika - Rakúsko",
+    "nazovDe": "Interreg VI-A Slowakei - Österreich",
+    "nazovEn": "Interreg VI-A Slovakia-Austria",
+    "skratka": "VI A SKAT",
+    "sumaEu": 55500000.0,
+    "sumaSr": 13875002.0,
+    "sumaSpolu": 69375002.0,
+    "typProgramu": {
+     "typ": "PCS",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021TC16RFCB003",
+    "riadiaciOrgan": {
+     "id": 387
+    },
+    "createdAt": 1717148341903,
+    "updatedAt": 1717743988220
+   },
+   "priorita": {
+    "id": 28,
+    "href": "/priorita/id/28",
+    "kod": "404401",
+    "nazovSk": "3. Sociálnejší cezhraničný región",
+    "nazovDe": "3. Eine sozialere grenzüberschreitende Region",
+    "nazovEn": "3. A more social SK-AT border region",
+    "program": {
+     "id": 3,
+     "href": "/program/id/3"
+    },
+    "createdAt": 1717155163984,
+    "updatedAt": 1717568859034
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1717423346803,
+   "updatedAt": 1717568859176
+  },
+  {
+   "id": 63,
+   "href": "/specifickycielprogramu/id/63",
+   "kod": "404401R402",
+   "nazovSk": "3.1 Zlepšenie rovného prístupu k inkluzívnym a  kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu",
+   "nazovDe": "3.1 Verbesserung des gleichberechtigten Zugangs zu integrativen und qualitativ hochwertigen Dienstleistungen in den Bereichen allgemeine und berufliche Bildung und lebenslanges Lernen durch die Entwicklung einer niederschweilligen Infrastruktur, sowie durch die Förderung der Widerstandsfähigkeit von Fernunterricht und Online-Ausbildung",
+   "nazovEn": "3.1 Improving equal access to inclusive and quality services in education, training and lifelong learning through developing accessible infrastructure, including by fostering resilience for distance and on-line education and training",
+   "program": {
+    "id": 3,
+    "href": "/program/id/3",
+    "kod": "404000",
+    "nazovSk": "Interreg VI-A Slovenská republika - Rakúsko",
+    "nazovDe": "Interreg VI-A Slowakei - Österreich",
+    "nazovEn": "Interreg VI-A Slovakia-Austria",
+    "skratka": "VI A SKAT",
+    "sumaEu": 55500000.0,
+    "sumaSr": 13875002.0,
+    "sumaSpolu": 69375002.0,
+    "typProgramu": {
+     "typ": "PCS",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021TC16RFCB003",
+    "riadiaciOrgan": {
+     "id": 387
+    },
+    "createdAt": 1717148341903,
+    "updatedAt": 1717743988220
+   },
+   "priorita": {
+    "id": 28,
+    "href": "/priorita/id/28",
+    "kod": "404401",
+    "nazovSk": "3. Sociálnejší cezhraničný región",
+    "nazovDe": "3. Eine sozialere grenzüberschreitende Region",
+    "nazovEn": "3. A more social SK-AT border region",
+    "program": {
+     "id": 3,
+     "href": "/program/id/3"
+    },
+    "createdAt": 1717155163984,
+    "updatedAt": 1717568859034
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1717423170198,
+   "updatedAt": 1717568859034
+  },
+  {
+   "id": 65,
+   "href": "/specifickycielprogramu/id/65",
+   "kod": "404201R207",
+   "nazovSk": "2.2 Posilnenie ochrany a zachovania prírody, biodiverzity a zelenej infraštruktúry, a to aj v  mestských oblastiach, a zníženia všetkých foriem znečistenia",
+   "nazovDe": "2.2 Verbesserung des Schutzes und der Erhaltung der Natur, der Biodiversität und der grünen Infrastruktur, auch in städtischen Gebieten, und Verringerung aller Formen der Umweltverschmutzung",
+   "nazovEn": "2.2 Enhancing protection and preservation of nature, biodiversity and green infrastructure, including in urban areas, and reducing all forms of pollution",
+   "program": {
+    "id": 3,
+    "href": "/program/id/3",
+    "kod": "404000",
+    "nazovSk": "Interreg VI-A Slovenská republika - Rakúsko",
+    "nazovDe": "Interreg VI-A Slowakei - Österreich",
+    "nazovEn": "Interreg VI-A Slovakia-Austria",
+    "skratka": "VI A SKAT",
+    "sumaEu": 55500000.0,
+    "sumaSr": 13875002.0,
+    "sumaSpolu": 69375002.0,
+    "typProgramu": {
+     "typ": "PCS",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021TC16RFCB003",
+    "riadiaciOrgan": {
+     "id": 387
+    },
+    "createdAt": 1717148341903,
+    "updatedAt": 1717743988220
+   },
+   "priorita": {
+    "id": 27,
+    "href": "/priorita/id/27",
+    "kod": "404201",
+    "nazovSk": "2. Zelenší cezhraničný región",
+    "nazovDe": "2. Eine grünere grenzüberschreitende Region",
+    "nazovEn": "2. A greener SK-AT border region",
+    "program": {
+     "id": 3,
+     "href": "/program/id/3"
+    },
+    "createdAt": 1717154978055,
+    "updatedAt": 1717568859034
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1717422964208,
+   "updatedAt": 1717568859137
+  },
+  {
+   "id": 62,
+   "href": "/specifickycielprogramu/id/62",
+   "kod": "404201R204",
+   "nazovSk": "2.1 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof, ako aj odolnosti, a to s prihliadnutím na ekosystémové prístupy",
+   "nazovDe": "2.1 Förderung der Anpassung an den Klimawandel und der Vermeidung von Katastrophenrisiken sowie die Förderung der Widerstandsfähigkeit unter Berücksichtigung ökosystembasierter Ansätze",
+   "nazovEn": "2.1 Promoting climate change adaptation and disaster risk prevention, and resilience, taking into account eco-system based approaches",
+   "program": {
+    "id": 3,
+    "href": "/program/id/3",
+    "kod": "404000",
+    "nazovSk": "Interreg VI-A Slovenská republika - Rakúsko",
+    "nazovDe": "Interreg VI-A Slowakei - Österreich",
+    "nazovEn": "Interreg VI-A Slovakia-Austria",
+    "skratka": "VI A SKAT",
+    "sumaEu": 55500000.0,
+    "sumaSr": 13875002.0,
+    "sumaSpolu": 69375002.0,
+    "typProgramu": {
+     "typ": "PCS",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021TC16RFCB003",
+    "riadiaciOrgan": {
+     "id": 387
+    },
+    "createdAt": 1717148341903,
+    "updatedAt": 1717743988220
+   },
+   "priorita": {
+    "id": 27,
+    "href": "/priorita/id/27",
+    "kod": "404201",
+    "nazovSk": "2. Zelenší cezhraničný región",
+    "nazovDe": "2. Eine grünere grenzüberschreitende Region",
+    "nazovEn": "2. A greener SK-AT border region",
+    "program": {
+     "id": 3,
+     "href": "/program/id/3"
+    },
+    "createdAt": 1717154978055,
+    "updatedAt": 1717568859034
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1717422777081,
+   "updatedAt": 1717568859034
+  },
+  {
+   "id": 64,
+   "href": "/specifickycielprogramu/id/64",
+   "kod": "404101R101",
+   "nazovSk": "1.1 Rozvoj a rozšírenie výskumných a inovačných kapacít a využívanie pokročilých technológií",
+   "nazovDe": "1.1 Entwicklung und Ausbau von Forschungs- und Innovationskapazitäten und Übernahme fortschrittlicher Technologien",
+   "nazovEn": "1.1 Developing and enhancing research and innovation capacities and the uptake of advanced technologies",
+   "program": {
+    "id": 3,
+    "href": "/program/id/3",
+    "kod": "404000",
+    "nazovSk": "Interreg VI-A Slovenská republika - Rakúsko",
+    "nazovDe": "Interreg VI-A Slowakei - Österreich",
+    "nazovEn": "Interreg VI-A Slovakia-Austria",
+    "skratka": "VI A SKAT",
+    "sumaEu": 55500000.0,
+    "sumaSr": 13875002.0,
+    "sumaSpolu": 69375002.0,
+    "typProgramu": {
+     "typ": "PCS",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021TC16RFCB003",
+    "riadiaciOrgan": {
+     "id": 387
+    },
+    "createdAt": 1717148341903,
+    "updatedAt": 1717743988220
+   },
+   "priorita": {
+    "id": 26,
+    "href": "/priorita/id/26",
+    "kod": "404101",
+    "nazovSk": "1. Konkurencieschopnejší a inteligentnejší cezhraničný región",
+    "nazovDe": "1. Eine wettbewerbsfähige grenzüberschreitende Region",
+    "nazovEn": "1. A more competitive and smarter SK-AT border region",
+    "program": {
+     "id": 3,
+     "href": "/program/id/3"
+    },
+    "createdAt": 1717153655382,
+    "updatedAt": 1717568859034
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1717422589177,
+   "updatedAt": 1717568859097
+  },
+  {
+   "id": 61,
+   "href": "/specifickycielprogramu/id/61",
+   "kod": "403602I603",
+   "nazovSk": "ISO6.3. Budovanie vzájomnej dôvery, najmä propagáciou akcií typu „ľudia ľuďom“ (zložky A, D a v náležitom prípade zložka B)",
+   "program": {
+    "id": 2,
+    "href": "/program/id/2",
+    "kod": "403000",
+    "nazovSk": "Interreg VI-A Slovensko - Česko",
+    "nazovEn": "Interreg VI-A Slovakia-Czechia",
+    "skratka": "VI A SKCZ",
+    "sumaEu": 85323597.0,
+    "sumaSr": 21330900.0,
+    "sumaSpolu": 106654497.0,
+    "typProgramu": {
+     "typ": "PCS",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021TC16RFCB029",
+    "riadiaciOrgan": {
+     "id": 386
+    },
+    "createdAt": 1717147923442,
+    "updatedAt": 1717743988220
+   },
+   "priorita": {
+    "id": 25,
+    "href": "/priorita/id/25",
+    "kod": "403602",
+    "nazovSk": "3.2 Miestne iniciatívy",
+    "program": {
+     "id": 2,
+     "href": "/program/id/2"
+    },
+    "createdAt": 1717153412823,
+    "updatedAt": 1717568778848
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1717422187904,
+   "updatedAt": 1717568779071
+  },
+  {
+   "id": 60,
+   "href": "/specifickycielprogramu/id/60",
+   "kod": "403601I602",
+   "nazovSk": "ISO6.2. Zvyšovanie efektivity verejnej správy podporou právnej a administratívnej spolupráce a spolupráce medzi občanmi, aktérmi občianskej spoločnosti a inštitúciami, najmä s ohľadom na riešenie právnych a iných prekážok v pohraničných regiónoch (zložky A, C, D a v náležitom prípade zložka B)",
+   "program": {
+    "id": 2,
+    "href": "/program/id/2",
+    "kod": "403000",
+    "nazovSk": "Interreg VI-A Slovensko - Česko",
+    "nazovEn": "Interreg VI-A Slovakia-Czechia",
+    "skratka": "VI A SKCZ",
+    "sumaEu": 85323597.0,
+    "sumaSr": 21330900.0,
+    "sumaSpolu": 106654497.0,
+    "typProgramu": {
+     "typ": "PCS",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021TC16RFCB029",
+    "riadiaciOrgan": {
+     "id": 386
+    },
+    "createdAt": 1717147923442,
+    "updatedAt": 1717743988220
+   },
+   "priorita": {
+    "id": 24,
+    "href": "/priorita/id/24",
+    "kod": "403601",
+    "nazovSk": "3.1 Inštitucionálna spolupráca",
+    "program": {
+     "id": 2,
+     "href": "/program/id/2"
+    },
+    "createdAt": 1717153240963,
+    "updatedAt": 1717568778848
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1717422033170,
+   "updatedAt": 1717568779032
+  },
+  {
+   "id": 59,
+   "href": "/specifickycielprogramu/id/59",
+   "kod": "403402R406",
+   "nazovSk": "RSO4.6. Posilnenie úlohy kultúry a udržateľného cestovného ruchu v oblasti hospodárskeho rozvoja, sociálneho začlenenia a sociálnej inovácie",
+   "program": {
+    "id": 2,
+    "href": "/program/id/2",
+    "kod": "403000",
+    "nazovSk": "Interreg VI-A Slovensko - Česko",
+    "nazovEn": "Interreg VI-A Slovakia-Czechia",
+    "skratka": "VI A SKCZ",
+    "sumaEu": 85323597.0,
+    "sumaSr": 21330900.0,
+    "sumaSpolu": 106654497.0,
+    "typProgramu": {
+     "typ": "PCS",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021TC16RFCB029",
+    "riadiaciOrgan": {
+     "id": 386
+    },
+    "createdAt": 1717147923442,
+    "updatedAt": 1717743988220
+   },
+   "priorita": {
+    "id": 23,
+    "href": "/priorita/id/23",
+    "kod": "403402",
+    "nazovSk": "2.2 Kultúra a cestovný ruch",
+    "program": {
+     "id": 2,
+     "href": "/program/id/2"
+    },
+    "createdAt": 1717153129699,
+    "updatedAt": 1717568778848
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1717421834753,
+   "updatedAt": 1717568778987
+  },
+  {
+   "id": 58,
+   "href": "/specifickycielprogramu/id/58",
+   "kod": "403401R402",
+   "nazovSk": "RSO4.2. Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu",
+   "program": {
+    "id": 2,
+    "href": "/program/id/2",
+    "kod": "403000",
+    "nazovSk": "Interreg VI-A Slovensko - Česko",
+    "nazovEn": "Interreg VI-A Slovakia-Czechia",
+    "skratka": "VI A SKCZ",
+    "sumaEu": 85323597.0,
+    "sumaSr": 21330900.0,
+    "sumaSpolu": 106654497.0,
+    "typProgramu": {
+     "typ": "PCS",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021TC16RFCB029",
+    "riadiaciOrgan": {
+     "id": 386
+    },
+    "createdAt": 1717147923442,
+    "updatedAt": 1717743988220
+   },
+   "priorita": {
+    "id": 22,
+    "href": "/priorita/id/22",
+    "kod": "403401",
+    "nazovSk": "2.1 Vzdelávanie",
+    "program": {
+     "id": 2,
+     "href": "/program/id/2"
+    },
+    "createdAt": 1717153016584,
+    "updatedAt": 1717568778848
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1717421460571,
+   "updatedAt": 1717568778947
+  },
+  {
+   "id": 57,
+   "href": "/specifickycielprogramu/id/57",
+   "kod": "403201R207",
+   "nazovSk": "RSO2.7. Posilnenie ochrany a zachovania prírody, biodiverzity a zelenej infraštruktúry, a to aj v mestských oblastiach, a zníženie všetkých foriem znečistenia",
+   "program": {
+    "id": 2,
+    "href": "/program/id/2",
+    "kod": "403000",
+    "nazovSk": "Interreg VI-A Slovensko - Česko",
+    "nazovEn": "Interreg VI-A Slovakia-Czechia",
+    "skratka": "VI A SKCZ",
+    "sumaEu": 85323597.0,
+    "sumaSr": 21330900.0,
+    "sumaSpolu": 106654497.0,
+    "typProgramu": {
+     "typ": "PCS",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021TC16RFCB029",
+    "riadiaciOrgan": {
+     "id": 386
+    },
+    "createdAt": 1717147923442,
+    "updatedAt": 1717743988220
+   },
+   "priorita": {
+    "id": 21,
+    "href": "/priorita/id/21",
+    "kod": "403201",
+    "nazovSk": "1.1 Životné prostredie",
+    "program": {
+     "id": 2,
+     "href": "/program/id/2"
+    },
+    "createdAt": 1717149460869,
+    "updatedAt": 1717568778848
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1717421237864,
+   "updatedAt": 1717568778849
+  },
+  {
+   "id": 56,
+   "href": "/specifickycielprogramu/id/56",
+   "kod": "403201R204",
+   "nazovSk": "RSO2.4. Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy",
+   "program": {
+    "id": 2,
+    "href": "/program/id/2",
+    "kod": "403000",
+    "nazovSk": "Interreg VI-A Slovensko - Česko",
+    "nazovEn": "Interreg VI-A Slovakia-Czechia",
+    "skratka": "VI A SKCZ",
+    "sumaEu": 85323597.0,
+    "sumaSr": 21330900.0,
+    "sumaSpolu": 106654497.0,
+    "typProgramu": {
+     "typ": "PCS",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021TC16RFCB029",
+    "riadiaciOrgan": {
+     "id": 386
+    },
+    "createdAt": 1717147923442,
+    "updatedAt": 1717743988220
+   },
+   "priorita": {
+    "id": 21,
+    "href": "/priorita/id/21",
+    "kod": "403201",
+    "nazovSk": "1.1 Životné prostredie",
+    "program": {
+     "id": 2,
+     "href": "/program/id/2"
+    },
+    "createdAt": 1717149460869,
+    "updatedAt": 1717568778848
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1717421020192,
+   "updatedAt": 1717568778848
+  },
+  {
+   "id": 93,
+   "href": "/specifickycielprogramu/id/93",
+   "kod": "4027510051",
+   "nazovSk": "5.1 Technická pomoc",
+   "nazovDe": "5.1 Technische Hilfe",
+   "nazovEn": "5.1 Technical assistance",
+   "program": {
+    "id": 7,
+    "href": "/program/id/7",
+    "kod": "402000",
+    "nazovSk": "Program Rybné hospodárstvo SR",
+    "nazovEn": "Programme Slovakia - EMFAF",
+    "skratka": "PRH SR",
+    "sumaEu": 15225428.0,
+    "sumaSr": 6525185.0,
+    "sumaSpolu": 21750613.0,
+    "typProgramu": {
+     "typ": "RYBY",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK14MFPR001",
+    "riadiaciOrgan": {
+     "id": 413
+    },
+    "createdAt": 1759305536159,
+    "updatedAt": 1759305536398
+   },
+   "priorita": {
+    "id": 38,
+    "href": "/priorita/id/38",
+    "kod": "402751",
+    "nazovSk": "7. Technická pomoc (ŠC 5.1)",
+    "nazovDe": "7. Technische Hilfe",
+    "nazovEn": "7. Technical assistance",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "createdAt": 1759305536568
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 10,
+    "kod": "1032ENRAF",
+    "kodZdroj": "ENRAF",
+    "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1759305536938
+  },
+  {
+   "id": 96,
+   "href": "/specifickycielprogramu/id/96",
+   "kod": "4022220022",
+   "nazovSk": "2.2 Podpora uvádzania produktov rybolovu a akvakultúry na trh, ako aj podpora ich kvality, pridanej hodnoty a spracovania",
+   "nazovDe": "2.2 Förderung der Vermarktung, der Qualität und des Mehrwerts von Fischerei- und Aquakulturerzeugnissen sowie der Verarbeitung dieser Erzeugnisse",
+   "nazovEn": "2.2 Promoting marketing, quality and added value of fishery and aquaculture products, as well as processing of those products",
+   "program": {
+    "id": 7,
+    "href": "/program/id/7",
+    "kod": "402000",
+    "nazovSk": "Program Rybné hospodárstvo SR",
+    "nazovEn": "Programme Slovakia - EMFAF",
+    "skratka": "PRH SR",
+    "sumaEu": 15225428.0,
+    "sumaSr": 6525185.0,
+    "sumaSpolu": 21750613.0,
+    "typProgramu": {
+     "typ": "RYBY",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK14MFPR001",
+    "riadiaciOrgan": {
+     "id": 413
+    },
+    "createdAt": 1759305536159,
+    "updatedAt": 1759305536398
+   },
+   "priorita": {
+    "id": 40,
+    "href": "/priorita/id/40",
+    "kod": "402222",
+    "nazovSk": "2. Podpora udržateľných akvakultúrnych činností a spracovania a uvádzania produktov rybolovu a akvakultúry na trh, čím sa prispeje k potravinovej bezpečnosti v Únii (ŠC 2.2)",
+    "nazovDe": "2. Förderung nachhaltiger Aquakulturaktivitäten sowie der Verarbeitung und Vermarktung von Fischerei- und Aquakulturprodukten und damit Beitrag zur Ernährungssicherheit in der Union",
+    "nazovEn": "2. Fostering sustainable aquaculture activities and processing and marketing of fishery and aquaculture products, thus contributing to food security in the Union",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "createdAt": 1759305536594
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 10,
+    "kod": "1032ENRAF",
+    "kodZdroj": "ENRAF",
+    "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1759305536838
+  },
+  {
+   "id": 92,
+   "href": "/specifickycielprogramu/id/92",
+   "kod": "4022210021",
+   "nazovSk": "2.1 Podpora udržateľných akvakultúrnych činností, najmä posilnenie konkurencieschopnosti akvakultúrnej produkcie pri súčasnom zabezpečení dlhodobej environmentálnej udržateľnosti týchto činností",
+   "nazovDe": "2.1 Förderung nachhaltiger Aquakulturtätigkeiten, insbesondere Stärkung der Wettbewerbsfähigkeit der Aquakulturproduktion bei gleichzeitiger Sicherstellung der langfristigen Umweltverträglichkeit dieser Tätigkeiten",
+   "nazovEn": "2.1 Promoting sustainable aquaculture activities, especially strengthening the competitiveness of aquaculture production, while ensuring that the activities are environmentally sustainable in the long term",
+   "program": {
+    "id": 7,
+    "href": "/program/id/7",
+    "kod": "402000",
+    "nazovSk": "Program Rybné hospodárstvo SR",
+    "nazovEn": "Programme Slovakia - EMFAF",
+    "skratka": "PRH SR",
+    "sumaEu": 15225428.0,
+    "sumaSr": 6525185.0,
+    "sumaSpolu": 21750613.0,
+    "typProgramu": {
+     "typ": "RYBY",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK14MFPR001",
+    "riadiaciOrgan": {
+     "id": 413
+    },
+    "createdAt": 1759305536159,
+    "updatedAt": 1759305536398
+   },
+   "priorita": {
+    "id": 37,
+    "href": "/priorita/id/37",
+    "kod": "402221",
+    "nazovSk": "2. Podpora udržateľných akvakultúrnych činností a spracovania a uvádzania produktov rybolovu a akvakultúry na trh, čím sa prispeje k potravinovej bezpečnosti v Únii (ŠC 2.1)",
+    "nazovDe": "2. Förderung nachhaltiger Aquakulturtätigkeiten sowie der Verarbeitung und Vermarktung von Fischerei- und Aquakulturerzeugnissen als Beitrag zur Ernährungssicherheit in der Union",
+    "nazovEn": "2. Fostering sustainable aquaculture activities and processing and marketing of fishery and aquaculture products, thus contributing to food security in the Union",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "createdAt": 1759305536534
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 10,
+    "kod": "1032ENRAF",
+    "kodZdroj": "ENRAF",
+    "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1759305536663
+  },
+  {
+   "id": 95,
+   "href": "/specifickycielprogramu/id/95",
+   "kod": "4022160016",
+   "nazovSk": "1.6 Prispievanie k ochrane a obnove vodnej biodiverzity a ekosystémov",
+   "nazovDe": "1.6 Beitrag zum Schutz und zur Wiederherstellung der aquatischen Biodiversität und Ökosysteme",
+   "nazovEn": "1.6 Contributing to the protection and restoration of aquatic biodiversity and ecosystems",
+   "program": {
+    "id": 7,
+    "href": "/program/id/7",
+    "kod": "402000",
+    "nazovSk": "Program Rybné hospodárstvo SR",
+    "nazovEn": "Programme Slovakia - EMFAF",
+    "skratka": "PRH SR",
+    "sumaEu": 15225428.0,
+    "sumaSr": 6525185.0,
+    "sumaSpolu": 21750613.0,
+    "typProgramu": {
+     "typ": "RYBY",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK14MFPR001",
+    "riadiaciOrgan": {
+     "id": 413
+    },
+    "createdAt": 1759305536159,
+    "updatedAt": 1759305536398
+   },
+   "priorita": {
+    "id": 39,
+    "href": "/priorita/id/39",
+    "kod": "402216",
+    "nazovSk": "1. Podpora udržateľného rybolovu a obnova a ochrana vodných biologických zdrojov (ŠC 1.6)",
+    "nazovDe": "1. Förderung einer nachhaltigen Fischerei sowie der Wiederherstellung und Erhaltung aquatischer biologischer Ressourcen",
+    "nazovEn": "1. Fostering sustainable fisheries and the restoration and conservation of aquatic biological resources",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "createdAt": 1759305536582
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 10,
+    "kod": "1032ENRAF",
+    "kodZdroj": "ENRAF",
+    "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1759305537068
+  },
+  {
+   "id": 94,
+   "href": "/specifickycielprogramu/id/94",
+   "kod": "4022140014",
+   "nazovSk": "1.4 Podpora účinnej kontroly a presadzovania predpisov v oblasti rybolovu vrátane boja proti NNN rybolovu, ako aj podpora spoľahlivých údajov na účely fundovaného rozhodovania",
+   "nazovDe": "1.4 Förderung einer wirksamen Fischereiaufsicht und Durchsetzung der Fischereivorschriften, einschließlich der Bekämpfung der IUU-Fischerei, und zuverlässiger Daten im Interesse einer wissensbasierten Beschlussfassung",
+   "nazovEn": "1.4 Fostering efficient fisheries control and enforcement, including fighting against IUU fishing, as well as reliable data for knowledge-based decision making",
+   "program": {
+    "id": 7,
+    "href": "/program/id/7",
+    "kod": "402000",
+    "nazovSk": "Program Rybné hospodárstvo SR",
+    "nazovEn": "Programme Slovakia - EMFAF",
+    "skratka": "PRH SR",
+    "sumaEu": 15225428.0,
+    "sumaSr": 6525185.0,
+    "sumaSpolu": 21750613.0,
+    "typProgramu": {
+     "typ": "RYBY",
+     "jedenFond": true,
+     "maKategoriuReg": false,
+     "maPriority": true,
+     "maOpatrenia": false
+    },
+    "kodCCI": "2021SK14MFPR001",
+    "riadiaciOrgan": {
+     "id": 413
+    },
+    "createdAt": 1759305536159,
+    "updatedAt": 1759305536398
+   },
+   "priorita": {
+    "id": 36,
+    "href": "/priorita/id/36",
+    "kod": "402214",
+    "nazovSk": "1. Podpora udržateľného rybolovu a obnova a ochrana vodných biologických zdrojov (ŠC 1.4)",
+    "nazovDe": "1. Förderung nachhaltiger Fischereien und der Wiederherstellung und Erhaltung aquatischer Bioressourcen",
+    "nazovEn": "1. Fostering sustainable fisheries and the restoration and conservation of aquatic biological resources",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "createdAt": 1759305536502
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 10,
+    "kod": "1032ENRAF",
+    "kodZdroj": "ENRAF",
+    "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1759305536978
+  },
+  {
+   "id": 9,
+   "href": "/specifickycielprogramu/id/9",
+   "kod": "401801J801",
+   "nazovSk": "JSO8.1 Umožnenie regiónom a ľuďom riešiť dôsledky v sociálnej, hospodárskej a environmentálnej oblasti, ako aj v oblasti zamestnanosti spôsobené transformáciou smerom k energetickým a klimatickým cieľom Únie na rok 2030 a k dosiahnutiu cieľa klimaticky neutrálneho hospodárstva Únie do roku 2050 na základe Parížskej dohody (FST)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 20,
+    "href": "/priorita/id/20",
+    "kod": "401801",
+    "nazovSk": "8P1 Fond na spravodlivú transformáciu",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867944
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 9,
+    "kod": "1032FST",
+    "kodZdroj": "FST",
+    "nazovSk": "Fond na spravodlivú transformáciu",
+    "nazovEn": "Just Transition Fund",
+    "nazovDe": "Fonds für einen gerechten Übergang",
+    "popisSk": "Fond na spravodlivú transformáciu",
+    "popisEn": "Just Transition Fund",
+    "popisDe": "Fonds für einen gerechten Übergang",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870937
+  },
+  {
+   "id": 6,
+   "href": "/specifickycielprogramu/id/6",
+   "kod": "401704T704",
+   "nazovSk": "Technická pomoc FST",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 19,
+    "href": "/priorita/id/19",
+    "kod": "401704",
+    "nazovSk": "7P4 Technická pomoc FST",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867965
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 9,
+    "kod": "1032FST",
+    "kodZdroj": "FST",
+    "nazovSk": "Fond na spravodlivú transformáciu",
+    "nazovEn": "Just Transition Fund",
+    "nazovDe": "Fonds für einen gerechten Übergang",
+    "popisSk": "Fond na spravodlivú transformáciu",
+    "popisEn": "Just Transition Fund",
+    "popisDe": "Fonds für einen gerechten Übergang",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869086
+  },
+  {
+   "id": 5,
+   "href": "/specifickycielprogramu/id/5",
+   "kod": "401703T703",
+   "nazovSk": "Technická pomoc ESF+",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 18,
+    "href": "/priorita/id/18",
+    "kod": "401703",
+    "nazovSk": "7P3 Technická pomoc ESF+",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867964
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869874
+  },
+  {
+   "id": 7,
+   "href": "/specifickycielprogramu/id/7",
+   "kod": "401702T702",
+   "nazovSk": "Technická pomoc Kohézny fond",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 16,
+    "href": "/priorita/id/16",
+    "kod": "401702",
+    "nazovSk": "7P2 Technická pomoc Kohézny fond",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867961
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 8,
+    "kod": "1032KF",
+    "kodZdroj": "KF",
+    "nazovSk": "Kohézny fond",
+    "nazovEn": "Kohézny fond",
+    "popisSk": "Kohézny fond",
+    "popisEn": "Kohézny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868544
+  },
+  {
+   "id": 8,
+   "href": "/specifickycielprogramu/id/8",
+   "kod": "401701T701",
+   "nazovSk": "Technická pomoc EFRR",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 17,
+    "href": "/priorita/id/17",
+    "kod": "401701",
+    "nazovSk": "7P1 Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867963
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868246
+  },
+  {
+   "id": 22,
+   "href": "/specifickycielprogramu/id/22",
+   "kod": "401501R502",
+   "nazovSk": "RSO5.2 Podpora integrovaného a inkluzívneho sociálneho, hospodárskeho a environmentálneho miestneho rozvoja, kultúry, prírodného dedičstva, udržateľného cestovného ruchu a bezpečnosti v iných ako mestských oblastiach (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 15,
+    "href": "/priorita/id/15",
+    "kod": "401501",
+    "nazovSk": "5P1 Moderné regióny",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867960
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869007
+  },
+  {
+   "id": 21,
+   "href": "/specifickycielprogramu/id/21",
+   "kod": "401501R501",
+   "nazovSk": "RSO5.1 Podpora integrovaného a inkluzívneho sociálneho, hospodárskeho a environmentálneho rozvoja, kultúry, prírodného dedičstva, udržateľného cestovného ruchu a bezpečnosti v mestských oblastiach (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 15,
+    "href": "/priorita/id/15",
+    "kod": "401501",
+    "nazovSk": "5P1 Moderné regióny",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867960
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869475
+  },
+  {
+   "id": 38,
+   "href": "/specifickycielprogramu/id/38",
+   "kod": "401408E413",
+   "nazovSk": "ESO4.13 Riešenie materiálnej deprivácie prostredníctvom potravinovej a/alebo základnej materiálnej pomoci pre najodkázanejšie osoby vrátane detí a zabezpečenie sprievodných opatrení podporujúcich ich sociálne začlenenie",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 14,
+    "href": "/priorita/id/14",
+    "kod": "401408",
+    "nazovSk": "4P8 Potravinová a materiálna deprivácia (Podpora pre najodkázanejšie osoby podľa špecifického cieľa stanoveného v článku 4 ods. 1 písm. m) nariadenia o ESF+ (ESO.4.13))",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867958
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869359
+  },
+  {
+   "id": 37,
+   "href": "/specifickycielprogramu/id/37",
+   "kod": "401407E408",
+   "nazovSk": "ESO4.8 Podpora aktívneho začlenenia s cieľom podporovať rovnosť príležitostí, nediskrimináciu a aktívnu účasť a zlepšenie zamestnateľnosti, najmä v prípade znevýhodnených skupín (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 13,
+    "href": "/priorita/id/13",
+    "kod": "401407",
+    "nazovSk": "4P7 Sociálne inovácie a experimenty (Akcie v oblasti sociálnej inovácie)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867957
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869820
+  },
+  {
+   "id": 36,
+   "href": "/specifickycielprogramu/id/36",
+   "kod": "401407E406",
+   "nazovSk": "ESO4.6 Podpora rovného prístupu, a to najmä znevýhodnených skupín, ku kvalitnému a inkluzívnemu vzdelávaniu a odbornej príprave a podpora ich úspešného ukončenia, počnúc vzdelávaním a starostlivosťou v ranom detstve cez všeobecné a odborné vzdelávanie a prípravu až po terciárnu úroveň a vzdelávanie a učenie dospelých vrátane uľahčovania vzdelávacej mobility pre všetkých a prístupnosti pre osoby so zdravotným postihnutím (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 13,
+    "href": "/priorita/id/13",
+    "kod": "401407",
+    "nazovSk": "4P7 Sociálne inovácie a experimenty (Akcie v oblasti sociálnej inovácie)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867957
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868956
+  },
+  {
+   "id": 35,
+   "href": "/specifickycielprogramu/id/35",
+   "kod": "401407E401",
+   "nazovSk": "ESO4.1 Zlepšenie prístupu k zamestnaniu a aktivačným opatreniam pre všetkých uchádzačov o zamestnanie, predovšetkým mladých ľudí, a to najmä vykonávaním záruky pre mladých ľudí, pre dlhodobo nezamestnaných a znevýhodnené skupiny na trhu práce a neaktívne osoby, ako aj prostredníctvom podpory samostatnej zárobkovej činnosti a sociálneho hospodárstva (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 13,
+    "href": "/priorita/id/13",
+    "kod": "401407",
+    "nazovSk": "4P7 Sociálne inovácie a experimenty (Akcie v oblasti sociálnej inovácie)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867957
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868900
+  },
+  {
+   "id": 34,
+   "href": "/specifickycielprogramu/id/34",
+   "kod": "401406R403",
+   "nazovSk": "RSO4.3 Podpora sociálno-ekonomického začlenenia marginalizovaných komunít, domácností s nízkym príjmom a znevýhodnených skupín vrátane osôb s osobitnými potrebami prostredníctvom integrovaných akcií vrátane bývania a sociálnych služieb (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 12,
+    "href": "/priorita/id/12",
+    "kod": "401406",
+    "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867956
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869768
+  },
+  {
+   "id": 33,
+   "href": "/specifickycielprogramu/id/33",
+   "kod": "401406E410",
+   "nazovSk": "ESO4.10 Podpora sociálno-ekonomickej integrácie marginalizovaných komunít, ako sú napríklad Rómovia (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 12,
+    "href": "/priorita/id/12",
+    "kod": "401406",
+    "nazovSk": "4P6 Aktívne začlenenie rómskych komunít",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867956
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869696
+  },
+  {
+   "id": 32,
+   "href": "/specifickycielprogramu/id/32",
+   "kod": "401405R406",
+   "nazovSk": "RSO4.6 Posilnenie úlohy kultúry a udržateľného cestovného ruchu v oblasti hospodárskeho rozvoja, sociálneho začlenenia a sociálnej inovácie (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 11,
+    "href": "/priorita/id/11",
+    "kod": "401405",
+    "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867955
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868866
+  },
+  {
+   "id": 31,
+   "href": "/specifickycielprogramu/id/31",
+   "kod": "401405R405",
+   "nazovSk": "RSO4.5 Zabezpečenia rovného prístupu k zdravotnej starostlivosti a zvýšenie odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 11,
+    "href": "/priorita/id/11",
+    "kod": "401405",
+    "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867955
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869635
+  },
+  {
+   "id": 30,
+   "href": "/specifickycielprogramu/id/30",
+   "kod": "401405R403",
+   "nazovSk": "RSO4.3 Podpora sociálno-ekonomického začlenenia marginalizovaných komunít, domácností s nízkym príjmom a znevýhodnených skupín vrátane osôb s osobitnými potrebami prostredníctvom integrovaných akcií vrátane bývania a sociálnych služieb (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 11,
+    "href": "/priorita/id/11",
+    "kod": "401405",
+    "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867955
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869313
+  },
+  {
+   "id": 29,
+   "href": "/specifickycielprogramu/id/29",
+   "kod": "401405E412",
+   "nazovSk": "ESO4.12 Podpora sociálnej integrácie osôb ohrozených chudobou alebo sociálnym vylúčením vrátane najodkázanejších osôb a detí (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 11,
+    "href": "/priorita/id/11",
+    "kod": "401405",
+    "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867955
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868824
+  },
+  {
+   "id": 28,
+   "href": "/specifickycielprogramu/id/28",
+   "kod": "401405E411",
+   "nazovSk": "ESO4.11 Zlepšovanie rovného a včasného prístupu ku kvalitným, udržateľným a cenovo dostupným službám vrátane služieb, ktoré podporujú prístup k bývaniu a individualizovanú starostlivosť vrátane zdravotnej starostlivosti; modernizácia systémov sociálnej ochrany, vrátane podpory prístupu k sociálnej ochrane, s osobitným zameraním na deti a znevýhodnené skupiny; zlepšovanie prístupnosti, a to aj pre osoby so zdravotným postihnutím, účinnosti a odolnosti systémov zdravotnej starostlivosti a služieb dlhodobej starostlivosti (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 11,
+    "href": "/priorita/id/11",
+    "kod": "401405",
+    "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867955
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869200
+  },
+  {
+   "id": 27,
+   "href": "/specifickycielprogramu/id/27",
+   "kod": "401405E409",
+   "nazovSk": "ESO4.9 Podpora sociálno-ekonomickej integrácie štátnych príslušníkov tretích krajín vrátane migrantov (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 11,
+    "href": "/priorita/id/11",
+    "kod": "401405",
+    "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867955
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869575
+  },
+  {
+   "id": 16,
+   "href": "/specifickycielprogramu/id/16",
+   "kod": "401405E408",
+   "nazovSk": "ESO4.8 Podpora aktívneho začlenenia s cieľom podporovať rovnosť príležitostí, nediskrimináciu a aktívnu účasť a zlepšenie zamestnateľnosti, najmä v prípade znevýhodnených skupín (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 11,
+    "href": "/priorita/id/11",
+    "kod": "401405",
+    "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867955
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870614
+  },
+  {
+   "id": 20,
+   "href": "/specifickycielprogramu/id/20",
+   "kod": "401404E412",
+   "nazovSk": "ESO4.12 Podpora sociálnej integrácie osôb ohrozených chudobou alebo sociálnym vylúčením vrátane najodkázanejších osôb a detí (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 10,
+    "href": "/priorita/id/10",
+    "kod": "401404",
+    "nazovSk": "4P4 Záruka pre mladých (Zamestnanosť mladých ľudí)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867959
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869259
+  },
+  {
+   "id": 19,
+   "href": "/specifickycielprogramu/id/19",
+   "kod": "401404E406",
+   "nazovSk": "ESO4.6 Podpora rovného prístupu, a to najmä znevýhodnených skupín, ku kvalitnému a inkluzívnemu vzdelávaniu a odbornej príprave a podpora ich úspešného ukončenia, počnúc vzdelávaním a starostlivosťou v ranom detstve cez všeobecné a odborné vzdelávanie a prípravu až po terciárnu úroveň a vzdelávanie a učenie dospelých vrátane uľahčovania vzdelávacej mobility pre všetkých a prístupnosti pre osoby so zdravotným postihnutím (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 10,
+    "href": "/priorita/id/10",
+    "kod": "401404",
+    "nazovSk": "4P4 Záruka pre mladých (Zamestnanosť mladých ľudí)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867959
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869408
+  },
+  {
+   "id": 26,
+   "href": "/specifickycielprogramu/id/26",
+   "kod": "401404E401",
+   "nazovSk": "ESO4.1 Zlepšenie prístupu k zamestnaniu a aktivačným opatreniam pre všetkých uchádzačov o zamestnanie, predovšetkým mladých ľudí, a to najmä vykonávaním záruky pre mladých ľudí, pre dlhodobo nezamestnaných a znevýhodnené skupiny na trhu práce a neaktívne osoby, ako aj prostredníctvom podpory samostatnej zárobkovej činnosti a sociálneho hospodárstva (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 10,
+    "href": "/priorita/id/10",
+    "kod": "401404",
+    "nazovSk": "4P4 Záruka pre mladých (Zamestnanosť mladých ľudí)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867959
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870218
+  },
+  {
+   "id": 15,
+   "href": "/specifickycielprogramu/id/15",
+   "kod": "401403R402",
+   "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 9,
+    "href": "/priorita/id/9",
+    "kod": "401403",
+    "nazovSk": "4P3 Zručnosti pre lepšiu adaptabilitu a inklúziu",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867947
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540871044
+  },
+  {
+   "id": 14,
+   "href": "/specifickycielprogramu/id/14",
+   "kod": "401403E407",
+   "nazovSk": "ESO4.7 Podpora celoživotného vzdelávania, najmä flexibilných príležitostí na zvyšovanie kvalifikácie a rekvalifikáciu pre všetkých s prihliadnutím na podnikateľské a digitálne zručnosti, lepšie predvídanie zmien a nových požiadaviek na zručnosti na základe potrieb trhu práce, uľahčovanie kariérnych zmien a podpora profesijnej mobility (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 9,
+    "href": "/priorita/id/9",
+    "kod": "401403",
+    "nazovSk": "4P3 Zručnosti pre lepšiu adaptabilitu a inklúziu",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867947
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870849
+  },
+  {
+   "id": 13,
+   "href": "/specifickycielprogramu/id/13",
+   "kod": "401403E404",
+   "nazovSk": "ESO4.4 Podpora adaptácie pracovníkov, podnikov a podnikateľov na zmeny, ako aj aktívneho a zdravého starnutia a zdravého a vhodne prispôsobeného pracovného prostredia, ktoré rieši zdravotné riziká (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 9,
+    "href": "/priorita/id/9",
+    "kod": "401403",
+    "nazovSk": "4P3 Zručnosti pre lepšiu adaptabilitu a inklúziu",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867947
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870773
+  },
+  {
+   "id": 12,
+   "href": "/specifickycielprogramu/id/12",
+   "kod": "401402R402",
+   "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 8,
+    "href": "/priorita/id/8",
+    "kod": "401402",
+    "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867946
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870707
+  },
+  {
+   "id": 17,
+   "href": "/specifickycielprogramu/id/17",
+   "kod": "401402E406",
+   "nazovSk": "ESO4.6 Podpora rovného prístupu, a to najmä znevýhodnených skupín, ku kvalitnému a inkluzívnemu vzdelávaniu a odbornej príprave a podpora ich úspešného ukončenia, počnúc vzdelávaním a starostlivosťou v ranom detstve cez všeobecné a odborné vzdelávanie a prípravu až po terciárnu úroveň a vzdelávanie a učenie dospelých vrátane uľahčovania vzdelávacej mobility pre všetkých a prístupnosti pre osoby so zdravotným postihnutím (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 8,
+    "href": "/priorita/id/8",
+    "kod": "401402",
+    "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867946
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870357
+  },
+  {
+   "id": 25,
+   "href": "/specifickycielprogramu/id/25",
+   "kod": "401402E405",
+   "nazovSk": "ESO4.5 Zvýšenie kvality, inkluzívnosti a účinnosti systémov vzdelávania a odbornej prípravy, ako aj ich relevantnosti z hľadiska trhu práce okrem iného prostredníctvom potvrdzovania výsledkov neformálneho vzdelávania a informálneho učenia sa s cieľom podporiť nadobúdanie kľúčových kompetencií vrátane podnikateľských a digitálnych zručností, a tiež prostredníctvom podpory zavádzania systémov duálnej odbornej prípravy a učňovskej prípravy (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 8,
+    "href": "/priorita/id/8",
+    "kod": "401402",
+    "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867946
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870133
+  },
+  {
+   "id": 11,
+   "href": "/specifickycielprogramu/id/11",
+   "kod": "401401R401",
+   "nazovSk": "RSO4.1 Zvyšovanie účinnosti a inkluzívnosti trhov práce a prístupu ku kvalitnému zamestnaniu rozvíjaním sociálnej infraštruktúry a podporou sociálneho hospodárstva (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 7,
+    "href": "/priorita/id/7",
+    "kod": "401401",
+    "nazovSk": "4P1 Adaptabilný a prístupný trh práce",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867953
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870284
+  },
+  {
+   "id": 24,
+   "href": "/specifickycielprogramu/id/24",
+   "kod": "401401E404",
+   "nazovSk": "ESO4.4 Podpora adaptácie pracovníkov, podnikov a podnikateľov na zmeny, ako aj aktívneho a zdravého starnutia a zdravého a vhodne prispôsobeného pracovného prostredia, ktoré rieši zdravotné riziká (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 7,
+    "href": "/priorita/id/7",
+    "kod": "401401",
+    "nazovSk": "4P1 Adaptabilný a prístupný trh práce",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867953
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868480
+  },
+  {
+   "id": 10,
+   "href": "/specifickycielprogramu/id/10",
+   "kod": "401401E403",
+   "nazovSk": "ESO4.3 Podpora rodovo vyváženej účasti na trhu práce, rovnakých pracovných podmienok a lepšej rovnováhy medzi pracovným a súkromným životom vrátane prístupu k cenovo dostupnej starostlivosti o deti a odkázané osoby  (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 7,
+    "href": "/priorita/id/7",
+    "kod": "401401",
+    "nazovSk": "4P1 Adaptabilný a prístupný trh práce",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867953
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868771
+  },
+  {
+   "id": 18,
+   "href": "/specifickycielprogramu/id/18",
+   "kod": "401401E402",
+   "nazovSk": "ESO4.2 Modernizácia inštitúcií a služieb trhu práce s cieľom posúdiť a predvídať potreby v oblasti zručností a zabezpečiť včasnú a cielenú pomoc a podporu v záujme zosúladenia ponuky s potrebami trhu práce, ako aj pri prechodoch medzi zamestnaniami a mobilite (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 7,
+    "href": "/priorita/id/7",
+    "kod": "401401",
+    "nazovSk": "4P1 Adaptabilný a prístupný trh práce",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867953
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870072
+  },
+  {
+   "id": 23,
+   "href": "/specifickycielprogramu/id/23",
+   "kod": "401401E401",
+   "nazovSk": "ESO4.1 Zlepšenie prístupu k zamestnaniu a aktivačným opatreniam pre všetkých uchádzačov o zamestnanie, predovšetkým mladých ľudí, a to najmä vykonávaním záruky pre mladých ľudí, pre dlhodobo nezamestnaných a znevýhodnené skupiny na trhu práce a neaktívne osoby, ako aj prostredníctvom podpory samostatnej zárobkovej činnosti a sociálneho hospodárstva (ESF+)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 7,
+    "href": "/priorita/id/7",
+    "kod": "401401",
+    "nazovSk": "4P1 Adaptabilný a prístupný trh práce",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867953
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 7,
+    "kod": "1032ESF+",
+    "kodZdroj": "ESF+",
+    "nazovSk": "Európsky sociálny fond plus",
+    "nazovEn": "Európsky sociálny fond plus",
+    "popisSk": "Európsky sociálny fond plus",
+    "popisEn": "Európsky sociálny fond plus",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870005
+  },
+  {
+   "id": 40,
+   "href": "/specifickycielprogramu/id/40",
+   "kod": "401301R31K",
+   "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 6,
+    "href": "/priorita/id/6",
+    "kod": "401301",
+    "nazovSk": "3P1 Doprava",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867951
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 8,
+    "kod": "1032KF",
+    "kodZdroj": "KF",
+    "nazovSk": "Kohézny fond",
+    "nazovEn": "Kohézny fond",
+    "popisSk": "Kohézny fond",
+    "popisEn": "Kohézny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869148
+  },
+  {
+   "id": 41,
+   "href": "/specifickycielprogramu/id/41",
+   "kod": "401301R302",
+   "nazovSk": "RSO3.2 Rozvoj a posilňovanie udržateľnej, inteligentnej a intermodálnej vnútroštátnej, regionálnej a miestnej mobility odolnej proti  zmene klímy vrátane zlepšeného prístupu k TEN-T a cezhraničnej mobility (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 6,
+    "href": "/priorita/id/6",
+    "kod": "401301",
+    "nazovSk": "3P1 Doprava",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867951
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870536
+  },
+  {
+   "id": 39,
+   "href": "/specifickycielprogramu/id/39",
+   "kod": "401301R301",
+   "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 6,
+    "href": "/priorita/id/6",
+    "kod": "401301",
+    "nazovSk": "3P1 Doprava",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867951
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868716
+  },
+  {
+   "id": 3,
+   "href": "/specifickycielprogramu/id/3",
+   "kod": "401203R28K",
+   "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (KF)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 5,
+    "href": "/priorita/id/5",
+    "kod": "401203",
+    "nazovSk": "2P3 Udržateľná mestská mobilita",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867942
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 8,
+    "kod": "1032KF",
+    "kodZdroj": "KF",
+    "nazovSk": "Kohézny fond",
+    "nazovEn": "Kohézny fond",
+    "popisSk": "Kohézny fond",
+    "popisEn": "Kohézny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869942
+  },
+  {
+   "id": 2,
+   "href": "/specifickycielprogramu/id/2",
+   "kod": "401203R208",
+   "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 5,
+    "href": "/priorita/id/5",
+    "kod": "401203",
+    "nazovSk": "2P3 Udržateľná mestská mobilita",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867942
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868316
+  },
+  {
+   "id": 51,
+   "href": "/specifickycielprogramu/id/51",
+   "kod": "401202R27K",
+   "nazovSk": "RSO2.7 Posilnenie ochrany a zachovania prírody, biodiverzity a zelenej infraštruktúry, a to aj v mestských oblastiach, a zníženie všetkých foriem znečistenia (KF)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 4,
+    "href": "/priorita/id/4",
+    "kod": "401202",
+    "nazovSk": "2P2 Životné prostredie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867941
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 8,
+    "kod": "1032KF",
+    "kodZdroj": "KF",
+    "nazovSk": "Kohézny fond",
+    "nazovEn": "Kohézny fond",
+    "popisSk": "Kohézny fond",
+    "popisEn": "Kohézny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540871750
+  },
+  {
+   "id": 50,
+   "href": "/specifickycielprogramu/id/50",
+   "kod": "401202R25K",
+   "nazovSk": "RSO2.5 Podpora prístupu k vode a udržateľného vodného hospodárstva (KF)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 4,
+    "href": "/priorita/id/4",
+    "kod": "401202",
+    "nazovSk": "2P2 Životné prostredie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867941
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 8,
+    "kod": "1032KF",
+    "kodZdroj": "KF",
+    "nazovSk": "Kohézny fond",
+    "nazovEn": "Kohézny fond",
+    "popisSk": "Kohézny fond",
+    "popisEn": "Kohézny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540871942
+  },
+  {
+   "id": 49,
+   "href": "/specifickycielprogramu/id/49",
+   "kod": "401202R24K",
+   "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 4,
+    "href": "/priorita/id/4",
+    "kod": "401202",
+    "nazovSk": "2P2 Životné prostredie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867941
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 8,
+    "kod": "1032KF",
+    "kodZdroj": "KF",
+    "nazovSk": "Kohézny fond",
+    "nazovEn": "Kohézny fond",
+    "popisSk": "Kohézny fond",
+    "popisEn": "Kohézny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540871655
+  },
+  {
+   "id": 48,
+   "href": "/specifickycielprogramu/id/48",
+   "kod": "401202R207",
+   "nazovSk": "RSO2.7 Posilnenie ochrany a zachovania prírody, biodiverzity a zelenej infraštruktúry, a to aj v mestských oblastiach, a zníženia všetkých foriem znečistenia (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 4,
+    "href": "/priorita/id/4",
+    "kod": "401202",
+    "nazovSk": "2P2 Životné prostredie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867941
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540871835
+  },
+  {
+   "id": 47,
+   "href": "/specifickycielprogramu/id/47",
+   "kod": "401202R206",
+   "nazovSk": "RSO2.6 Podpora prechodu na obehové hospodárstvo, ktoré efektívne využíva zdroje (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 4,
+    "href": "/priorita/id/4",
+    "kod": "401202",
+    "nazovSk": "2P2 Životné prostredie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867941
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540871556
+  },
+  {
+   "id": 46,
+   "href": "/specifickycielprogramu/id/46",
+   "kod": "401202R205",
+   "nazovSk": "RSO2.5 Podpora prístupu k vode a udržateľného vodného hospodárstva (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 4,
+    "href": "/priorita/id/4",
+    "kod": "401202",
+    "nazovSk": "2P2 Životné prostredie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867941
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540871109
+  },
+  {
+   "id": 52,
+   "href": "/specifickycielprogramu/id/52",
+   "kod": "401202R204",
+   "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 4,
+    "href": "/priorita/id/4",
+    "kod": "401202",
+    "nazovSk": "2P2 Životné prostredie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867941
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540871485
+  },
+  {
+   "id": 45,
+   "href": "/specifickycielprogramu/id/45",
+   "kod": "401201R21K",
+   "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (KF)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 3,
+    "href": "/priorita/id/3",
+    "kod": "401201",
+    "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867938
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 8,
+    "kod": "1032KF",
+    "kodZdroj": "KF",
+    "nazovSk": "Kohézny fond",
+    "nazovEn": "Kohézny fond",
+    "popisSk": "Kohézny fond",
+    "popisEn": "Kohézny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540871352
+  },
+  {
+   "id": 44,
+   "href": "/specifickycielprogramu/id/44",
+   "kod": "401201R203",
+   "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 3,
+    "href": "/priorita/id/3",
+    "kod": "401201",
+    "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867938
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540871418
+  },
+  {
+   "id": 43,
+   "href": "/specifickycielprogramu/id/43",
+   "kod": "401201R202",
+   "nazovSk": "RSO2.2 Podpora energie z obnoviteľných zdrojov v súlade so smernicou (EÚ) 2018/2001 vrátane kritérií udržateľnosti, ktoré sú v nej stanovené (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 3,
+    "href": "/priorita/id/3",
+    "kod": "401201",
+    "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867938
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870445
+  },
+  {
+   "id": 42,
+   "href": "/specifickycielprogramu/id/42",
+   "kod": "401201R201",
+   "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 3,
+    "href": "/priorita/id/3",
+    "kod": "401201",
+    "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867938
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868177
+  },
+  {
+   "id": 97,
+   "href": "/specifickycielprogramu/id/97",
+   "kod": "401103R106",
+   "nazovSk": "RSO1.6. Podpory investícií, ktoré prispievajú k cieľom Platformy strategických technológií pre Európu uvedeným v článku 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/795 (EFRR)",
+   "nazovDe": "RSO1.6 Unterstützung von Investitionen, die zu den in Artikel 2 der Verordnung (EU) 2024/795 genannten STEP-Zielen beitragen",
+   "nazovEn": "RSO1.6 Supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 41,
+    "href": "/priorita/id/41",
+    "kod": "401103",
+    "nazovSk": "1P3 Platforma strategických technológií pre Európu (STEP)",
+    "nazovDe": "1P3 Plattform für strategische Technologien für Europa (STEP)",
+    "nazovEn": "1P3 Strategic Technologies for Europe Platform (STEP)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867966
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540867984
+  },
+  {
+   "id": 4,
+   "href": "/specifickycielprogramu/id/4",
+   "kod": "401102R105",
+   "nazovSk": "RSO1.5 Zvyšovanie digitálnej pripojiteľnosti (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 2,
+    "href": "/priorita/id/2",
+    "kod": "401102",
+    "nazovSk": "1P2 Digitálna pripojiteľnosť",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867950
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868110
+  },
+  {
+   "id": 55,
+   "href": "/specifickycielprogramu/id/55",
+   "kod": "401101R104",
+   "nazovSk": "RSO1.4 Rozvoj zručností pre inteligentnú špecializáciu, priemyselnú transformáciu a podnikanie (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 1,
+    "href": "/priorita/id/1",
+    "kod": "401101",
+    "nazovSk": "1P1 Veda, výskum a inovácie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867949
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540871271
+  },
+  {
+   "id": 54,
+   "href": "/specifickycielprogramu/id/54",
+   "kod": "401101R103",
+   "nazovSk": "RSO1.3 Posilnenie udržateľného rastu a konkurencieschopnosti MSP a tvorby pracovných miest v MSP, a to aj produktívnymi investíciami (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 1,
+    "href": "/priorita/id/1",
+    "kod": "401101",
+    "nazovSk": "1P1 Veda, výskum a inovácie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867949
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540871193
+  },
+  {
+   "id": 53,
+   "href": "/specifickycielprogramu/id/53",
+   "kod": "401101R102",
+   "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 1,
+    "href": "/priorita/id/1",
+    "kod": "401101",
+    "nazovSk": "1P1 Veda, výskum a inovácie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867949
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868608
+  },
+  {
+   "id": 1,
+   "href": "/specifickycielprogramu/id/1",
+   "kod": "401101R101",
+   "nazovSk": "RSO1.1 Rozvoj a rozšírenie výskumných a inovačných kapacít a využívania pokročilých technológií (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1",
+    "kod": "401000",
+    "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+    "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+    "skratka": "PSK",
+    "sumaEu": 12593734933.0,
+    "sumaSr": 3570958668.0,
+    "sumaSpolu": 16164693601.0,
+    "typProgramu": {
+     "typ": "PSK",
+     "jedenFond": false,
+     "maKategoriuReg": true,
+     "maPriority": true,
+     "maOpatrenia": true
+    },
+    "kodCCI": "2021SK16FFPR001",
+    "riadiaciOrgan": {
+     "id": 376
+    },
+    "createdAt": 1772540867859,
+    "updatedAt": 1772540867892
+   },
+   "priorita": {
+    "id": 1,
+    "href": "/priorita/id/1",
+    "kod": "401101",
+    "nazovSk": "1P1 Veda, výskum a inovácie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867949
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868369
+  }
+ ]
+}
