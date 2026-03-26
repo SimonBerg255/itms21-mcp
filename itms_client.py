@@ -9,16 +9,23 @@ from typing import Any, Optional
 import httpx
 
 BASE_URL = "https://api.itms21.sk/public/v1"
-TIMEOUT = 30.0
+TIMEOUT = httpx.Timeout(connect=10.0, read=120.0, write=10.0, pool=10.0)
+
+# Reuse a single client for connection pooling (keeps TCP connections alive)
+_client = httpx.Client(
+    timeout=TIMEOUT,
+    limits=httpx.Limits(max_connections=10, max_keepalive_connections=5),
+    headers={"Accept": "application/json"},
+    follow_redirects=True,
+)
 
 
 def get(endpoint: str, params: Optional[dict] = None) -> Any:
     """Make a GET request to the ITMS21+ public API."""
     url = f"{BASE_URL}{endpoint}"
-    with httpx.Client(timeout=TIMEOUT) as client:
-        r = client.get(url, params=params or {})
-        r.raise_for_status()
-        return r.json()
+    r = _client.get(url, params=params or {})
+    r.raise_for_status()
+    return r.json()
 
 
 def get_list(endpoint: str, limit: int = 20, extra_params: Optional[dict] = None) -> list:
