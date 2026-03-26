@@ -1,0 +1,17 @@
+# Environment
+.env
+venv/
+__pycache__/
+
+# Downloads (large binary files)
+downloads/
+
+# Inspection artifacts
+inspect_full.html
+inspect_full.png
+inspect_page.py
+inspect_downloads.py
+inspect_download_trigger.py
+
+# OS
+.DS_Store
