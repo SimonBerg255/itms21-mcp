@@ -2,6 +2,8 @@
 """ITMS21+ tool implementations for the MCP server."""
 
 import json
+import os
+from pathlib import Path
 from typing import Optional
 
 from itms_client import (
@@ -12,6 +14,8 @@ from itms_client import (
     format_amount,
     safe_get,
 )
+
+DOC_CACHE_DIR = Path(__file__).parent / "cache" / "documents"
 
 
 # ──────────────────────────────────────────────
@@ -869,3 +873,106 @@ async def get_programme_structure(programme_code: str = "") -> str:
                 lines.append("")
 
     return "\n".join(lines)
+
+
+# ──────────────────────────────────────────────
+# Tool 9: get_call_documents
+# ──────────────────────────────────────────────
+async def get_call_documents(
+    call_code: str = "PSK-UV-005-2024-DV-ESF+",
+) -> str:
+    """
+    List all available documents for a specific call (výzva).
+
+    Returns the list of extracted documents with their names and sizes.
+    Use get_document_text to read the full text of a specific document.
+
+    Args:
+        call_code: The call code (e.g. "PSK-UV-005-2024-DV-ESF+").
+
+    Returns:
+        List of available documents with names, types, and character counts.
+    """
+    cache_file = DOC_CACHE_DIR / f"{call_code}.json"
+    if not cache_file.exists():
+        available = ", ".join(f.stem for f in DOC_CACHE_DIR.glob("*.json")) if DOC_CACHE_DIR.exists() else "none"
+        return f"No documents cached for call {call_code}. Available: {available}"
+
+    with open(cache_file, "r", encoding="utf-8") as f:
+        docs = json.load(f)
+
+    lines = [f"# Documents for {call_code}", f"Total: {len(docs)} documents", ""]
+
+    for doc_name, info in docs.items():
+        lines.append(f"**{doc_name}**")
+        lines.append(f"  File: {info['filename']}")
+        lines.append(f"  Size: {info['chars']:,} characters")
+        lines.append("")
+
+    lines.append("Use get_document_text(call_code, document_name) to read the full text.")
+    lines.append("Key documents for application drafting:")
+    lines.append("  - 'Formulár_ŽoNFP' — the application form template")
+    lines.append("  - '06_Kritériá pre výber projektov' — scoring criteria (MOST IMPORTANT)")
+    lines.append("  - 'Výzva PSK-UV-005-2024-DV-ESF+' — the full call text")
+    lines.append("  - '03_Zoznam MÚ a Inych údajov' — measurable indicators")
+    lines.append("  - '04_Zoznam opráv.výdavkov' — eligible costs")
+    lines.append("  - '05_Súlad s 3D' — desegregation compliance conditions")
+
+    return "\n".join(lines)
+
+
+# ──────────────────────────────────────────────
+# Tool 10: get_document_text
+# ──────────────────────────────────────────────
+async def get_document_text(
+    call_code: str = "PSK-UV-005-2024-DV-ESF+",
+    document_name: str = "",
+) -> str:
+    """
+    Get the full text content of a specific document from a call's documentation package.
+
+    This returns the actual text extracted from the PDF or DOCX file, which can be
+    used as context for drafting grant applications. The text is in Slovak.
+
+    IMPORTANT: Some documents are large (50,000+ chars). For drafting applications:
+    1. '06_Kritériá pre výber projektov' — scoring criteria (36K chars)
+    2. 'Formulár_ŽoNFP' — application form template (55K chars)
+    3. 'Výzva PSK-UV-005-2024-DV-ESF+' — full call text (78K chars)
+    4. '03_Zoznam MÚ a Inych údajov' — measurable indicators (34K chars)
+    5. '04_Zoznam opráv.výdavkov' — eligible costs (28K chars)
+
+    Args:
+        call_code: The call code (e.g. "PSK-UV-005-2024-DV-ESF+").
+        document_name: The document name (e.g. "06_Kritériá pre výber projektov").
+            Use get_call_documents to see available document names.
+            Partial name matching is supported.
+
+    Returns:
+        Full text content of the document.
+    """
+    cache_file = DOC_CACHE_DIR / f"{call_code}.json"
+    if not cache_file.exists():
+        return f"No documents cached for call {call_code}."
+
+    with open(cache_file, "r", encoding="utf-8") as f:
+        docs = json.load(f)
+
+    if not document_name:
+        return "Please specify a document_name. Use get_call_documents to see available documents."
+
+    # Exact match
+    if document_name in docs:
+        info = docs[document_name]
+        return f"# {document_name}\nSource: {info['filename']} | Call: {call_code} | {info['chars']:,} chars\n\n---\n\n{info['text']}"
+
+    # Substring match
+    matches = [(n, i) for n, i in docs.items() if document_name.lower() in n.lower()]
+
+    if len(matches) == 1:
+        name, info = matches[0]
+        return f"# {name}\nSource: {info['filename']} | Call: {call_code} | {info['chars']:,} chars\n\n---\n\n{info['text']}"
+
+    if len(matches) > 1:
+        return "Multiple documents match. Be more specific:\n" + "\n".join(f"  - {n}" for n, _ in matches)
+
+    return f"Document '{document_name}' not found. Available:\n" + "\n".join(f"  - {n}" for n in docs.keys())

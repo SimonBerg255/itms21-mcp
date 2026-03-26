@@ -22,6 +22,8 @@ from tools_itms import (
     search_projects,
     get_project_detail,
     get_programme_structure,
+    get_call_documents,
+    get_document_text,
 )
 
 
@@ -47,6 +49,20 @@ Key tools and when to use them:
 - search_projects: find what has been funded in a region or sector
 - get_project_detail: understand a project's activities and indicators
 - get_programme_structure: understand the EU policy context
+- get_call_documents: list all documents (PDFs, DOCXs) for a specific call
+- get_document_text: read the FULL TEXT of a specific document — use this to
+  load scoring criteria, the ŽoNFP form template, eligible costs list, or
+  the call text itself into context for drafting applications
+
+WORKFLOW for helping draft applications:
+1. search_open_calls → find the call
+2. get_call_detail → understand conditions
+3. get_call_documents → see what documents are available
+4. get_document_text('06_Kritériá') → load scoring criteria
+5. get_document_text('Formulár_ŽoNFP') → load the application form template
+6. search_approved_applications(call_id=...) → find approved examples
+7. get_application_detail → read how successful applicants wrote their sections
+8. Draft each section using the scoring criteria + form template + real examples
 
 All data is official Slovak government open data from the Ministry of
 Investment, Regional Development and Informatisation of the Slovak Republic.
@@ -70,6 +86,8 @@ mcp.tool(meta={"requires_permission": False})(get_application_detail)
 mcp.tool(meta={"requires_permission": False})(search_projects)
 mcp.tool(meta={"requires_permission": False})(get_project_detail)
 mcp.tool(meta={"requires_permission": False})(get_programme_structure)
+mcp.tool(meta={"requires_permission": False})(get_call_documents)
+mcp.tool(meta={"requires_permission": False})(get_document_text)
 
 
 ####### HEALTH CHECK #######
