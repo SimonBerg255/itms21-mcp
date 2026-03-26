@@ -18,30 +18,50 @@ from itms_client import (
 # Tool 1: search_open_calls
 # ──────────────────────────────────────────────
 def search_open_calls(
-    keyword: str = "",
-    limit: int = 10,
+    code: str = "",
+    programme_code: str = "",
+    applicant_type_code: str = "",
+    specific_objective_id: int = 0,
+    region: str = "",
+    limit: int = 50,
 ) -> str:
     """
-    Search open calls for EU funding applications (výzvy) in Slovakia.
+    Search open (not yet closed) calls for EU funding applications (výzvy) in Slovakia.
 
-    Use this to find active funding opportunities. Filter by keyword in the
-    call name or code.
+    IMPORTANT: There is NO free-text search on call names or descriptions.
+    The only text filter is `code` which does substring matching on the call
+    code (e.g. "PSK-UV" matches "PSK-UV-005-2024-DV-ESF+"). To find calls
+    by topic, either leave all filters empty to get all open calls and scan
+    their names, or use programme_code / applicant_type_code / specific_objective_id
+    to narrow by policy area.
 
     Args:
-        keyword: Search keyword to filter calls by name or code.
-        limit: Maximum number of results to return (default 10).
+        code: Substring search on the call code (e.g. "PSK-UV-005"). NOT a name search.
+        programme_code: Filter by programme code (e.g. "401000" for Programme Slovakia).
+        applicant_type_code: Filter by eligible applicant type kodZdroj
+            (e.g. "1009801" for municipalities/obce). Use get_programme_structure
+            to discover codes.
+        specific_objective_id: Filter by specific objective ID (integer).
+        region: Filter by region (miestoRealizacie value).
+        limit: Maximum number of results to return (default 50).
 
     Returns:
         List of open calls with name, code, deadline, funding amount,
         eligible applicants, and specific objective.
     """
     params = {
-        "vyhlasena": "true",
-        "uzavreta": "false",
-        "zrusena": "false",
+        "ajUkoncene": "false",
     }
-    if keyword:
-        params["kod"] = keyword
+    if code:
+        params["kod"] = code
+    if programme_code:
+        params["program"] = programme_code
+    if applicant_type_code:
+        params["opravnenyZiadatel"] = applicant_type_code
+    if specific_objective_id:
+        params["specifickyCielProgramuId"] = str(specific_objective_id)
+    if region:
+        params["miestoRealizacie"] = region
 
     items = get_list("/vyzva", limit=limit, extra_params=params)
 
@@ -214,8 +234,10 @@ def get_call_detail(call_id: int) -> str:
 # Tool 3: search_planned_calls
 # ──────────────────────────────────────────────
 def search_planned_calls(
-    keyword: str = "",
-    limit: int = 10,
+    code: str = "",
+    programme_code: str = "",
+    applicant_type_code: str = "",
+    limit: int = 50,
 ) -> str:
     """
     Search planned (upcoming) EU funding calls that are not yet open.
@@ -223,16 +245,27 @@ def search_planned_calls(
     Use this to help applicants prepare in advance. Returns planned opening
     dates, expected funding amounts, eligible applicants, and specific objectives.
 
+    IMPORTANT: There is NO free-text search on names. The `code` param does
+    substring matching on the planned call code only. To browse planned calls
+    by topic, leave filters empty to get all non-cancelled planned calls.
+
     Args:
-        keyword: Search keyword to filter by name or code.
-        limit: Maximum number of results to return (default 10).
+        code: Substring search on the planned call code. NOT a name search.
+        programme_code: Filter by programme code (e.g. "401000").
+        applicant_type_code: Filter by eligible applicant type kodZdroj
+            (e.g. "1009801" for municipalities).
+        limit: Maximum number of results to return (default 50).
 
     Returns:
         List of planned calls with details.
     """
-    params = {"zrusena": "false"}
-    if keyword:
-        params["kod"] = keyword
+    params = {"ajZrusene": "false"}
+    if code:
+        params["kod"] = code
+    if programme_code:
+        params["program"] = programme_code
+    if applicant_type_code:
+        params["opravnenyZiadatel"] = applicant_type_code
 
     items = get_list("/planovanavyzva", limit=limit, extra_params=params)
 
@@ -278,21 +311,33 @@ def search_planned_calls(
 # Tool 4: search_approved_applications
 # ──────────────────────────────────────────────
 def search_approved_applications(
-    keyword: str = "",
+    code: str = "",
     applicant: str = "",
+    call_id: int = 0,
+    call_code: str = "",
+    programme_code: str = "",
     limit: int = 10,
 ) -> str:
     """
     Search approved grant applications (schválené žiadosti o NFP).
 
     Use this to find real examples of successful applications. Useful for
-    understanding what approved projects look like, what language was used,
-    and what indicators were committed to. Filter by project name keyword
-    or applicant name.
+    understanding what approved projects look like and what indicators were
+    committed to.
+
+    IMPORTANT: There is NO free-text search on application/project names.
+    The `code` param does substring matching on the application code only
+    (e.g. "NFP401406"). The `applicant` param does substring matching on
+    the applicant organisation name. To find applications under a specific
+    call, use `call_id` (most reliable) or `call_code`.
 
     Args:
-        keyword: Search keyword to filter by project name.
-        applicant: Filter by applicant name.
+        code: Substring search on application code (e.g. "NFP401406"). NOT a name search.
+        applicant: Substring search on applicant organisation name (e.g. "Bratislava").
+        call_id: Filter by call ID (integer). Use this to find all applications
+            under a specific call. Get the ID from search_open_calls results.
+        call_code: Filter by call code string (e.g. "PSK-UV-005-2024-DV-ESF+").
+        programme_code: Filter by programme code (e.g. "401000").
         limit: Maximum number of results to return (default 10).
 
     Returns:
@@ -300,10 +345,16 @@ def search_approved_applications(
         approved amount, dates, and status.
     """
     params = {"schvalena": "true"}
-    if keyword:
-        params["nazov"] = keyword
+    if code:
+        params["kod"] = code
     if applicant:
         params["ziadatel"] = applicant
+    if call_id:
+        params["vyzvaId"] = str(call_id)
+    if call_code:
+        params["vyzva"] = call_code
+    if programme_code:
+        params["program"] = programme_code
 
     items = get_list("/zonfp", limit=limit, extra_params=params)
 
@@ -499,8 +550,14 @@ def get_application_detail(application_id: int) -> str:
 # Tool 6: search_projects
 # ──────────────────────────────────────────────
 def search_projects(
-    keyword: str = "",
+    code: str = "",
+    beneficiary: str = "",
+    call_id: int = 0,
+    call_code: str = "",
+    programme_code: str = "",
+    region: str = "",
     in_realisation: bool = True,
+    completed: bool = False,
     limit: int = 10,
 ) -> str:
     """
@@ -510,9 +567,22 @@ def search_projects(
     beneficiary, and implementation status. Use to find reference projects
     or understand what has been funded in a specific region or area.
 
+    IMPORTANT: There is NO free-text search on project names or descriptions.
+    The `code` param does substring matching on the project code only.
+    The `beneficiary` param does substring matching on the beneficiary
+    organisation name (prijímateľ). To find projects under a specific call,
+    use `call_id` (most reliable) or `call_code`.
+
     Args:
-        keyword: Search keyword to filter by project name.
-        in_realisation: If True, only show projects currently in realisation.
+        code: Substring search on project code. NOT a name search.
+        beneficiary: Substring search on beneficiary name (prijímateľ),
+            e.g. "Bratislava" to find projects by entities with Bratislava in the name.
+        call_id: Filter by call ID (integer). Get the ID from search_open_calls.
+        call_code: Filter by call code string.
+        programme_code: Filter by programme code (e.g. "401000").
+        region: Filter by region (miestoRealizacie value).
+        in_realisation: If True, only show projects currently in realisation (default True).
+        completed: If True, only show completed projects (default False).
         limit: Maximum number of results to return (default 10).
 
     Returns:
@@ -521,8 +591,20 @@ def search_projects(
     params = {}
     if in_realisation:
         params["vrealizacii"] = "true"
-    if keyword:
-        params["nazov"] = keyword
+    if completed:
+        params["ukonceny"] = "true"
+    if code:
+        params["kod"] = code
+    if beneficiary:
+        params["prijimatel"] = beneficiary
+    if call_id:
+        params["vyzvaId"] = str(call_id)
+    if call_code:
+        params["vyzva"] = call_code
+    if programme_code:
+        params["program"] = programme_code
+    if region:
+        params["miestoRealizacie"] = region
 
     items = get_list("/projekt", limit=limit, extra_params=params)
 
