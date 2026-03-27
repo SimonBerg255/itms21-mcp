@@ -1,0 +1,1938 @@
+{
+ "id": 3382,
+ "href": "/vyzva/id/3382",
+ "kod": "PSK-MD-005-2024-FAA-KF",
+ "nazovSk": "ŽSR, Modernizácia koridoru, štátna hranica ČR/SR – Čadca  – Krásno nad Kysucou (mimo), železničná trať, úsek Svrčinovec – štátna hranica SR/ČR (2. fáza)",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 40,
+   "href": "/specifickycielprogramu/id/40",
+   "kod": "401301R31K",
+   "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 6,
+    "href": "/priorita/id/6",
+    "kod": "401301",
+    "nazovSk": "3P1 Doprava",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867951
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 8,
+    "kod": "1032KF",
+    "kodZdroj": "KF",
+    "nazovSk": "Kohézny fond",
+    "nazovEn": "Kohézny fond",
+    "popisSk": "Kohézny fond",
+    "popisEn": "Kohézny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869148
+  }
+ ],
+ "opatrenie": [
+  {
+   "id": 31,
+   "href": "/opatrenie/id/31",
+   "kod": "401301R31K01",
+   "nazovSk": "Odstránenie kľúčových úzkych miest na železničnej infraštruktúre prostredníctvom modernizácie a rozvoja hlavných železničných tratí a uzlov",
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "createdAt": 1772540869159
+  }
+ ],
+ "miestoRealizacie": [
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 200001,
+   "kod": "1009995",
+   "kodZdroj": "995",
+   "nazovSk": "Nešpecifikovaná právna forma",
+   "nazovEn": "Not specified legal type",
+   "popisSk": "Nešpecifikovaná právna forma",
+   "popisEn": "Not specified legal type",
+   "platnostOd": 1003960800000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1715724000000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 382,
+  "kod": "21_SO_PSK_MDSR",
+  "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo dopravy SR",
+  "subjekt": {
+   "id": 100008,
+   "href": "/subjekt/id/100008",
+   "nazov": "Ministerstvo dopravy Slovenskej republiky",
+   "ico": "30416094",
+   "dic": "2020799209",
+   "platitelDph": true,
+   "podlaParagrafu": "§7a",
+   "icDph": "SK2020799209",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Námestie slobody",
+    "cislo": "2902/6",
+    "psc": "81005",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "OTVORENA",
+ "zameranieProjektu": "NP_21",
+ "createdAt": 1715242633607,
+ "updatedAt": 1715242633647,
+ "sumaEu": 24941757.16,
+ "sumaSr": 4401486.56,
+ "predvyber": false,
+ "posudzovaneObdobie": [],
+ "pocetPredlozenychZiadosti": 1,
+ "pocetSchvalenychZiadosti": 1,
+ "pocetZiadostiVKonani": 0,
+ "pocetNeschvalenychZiadosti": 0,
+ "pocetRealizovanychProjektov": 1,
+ "planovanaVyzva": [],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 8,
+   "kod": "1032KF",
+   "kodZdroj": "KF",
+   "nazovSk": "Kohézny fond",
+   "nazovEn": "Kohézny fond",
+   "popisSk": "Kohézny fond",
+   "popisEn": "Kohézny fond",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "sposobFinancovania": [],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktNazov": "Peter Smolka",
+ "kontaktEmail": "peter.smolka@mindop.sk",
+ "kontaktTelefon": "02/59494681",
+ "kontaktnaOsoba": [
+  {
+   "osoba": {
+    "titulPred": "Ing.",
+    "meno": "Gabriel",
+    "priezvisko": "Čech",
+    "titulZa": "",
+    "menoUplne": "Ing. Gabriel Čech"
+   },
+   "telefon": "02/59494746",
+   "email": "gabriel.cech@mindop.sk"
+  }
+ ],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "oprávnenosť projektu pre II fázu projektu - technická výzva",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [
+  {
+   "id": 100714,
+   "href": "/subjekt/id/100714",
+   "nazov": "Železnice Slovenskej republiky",
+   "ico": "31364501",
+   "dic": "2020480121",
+   "platitelDph": true,
+   "icDph": "SK2020480121",
+   "pravnaForma": {
+    "id": 39,
+    "kod": "1009301",
+    "kodZdroj": "301",
+    "nazovSk": "Štátny podnik",
+    "nazovEn": "State enterprise",
+    "popisSk": "Štátny podnik Štátny podnik",
+    "popisEn": "State enterprise State enterprise",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Klemensova",
+    "cislo": "8",
+    "psc": "81361",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ ],
+ "miestoRealizacieFull": [
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040021",
+   "nazovSk": "Stavby",
+   "typAkcieProgramu": {
+    "id": 591,
+    "href": "/typakcieprogramu/id/591"
+   }
+  },
+  {
+   "kod": "1040930",
+   "nazovSk": "Rezerva na nepredvídané výdavky",
+   "typAkcieProgramu": {
+    "id": 591,
+    "href": "/typakcieprogramu/id/591"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 989,
+    "href": "/typakcieprogramu/id/989"
+   }
+  }
+ ],
+ "externyZdroj": [],
+ "dokument": [
+  {
+   "nazov": "DNSH stanovisko_ŽSR Modernizácia koridoru štátna hranica ČR-SR Čadca Krásno nad Kysucou.docx",
+   "uuid": "87d4eb68-d7a7-4a5d-8fe7-0f471b22aba5"
+  },
+  {
+   "nazov": "Súhlas s priamym  poskytnutím NFP  v rámci fázovaného projektu  ŽSR  Modernizácia koridoru  štátna hranica ČR SR – Čadca  – Krás.msg",
+   "uuid": "24d72f81-2930-44b9-a81e-859cd422d162"
+  },
+  {
+   "nazov": "Výzva PSK-MD-005-2024-FAA-KF",
+   "uuid": "5195ef9a-ea42-42b2-8d2f-714253244f52"
+  }
+ ],
+ "dalsiaSkutocnost": [],
+ "dalsiaFormalnaNalezitost": [],
+ "verzia": [
+  {
+   "id": 5589,
+   "cislo": 1
+  }
+ ],
+ "ukazovatelVysledkovy": [
+  {
+   "id": 625,
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1649,
+    "href": "/ukazovatelprojektovy/id/1649",
+    "kod": "PSKPR134",
+    "nazovSk": "Úspora času v železničnej doprave (na základnej sieti TEN-T)",
+    "mernaJednotka": {
+     "id": 7,
+     "kod": "105307",
+     "nazovSk": "EUR",
+     "nazovEn": "EUR",
+     "popisSk": "EUR",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div>Definičn&aacute; matica</div><div>1.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Ukazovateľ vyjadruje finančn&eacute; vyjadrenie hodnoty &uacute;spory jazdn&eacute;ho času (EUR/rok) v osobnej a n&aacute;kladnej doprave na zmodernizovan&yacute;ch železničn&yacute;ch &uacute;sekoch na z&aacute;kladnej sieti TEN-T.<br />Met&oacute;da v&yacute;počtu: Rozdiel n&aacute;kladov na jazdn&yacute; čas na pr&iacute;slu&scaron;nom &uacute;seku železničnej trate pred realiz&aacute;ciou (v roku 2013) a po realiz&aacute;cii (v roku 2023) projektu.</div><div><b>Povinnosť plnenie:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>V&yacute;počet n&aacute;kladov na jazdn&yacute; čas na pr&iacute;slu&scaron;nom &uacute;seku železničnej trate pred realiz&aacute;ciou a po realiz&aacute;cii.</div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1711003662342,
+    "updatedAt": 1713172829752
+   }
+  },
+  {
+   "id": 628,
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1650,
+    "href": "/ukazovatelprojektovy/id/1650",
+    "kod": "PSKPR135",
+    "nazovSk": "Úspora produkcie emisií NO2 (vplyvom modernizácie tratí)",
+    "mernaJednotka": {
+     "id": 3,
+     "kod": "105303",
+     "nazovSk": "tona",
+     "nazovEn": "tona",
+     "popisSk": "tona",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div>Definičn&aacute; matica:</div><div>1.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Ukazovateľ vyjadruje celkov&uacute; hodnotu &uacute;spory produkcie emisi&iacute; oxidu dusičit&eacute;ho NO2 (v ton&aacute;ch) vplyvom intervenci&iacute; do železničnej infra&scaron;trukt&uacute;ry na z&aacute;kladnej sieti TEN-T<br />Met&oacute;da v&yacute;počtu: V&yacute;počet je založen&yacute; na porovnan&iacute; produkcie emisi&iacute; NO2 na pr&iacute;slu&scaron;nej železničnej infra&scaron;trukt&uacute;re alebo v relevantnom &uacute;zem&iacute; pred realiz&aacute;ciou projektu a n&aacute;sledne po realiz&aacute;cii projektu.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla:</b></div><div>V&yacute;počet je založen&yacute; na porovnan&iacute; produkcie emisi&iacute; NO2 na pr&iacute;slu&scaron;nej železničnej infra&scaron;trukt&uacute;re alebo v relevantnom &uacute;zem&iacute; pred realiz&aacute;ciou projektu a n&aacute;sledne po realiz&aacute;cii projektu.</div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1711003758395,
+    "updatedAt": 1713173290129
+   }
+  },
+  {
+   "id": 630,
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1651,
+    "href": "/ukazovatelprojektovy/id/1651",
+    "kod": "PSKPR136",
+    "nazovSk": "Úspora produkcie emisií PM10 (vplyvom modernizácie tratí)",
+    "mernaJednotka": {
+     "id": 3,
+     "kod": "105303",
+     "nazovSk": "tona",
+     "nazovEn": "tona",
+     "popisSk": "tona",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div>Definičn&aacute; matica</div><div>1.1</div><div><b>Popis znaku, charakteristiky, pravidla: &nbsp;</b>Ukazovateľ vyjadruje celkov&uacute; hodnotu &uacute;spory produkcie emisi&iacute; pevn&yacute;ch čast&iacute;c PM10 (v ton&aacute;ch) vplyvom intervenci&iacute; do železničnej infra&scaron;trukt&uacute;ry na z&aacute;kladnej sieti TEN-T<br />Met&oacute;da v&yacute;počtu: V&yacute;počet je založen&yacute; na porovnan&iacute; produkcie emisi&iacute; PM10 na pr&iacute;slu&scaron;nej železničnej infra&scaron;trukt&uacute;re alebo v relevantnom &uacute;zem&iacute; pred realiz&aacute;ciou projektu&nbsp; a n&aacute;sledne po realiz&aacute;cii projektu.</div><div><b>Povinnosť plnenia</b>: &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla: </b>V&yacute;počet je založen&yacute; na porovnan&iacute; produkcie emisi&iacute; PM10 na pr&iacute;slu&scaron;nej železničnej infra&scaron;trukt&uacute;re alebo v relevantnom &uacute;zem&iacute; pred realiz&aacute;ciou projektu&nbsp; a n&aacute;sledne po realiz&aacute;cii projektu.</div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1711003845630,
+    "updatedAt": 1713173752309
+   }
+  },
+  {
+   "id": 632,
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1286,
+    "href": "/ukazovatelprojektovy/id/1286",
+    "kod": "PSKPRCR101",
+    "nazovSk": "Časové úspory vďaka lepšej železničnej infraštruktúre",
+    "mernaJednotka": {
+     "id": 200106,
+     "kod": "1053107",
+     "nazovSk": "človekodeň/rok",
+     "popisSk": "človekodeň/rok",
+     "platnostOd": 1673564400000
+    },
+    "definiciaSk": "<div>Definičn&aacute; matica</div><div>1.1&nbsp;</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Celkov&aacute; &uacute;spora času v doprave na železničnej infra&scaron;trukt&uacute;re zlep&scaron;en&aacute; z d&ocirc;vodu podporovan&yacute;ch projektov. Dosiahnut&aacute; hodnota sa odhaduje ex post v obdob&iacute; jedn&eacute;ho roka po ukončen&iacute; intervencie.</div><div><b>Povinnosť plnenia:</b> &Aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla:&nbsp;</b>Najm&auml;: Spr&aacute;va o&nbsp;pr&iacute;slu&scaron;nom ex-post odhade po roku od dokončenia v&yacute;stupu, Prieskumy, CBA anal&yacute;za/ex-post CBA anal&yacute;za.</div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1675342227923,
+    "updatedAt": 1713171515402
+   }
+  },
+  {
+   "id": 634,
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1287,
+    "href": "/ukazovatelprojektovy/id/1287",
+    "kod": "PSKPRCR58",
+    "nazovSk": "Používatelia novovybudovaných, vylepšených, rekonštruovaných alebo modernizovaných železničných tratí za rok",
+    "mernaJednotka": {
+     "id": 200088,
+     "kod": "105389",
+     "nazovSk": "osobokilometre / rok",
+     "popisSk": "osobokilometre / rok",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div>Definičn&aacute; matica</div><div>1.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Celkov&yacute; počet osobokilometrov prejden&yacute;ch po novopostaven&yacute;ch, vylep&scaron;en&yacute;ch, rekon&scaron;truovan&yacute;ch alebo modernizovan&yacute;ch železniciach z d&ocirc;vodu podporen&eacute;ho projektu. Dosiahnut&aacute; hodnota sa odhaduje ex post na obdobie jedn&eacute;ho roka po ukončen&iacute; intervencie. V&yacute;chodiskov&aacute; hodnota ukazovateľa sa t&yacute;ka odhadovan&eacute;ho počtu osobokilometrov prejden&yacute;ch po pr&iacute;slu&scaron;nej železničnej trati v roku pred začiatkom intervencie a pre nov&eacute; železničn&eacute; trate m&ocirc;že byť nulov&aacute;.</div><div><b>Povinnosť plnenia:</b> &Aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla:&nbsp;</b>&nbsp;Najm&auml;: Spr&aacute;va o&nbsp;pr&iacute;slu&scaron;nom ex-post odhade po roku od dokončenia v&yacute;stupu, IT syst&eacute;m dopravcu, Prieskumy, CBA anal&yacute;za/ex-post CBA anal&yacute;za.</div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1675342347995,
+    "updatedAt": 1727248968805
+   }
+  },
+  {
+   "id": 635,
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1288,
+    "href": "/ukazovatelprojektovy/id/1288",
+    "kod": "PSKPRCR59",
+    "nazovSk": "Nákladná železničná doprava",
+    "mernaJednotka": {
+     "id": 200099,
+     "kod": "1053100",
+     "nazovSk": "tonokilometre / rok",
+     "popisSk": "tonokilometre / rok",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div>Definičn&aacute; matica</div><div>1.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Celkov&aacute; hmotnosť n&aacute;kladu prepravovan&aacute; na novo postaven&yacute;ch, vylep&scaron;en&yacute;ch, rekon&scaron;truovan&yacute;ch alebo modernizovan&yacute;ch železničn&yacute;ch tratiach z d&ocirc;vodu podporovan&yacute;ch projektov. Dosiahnut&aacute; hodnota sa odhaduje ex post v obdob&iacute; jedn&eacute;ho roka po ukončen&iacute; intervencie. V&yacute;chodiskov&aacute; hodnota ukazovateľa sa t&yacute;ka celkovej hmotnosti prepravovan&eacute;ho n&aacute;kladu na pr&iacute;slu&scaron;nej železničnej trati v roku pred začiatkom intervencie a pre nov&uacute; železničn&uacute; trať m&ocirc;že byť nulov&aacute;.</div><div><b>Povinnosť plnenia:</b> &Aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b>: Spr&aacute;va o&nbsp;pr&iacute;slu&scaron;nom ex-post odhade po roku od dokončenia v&yacute;stupu, IT syst&eacute;m dopravcu, Prieskumy, CBA anal&yacute;za/ex-post CBA anal&yacute;za.</div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1675342500803,
+    "updatedAt": 1727248959569
+   }
+  }
+ ],
+ "ukazovatelVystupovy": [
+  {
+   "id": 709,
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1648,
+    "href": "/ukazovatelprojektovy/id/1648",
+    "kod": "PSKPO140",
+    "nazovSk": "Celková dĺžka rekonštruovaných alebo zrenovovaných železničných tratí v sieti TEN-T (CORE)",
+    "mernaJednotka": {
+     "id": 8,
+     "kod": "105308",
+     "nazovSk": "km",
+     "nazovEn": "km",
+     "popisSk": "km",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div>Definičn&aacute; matica</div><div>1.1</div><div><b>Popis znaku, charakteristiky, pravidla:</b></div><div>Vyjadruje celkov&uacute; dĺžku rekon&scaron;truovan&yacute;ch alebo zrenovovan&yacute;ch železničn&yacute;ch trat&iacute; v sieti TEN-T.</div><div><div>Dĺžka železničn&yacute;ch trat&iacute;, ktor&yacute;ch kvalita a/alebo kapacita sa zlep&scaron;ila.</div><div>M&ocirc;že zahŕňať elektrifik&aacute;ciu, zdvojkoľajenie trate, zv&yacute;&scaron;enie povolenej traťovej r&yacute;chlosti alebo ich kombin&aacute;ciu, ale nezahŕňa in&scaron;tal&aacute;ciu signalizačn&yacute;ch syst&eacute;mov (vr&aacute;tane zabezpečenia s&uacute;ladu s ERTMS - Eur&oacute;psky syst&eacute;m železničnej signaliz&aacute;cie).</div><div>V tomto pr&iacute;pade bol zvolen&yacute; pr&iacute;stup, ktor&yacute; vylučuje signalizačn&eacute; syst&eacute;my, lebo skresľuj&uacute; hodnoty. Signalizačn&eacute; syst&eacute;my zachyt&aacute;va samostatn&yacute; ukazovateľ.</div><div>V&yacute;počet: Hodnota ukazovateľa vypl&yacute;va z projektovej dokument&aacute;cie, resp. opisu projektu.</div><div><b>Povinnosť planenia:</b> &aacute;no</div><div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla:</b></div>Napr. projektov&aacute; dokument&aacute;cia, opis projektu.<div style=\"clear:both\">&nbsp;</div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1711003568439,
+    "updatedAt": 1713172350359
+   }
+  },
+  {
+   "id": 711,
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1375,
+    "href": "/ukazovatelprojektovy/id/1375",
+    "kod": "PSKPRCO49",
+    "nazovSk": "Dĺžka rekonštruovaných alebo modernizovaných tratí – TEN-T",
+    "mernaJednotka": {
+     "id": 8,
+     "kod": "105308",
+     "nazovSk": "km",
+     "nazovEn": "km",
+     "popisSk": "km",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div>Definičn&aacute; matica</div><div>1.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Celkov&aacute; dĺžka železničn&yacute;ch &uacute;sekov siete TEN-T rekon&scaron;truovan&yacute;ch alebo modernizovan&yacute;ch z d&ocirc;vodu zlep&scaron;enia v&yacute;konu (pozri nariadenie Eur&oacute;pskeho parlamentu a Rady (E&Uacute;) 1315/2013 v&nbsp;Referenci&aacute;ch). Tak&eacute;to intervencie by mohli zahŕňať železničn&eacute; prvky, ak&yacute;mi s&uacute; elektrifik&aacute;cia, r&yacute;chlosť a bezpečnosť. Ukazovateľ meria dĺžku trat&iacute;.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Spr&aacute;va o&nbsp;dokončen&iacute; v&yacute;stupu s&nbsp;pr&iacute;slu&scaron;n&yacute;mi technick&yacute;mi protokolmi. Kolaudačn&eacute; rozhodnutie, Dokument&aacute;cia skutočn&eacute;ho vyhotovenia stavby. Preberac&iacute; protokol.</div><div>&nbsp;</div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1678093141965,
+    "updatedAt": 1726740104551
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 591,
+   "href": "/typakcieprogramu/id/591",
+   "kod": "401301R31K01110",
+   "nazovSk": "Modernizácia, resp. renovácia železničných tratí (zlepšovanie vybraných technických parametrov železničnej dopravnej cesty, zvyšovanie kapacity, elektrifikácia tratí, dispečerizácia tratí) a kľúčových železničných uzlov",
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "opatrenie": {
+    "id": 31,
+    "href": "/opatrenie/id/31",
+    "kod": "401301R31K01",
+    "nazovSk": "Odstránenie kľúčových úzkych miest na železničnej infraštruktúre prostredníctvom modernizácie a rozvoja hlavných železničných tratí a uzlov",
+    "specifickyCielProgramu": {
+     "id": 40,
+     "href": "/specifickycielprogramu/id/40",
+     "kod": "401301R31K",
+     "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 6,
+      "href": "/priorita/id/6",
+      "kod": "401301",
+      "nazovSk": "3P1 Doprava",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867951
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 200000,
+       "kod": "1033N/A",
+       "kodZdroj": "N/A",
+       "nazovSk": "Bez kategórie regiónu",
+       "popisSk": "Bez kategórie regiónu",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869148
+    },
+    "createdAt": 1772540869159
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516231849,
+   "updatedAt": 1772541490806
+  },
+  {
+   "id": 989,
+   "href": "/typakcieprogramu/id/989",
+   "kod": "401301R31K010P0",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "opatrenie": {
+    "id": 31,
+    "href": "/opatrenie/id/31",
+    "kod": "401301R31K01",
+    "nazovSk": "Odstránenie kľúčových úzkych miest na železničnej infraštruktúre prostredníctvom modernizácie a rozvoja hlavných železničných tratí a uzlov",
+    "specifickyCielProgramu": {
+     "id": 40,
+     "href": "/specifickycielprogramu/id/40",
+     "kod": "401301R31K",
+     "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 6,
+      "href": "/priorita/id/6",
+      "kod": "401301",
+      "nazovSk": "3P1 Doprava",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867951
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 200000,
+       "kod": "1033N/A",
+       "kodZdroj": "N/A",
+       "nazovSk": "Bez kategórie regiónu",
+       "popisSk": "Bez kategórie regiónu",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869148
+    },
+    "createdAt": 1772540869159
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516243509,
+   "updatedAt": 1772541490806
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200109,
+    "kod": "10364PO100",
+    "kodZdroj": "100",
+    "nazovSk": "Rekonštruované alebo modernizované železnice – základná sieť TEN-T",
+    "nazovEn": "Rekonštruované alebo modernizované železnice – základná sieť TEN-T",
+    "nazovDe": "Erneuerung oder Modernisierung von Schienenstrecken – TEN-V-Kernnetz",
+    "popisSk": "Rekonštruované alebo modernizované železnice – základná sieť TEN-T",
+    "popisDe": "Erneuerung oder Modernisierung von Schienenstrecken – TEN-V-Kernnetz",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200014,
+    "kod": "10384PO14",
+    "kodZdroj": "14",
+    "nazovSk": "Doprava a skladovanie",
+    "nazovEn": "Doprava a skladovanie",
+    "nazovDe": "Verkehr und Lagerei",
+    "popisSk": "Doprava a skladovanie",
+    "popisDe": "Verkehr und Lagerei",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200010,
+    "kod": "12094PO11",
+    "kodZdroj": "11",
+    "nazovSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovEn": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "popisSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "popisDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 200000,
+   "kod": "1033N/A",
+   "kodZdroj": "N/A",
+   "nazovSk": "Bez kategórie regiónu",
+   "popisSk": "Bez kategórie regiónu",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [],
+ "projektovyZamerIUS": []
+}

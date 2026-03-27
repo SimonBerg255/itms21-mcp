@@ -1,0 +1,1925 @@
+{
+ "id": 3370,
+ "href": "/vyzva/id/3370",
+ "kod": "PSK-MD-008-2024-FAA-EFRR",
+ "nazovSk": "Rýchlostná cesta R3 Tvrdošín – Nižná, II. fáza",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 39,
+   "href": "/specifickycielprogramu/id/39",
+   "kod": "401301R301",
+   "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 6,
+    "href": "/priorita/id/6",
+    "kod": "401301",
+    "nazovSk": "3P1 Doprava",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867951
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868716
+  }
+ ],
+ "opatrenie": [
+  {
+   "id": 30,
+   "href": "/opatrenie/id/30",
+   "kod": "401301R30102",
+   "nazovSk": "Odstránenie kľúčových úzkych miest na cestnej infraštruktúre prostredníctvom výstavby nových úsekov diaľnic",
+   "specifickyCielProgramu": {
+    "id": 39,
+    "href": "/specifickycielprogramu/id/39",
+    "kod": "401301R301",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868716
+   },
+   "createdAt": 1772540868729
+  }
+ ],
+ "miestoRealizacie": [
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 22,
+   "kod": "1009121",
+   "kodZdroj": "121",
+   "nazovSk": "Akciová spoločnosť",
+   "nazovEn": "Joint stock company",
+   "popisSk": "Akc. spol. Akciová spoločnosť",
+   "popisEn": "Joint stock company Joint stock company",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1715292000000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 382,
+  "kod": "21_SO_PSK_MDSR",
+  "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo dopravy SR",
+  "subjekt": {
+   "id": 100008,
+   "href": "/subjekt/id/100008",
+   "nazov": "Ministerstvo dopravy Slovenskej republiky",
+   "ico": "30416094",
+   "dic": "2020799209",
+   "platitelDph": true,
+   "podlaParagrafu": "§7a",
+   "icDph": "SK2020799209",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Námestie slobody",
+    "cislo": "2902/6",
+    "psc": "81005",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "OTVORENA",
+ "zameranieProjektu": "NP_21",
+ "createdAt": 1715082961695,
+ "updatedAt": 1721655343341,
+ "sumaEu": 17588464.77,
+ "sumaSr": 3103846.72,
+ "predvyber": false,
+ "posudzovaneObdobie": [],
+ "pocetPredlozenychZiadosti": 1,
+ "pocetSchvalenychZiadosti": 1,
+ "pocetZiadostiVKonani": 0,
+ "pocetNeschvalenychZiadosti": 0,
+ "pocetRealizovanychProjektov": 1,
+ "planovanaVyzva": [],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 6,
+   "kod": "1032EFRR",
+   "kodZdroj": "EFRR",
+   "nazovSk": "Európsky fond regionálneho rozvoja",
+   "nazovEn": "European Regional Development Fund",
+   "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+   "popisSk": "Európsky fond regionálneho rozvoja",
+   "popisEn": "European Regional Development Fund",
+   "popisDe": "Europäischen Fonds für regionale Entwicklung",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "sposobFinancovania": [],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktNazov": "Natália Duffková",
+ "kontaktEmail": "natalia.duffkova@mindop.sk",
+ "kontaktTelefon": "025949 4807",
+ "kontaktnaOsoba": [
+  {
+   "osoba": {
+    "titulPred": "Ing.",
+    "meno": "Gabriel",
+    "priezvisko": "Čech",
+    "titulZa": "",
+    "menoUplne": "Ing. Gabriel Čech"
+   },
+   "telefon": "02/59494746",
+   "email": "gabriel.cech@mindop.sk"
+  }
+ ],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "oprávnenosť projektu pre II fázu projektu - technická výzva",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [
+  {
+   "id": 100748,
+   "href": "/subjekt/id/100748",
+   "nazov": "Národná diaľničná spoločnosť, a.s.",
+   "ico": "35919001",
+   "dic": "2021937775",
+   "platitelDph": true,
+   "podlaParagrafu": "§4",
+   "icDph": "SK2021937775",
+   "pravnaForma": {
+    "id": 22,
+    "kod": "1009121",
+    "kodZdroj": "121",
+    "nazovSk": "Akciová spoločnosť",
+    "nazovEn": "Joint stock company",
+    "popisSk": "Akc. spol. Akciová spoločnosť",
+    "popisEn": "Joint stock company Joint stock company",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Dúbravská cesta",
+    "cislo": "14",
+    "psc": "84104",
+    "obec": "Bratislava - mestská časť Karlova Ves",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ ],
+ "miestoRealizacieFull": [
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040021",
+   "nazovSk": "Stavby",
+   "typAkcieProgramu": {
+    "id": 588,
+    "href": "/typakcieprogramu/id/588"
+   }
+  },
+  {
+   "kod": "1040000",
+   "nazovSk": "Bez výdavkov",
+   "typAkcieProgramu": {
+    "id": 987,
+    "href": "/typakcieprogramu/id/987"
+   }
+  }
+ ],
+ "externyZdroj": [],
+ "dokument": [
+  {
+   "nazov": "stanoviskoDNSH_Rýchlostná cesta R3 Tvrdošín - Nižná nad Oravou.docx",
+   "uuid": "2267d079-be0c-4ece-84c1-77559d27d993"
+  },
+  {
+   "nazov": "Súhlas s priamym  poskytnutím NFP  v rámci fázovaného projektu Rýchlostná cesta R3 Tvrdošín - Nižná  II  fáza.msg",
+   "uuid": "df2b0559-4248-46ba-b3d0-e9f131ae3469"
+  },
+  {
+   "nazov": "Výzva PSK-MD-008-2024-FAA-EFRR",
+   "uuid": "580f94d3-a807-4473-a019-00dc279fbb6a"
+  }
+ ],
+ "dovodVznikuVerzie": "<div><div class=\"tree-node\" style=\"box-sizing:border-box\">Boli pridan&eacute; MU na dosledovanie z I. f&aacute;zy projektu:</div><div class=\"tree-node\" style=\"box-sizing:border-box\">&nbsp;</div><div class=\"tree-node\" style=\"box-sizing:border-box\">PSKPR005:&nbsp;&Uacute;spora produkcie emisi&iacute; NO2 (vplyvom v&yacute;stavby r&yacute;chlostn&yacute;ch ciest)</div><div class=\"tree-node\" style=\"box-sizing:border-box\">PSKPR007:&nbsp;&Uacute;spora produkcie emisi&iacute; PM10 (vplyvom v&yacute;stavby r&yacute;chlostn&yacute;ch ciest)</div></div>",
+ "dalsiaSkutocnost": [],
+ "dalsiaFormalnaNalezitost": [],
+ "verzia": [
+  {
+   "id": 5817,
+   "cislo": 3,
+   "datumVykonaniaZmeny": 1721599200000,
+   "dovodVznikuVerzie": "<div><div class=\"tree-node\" style=\"box-sizing:border-box\">Boli pridan&eacute; MU na dosledovanie z I. f&aacute;zy projektu:</div><div class=\"tree-node\" style=\"box-sizing:border-box\">&nbsp;</div><div class=\"tree-node\" style=\"box-sizing:border-box\">PSKPR005:&nbsp;&Uacute;spora produkcie emisi&iacute; NO2 (vplyvom v&yacute;stavby r&yacute;chlostn&yacute;ch ciest)</div><div class=\"tree-node\" style=\"box-sizing:border-box\">PSKPR007:&nbsp;&Uacute;spora produkcie emisi&iacute; PM10 (vplyvom v&yacute;stavby r&yacute;chlostn&yacute;ch ciest)</div></div>"
+  },
+  {
+   "id": 5577,
+   "cislo": 1
+  },
+  {
+   "id": 5607,
+   "cislo": 2,
+   "datumVykonaniaZmeny": 1715292000000
+  }
+ ],
+ "ukazovatelVysledkovy": [
+  {
+   "id": 88,
+   "specifickyCielProgramu": {
+    "id": 39,
+    "href": "/specifickycielprogramu/id/39",
+    "kod": "401301R301",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868716
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1202,
+    "href": "/ukazovatelprojektovy/id/1202",
+    "kod": "PSKPRCR55",
+    "nazovSk": "Používatelia novovybudovaných, rekonštruovaných, zlepšených alebo modernizovaných ciest za rok",
+    "mernaJednotka": {
+     "id": 200088,
+     "kod": "105389",
+     "nazovSk": "osobokilometre / rok",
+     "popisSk": "osobokilometre / rok",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><div><div>Definičn&aacute; matica:&nbsp;<br />1.</div><div><b>Popis znaku, charakteristiky, pravidla</b>&nbsp;Celkov&yacute; počet osobokilometrov prejden&yacute;ch po<br />novopostaven&yacute;ch, zlep&scaron;en&yacute;ch, rekon&scaron;truovan&yacute;ch alebo modernizovan&yacute;ch cest&aacute;ch z d&ocirc;vodu podporovan&eacute;ho projektu. Dosiahnut&aacute; hodnota sa odhaduje ex post na obdobie jedn&eacute;ho roka po ukončen&iacute; intervencie. V&yacute;chodiskov&aacute; hodnota ukazovateľa sa t&yacute;ka odhadovan&eacute;ho počtu osobokilometrov prejden&yacute;ch po pr&iacute;slu&scaron;nej ceste v roku pred začiatkom intervencie a pre nov&eacute; cesty m&ocirc;že byť nulov&aacute;.</div><div><b>Povinnosť plnenia</b>: &aacute;no<br /><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b>:</div><div>Najm&auml;: &bdquo;Spr&aacute;va o pr&iacute;slu&scaron;nom ex-post odhade po roku od dokončenia v&yacute;stupu&ldquo;, IT syst&eacute;m dopravcu, Prieskumy, CBA anal&yacute;za/ex-post CBA anal&yacute;za.</div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1673942764422,
+    "updatedAt": 1727248810565
+   }
+  },
+  {
+   "id": 90,
+   "specifickyCielProgramu": {
+    "id": 39,
+    "href": "/specifickycielprogramu/id/39",
+    "kod": "401301R301",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868716
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1203,
+    "href": "/ukazovatelprojektovy/id/1203",
+    "kod": "PSKPRCR56",
+    "nazovSk": "Časové úspory vďaka lepšej cestnej infraštruktúre",
+    "mernaJednotka": {
+     "id": 200106,
+     "kod": "1053107",
+     "nazovSk": "človekodeň/rok",
+     "popisSk": "človekodeň/rok",
+     "platnostOd": 1673564400000
+    },
+    "definiciaSk": "<div><div><div>Definičn&aacute; matica:<br />1.</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Celkov&aacute; &uacute;spora času pri doprave na cestnej infra&scaron;trukt&uacute;re z d&ocirc;vodu podporovan&yacute;ch projektov. Dosiahnut&aacute; hodnota sa odhaduje ex post v obdob&iacute; jedn&eacute;ho roka po ukončen&iacute; intervencie.</div><div><b>Povinnosť plnenia </b>&nbsp;&aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b>: Najm&auml;: Spr&aacute;va o pr&iacute;slu&scaron;nom ex-post<br />odhade po roku od dokončenia v&yacute;stupu, Prieskumy, CBA anal&yacute;za/ex-post CBA anal&yacute;za.</div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1673942864425,
+    "updatedAt": 1715073532189
+   }
+  },
+  {
+   "id": 870,
+   "specifickyCielProgramu": {
+    "id": 39,
+    "href": "/specifickycielprogramu/id/39",
+    "kod": "401301R301",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868716
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1707,
+    "href": "/ukazovatelprojektovy/id/1707",
+    "kod": "PSKPR007",
+    "nazovSk": "Úspora produkcie emisií PM10 (vplyvom výstavby rýchlostných ciest)",
+    "mernaJednotka": {
+     "id": 3,
+     "kod": "105303",
+     "nazovSk": "tona",
+     "nazovEn": "tona",
+     "popisSk": "tona",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Indik&aacute;tor vyjadruje hodnoty &uacute;spory produkcie emisi&iacute; pevn&yacute;ch čast&iacute;c PM10 (v ton&aacute;ch) v osobnej a n&aacute;kladnej doprave na cest&aacute;ch I. triedy (najm&auml; v intravil&aacute;ne) vplyvom novovybudovan&yacute;ch &uacute;sekov r&yacute;chlostn&yacute;ch ciest. V&yacute;počet: V&yacute;počet je založen&yacute; na porovnan&iacute; produkcie emisi&iacute; PM10 na ceste I. triedy pred projektom v roku 2013 a n&aacute;sledne po realiz&aacute;cii projektu (v&yacute;stavbe r&yacute;chlostnej cesty) v roku 2023.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Spr&aacute;va o&nbsp;pr&iacute;slu&scaron;nom ex-post odhade po roku od dokončenia v&yacute;stupu, Prieskumy, CBA anal&yacute;za/ex-post CBA anal&yacute;za&nbsp;</div><div><div style=\"clear:both\">&nbsp;</div><br />&nbsp;</div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1721225918326
+   }
+  },
+  {
+   "id": 871,
+   "specifickyCielProgramu": {
+    "id": 39,
+    "href": "/specifickycielprogramu/id/39",
+    "kod": "401301R301",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868716
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1706,
+    "href": "/ukazovatelprojektovy/id/1706",
+    "kod": "PSKPR005",
+    "nazovSk": "Úspora produkcie emisií NO2 (vplyvom výstavby rýchlostných ciest)",
+    "mernaJednotka": {
+     "id": 3,
+     "kod": "105303",
+     "nazovSk": "tona",
+     "nazovEn": "tona",
+     "popisSk": "tona",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Indik&aacute;tor vyjadruje hodnoty &uacute;spory produkcie emisi&iacute; oxidu dusičit&eacute;ho NO2 (v ton&aacute;ch) v osobnej a n&aacute;kladnej doprave na cest&aacute;ch I. triedy (najm&auml; v intravil&aacute;ne) vplyvom novovybudovan&yacute;ch &uacute;sekov r&yacute;chlostn&yacute;ch ciest. V&yacute;počet: V&yacute;počet je založen&yacute; na porovnan&iacute; produkcie emisi&iacute; NO2 na ceste I. triedy pred projektom v roku 2013 a n&aacute;sledne po realiz&aacute;cii projektu (v&yacute;stavbe r&yacute;chlostnej cesty) v roku 2023.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Spr&aacute;va o&nbsp;pr&iacute;slu&scaron;nom ex-post odhade po roku od dokončenia v&yacute;stupu, Prieskumy, CBA anal&yacute;za/ex-post CBA anal&yacute;za&nbsp;&nbsp;</div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1721225661022
+   }
+  }
+ ],
+ "ukazovatelVystupovy": [
+  {
+   "id": 633,
+   "specifickyCielProgramu": {
+    "id": 39,
+    "href": "/specifickycielprogramu/id/39",
+    "kod": "401301R301",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868716
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1283,
+    "href": "/ukazovatelprojektovy/id/1283",
+    "kod": "PSKPRCO43",
+    "nazovSk": "Dĺžka nových alebo vylepšených ciest – TEN-T",
+    "mernaJednotka": {
+     "id": 8,
+     "kod": "105308",
+     "nazovSk": "km",
+     "nazovEn": "km",
+     "popisSk": "km",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div>Definičn&aacute; matica</div><div>1.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Celkov&aacute; dĺžka novovybudovan&yacute;ch alebo vylep&scaron;en&yacute;ch cestn&yacute;ch &uacute;sekov siete TEN-T.</div>Ukazovateľ sa t&yacute;ka v&scaron;etk&yacute;ch relevantn&yacute;ch ciest siete TEN-T (diaľnice a in&eacute; triedy). Cesty s&uacute; spravidla obojsmern&eacute; (v&nbsp;každom smere najmenej jeden jazdn&yacute; pruh). Dĺžka cesty sa meria ako dĺžka obojsmernej cesty (kilometre v jazdn&yacute;ch pruhoch sa nevykazuj&uacute;).</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div>Najm&auml;: Spr&aacute;va o&nbsp;dokončen&iacute; v&yacute;stupu s&nbsp;pr&iacute;slu&scaron;n&yacute;mi technick&yacute;mi protokolmi, Kolaudačn&eacute; rozhodnutie.</div><div>Rozhodnutie o predčasnom už&iacute;van&iacute; stavby.</div>Dokument&aacute;cia skutočn&eacute;ho vyhotovenia stavby. Preberac&iacute; protokol.</div></div></div><div>2.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Celkov&aacute; dĺžka novovybudovan&yacute;ch cestn&yacute;ch &uacute;sekov siete TEN-T.</div></div></div><div style=\"clear:both\"><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 2</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Kolaudačn&eacute; rozhodnutie, Rozhodnutie o&nbsp;predčasnom už&iacute;van&iacute; stavby. Dokument&aacute;cia skutočn&eacute;ho vyhotovenia stavby. Preberac&iacute; protokol.</div><div>2.2</div><div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Celkov&aacute; dĺžka vylep&scaron;en&yacute;ch cestn&yacute;ch &uacute;sekov siete TEN-T. Vylep&scaron;enia sa t&yacute;kaj&uacute; zmien kapacity a kvality, ktor&eacute; by viedli k&nbsp;rekvalifik&aacute;cii cesty, ktor&aacute; nepatr&iacute; do siete TEN-T, na cestu spĺňaj&uacute;cu &scaron;tandardy TEN-T</div><div style=\"clear:both\"><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 2</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Kolaudačn&eacute; rozhodnutie, Rozhodnutie o&nbsp;predčasnom už&iacute;van&iacute; stavby. Dokument&aacute;cia skutočn&eacute;ho vyhotovenia stavby. Preberac&iacute; protokol.</div></div></div></div></div><div>3.1</div><div>Sieť TEN-T</div><div><div><b>Povinnosť plnenia:</b>&nbsp;&aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div>Najm&auml;: Spr&aacute;va o&nbsp;dokončen&iacute; v&yacute;stupu s&nbsp;pr&iacute;slu&scaron;n&yacute;m protokolom o&nbsp;rekvalifik&aacute;cii cesty na cestu spĺňaj&uacute;cu &scaron;tandardy v&nbsp;zmysle TEN-T.</div>Kolaudačn&eacute; rozhodnutie, Rozhodnutie o&nbsp;predčasnom už&iacute;van&iacute; stavby. Dokument&aacute;cia skutočn&eacute;ho vyhotovenia stavby. Preberac&iacute; protokol.</div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1675341150909,
+    "updatedAt": 1730730553623
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 588,
+   "href": "/typakcieprogramu/id/588",
+   "kod": "401301R30102021",
+   "nazovSk": "Výstavba nových úsekov diaľnic a rýchlostných ciest (prioritne základnej siete TEN-T)",
+   "specifickyCielProgramu": {
+    "id": 39,
+    "href": "/specifickycielprogramu/id/39",
+    "kod": "401301R301",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868716
+   },
+   "opatrenie": {
+    "id": 30,
+    "href": "/opatrenie/id/30",
+    "kod": "401301R30102",
+    "nazovSk": "Odstránenie kľúčových úzkych miest na cestnej infraštruktúre prostredníctvom výstavby nových úsekov diaľnic",
+    "specifickyCielProgramu": {
+     "id": 39,
+     "href": "/specifickycielprogramu/id/39",
+     "kod": "401301R301",
+     "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 6,
+      "href": "/priorita/id/6",
+      "kod": "401301",
+      "nazovSk": "3P1 Doprava",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867951
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868716
+    },
+    "createdAt": 1772540868729
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516231744,
+   "updatedAt": 1772541490794
+  },
+  {
+   "id": 987,
+   "href": "/typakcieprogramu/id/987",
+   "kod": "401301R301020P1",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 39,
+    "href": "/specifickycielprogramu/id/39",
+    "kod": "401301R301",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868716
+   },
+   "opatrenie": {
+    "id": 30,
+    "href": "/opatrenie/id/30",
+    "kod": "401301R30102",
+    "nazovSk": "Odstránenie kľúčových úzkych miest na cestnej infraštruktúre prostredníctvom výstavby nových úsekov diaľnic",
+    "specifickyCielProgramu": {
+     "id": 39,
+     "href": "/specifickycielprogramu/id/39",
+     "kod": "401301R301",
+     "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 6,
+      "href": "/priorita/id/6",
+      "kod": "401301",
+      "nazovSk": "3P1 Doprava",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867951
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868716
+    },
+    "createdAt": 1772540868729
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516243342,
+   "updatedAt": 1772541490794
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 39,
+    "href": "/specifickycielprogramu/id/39",
+    "kod": "401301R301",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868716
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200097,
+    "kod": "10364PO088",
+    "kodZdroj": "088",
+    "nazovSk": "Novovybudované alebo vylepšené diaľnice a cesty – súhrnná sieť TEN-T",
+    "nazovEn": "Novovybudované alebo vylepšené diaľnice a cesty – súhrnná sieť TEN-T",
+    "nazovDe": "Neubau oder Ausbau von Autobahnen und Straßen – TEN-V-Gesamtnetz",
+    "popisSk": "Novovybudované alebo vylepšené diaľnice a cesty – súhrnná sieť TEN-T",
+    "popisDe": "Neubau oder Ausbau von Autobahnen und Straßen – TEN-V-Gesamtnetz",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 39,
+    "href": "/specifickycielprogramu/id/39",
+    "kod": "401301R301",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868716
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 39,
+    "href": "/specifickycielprogramu/id/39",
+    "kod": "401301R301",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868716
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 39,
+    "href": "/specifickycielprogramu/id/39",
+    "kod": "401301R301",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868716
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200014,
+    "kod": "10384PO14",
+    "kodZdroj": "14",
+    "nazovSk": "Doprava a skladovanie",
+    "nazovEn": "Doprava a skladovanie",
+    "nazovDe": "Verkehr und Lagerei",
+    "popisSk": "Doprava a skladovanie",
+    "popisDe": "Verkehr und Lagerei",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 39,
+    "href": "/specifickycielprogramu/id/39",
+    "kod": "401301R301",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868716
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 39,
+    "href": "/specifickycielprogramu/id/39",
+    "kod": "401301R301",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868716
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200010,
+    "kod": "12094PO11",
+    "kodZdroj": "11",
+    "nazovSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovEn": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "popisSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "popisDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 1,
+   "kod": "1033MRR",
+   "kodZdroj": "MRR",
+   "nazovSk": "Menej rozvinutý región",
+   "nazovEn": "less-developed regions",
+   "popisSk": "Menej rozvinutý región",
+   "popisEn": "less-developed regions",
+   "platnostOd": 725842800000
+  },
+  {
+   "id": 2,
+   "kod": "1033VRR",
+   "kodZdroj": "VRR",
+   "nazovSk": "Viac rozvinutý región",
+   "nazovEn": "more-developed regions",
+   "popisSk": "Viac rozvinutý región",
+   "popisEn": "more-developed regions",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [
+  {
+   "datumZverejnenia": 1721599200000,
+   "nazov": "Zverejnenie verzie výzvy",
+   "text": "<div><div class=\"tree-node\" style=\"box-sizing:border-box\">Boli pridan&eacute; MU na dosledovanie z I. f&aacute;zy projektu:</div><div class=\"tree-node\" style=\"box-sizing:border-box\">&nbsp;</div><div class=\"tree-node\" style=\"box-sizing:border-box\">PSKPR005:&nbsp;&Uacute;spora produkcie emisi&iacute; NO2 (vplyvom v&yacute;stavby r&yacute;chlostn&yacute;ch ciest)</div><div class=\"tree-node\" style=\"box-sizing:border-box\">PSKPR007:&nbsp;&Uacute;spora produkcie emisi&iacute; PM10 (vplyvom v&yacute;stavby r&yacute;chlostn&yacute;ch ciest)</div></div>",
+   "dokument": []
+  }
+ ],
+ "projektovyZamerIUS": []
+}

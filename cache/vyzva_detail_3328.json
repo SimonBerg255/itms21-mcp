@@ -1,0 +1,2473 @@
+{
+ "id": 3328,
+ "href": "/vyzva/id/3328",
+ "kod": "PSK-MZ-002-2024-IUI-EFRR",
+ "nazovSk": "Doplnenie siete centier integrovanej zdravotnej starostlivosti za účelom transformácie poskytovania ambulantnej zdravotnej starostlivosti na komunitnej úrovni v rámci integrovaných územných investícií",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 31,
+   "href": "/specifickycielprogramu/id/31",
+   "kod": "401405R405",
+   "nazovSk": "RSO4.5 Zabezpečenia rovného prístupu k zdravotnej starostlivosti a zvýšenie odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 11,
+    "href": "/priorita/id/11",
+    "kod": "401405",
+    "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867955
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869635
+  }
+ ],
+ "opatrenie": [
+  {
+   "id": 153,
+   "href": "/opatrenie/id/153",
+   "kod": "401405R40500",
+   "nazovSk": "401405R40500",
+   "specifickyCielProgramu": {
+    "id": 31,
+    "href": "/specifickycielprogramu/id/31",
+    "kod": "401405R405",
+    "nazovSk": "RSO4.5 Zabezpečenia rovného prístupu k zdravotnej starostlivosti a zvýšenie odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 11,
+     "href": "/priorita/id/11",
+     "kod": "401405",
+     "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867955
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869635
+   },
+   "createdAt": 1772540869648
+  }
+ ],
+ "miestoRealizacie": [
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 92,
+   "kod": "1009801",
+   "kodZdroj": "801",
+   "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+   "nazovEn": "Municipality (municipal office)",
+   "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+   "popisEn": "Municipality Municipality (municipal office)",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 94,
+   "kod": "1009803",
+   "kodZdroj": "803",
+   "nazovSk": "Samosprávny kraj (úrad samosprávneho kraja)",
+   "nazovEn": "Office of local government (regional level)",
+   "popisSk": "Samosprávny kraj Samosprávny kraj (úrad samosprávneho kraja)",
+   "popisEn": "Office of local governm. Office of local government (regional level)",
+   "platnostOd": 1007161200000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 200011,
+   "kod": "1009120",
+   "kodZdroj": "120",
+   "nazovSk": "Nezisková organizácia poskytujúca všeobecne prospešné služby",
+   "nazovEn": "Non-profit organization providing community services",
+   "popisSk": "Nezisková organizácia poskytujúca všeobecne prospešné služby",
+   "popisEn": "Non-profit organization providing community services",
+   "platnostOd": 870386400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1714341600000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 381,
+  "kod": "21_SO_PSK_MZSR",
+  "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo zdravotníctva SR",
+  "subjekt": {
+   "id": 100013,
+   "href": "/subjekt/id/100013",
+   "nazov": "Ministerstvo zdravotníctva Slovenskej republiky",
+   "ico": "00165565",
+   "dic": "2020830141",
+   "icz": "1000108714",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2020830141",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Limbová",
+    "cislo": "3330/2",
+    "psc": "83752",
+    "obec": "Bratislava - mestská časť Nové Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "OTVORENA",
+ "zameranieProjektu": "IUI_21",
+ "createdAt": 1713159796299,
+ "updatedAt": 1768230184289,
+ "sumaEu": 18216901.0,
+ "predvyber": true,
+ "posudzovaneObdobie": [],
+ "pocetPredlozenychZiadosti": 16,
+ "pocetSchvalenychZiadosti": 15,
+ "pocetZiadostiVKonani": 0,
+ "pocetNeschvalenychZiadosti": 1,
+ "pocetRealizovanychProjektov": 12,
+ "planovanaVyzva": [],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 6,
+   "kod": "1032EFRR",
+   "kodZdroj": "EFRR",
+   "nazovSk": "Európsky fond regionálneho rozvoja",
+   "nazovEn": "European Regional Development Fund",
+   "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+   "popisSk": "Európsky fond regionálneho rozvoja",
+   "popisEn": "European Regional Development Fund",
+   "popisDe": "Europäischen Fonds für regionale Entwicklung",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "cielVyzvy": "<div><div><b>Cieľom v&yacute;zvy</b> je rozv&iacute;jať miestnu infra&scaron;trukt&uacute;ru v&nbsp;oblasti ambulantnej zdravotnej starostlivosti za &uacute;čelom združovania v&scaron;eobecn&yacute;ch lek&aacute;rov a&nbsp;&scaron;pecialistov, vďaka čomu sa zabezpeč&iacute; dostupnosť v&nbsp;oblasti prevencie, diagnostiky, liečby a&nbsp;starostlivosti o&nbsp;pacientov na lok&aacute;lnej, resp. komunitnej &uacute;rovni a&nbsp;vytvoria sa podmienky pre poskytovanie najm&auml; z&aacute;kladn&eacute;ho soci&aacute;lneho poradenstva pre klientov zariadenia. CIZS bud&uacute; realizovan&eacute; v&nbsp;r&aacute;mci integrovan&yacute;ch &uacute;zemn&yacute;ch invest&iacute;ci&iacute;, t. j. každ&yacute; samospr&aacute;vny kraj m&aacute; vyčlenen&eacute; finančn&eacute; prostriedky, ktor&eacute; je v&nbsp;r&aacute;mci dan&eacute;ho &uacute;zemia možn&eacute; použiť na realiz&aacute;ciu CIZS. Každ&aacute; žiadosť o&nbsp;nen&aacute;vratn&yacute; finančn&yacute; pr&iacute;spevok (ďalej ako &bdquo;ŽoNFP&ldquo; alebo &bdquo;žiadosť&ldquo;) mus&iacute; odzrkadľovať projektov&yacute; z&aacute;mer integrovanej &uacute;zemnej invest&iacute;cie (ďalej ako &bdquo;projektov&yacute; z&aacute;mer I&Uacute;I&ldquo;), ktor&yacute; bol zaraden&yacute; do&nbsp;z&aacute;sobn&iacute;ka projektov a schv&aacute;len&yacute; Radou partnerstva v&nbsp;r&aacute;mci pr&iacute;slu&scaron;n&eacute;ho samospr&aacute;vneho kraja.</div><div>&nbsp;</div><div><div><b>V&nbsp;r&aacute;mci opr&aacute;vnenej akcie žiadateľ m&ocirc;že realizovať aktivity:</b></div><ul><li>v&yacute;stavba nov&yacute;ch budov,</li><li>moderniz&aacute;cia a rekon&scaron;trukcia existuj&uacute;cich budov,</li><li>pr&iacute;stavba/nadstavba/stavebn&eacute; &uacute;pravy a rekon&scaron;trukcia vn&uacute;torn&yacute;ch a vonkaj&scaron;&iacute;ch priestorov existuj&uacute;cich stavebn&yacute;ch objektov,</li><li>zabezpečenie materi&aacute;lno &ndash; technick&eacute;ho vybavenia,</li><li>dod&aacute;vka zdravotn&iacute;ckej techniky, zariadenia a vybavenia,</li><li>budovanie a moderniz&aacute;cia IKT infra&scaron;trukt&uacute;ry vr&aacute;tane vybavenia vysokor&yacute;chlostn&yacute;m internetov&yacute;m pripojen&iacute;m a n&aacute;kupu softv&eacute;rov&eacute;ho vybavenia,</li><li>budovanie bezbari&eacute;rov&yacute;ch pr&iacute;stupov,</li><li>opatrenia na zv&yacute;&scaron;enie energetickej hospod&aacute;rnosti.</li></ul><div>&nbsp;</div><div>V&yacute;zva nadv&auml;zuje na dokument s&nbsp;n&aacute;zvom <i>&bdquo;Metodika pre realiz&aacute;ciu a&nbsp;fungovanie centier integrovanej &nbsp;zdravotnej starostlivosti pre programov&eacute; obdobie 2021 - 2027&ldquo;</i> (ďalej ako &bdquo;metodika CIZS&ldquo;) dostupn&yacute;m na s&iacute;dle SO <a href=\"https://www.health.gov.sk/?Eufondy-Program-Slovensko\">https://www.health.gov.sk/?Eufondy-Program-Slovensko</a>, ktor&yacute; podrobnej&scaron;ie opisuje postup pri zriaďovan&iacute; CIZS, vymedzuje povinn&eacute; a&nbsp;fakultat&iacute;vne služby poskytovan&eacute; v&nbsp;centre, ako aj požiadavky na person&aacute;lne a&nbsp;materi&aacute;lno-technick&eacute; vybavenie IT a&nbsp;jednotliv&yacute;ch ambulanci&iacute; centra.</div><div>&nbsp;</div><div><div>&nbsp;</div>Žiadateľ z&aacute;roveň postupuje v&nbsp;s&uacute;lade so &bdquo;<i>V&scaron;eobecnou inform&aacute;ciou k&nbsp;predkladaniu a&nbsp;schvaľovaniu ŽoNFP</i>&ldquo; dostupnou na webovom s&iacute;dle <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/\">https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/</a>.&nbsp;</div></div></div>",
+ "sposobFinancovania": [
+  "ZALOHA",
+  "PREDFINANCOVANIE",
+  "REFUNDACIA"
+ ],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": true,
+ "percentoZaPolozku": false,
+ "kontaktNazov": "Ministerstvo zdravotníctva Slovenskej republiky",
+ "kontaktEmail": "info.eurofondy@health.gov.sk",
+ "kontaktnaOsoba": [],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "Podmienka oprávnenosti žiadateľa",
+   "popisSk": "<div><b>Opr&aacute;vnen&yacute;m žiadateľom</b> na predloženie ŽoNFP je:</div><ul><li>subjekt &uacute;zemnej samospr&aacute;vy, ktor&yacute;m je obec alebo V&Uacute;C;</li><li>neziskov&aacute; organiz&aacute;cia zriaden&aacute; podľa z&aacute;kona č. 213/1997 Z. z. o neziskov&yacute;ch organiz&aacute;ci&aacute;ch poskytuj&uacute;cich v&scaron;eobecne prospe&scaron;n&eacute; služby v znen&iacute; neskor&scaron;&iacute;ch predpisov (ďalej len &bdquo;z&aacute;kon o n. o.&ldquo;), ktorej zakladateľom je obec a/alebo V&Uacute;C a poskytovatelia zdravotnej starostlivosti.</li></ul><div>Osoba konaj&uacute;ca v mene opr&aacute;vnen&eacute;ho žiadateľa, ak je odli&scaron;n&aacute; od &scaron;tatut&aacute;rneho org&aacute;nu žiadateľa, mus&iacute; byť riadne splnomocnen&aacute; na v&yacute;kon predmetn&yacute;ch &uacute;konov.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Splnomocnenie",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Doklad preukazujúci splnenie podmienky poskytnutia príspevku",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "UDAJE_Z_RPO"
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "Podmienka splnenia kritérií pre výber projektov",
+   "popisSk": "<div>Predložen&aacute; ŽoNFP mus&iacute; spĺňať <b>vylučuj&uacute;ce krit&eacute;ri&aacute;</b>, ktor&eacute; tvoria pr&iacute;lohu č. 5 tejto v&yacute;zvy.</div><div>&nbsp;</div><div><u>Vysvetlenie vylučuj&uacute;ceho krit&eacute;ria č. 4:</u> Plat&iacute; len pre tie subjekty, pri ktor&yacute;ch sa neuplatňuje sch&eacute;ma &scaron;t&aacute;tnej pomoci.</div><div><u>Vysvetlenie vylučuj&uacute;ceho krit&eacute;ria č. 5</u><b>:</b> Pre pos&uacute;denie finančnej udržateľnosti projektu sa použije test finančn&eacute;ho zdravia, ktor&yacute; tvor&iacute; pr&iacute;lohu č. 5a.</div><div>&nbsp;</div><div><b>Doplňuj&uacute;ce inform&aacute;cie k zneniu vylučuj&uacute;ceho krit&eacute;ria HP:</b></div><div><div>Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach [1], s prihliadnut&iacute;m na dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky.</div><div>&nbsp;</div><div><div>V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m [2].</div><div>&nbsp;</div><div><div>Za &uacute;čelom overenia zabezpečenia s&uacute;ladu projektu s čl. 9 Dohovoru OSN o pr&aacute;vach&nbsp; os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m s&uacute; ako odborn&aacute; pom&ocirc;cka [3]&nbsp;pre žiadateľov pri pr&iacute;prave ŽoNFP [4]&nbsp;k dispoz&iacute;cii nasledovn&eacute; <b>Checklisty &ndash; Vyhl&aacute;senie o bezbari&eacute;rovej pr&iacute;stupnosti</b>, spracovan&eacute; gestorom HP [5], na z&aacute;klade ktor&yacute;ch je žiadateľ schopn&yacute; pre svoje vlastn&eacute; potreby pred vydan&iacute;m čestn&eacute;ho vyhl&aacute;senia kvalifikovane verifikovať dosiahnutie s&uacute;ladu n&iacute;m navrhovan&eacute;ho projektu s požiadavkami t&yacute;kaj&uacute;cimi sa plnenia HP:</div><ul><li>17. Checklist &ndash; Vyhl&aacute;senie o bezbari&eacute;rovej pr&iacute;stupnosti &ndash; novostavba zdravotn&iacute;ckeho zariadenia (ambulantn&eacute; zariadenia, kde nie je potrebn&yacute; pohyb pacientov na l&ocirc;žku);</li><li>18. Checklist &ndash; Vyhl&aacute;senie o bezbari&eacute;rovej pr&iacute;stupnosti &ndash; rekon&scaron;trukcia zdravotn&iacute;ckeho zariadenia.</li></ul><div><div>Tieto checklisty s&uacute; dostupn&eacute; na webovom s&iacute;dle gestora HP <a href=\"https://www.horizontalneprincipy.gov.sk/hp-v-novom-po-2021-2027/index.html?csrt=13762856008428084435\">https://www.horizontalneprincipy.gov.sk/hp-v-novom-po-2021-2027/index.html?csrt=13762856008428084435</a> v časti Riadiaca dokument&aacute;cia.</div></div></div></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div>[1]&nbsp;<a href=\"https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060\">https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060</a></div></div></div><div>[2]&nbsp;<a href=\"https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf\">https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf</a></div><div>[3] Metodick&yacute; v&yacute;klad k&nbsp;implement&aacute;ci&iacute; a&nbsp;uplatňovaniu Dohovoru OSN o&nbsp;pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m (UNCRPD) v&nbsp;s&uacute;lade s&nbsp;rozhodnut&iacute;m Rady 2010/48/ES.</div><div>[4] Ak to situ&aacute;cia v čase predloženia ŽoNFP s ohľadom na stav projektu umožňuje.</div><div>[5] Gestor horizont&aacute;lnych princ&iacute;pov v SR je org&aacute;nom zabezpečuj&uacute;cim uplatňovanie horizont&aacute;lnych princ&iacute;pov a je n&iacute;m&nbsp;Ministerstvo pr&aacute;ce, soci&aacute;lnych vec&iacute; a rodiny Slovenskej republiky prostredn&iacute;ctvom vecne pr&iacute;slu&scaron;n&eacute;ho &uacute;tvaru (odboru&nbsp;horizont&aacute;lnych princ&iacute;pov).</div></div><div>&nbsp;</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Doklad preukazujúci splnenie podmienky poskytnutia príspevku",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Projektová dokumentácia stavby (overená autorizovanou osobou) vrátane výkazu výmer",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 4,
+     "nazovSk": "Rozpočet projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "Podmienka, že žiadateľ nie je evidovaný v systéme včasného odhaľovania rizika a vylúčenia (EDES) ako vylúčená osoba alebo subjekt (v zmysle článku 135 nariadenia č. 2018/1046)",
+   "popisSk": "<div>Žiadateľ nie je evidovan&yacute; v Syst&eacute;me včasn&eacute;ho odhaľovania rizika a vyl&uacute;čenia (EDES) ako vyl&uacute;čen&aacute; osoba alebo subjekt v zmysle čl&aacute;nku 135 nariadenia č. 2018/1046.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 14,
+   "nazovSk": "Oprávnenosť výdavkov rozpočtu",
+   "popisSk": "<div><div>V&yacute;davky rozpočtu musia byť vynaložen&eacute; na opr&aacute;vnen&eacute; typy aktiv&iacute;t a&nbsp;musia byť vo vecnom s&uacute;lade s&nbsp;dokumentom metodika CIZS. V&nbsp;pr&iacute;pade nedodržania maxim&aacute;lnych percentu&aacute;lnych podielov v&yacute;davkov bude &uacute;merne kr&aacute;ten&yacute; rozpočet.</div><div>&nbsp;</div><div>V konan&iacute; o&nbsp;žiadosti je podmienka splnen&aacute;, ak hodnota celkov&yacute;ch opr&aacute;vnen&yacute;ch v&yacute;davkov žiadosti uznan&aacute; (potvrden&aacute;) poskytovateľom predstavuje minim&aacute;lne 70 % z&nbsp;celkov&eacute;ho rozpočtu projektu.</div><div>&nbsp;</div><div>Žiadateľ vypĺňa pr&iacute;lohu č. 1b <b>&ndash; Rozpočet projektu</b> v s&uacute;lade so schv&aacute;len&yacute;m projektov&yacute;m z&aacute;merom I&Uacute;I.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Rozpočet projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 15,
+   "nazovSk": "Rozpočtová efektívnosť, hospodárnosť a účelnosť",
+   "popisSk": "<div>V&nbsp;r&aacute;mci konania o&nbsp;žiadosti poskytovateľ overuje či a ako žiadateľ dodržal z&aacute;sadu efekt&iacute;vnosti, hospod&aacute;rnosti a&nbsp;&uacute;čelnosti pri stanoven&iacute; v&yacute;&scaron;ky žiadan&eacute;ho NFP a&nbsp;rozpočtu projektu. Rozpočet projektu spĺňa princ&iacute;p hospod&aacute;rnosti, efekt&iacute;vnosti a&nbsp;&uacute;čelnosti za podmienky, ak žiadateľ v&nbsp;predloženej žiadosti preuk&aacute;zal sp&ocirc;sob určenia (stanovenia) v&yacute;&scaron;ky rozpočtu na &uacute;rovni <b>100 % rozpočtu</b> každej aktivity projektu.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Rozpočet projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "Dodržiavanie zásady „nespôsobovať významnú škodu“ (DNSH)",
+   "popisSk": "<div><div><span style=\"color:rgb(0, 0, 255)\"><b>Popis PPP:</b></span></div><div>Žiadateľ pri tvorbe a realiz&aacute;cii projektu je povinn&yacute; zabezpečiť s&uacute;lad projektu so z&aacute;sadou &ldquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&rdquo;. Dodržanie z&aacute;sady DNSH sa v tejto v&yacute;zve vzťahuje na nasledovn&eacute; investičn&eacute; potreby:</div><ol><li>V&yacute;stavba/pr&iacute;stavba/nadstavba budov,</li><li>rekon&scaron;trukcia/obnova budov,</li><li>zdravotn&iacute;cka infra&scaron;trukt&uacute;ra - len vybran&eacute; opr&aacute;vnen&eacute; v&yacute;davky, n&aacute;kup vozidiel, n&aacute;kup IKT, spotrebn&eacute;ho materi&aacute;lu a tlačiarensk&yacute;ch služieb.</li></ol><div>&nbsp;</div><div><span style=\"color:rgb(0, 0, 255)\"><b>Forma preuk&aacute;zania PPP:</b></span></div><ul><li><b>Formul&aacute;r ŽoNFP&nbsp;</b>(časť 7. Popis projektu, časť 9.1 Aktivity projektu),</li><li><b>Rozpočet projektu a podklady k rozpočtu</b>,</li><li><b>Projektov&aacute; dokument&aacute;cia pre &uacute;čely stavebn&eacute;ho konania</b> overen&aacute; pečiatkou projektanta,</li><li><b>Stanovisko pr&iacute;slu&scaron;n&eacute;ho org&aacute;nu k s&uacute;ladu s požiadavkami v oblasti vplyvu n&aacute;vrhu pl&aacute;nu, programu alebo projektu na &uacute;zemia patriace do eur&oacute;pskej s&uacute;stavy chr&aacute;nen&yacute;ch &uacute;zem&iacute; NATURA 2000</b> (pr&iacute;loha č. 6b v&yacute;zvy),</li><li><b>Pr&aacute;voplatn&eacute; rozhodnutie vydan&eacute; v zisťovacom konan&iacute;</b> podľa &sect; 18 ods. 2 z&aacute;kona č. 24/2006 Z. z. o posudzovan&iacute; vplyvov na životn&eacute; prostredie</li></ul><div><span style=\"color:rgb(0, 0, 255)\"><b>Sp&ocirc;sob overenia PPP:</b></span></div><div>Podmienka sa overuje na z&aacute;klade inform&aacute;ci&iacute; a &uacute;dajov uveden&yacute;ch vo formul&aacute;ri ŽoNFP, jej pr&iacute;loh&aacute;ch a informačnom syst&eacute;me ITMS21+. Subjekty zodpovedn&eacute; za overenie tejto podmienky upravuje pr&iacute;loha č. 6 v znen&iacute; aktuliz&aacute;cie č. 2.</div><div>Na overenie splnenia niektor&yacute;ch podmienok pre uplatňovanie z&aacute;sady DNSH v r&aacute;mci ŽoNFP sa uplatňuje požiadavka kvalifikovan&eacute;ho overenia, ktor&eacute; vykon&aacute; poskytovateľ v spolupr&aacute;ci s MŽP SR. Z&aacute;very z kvalifikovan&eacute;ho overenia splnenia podmienok pre uplatňovanie z&aacute;sady DNSH bud&uacute; uveden&eacute; vo vyhodnoten&iacute; s&uacute;ladu projektu s podmienkami pre uplatňovanie z&aacute;sady DNSH.</div><div>&nbsp;</div><div><span style=\"color:rgb(0, 0, 255)\"><b>Ukončenie uplatniteľnosti:</b></span></div><div>Podmienku je potrebn&eacute; plniť kontinu&aacute;lne počas realiz&aacute;cie projektu a obdobia jeho udržateľnosti.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Právoplatné rozhodnutie vydané v zisťovacom konaní",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Projektová dokumentácia pre účely stavebného konania overená pečiatkou projektanta",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 4,
+     "nazovSk": "Rozpočet projektu a podklady k rozpočtu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 5,
+     "nazovSk": "Stanovisko príslušného orgánu k súladu s požiadavkami v oblasti vplyvu návrhu plánu, programu alebo projektu na územia patriace do európskej sústavy chránených území NATURA 2000",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 18,
+   "nazovSk": "Podmienka schválenia projektového zámeru IÚI a súlad žiadosti so schváleným projektovým zámerom IÚI",
+   "popisSk": "<div><div><span style=\"color:rgb(0, 0, 255)\"><b>Popis PPP:</b></span></div><div><div>V zmysle <i>Jednotn&eacute;ho metodick&eacute;ho r&aacute;mca pre pr&iacute;pravu integrovan&yacute;ch &uacute;zemn&yacute;ch strat&eacute;gi&iacute; a&nbsp;integrovan&yacute;ch &uacute;zemn&yacute;ch invest&iacute;ci&iacute; v Slovenskej republike v programovom obdob&iacute; 2021 - 2027</i> projektov&yacute; z&aacute;mer I&Uacute;I mus&iacute; byť schv&aacute;len&yacute; pr&iacute;slu&scaron;nou Radou partnerstva. Projektov&yacute; z&aacute;mer I&Uacute;I mus&iacute; spĺňať krit&eacute;ri&aacute; prijateľnosti, ktor&eacute; posudzuje technick&yacute; sekretari&aacute;t Rady partnerstva a&nbsp;potvrdzuje ho v p&iacute;somnom&nbsp;stanovisku k&nbsp;projektov&eacute;mu z&aacute;meru I&Uacute;I, a&nbsp;n&aacute;sledne spolu s&nbsp;projektov&yacute;m z&aacute;merom I&Uacute;I predklad&aacute; na rokovanie Rady partnerstva.&nbsp;</div><div>&nbsp;</div><b>Predložen&aacute; žiadosť mus&iacute; byť ku dňu predloženia ŽoNFP v&nbsp;s&uacute;lade s projektov&yacute;m z&aacute;merom I&Uacute;I schv&aacute;len&yacute;m Radou partnerstva, podľa aktu&aacute;lneho znenia </b>Metodick&eacute;ho usmernenia k podpore integrovan&eacute;ho &uacute;zemn&eacute;ho rozvoja č. 8.</div><div>&nbsp;</div><div><span style=\"color:rgb(0, 0, 255)\"><b>Forma preuk&aacute;zania PPP:</b></span></div><ul><li><b>Uznesenie, resp. z&aacute;pisnica Rady partnerstva o schv&aacute;len&iacute; projektov&eacute;ho z&aacute;meru</b> <b>I&Uacute;I vo forme požadovanej v&nbsp;aktu&aacute;lnom znen&iacute; </b>Metodick&eacute;ho usmernenia k podpore integrovan&eacute;ho &uacute;zemn&eacute;ho rozvoja č. 8,</li><li><b>Schv&aacute;len&yacute; projektov&yacute; z&aacute;mer I&Uacute;I podľa formul&aacute;ra PZ I&Uacute;I,</b></li><li><b>Stanovisko technick&eacute;ho sekretari&aacute;tu Rady partnerstva vr&aacute;tane stanoviska odboru zdravotn&iacute;ctva pr&iacute;slu&scaron;n&eacute;ho samospr&aacute;vneho kraja k&nbsp;projektov&eacute;mu z&aacute;meru</b> I&Uacute;I v&nbsp;s&uacute;lade s&nbsp;metodick&yacute;m usmernen&iacute;m č. 8 k&nbsp;podpore integrovan&eacute;ho &uacute;zemn&eacute;ho rozvoja,</li><li><b>Formul&aacute;r ŽoNFP&nbsp;časť 7.2 Popis v&yacute;chodiskovej situ&aacute;cie -</b> identifik&aacute;cia strategick&yacute;ch dokumentov na &uacute;rovni regi&oacute;nov, ktor&eacute; odkazuj&uacute; na pl&aacute;n realizovať aktivitu, ktor&aacute; je predmetom projektu a&nbsp;<b>časť 7.3 Sp&ocirc;sob realiz&aacute;cie aktiv&iacute;t projektu.</b></li></ul><div><span style=\"color:rgb(0, 0, 255)\"><b>Sp&ocirc;sob overenia PPP:</b></span></div><div>Overenie &uacute;dajov prostredn&iacute;ctvom pr&iacute;loh ŽoNFP a informačn&eacute;ho syst&eacute;mu ITMS21+ spolu s&nbsp;overen&iacute;m uznesenia Rady partnerstva a&nbsp;stanoviska technick&eacute;ho sekretari&aacute;tu vr&aacute;tane stanoviska odboru zdravotn&iacute;ctva.</div><div>&nbsp;</div><div><span style=\"color:rgb(0, 0, 255)\"><b>Ukončenie uplatniteľnosti:</b></span></div><div>Do skončenia konania o&nbsp;žiadosti.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Schválený projektový zámer IÚI podľa formulára PZ IÚI",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Stanovisko technického sekretariátu Rady partnerstva vrátane stanoviska odboru zdravotníctva príslušného samosprávneho kraja k projektovému zámeru IÚI",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 4,
+     "nazovSk": "Uznesenie, resp. zápisnica Rady partnerstva o schválení projektového zámeru IÚI",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 5,
+   "nazovSk": "Podmienka, že voči žiadateľovi nie je vyhlásený konkurz ani povolená reštrukturalizácia a nie je v likvidácii",
+   "popisSk": "<div><div>Voči žiadateľovi nie je v&nbsp;zmysle z&aacute;kona č. 7/2005 Z. z. o&nbsp;konkurze a&nbsp;re&scaron;trukturaliz&aacute;cii v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov veden&eacute; konkurzn&eacute; konanie, re&scaron;trukturalizačn&eacute; konanie, nie je v konkurze ani v re&scaron;trukturaliz&aacute;cii.</div><div>&nbsp;</div><div>Zastavenie konkurzn&eacute;ho konania pre nedostatok majetku žiadateľa alebo zru&scaron;enie konkurzu pre nedostatok majetku žiadateľa predstavuje nesplnenie predmetnej podmienky.</div><div>&nbsp;</div><div><b>Podmienka sa nevzťahuje na žiadateľa, ktor&yacute;m je obec alebo vy&scaron;&scaron;&iacute; &uacute;zemn&yacute; celok </b>v s&uacute;lade s &sect; 2 z&aacute;kona o konkurze a&nbsp;re&scaron;trukturaliz&aacute;cii.</div><div>&nbsp;</div><div>Podmienka sa vzťahuje aj na konania začat&eacute; a neukončen&eacute; podľa z&aacute;kona č. 328/1991 Zb. o konkurze a vyrovnan&iacute; v znen&iacute; neskor&scaron;&iacute;ch predpisov, ktor&yacute; bol &uacute;činn&yacute; pred z&aacute;konom č. 7/2005 Z. z. o konkurze a re&scaron;trukturaliz&aacute;cii v znen&iacute; neskor&scaron;&iacute;ch predpisov.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "INSOLVENCNY_REGISTER"
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 6,
+   "nazovSk": "Podmienka zákazu vedenia výkonu rozhodnutia voči žiadateľovi",
+   "popisSk": "<div>Voči žiadateľovi nesmie byť vykon&aacute;van&aacute; exek&uacute;cia podľa Exekučn&eacute;ho poriadku [7], ani veden&yacute; in&yacute; v&yacute;kon rozhodnutia podľa osobitn&yacute;ch predpisov, ktor&eacute;ho predmetom je n&uacute;ten&yacute; v&yacute;kon povinnosti zaplatiť peňažn&uacute; sumu vo v&yacute;&scaron;ke vym&aacute;han&eacute;ho n&aacute;roku, vr&aacute;tane v&scaron;etk&yacute;ch trov s&uacute;visiacich s v&yacute;konom rozhodnutia za v&scaron;etky takto vykon&aacute;van&eacute; exek&uacute;cie alebo in&eacute; v&yacute;kony rozhodnutia vy&scaron;&scaron;ie ako 10 tis. eur.</div><div>&nbsp;</div><div>Voči žiadateľovi tiež nesmie byť veden&yacute; v&yacute;kon rozhodnutia na plnenie inej povinnosti, ktor&aacute; nespoč&iacute;va v zaplaten&iacute; peňažnej sumy, pokiaľ t&aacute;to nepeňažn&aacute; povinnosť akokoľvek priamo alebo nepriamo s&uacute;vis&iacute; s projektom, ktor&yacute; je predmetom podanej ŽoNFP žiadateľa.</div><div>&nbsp;</div><div>V pr&iacute;pade, ak celkov&aacute; s&uacute;hrnn&aacute; v&yacute;&scaron;ka vym&aacute;han&eacute;ho n&aacute;roku za v&scaron;etky exek&uacute;cie alebo in&eacute; v&yacute;kony rozhodnutia presiahla uveden&uacute; sumu je pre &uacute;čely pos&uacute;denia tejto podmienky rozhoduj&uacute;ca skutočnosť, či dlžn&aacute; suma a v&scaron;etky trovy s&uacute;visiace s v&yacute;konom rozhodnutia:</div><ol><li>boli uhraden&eacute; [8],</li><li>boli zložen&eacute; do z&aacute;bezpeky v celkovej v&yacute;&scaron;ke vym&aacute;han&eacute;ho n&aacute;roku, na osobitn&yacute; &uacute;čet exek&uacute;tora, zriaden&yacute; na tento &uacute;čel podľa Exekučn&eacute;ho poriadku.</li></ol><div>&nbsp;</div><div>Podmienka sa net&yacute;ka v&yacute;konu rozhodnutia voči členom riadiacich a dozorn&yacute;ch org&aacute;nov žiadateľa, ale je relevantn&aacute; vo vzťahu k subjektu žiadateľa.</div><div>&nbsp;</div><div>Nerelevantn&eacute; pre ministerstv&aacute;, ostatn&eacute; &uacute;stredn&eacute; org&aacute;ny &scaron;t&aacute;tnej spr&aacute;vy a&nbsp;ostatn&eacute; &scaron;t&aacute;tne rozpočtov&eacute; organiz&aacute;cie. Pre ostatn&eacute; verejn&eacute; org&aacute;ny relevantn&eacute; v&nbsp;rozsahu, v&nbsp;akom sa na nich nevzťahuje absol&uacute;tna exekučn&aacute; imunita.</div><div>&nbsp;</div><div>&nbsp;</div><div>[7]&nbsp;Z&aacute;kon. č. 233/1995 Z. z. o s&uacute;dnych exek&uacute;toroch a exekučnej činnosti (Exekučn&yacute; poriadok) a o zmene a doplnen&iacute; ďal&scaron;&iacute;ch z&aacute;konov v znen&iacute; neskor&scaron;&iacute;ch predpisov.</div><div>[8] V pr&iacute;pade, ak ide o exekučn&eacute; konania začat&eacute; pred 01.04.2017, podmienka &uacute;hrady trov s&uacute;visiacich s v&yacute;konom rozhodnutia nie je relevantn&aacute; v pr&iacute;pade, ak ide o exek&uacute;cie, od vykonania ktor&yacute;ch sa up&uacute;&scaron;ťa.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 7,
+   "nazovSk": "Podmienka, že žiadateľ, ktorým je právnická osoba, nemá právoplatným rozsudkom uložený trest zákazu prijímať dotácie alebo subvencie, trest zrušenia PO, trest zákazu prijímať pomoc a podporu poskytovanú z fondov EÚ...",
+   "popisSk": "<div><div>Podmienka sa vzťahuje aj na žiadateľa, na ktor&eacute;ho pre&scaron;la trestn&aacute; zodpovednosť po zru&scaron;en&iacute; pr&aacute;vnickej osoby podľa &sect; 7 z&aacute;kona č. 91/2016 Z. z. o&nbsp;trestnej zodpovednosti pr&aacute;vnick&yacute;ch os&ocirc;b a&nbsp;o&nbsp;zmene a&nbsp;doplnen&iacute; niektor&yacute;ch z&aacute;konov v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov.</div><div>&nbsp;</div><div>Podmienka sa nevzťahuje na pr&aacute;vnick&eacute; osoby, ktor&eacute; s&uacute; vymedzen&eacute; v &sect; 5 z&aacute;kona č. 91/2016 Z. z. o trestnej zodpovednosti pr&aacute;vnick&yacute;ch os&ocirc;b a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 8,
+   "nazovSk": "Podmienka, že voči žiadateľovi sa nenárokuje vrátenie štátnej pomoci na základe rozhodnutia EK, v ktorom bola táto štátna pomoc označená za neoprávnenú a nezlučiteľnú s vnútorným trhom",
+   "popisSk": "<div><div>Voči žiadateľovi sa nen&aacute;rokuje vr&aacute;tenie pomoci na z&aacute;klade rozhodnutia Eur&oacute;pskej komisie, ktor&yacute;m bola pomoc označen&aacute; za neopr&aacute;vnen&uacute; a nezlučiteľn&uacute; s vn&uacute;torn&yacute;m trhom.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 9,
+   "nazovSk": "Podmienky týkajúce sa štátnej pomoci a vyplývajúce zo schémy štátnej pomoci/pomoci de minimis",
+   "popisSk": "<div><div>&Scaron;t&aacute;tnou pomocou sa rozumie každ&aacute; pomoc v akejkoľvek forme, ktor&uacute; poskytuje na podnikanie alebo v s&uacute;vislosti s n&iacute;m poskytovateľ priamo alebo nepriamo z prostriedkov &scaron;t&aacute;tneho rozpočtu, zo svojho rozpočtu alebo z vlastn&yacute;ch zdrojov podniku, pričom v&scaron;ak nez&aacute;lež&iacute; na pr&aacute;vnej forme žiadateľa/prij&iacute;mateľa a sp&ocirc;sobe jeho financovania.</div><div>&nbsp;</div><div>Pr&iacute;spevok je poskytovan&yacute; v&nbsp;s&uacute;lade s&nbsp;pravidlami a&nbsp;podmienkami stanoven&yacute;mi v&nbsp;sch&eacute;me &scaron;t&aacute;tnej pomoci &scaron;pecifikovanej v&nbsp;časti &bdquo;Identifik&aacute;cia v&yacute;zvy&ldquo;, bod&nbsp; &bdquo;Sch&eacute;ma &scaron;t&aacute;tnej pomoci/pomoci de minimis&ldquo;. V&nbsp;r&aacute;mci tejto f&aacute;zy overovania sa neoveruje splnenie podmienky nebyť podnikom v&nbsp;ťažkostiach, ktorej splnenie žiadateľ preukazuje ku dňu poskytnutia pomoci.&nbsp;</div><div>&nbsp;</div><div>Na overenie či sa na žiadateľa vzťahuj&uacute; pravidl&aacute; &scaron;t&aacute;tnej pomoci,<b> žiadateľ vypĺňa &bdquo;test pre pos&uacute;denie lok&aacute;lneho vplyvu projektu a vyl&uacute;čenie &scaron;t&aacute;tnej pomoci pre podporen&yacute; projekt&ldquo;</b> (ďalej ako &bdquo;test lok&aacute;lneho vplyvu&ldquo;).&nbsp;Na z&aacute;klade v&yacute;sledku tohto testu s&uacute; opr&aacute;vnen&eacute; dva typy projektov:</div><ul><li><b>Projekt typu &bdquo;A&ldquo; ako projekt lok&aacute;lneho vplyvu</b> &ndash; na tento typ projektov sa pravidl&aacute; &scaron;t&aacute;tnej pomoci nevzťahuj&uacute;.</li><li><b>Projekt typu &bdquo;B&ldquo; ako projekt s uplatnen&iacute;m sch&eacute;my &scaron;t&aacute;tnej pomoci</b> &ndash; v pr&iacute;pade, že testom nebol potvrden&yacute; lok&aacute;lny vplyv projektu, mus&iacute; projekt spĺňať okrem podmienok poskytnutia pr&iacute;spevku aj podmienky uveden&eacute; v sch&eacute;me &scaron;t&aacute;tnej pomoci v&nbsp;časti &bdquo;Identifik&aacute;cia v&yacute;zvy&ldquo;, časť &bdquo;Sch&eacute;ma &scaron;t&aacute;tnej pomoci/sch&eacute;ma pomoci de minimis&ldquo;.&nbsp;</li></ul><div>&nbsp;</div><div><b>Test lok&aacute;lneho vplyvu, </b>ktor&yacute; tvor&iacute; pr&iacute;lohu č. 7<b>,</b> <b>žiadateľ predklad&aacute; spolu so žiadosťou o NFP.</b> Ak na z&aacute;klade vykonan&eacute;ho testu vypl&yacute;va, že projekt nem&aacute; lok&aacute;lny vplyv, na žiadateľa a&nbsp;prij&iacute;mateľa sa vzťahuj&uacute; pravidl&aacute; &scaron;t&aacute;tnej pomoci.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Doklad preukazujúci splnenie podmienky poskytnutia príspevku",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "SEMP"
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Finančná analýza projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 10,
+   "nazovSk": "Podmienka schválenia programu rozvoja a príslušnej územnoplánovacej dokumentácie v súlade s § 7 ods. 8 a § 8 ods. 6 / § 8a ods. 7 zákona č. 539/2008 Z. z. o podpore regionálneho rozvoja v znení neskorších predpisov",
+   "popisSk": "<div>Žiadateľ, ktor&yacute; je subjektom &uacute;zemnej samospr&aacute;vy, mus&iacute; mať schv&aacute;len&yacute; program rozvoja a pr&iacute;slu&scaron;n&uacute; &uacute;zemnopl&aacute;novaciu dokument&aacute;ciu v s&uacute;lade s ustanoveniami z&aacute;kona č. 539/2008 Z. z. o podpore region&aacute;lneho rozvoja v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov.</div><div>&nbsp;</div><div>Podmienka sa vzťahuje na žiadateľa, ktor&yacute;m je obec, mesto, vy&scaron;&scaron;&iacute; &uacute;zemn&yacute; celok alebo pr&aacute;vnick&aacute; osoba, na ktorej sa z&uacute;častňuje obec, mesto alebo vy&scaron;&scaron;&iacute; &uacute;zemn&yacute; celok.</div><div>&nbsp;</div><div>Podmienka mať schv&aacute;len&yacute; program rozvoja a pr&iacute;slu&scaron;n&uacute; &uacute;zemnopl&aacute;novaciu dokument&aacute;ciu sa pln&iacute; vo vzťahu k &uacute;zemiu obce, mesta alebo vy&scaron;&scaron;ieho &uacute;zemn&eacute;ho celku, na ktorom je podľa projektu pl&aacute;novan&eacute; vykon&aacute;vanie invest&iacute;ci&iacute; [9] projektu. Uveden&eacute; je osobitne relevantn&eacute; pri pr&aacute;vnick&yacute;ch osob&aacute;ch, napr. združeniach obc&iacute;, združeniach pr&aacute;vnick&yacute;ch os&ocirc;b, pr&aacute;vnick&yacute;ch osob&aacute;ch podľa osobitn&eacute;ho predpisu, kombin&aacute;ci&aacute;ch r&ocirc;znych foriem, ktor&eacute; združuj&uacute; (aj) subjekty miestnej samospr&aacute;vy, av&scaron;ak na projekte sa pl&aacute;nuje realizovať invest&iacute;cia len na &uacute;zem&iacute; niektorej/niektor&yacute;ch z nich &ndash; v takom pr&iacute;pade sa podmienka pln&iacute; len za t&uacute;to niektor&uacute; alebo tieto niektor&eacute; subjekty miestnej samospr&aacute;vy, na &uacute;zem&iacute; ktor&yacute;ch sa pl&aacute;nuj&uacute; vykon&aacute;vať invest&iacute;cie v r&aacute;mci projektu.</div><div>&nbsp;</div><div>V pr&iacute;pade, že žiadateľ v postaven&iacute; subjektu &uacute;zemnej samospr&aacute;vy nem&aacute; schv&aacute;len&yacute; &uacute;zemn&yacute; pl&aacute;n, pretože mu t&aacute;to povinnosť nevypl&yacute;va z legislat&iacute;vy SR, predklad&aacute; čestn&eacute; vyhl&aacute;senie, že na subjekt sa t&aacute;to povinnosť nevzťahuje s odvolan&iacute;m sa na pr&iacute;slu&scaron;n&yacute; z&aacute;kon.</div><div>&nbsp;</div><div>Ak je uznesenie o schv&aacute;len&iacute; programu rozvoja obce/mesta/kraja (programu hospod&aacute;rskeho a soci&aacute;lneho rozvoja obce/mesta/kraja, resp. spoločn&eacute;ho programu hospod&aacute;rskeho a soci&aacute;lneho rozvoja obc&iacute;) a pr&iacute;slu&scaron;nej &uacute;zemnopl&aacute;novacej dokument&aacute;cie zverejnen&eacute; na webovom s&iacute;dle žiadateľa, žiadateľ je opr&aacute;vnen&yacute; požadovan&uacute; pr&iacute;lohu ŽoNFP nahradiť formul&aacute;rom ŽoNFP, v ktorom v časti 7.3 uvedie presn&yacute; a aktu&aacute;lny odkaz na webov&eacute; s&iacute;dlo žiadateľa, na ktorom je uveden&eacute; uznesenie zverejnen&eacute;.</div><div>&nbsp;</div><div>&nbsp;</div><div>[9]&nbsp;Pojem &bdquo;invest&iacute;cia&ldquo; definuje napr. &sect; 19a ods. 7 z&aacute;kona č. 523/2004 Z. z., &sect; 30e ods. 5 z&aacute;kona č. 595/2003 Z. z., &sect; 2 p&iacute;sm. d) z&aacute;kona č. 371/2021 Z. z.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Uznesenie (výpis z uznesenia) zastupiteľstva subjektu územnej samosprávy o schválení programu rozvoja mesta/kraja (programu hospodárskeho a sociálneho rozvoja mesta/kraja) a príslušnej územnoplánovacej dokumentácie",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 11,
+   "nazovSk": "Podmienka oprávnenosti aktivít",
+   "popisSk": "<div><div>Aktivity projektu musia byť vo vecnom s&uacute;lade s intervenciou RSO4.5 Programu Slovensko.</div><div>&nbsp;</div><div><b>Opr&aacute;vnen&yacute; typ</b> <b>akcie</b>: Doplnenie siete centier integrovanej zdravotnej starostlivosti s cieľom transform&aacute;cie poskytovania zdravotnej starostlivosti na komunitnej &uacute;rovni a poskytovania dostupnej zdravotnej starostlivosti.</div><div>&nbsp;</div><div><b>V r&aacute;mci opr&aacute;vnenej akcie m&ocirc;že žiadateľ realizovať&nbsp;aktivity:</b></div><div>a)&nbsp; &nbsp;v&yacute;stavba nov&yacute;ch budov,</div><div>b)&nbsp; &nbsp;moderniz&aacute;cia a rekon&scaron;trukcia existuj&uacute;cich budov,</div><div>c)&nbsp; &nbsp;pr&iacute;stavba, nadstavba, stavebn&eacute; &uacute;pravy a rekon&scaron;trukcia vn&uacute;torn&yacute;ch a vonkaj&scaron;&iacute;ch priestorov existuj&uacute;cich stavebn&yacute;ch objektov,</div><div>d)&nbsp; &nbsp;zabezpečenie materi&aacute;lno &ndash; technick&eacute;ho vybavenia,</div><div>e)&nbsp; &nbsp;dod&aacute;vka zdravotn&iacute;ckej techniky, zariadenia a vybavenia,</div><div>f)&nbsp; &nbsp;budovanie a moderniz&aacute;cia IKT infra&scaron;trukt&uacute;ry vr&aacute;tane vybavenia vysokor&yacute;chlostn&yacute;m internetov&yacute;m pripojen&iacute;m a n&aacute;kupu softv&eacute;rov&eacute;ho vybavenia,</div><div>g)&nbsp; &nbsp;budovanie bezbari&eacute;rov&yacute;ch pr&iacute;stupov,</div><div>h)&nbsp; &nbsp;opatrenia na zv&yacute;&scaron;enie energetickej hospod&aacute;rnosti budov.</div><div>&nbsp;</div><div><div>Opr&aacute;vnen&eacute; typy aktiv&iacute;t uveden&eacute; pod p&iacute;sm. d) až g) musia byť v&nbsp;kombin&aacute;cii s&nbsp;opr&aacute;vnen&yacute;m typom aktivity podľa p&iacute;sm. a), b) alebo c). V&nbsp;pr&iacute;pade, že žiadateľ prij&iacute;ma opatrenia zameran&eacute; na energetick&uacute; hospod&aacute;rnosť budov, vyber&aacute; si aj typ aktivity podľa p&iacute;sm. h), ktor&aacute; priamo s&uacute;vis&iacute; s&nbsp;aktivitami uveden&yacute;mi pod p&iacute;sm. b) a&nbsp;c).</div></div><div>&nbsp;</div><div>&nbsp;V&nbsp;r&aacute;mci <b>podpornej aktivity</b> je žiadateľ opr&aacute;vnen&yacute; realizovať<b> </b>publicitu.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Projektová dokumentácia stavby (overená autorizovanou osobou) vrátane výkazu výmer",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Rozpočet projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 12,
+   "nazovSk": "Podmienka, že projekt je realizovaný na oprávnenom území",
+   "popisSk": "<div><div>Žiadateľ je povinn&yacute; realizovať projekt v&yacute;hradne na opr&aacute;vnenom &uacute;zem&iacute;, t. j. <b>&uacute;zemie menej rozvinut&eacute;ho regi&oacute;nu.</b></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 13,
+   "nazovSk": "Maximálna výška príspevku",
+   "popisSk": "<div><div><b>Maxim&aacute;lna v&yacute;&scaron;ka pr&iacute;spevku</b> jedn&eacute;ho projektu je 1 300 000 eur za zdroj EFRR.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Finančná analýza projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Projektová dokumentácia stavby (overená autorizovanou osobou) vrátane výkazu výmer",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 4,
+     "nazovSk": "Rozpočet projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 16,
+   "nazovSk": "Podmienka zamedzenia duplicitného financovania",
+   "popisSk": "<div><div>Žiadateľ na opr&aacute;vnen&eacute; v&yacute;davky uveden&eacute; v projekte nem&ocirc;že s&uacute;časne žiadať ich financovanie z in&yacute;ch verejn&yacute;ch zdrojov v zmysle Pr&iacute;ručky k opr&aacute;vnenosti v&yacute;davkov. V&nbsp;r&aacute;mci podmienky sa overuje, či sa v&yacute;davky žiadosti neprekr&yacute;vaj&uacute; s&nbsp;inou verejnou podporou.</div><div>&nbsp;</div><div>V&yacute;davky, na ktor&eacute; boli v minulosti poskytnut&eacute; finančn&eacute; prostriedky z verejn&yacute;ch zdrojov, s&uacute; v r&aacute;mci projektu neopr&aacute;vnen&eacute;. Opr&aacute;vnen&iacute; žiadatelia, ktor&iacute; z&iacute;skali finančn&eacute; prostriedky z verejn&yacute;ch zdrojov na aktivitu definovan&uacute; v tejto v&yacute;zve, m&ocirc;žu predložiť ŽoNFP len za podmienky, že predmetom projektu s&uacute; iba v&yacute;davky, na ktor&eacute; v minulosti nebol poskytnut&yacute; pr&iacute;spevok z verejn&yacute;ch zdrojov.</div><div>&nbsp;</div><div><b>Vo vzťahu k Pl&aacute;nu obnovy a odolnosti sa uplatňuje z&aacute;kaz dvojit&eacute;ho financovania.</b> Dvojit&yacute;m financovan&iacute;m sa rozumie aj situ&aacute;cia, ak sa k v&yacute;sledku dan&eacute;ho opatrenia alebo jeho časti (projekt) dospeje nielen použit&iacute;m prostriedkov finančn&eacute;ho mechanizmu, ale aj využit&iacute;m in&yacute;ch zdrojov z rozpočtu E&Uacute;, pričom tak&eacute;to použitie nebolo vopred indikovan&eacute; EK v r&aacute;mci Pl&aacute;nu obnovy a&nbsp;odolnosti, a zohľadnen&eacute; v n&aacute;kladovom ohodnoten&iacute; pr&iacute;slu&scaron;nej invest&iacute;cie alebo reformy a&nbsp;to v&nbsp;s&uacute;lade s&nbsp;vykon&aacute;vac&iacute;m rozhodnut&iacute;m Rady o&nbsp;schv&aacute;len&iacute; pos&uacute;denia Pl&aacute;nu obnovy a&nbsp;odolnosti Slovenska. Z&aacute;roveň sa za dvojit&eacute; financovanie m&ocirc;že považovať aj situ&aacute;cia, ak v&yacute;sledok danej oper&aacute;cie (bez ohľadu na sp&ocirc;sob preukazovania zrealizovania opatrenia) je vykazovan&yacute; EK v r&aacute;mci r&ocirc;znych n&aacute;strojov podpory.</div><div>&nbsp;</div><div><div><b>V r&aacute;mci formul&aacute;ra ŽoNFP v časti 7.3 Sp&ocirc;sob realiz&aacute;cie aktiv&iacute;t mus&iacute; žiadateľ zadeklarovať, že v&yacute;davky žiadan&eacute; v projekte sa neprekr&yacute;vaj&uacute; so žiadnou inou verejnou podporou.</b></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 17,
+   "nazovSk": "Podmienka finančnej spôsobilosti žiadateľa na spolufinancovanie projektu",
+   "popisSk": "<div><div>Žiadateľ mus&iacute; byť finančne sp&ocirc;sobil&yacute; na spolufinancovanie projektu. V&yacute;&scaron;ka spolufinancovania projektu zo strany žiadateľa sa stanovuje minim&aacute;lne ako rozdiel medzi celkov&yacute;mi opr&aacute;vnen&yacute;mi v&yacute;davkami projektu a žiadan&yacute;m NFP.</div><div>&nbsp;</div><div>Počas realiz&aacute;cie projektu je prij&iacute;mateľ okrem povinn&eacute;ho spolufinancovania projektu povinn&yacute; zabezpečiť aj finančn&eacute; prostriedky na financovanie pr&iacute;padn&yacute;ch neopr&aacute;vnen&yacute;ch v&yacute;davkov, ktor&eacute; vznikn&uacute; v priebehu realiz&aacute;cie projektu.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Doklad preukazujúci splnenie podmienky poskytnutia príspevku",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Rozpočet projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Účtovná závierka za posledné ukončené obdobie",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "UCTOVNA_ZAVIERKA"
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 19,
+   "nazovSk": "Projekt je vo vecnom a technickom súlade s dokumentom Metodika pre realizáciu a fungovanie centier integrovanej zdravotnej starostlivosti pre programové obdobie 2021-2027",
+   "popisSk": "<div><div>Projekt mus&iacute; byť vo vecnom a&nbsp;technickom s&uacute;lade s&nbsp;metodikou CIZS. Technick&eacute; rie&scaron;enie v projektovej dokument&aacute;cii mus&iacute; byť v&nbsp;s&uacute;lade s&nbsp;vecn&yacute;mi požiadavkami CIZS podľa vy&scaron;&scaron;ie uvedenej metodiky CIZS.</div><div>&nbsp;</div><div>Za vecn&yacute; a&nbsp;technick&yacute; s&uacute;lad žiadosti o&nbsp;NFP s&nbsp;metodikou CIZS sa považuje, ak v CIZS:</div><div>a)&nbsp; &nbsp;s&uacute; vytvoren&eacute; priestorov&eacute; a materi&aacute;lno-technick&eacute; podmienky pre poskytovanie zdravotnej starostlivosti minim&aacute;lne v rozsahu pre povinn&eacute; person&aacute;lne zabezpečenie v s&uacute;lade s &bdquo;V&yacute;nosom MZ SR o minim&aacute;lnych požiadavk&aacute;ch na person&aacute;lne zabezpečenie a&nbsp;materi&aacute;lno-technick&eacute; vybavenie jednotliv&yacute;ch druhov zdravotn&iacute;ckych zariaden&iacute;&ldquo; v&nbsp;znen&iacute; aktu&aacute;lne platn&eacute;ho opatrenia,</div><div>b)&nbsp; &nbsp;je zabezpečen&eacute; dostatočn&eacute; priestorov&eacute; rozmiestnenie pre niž&scaron;&iacute; zdravotn&iacute;cky a nezdravotn&iacute;cky person&aacute;l ambulanci&iacute; v rozsahu odpor&uacute;čanom metodikou,</div><div>c)&nbsp; &nbsp;bud&uacute; integrovan&eacute; služby v rozsahu definovanom metodikou,</div><div>d)&nbsp; &nbsp;s&uacute; vytvoren&eacute; dostatočn&eacute; materi&aacute;lno-technick&eacute; podmienky pre využ&iacute;vanie informačno-komunikačn&yacute;ch technol&oacute;gi&iacute; pre zdravotn&iacute;cke služby vr&aacute;tane požiadavky na postupn&eacute; zav&aacute;dzanie a využ&iacute;vanie ezdravia poskytovateľmi zdravotnej starostlivosti (dostatočn&eacute; d&aacute;tov&eacute; rozvody, priestory, technick&eacute; vybavenie).</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Projektová dokumentácia stavby (overená autorizovanou osobou) vrátane výkazu výmer",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [],
+ "miestoRealizacieFull": [
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040930",
+   "nazovSk": "Rezerva na nepredvídané výdavky",
+   "typAkcieProgramu": {
+    "id": 520,
+    "href": "/typakcieprogramu/id/520"
+   }
+  },
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 520,
+    "href": "/typakcieprogramu/id/520"
+   }
+  },
+  {
+   "kod": "1040014",
+   "nazovSk": "Oceniteľné práva",
+   "typAkcieProgramu": {
+    "id": 520,
+    "href": "/typakcieprogramu/id/520"
+   }
+  },
+  {
+   "kod": "1040021",
+   "nazovSk": "Stavby",
+   "typAkcieProgramu": {
+    "id": 520,
+    "href": "/typakcieprogramu/id/520"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 520,
+    "href": "/typakcieprogramu/id/520"
+   }
+  },
+  {
+   "kod": "1040029",
+   "nazovSk": "Ostatný dlhodobý hmotný majetok",
+   "typAkcieProgramu": {
+    "id": 520,
+    "href": "/typakcieprogramu/id/520"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 520,
+    "href": "/typakcieprogramu/id/520"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 1239,
+    "href": "/typakcieprogramu/id/1239"
+   }
+  }
+ ],
+ "externyZdroj": [
+  {
+   "nazov": "Webové sídlo RO",
+   "url": "https://eurofondy.gov.sk/vyzvy/vyzvy-program-slovensko/"
+  },
+  {
+   "nazov": "Webové sídlo MZ SR",
+   "url": "https://www.health.gov.sk/?Eufondy-Program-Slovensko"
+  }
+ ],
+ "dokument": [
+  {
+   "nazov": "Výzva PSK-MZ-002-2024-IUI-EFRR",
+   "uuid": "c887458f-94b6-426b-b5fb-5b6add603ab8"
+  },
+  {
+   "nazov": "Výzva PSK-MZ-002-2024-IUI-EFRR_v znení aktualizácie č. 1.zip",
+   "uuid": "61b88b8e-2913-4442-913e-fe0293d299e5"
+  },
+  {
+   "nazov": "Výzva PSK-MZ-002-2024-IUI-EFRR v znení aktualizácie č 2.zip",
+   "uuid": "33f7dd48-e716-4a2a-906e-ae4c06a64ba0"
+  },
+  {
+   "nazov": "Výzva PSK-MZ-002-2024-IUI-EFRR.zip",
+   "uuid": "882b2ecc-6121-4b31-8548-8c3d0c371f29"
+  }
+ ],
+ "inaSkutocnostUzatvorenieVyzvy": "<div>Bliž&scaron;ie &scaron;pecifikovan&eacute; vo v&yacute;zve.</div>",
+ "mieraSpolufinancovania": "<div>Bliž&scaron;ie &scaron;pecifikovan&eacute; vo v&yacute;zve.</div>",
+ "sposobPodaniaZoNFP": "<div>Bliž&scaron;ie &scaron;pecifikovan&eacute; vo v&yacute;zve.</div>",
+ "miestoPrePodanieZoNFP": "<div>Bliž&scaron;ie &scaron;pecifikovan&eacute; vo v&yacute;zve.</div>",
+ "predpokladanaLehotaNaRozhodnutie": "<div>Bliž&scaron;ie &scaron;pecifikovan&eacute; vo v&yacute;zve.</div>",
+ "zmenaAZrusenieVyzvy": "<div>Bliž&scaron;ie &scaron;pecifikovan&eacute; vo v&yacute;zve.</div>",
+ "dovodVznikuVerzie": "<div>z d&ocirc;vodu aktualiz&aacute;cie č. 2 v&yacute;zvy (nav&yacute;&scaron;enie alok&aacute;cie EU zdroja a doplnenie in&eacute;ho &uacute;daje DNHS).</div>",
+ "doplnujuceInformacie": "<div>Alok&aacute;cia je z&aacute;roveň rozdelen&aacute; podľa samospr&aacute;vnych krajov:</div><div><img alt=\"\" src=\"data:image/png;base64,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\" style=\"height:195px; width:401px\" /></div>",
+ "dalsiaSkutocnost": [
+  {
+   "kod": "DS008PSK-MZ-002-2024-IUI-EFRR",
+   "dalsiaSkutocnost": "<div><b>Z&aacute;pis žiadateľa v&nbsp;registri partnerov verejn&eacute;ho sektora</b></div><div>&nbsp;</div><div>Žiadateľ mus&iacute; byť zap&iacute;san&yacute; v registri partnerov verejn&eacute;ho sektora.<br />&nbsp;<br />Nevzťahuje sa na pr&aacute;vnick&eacute; osoby, ktor&eacute; by ani po nadobudnut&iacute; &uacute;činnosti zmluvy o NFP neboli partnerom verejn&eacute;ho sektora podľa &sect; 2 z&aacute;kona o registri partnerov verejn&eacute;ho sektora.</div><div>&nbsp;</div><div><div style=\"color:rgb(11, 12, 12)\"><i>Čas overenia ďal&scaron;ej skutočnosti je&nbsp;bliž&scaron;ie &scaron;pecifikovan&yacute;&nbsp;vo v&yacute;zve.</i></div></div>"
+  },
+  {
+   "kod": "DS002PSK-MZ-002-2024-IUI-EFRR",
+   "dalsiaSkutocnost": "<div><b>Primeranosť a&nbsp;re&aacute;lnosť pl&aacute;novan&yacute;ch hodn&ocirc;t&nbsp;merateľn&yacute;ch ukazovateľov</b></div><div>&nbsp;</div><div style=\"text-align: justify;\">V&yacute;stupy, ktor&eacute; maj&uacute; byť dosiahnut&eacute; realiz&aacute;ciou aktiv&iacute;t projektu, musia byť kvantifikovan&eacute; prostredn&iacute;ctvom merateľn&yacute;ch ukazovateľov definovan&yacute;ch v pr&iacute;lohe č. 3 tejto v&yacute;zvy s&nbsp;n&aacute;zvom &bdquo;<b>Merateľn&eacute; ukazovatele projektu a&nbsp;in&eacute; &uacute;daje v znen&iacute; aktualiz&aacute;cie č. 2</b>&ldquo;. Navrhovan&eacute; merateľn&eacute; ukazovatele v žiadosti musia byť v s&uacute;lade s&nbsp;vyhl&aacute;senou v&yacute;zvou na predkladanie ŽoNFP.</div><div>&nbsp;</div><div><i>Čas overenia ďal&scaron;ej skutočnosti&nbsp;je bliž&scaron;ie &scaron;pecifikovan&yacute; vo v&yacute;zve.</i></div>"
+  },
+  {
+   "kod": "DS004PSK-MZ-002-2024-IUI-EFRR",
+   "dalsiaSkutocnost": "<div><div><div><div><b>S&uacute;lad s horizont&aacute;lnymi princ&iacute;pmi</b></div><div>&nbsp;</div><div><div>Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach [11], s prihliadnut&iacute;m na dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky.</div><div>&nbsp;</div><div><div>V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m [12].</div><div>&nbsp;</div><div>Gestor HP upozorňuje žiadateľa, že plnenie s&uacute;ladu projektu s HP m&ocirc;že byť predmetom finančnej kontroly v implement&aacute;cii projektu, ktorej pr&aacute;vny z&aacute;klad vych&aacute;dza z platnej a &uacute;činnej zmluvy o poskytnut&iacute; NFP.</div><div>&nbsp;</div><div><div style=\"color:rgb(11, 12, 12)\"><i>Čas plnenia/overenia ďal&scaron;ej skutočnosti je&nbsp;bliž&scaron;ie &scaron;pecifikovan&yacute;&nbsp;vo v&yacute;zve.</i></div></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div>[11]&nbsp;<a href=\"https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf\">https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf</a></div><div>[12]<a href=\"https://www.eurofondy.gov.sk/wp-content/uploads/2022/06/Nariadenie-2021-1060-CELEX_32021R1060_SK_TXT.pdf\">https://www.eurofondy.gov.sk/wp-content/uploads/2022/06/Nariadenie-2021-1060-CELEX_32021R1060_SK_TXT.pdf</a></div></div></div></div><div>&nbsp;</div></div></div></div></div>"
+  },
+  {
+   "kod": "DS001PSK-MZ-002-2024-IUI-EFRR",
+   "dalsiaSkutocnost": "<div><div><b>Minim&aacute;lne person&aacute;lne zabezpečenie v&scaron;eobecnej zdravotnej starostlivosti a&nbsp;soci&aacute;lnych služieb</b></div><div>&nbsp;</div><div><b>V&scaron;eobecn&aacute; ambulantn&aacute; zdravotn&aacute; starostlivosť</b> &ndash; minim&aacute;lne povinn&eacute; person&aacute;lne zabezpečenie v CIZS je:</div><div>a)&nbsp; 1 lek&aacute;r poskytuj&uacute;ci v&scaron;eobecn&uacute; ambulantn&uacute; starostlivosť pre dospel&yacute;ch v rozsahu ekvivalentu pln&eacute;ho pracovn&eacute;ho &uacute;v&auml;zku;</div><div>b)&nbsp; 1 lek&aacute;r poskytuj&uacute;ci v&scaron;eobecn&uacute; ambulantn&uacute; starostlivosť pre deti a dorast minim&aacute;lne v rozsahu ekvivalentu pln&eacute;ho pracovn&eacute;ho &uacute;v&auml;zku.</div><div>&nbsp;</div><div><u>Ak nebude naplnen&yacute; v&scaron;eobecn&yacute; lek&aacute;r pre ambulantn&uacute; starostlivosť pre deti a dorast na FTE 1</u>, m&ocirc;že byť doplnen&yacute;/nahraden&yacute;:</div><div>a)&nbsp; 1 lek&aacute;rom poskytuj&uacute;cim &scaron;pecializovan&uacute; ambulantn&uacute; starostlivosť v odbore gynekol&oacute;gia-p&ocirc;rodn&iacute;ctvo v rozsahu ekvivalentu pln&eacute;ho pracovn&eacute;ho &uacute;v&auml;zku;</div><div>b)&nbsp; 1 lek&aacute;rom poskytuj&uacute;cim &scaron;pecializovan&uacute; ambulantn&uacute; starostlivosť v odbore zubn&eacute; lek&aacute;rstvo v rozsahu ekvivalentu pln&eacute;ho pracovn&eacute;ho &uacute;v&auml;zku;</div><div>c)&nbsp; 1 lek&aacute;rom poskytuj&uacute;cim &scaron;pecializovan&uacute; ambulantn&uacute; starostlivosť v rozsahu ekvivalentu pln&eacute;ho pracovn&eacute;ho &uacute;v&auml;zku (v&yacute;ber lek&aacute;ra &scaron;pecialistu sa odv&iacute;ja od požiadaviek verejnej minim&aacute;lnej siete v danej oblasti CIZS).</div><div>&nbsp;</div><div><b>Soci&aacute;lne služby</b> - minim&aacute;lne person&aacute;lne zabezpečenie v CIZS je:</div><div>a)&nbsp; 1 pracovn&iacute;k poskytuj&uacute;ci z&aacute;kladn&eacute; soci&aacute;lne poradenstvo v rozsahu ekvivalentu pln&eacute;ho pracovn&eacute;ho &uacute;v&auml;zku.</div><div>&nbsp;</div><div><i>Čas overenia ďal&scaron;ej skutočnosti je bliž&scaron;ie &scaron;pecifikovan&yacute; vo v&yacute;zve.</i></div></div>"
+  },
+  {
+   "kod": "DS005PSK-MZ-002-2024-IUI-EFRR",
+   "dalsiaSkutocnost": "<div><b>Dĺžka realiz&aacute;cie projektu</b></div><div>&nbsp;</div><div><div><div><div>Maxim&aacute;lna dĺžka realiz&aacute;cie hlavnej aktivity projektu a opr&aacute;vnenosť v&yacute;davkov je stanoven&aacute; na <b>30 kalend&aacute;rnych mesiacov odo dňa &uacute;činnosti zmluvy o&nbsp;NFP</b>. Do tejto lehoty sa nezapoč&iacute;tava obdobie kolaudačn&eacute;ho konania.</div></div></div></div>"
+  },
+  {
+   "kod": "DS006PSK-MZ-002-2024-IUI-EFRR",
+   "dalsiaSkutocnost": "<div><b>Žiadateľ m&aacute; vysporiadan&eacute; majetkovo-pr&aacute;vne vzťahy a&nbsp;povolenia na realiz&aacute;ciu aktiv&iacute;t projektu</b></div><div>&nbsp;</div><div><div>Žiadateľ preukazuje majetkovo-pr&aacute;vne vzťahy k nehnuteľnostiam, ktor&eacute; s&uacute; predmetom projektu alebo na ktor&yacute;ch sa bude projekt realizovať. Pri preukazovan&iacute; splnenia tejto skutočnosti plat&iacute; nasledovn&eacute;:</div><ul><li>obec je vlastn&iacute;kom alebo dlhodob&yacute;m n&aacute;jomcom pozemkov (v pr&iacute;pade v&yacute;stavby novej infra&scaron;trukt&uacute;ry), pr&iacute;padne vlastn&iacute;kom alebo dlhodob&yacute;m n&aacute;jomcom existuj&uacute;cej infra&scaron;trukt&uacute;ry zdravotn&iacute;ckych zariaden&iacute; (v pr&iacute;pade moderniz&aacute;cie existuj&uacute;cej infra&scaron;trukt&uacute;ry) alebo existuj&uacute;cej infra&scaron;trukt&uacute;ry zdravotn&iacute;ckych zariaden&iacute;;</li><li>V&Uacute;C je vlastn&iacute;kom alebo dlhodob&yacute;m n&aacute;jomcom pozemkov (v pr&iacute;pade v&yacute;stavby novej infra&scaron;trukt&uacute;ry), pr&iacute;padne vlastn&iacute;kom alebo dlhodob&yacute;m n&aacute;jomcom existuj&uacute;cej infra&scaron;trukt&uacute;ry zdravotn&iacute;ckych zariaden&iacute; (v pr&iacute;pade moderniz&aacute;cie existuj&uacute;cej infra&scaron;trukt&uacute;ry) alebo existuj&uacute;cej infra&scaron;trukt&uacute;ry zdravotn&iacute;ckych zariaden&iacute;;</li><li>neziskov&aacute; organiz&aacute;cia je vlastn&iacute;kom alebo dlhodob&yacute;m n&aacute;jomcom pozemkov (v pr&iacute;pade v&yacute;stavby novej infra&scaron;trukt&uacute;ry), pr&iacute;padne vlastn&iacute;kom alebo dlhodob&yacute;m n&aacute;jomcom existuj&uacute;cej infra&scaron;trukt&uacute;ry zdravotn&iacute;ckych zariaden&iacute; (v pr&iacute;pade moderniz&aacute;cie existuj&uacute;cej infra&scaron;trukt&uacute;ry) alebo existuj&uacute;cej infra&scaron;trukt&uacute;ry zdravotn&iacute;ckych zariaden&iacute;.</li></ul><div>&nbsp;</div><b>T&uacute;to skutočnosť žiadateľ spĺňa počas realiz&aacute;cie projektu a z&aacute;roveň počas obdobia udržateľnosti projektu, t. j. minim&aacute;lne 5 rokov po ukončen&iacute; realiz&aacute;cie projektu (počas celej doby udržateľnosti projektu).</b></div>"
+  },
+  {
+   "kod": "DS007PSK-MZ-002-2024-IUI-EFRR",
+   "dalsiaSkutocnost": "<div><b>Podmienka nebyť podnikom v ťažkostiach</b></div><div>&nbsp;</div><div><div>Skutočnosť, že žiadateľ nesmie byť podnikom v&nbsp;ťažkostiach sa overuje dvojf&aacute;zovo:</div><div>a)&nbsp; v prvej f&aacute;ze na z&aacute;klade tzv. samooverenia zo strany žiadateľa pred uzavret&iacute;m zmluvy o poskytnut&iacute; NFP v pr&iacute;pade žiadateľov, ktor&iacute; disponuj&uacute; pr&aacute;voplatn&yacute;m rozhodnut&iacute;m o&nbsp;schv&aacute;len&iacute;, resp. im bola ŽoNFP schv&aacute;len&aacute; z&aacute;pisom v spise a</div><div>b)&nbsp; v druhej f&aacute;ze, ktor&aacute; bude nasledovať v lehot&aacute;ch a podľa pravidiel uveden&yacute;ch v zmluve o poskytnut&iacute; NFP, a to prostredn&iacute;ctvom riadneho overenia poskytovateľom sp&ocirc;sobom, ktor&yacute; si stanov&iacute; poskytovateľ.</div><div>&nbsp;</div>Ak je žiadateľ v&nbsp;r&aacute;mci projektu typu &bdquo;A&ldquo; s&nbsp;lok&aacute;lnym vplyvom podnikom, splnenie podmienky nebyť podnikom v&nbsp;ťažkostiach sa overuje predložen&yacute;m čestn&yacute;m vyhl&aacute;sen&iacute;m, že žiadateľ nie je podnikom v&nbsp;ťažkostiach.</div>"
+  },
+  {
+   "kod": "DS003PSK-MZ-002-2024-IUI-EFRR",
+   "dalsiaSkutocnost": "<div><b>Dodržiavanie z&aacute;sady &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; (DNSH)</b></div><div>&nbsp;</div><div><div>Žiadateľ pri tvorbe a realiz&aacute;cii projektu je povinn&yacute; zabezpečiť s&uacute;lad projektu so z&aacute;sadou &ldquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&rdquo;. Dodržanie z&aacute;sady DNSH sa v&nbsp;tejto v&yacute;zve vzťahuje na nasledovn&eacute; <b>investičn&eacute; potreby</b>:&nbsp;</div><ol><li>V&yacute;stavba/pr&iacute;stavba/nadstavba budov,</li><li>Rekon&scaron;trukcia/obnova budov,</li><li>Zdravotn&iacute;cka infra&scaron;trukt&uacute;ra - len vybran&eacute; opr&aacute;vnen&eacute; v&yacute;davky,&nbsp;n&aacute;kup vozidiel, n&aacute;kup IKT, spotrebn&eacute;ho materi&aacute;lu a&nbsp;tlačiarensk&yacute;ch služieb.</li></ol><div>Podmienky pre dodržanie z&aacute;sady DNSH s&uacute; upraven&eacute; v&nbsp;pr&iacute;lohe č. 6 v&yacute;zvy s n&aacute;zvom Podmienky pre zabezpečenie s&uacute;ladu projektu so z&aacute;sadou &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; v znen&iacute; aktualiz&aacute;cie č. 2. [10]</div><div><div>&nbsp;</div><div><i>Forma preuk&aacute;zania, sp&ocirc;sob overenia zo strany poskytovateľa a čas overenia ďal&scaron;ej skutočnosti s&uacute; bliž&scaron;ie &scaron;pecifikovan&eacute; vo v&yacute;zve v znen&iacute; aktualiz&aacute;cie č. 2.</i></div><div>&nbsp;</div><hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div>[10] Vybran&eacute; z&nbsp;metodick&eacute;ho dokumentu riadiaceho org&aacute;nu pre Program Slovensko 2021 &ndash; 2027 č. 7 s n&aacute;zvom &bdquo;Metodick&eacute; usmernenie k&nbsp;uplatňovaniu z&aacute;sady &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo;.</div></div></div></div>"
+  }
+ ],
+ "dalsiaFormalnaNalezitost": [],
+ "verzia": [
+  {
+   "id": 6169,
+   "cislo": 2,
+   "datumVykonaniaZmeny": 1737327600000,
+   "dovodVznikuVerzie": "<div>D&ocirc;vodom aktualiz&aacute;cie je zos&uacute;ladenie v&yacute;zvy, jej podmienok a&nbsp;pr&iacute;loh s&nbsp;aktu&aacute;lne platnou riadiacou dokument&aacute;ciou t&yacute;kaj&uacute;cou sa integrovan&yacute;ch &uacute;zemn&yacute;ch invest&iacute;ci&iacute;, uplatňovania horizont&aacute;lnych princ&iacute;pov, posudzovania z&aacute;sady &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; (DNSH), posudzovania podniku v&nbsp;ťažkostiach, tvorby merateľn&yacute;ch ukazovateľov a dimenzi&iacute; intervenci&iacute;, ako aj z&nbsp;d&ocirc;vodu novely z&aacute;kona č. 121/2022 Z. z. o pr&iacute;spevkoch z fondov E&Uacute;.</div>"
+  },
+  {
+   "id": 6992,
+   "cislo": 3,
+   "datumVykonaniaZmeny": 1768172400000,
+   "dovodVznikuVerzie": "<div>z d&ocirc;vodu aktualiz&aacute;cie č. 2 v&yacute;zvy (nav&yacute;&scaron;enie alok&aacute;cie EU zdroja a doplnenie in&eacute;ho &uacute;daje DNHS).</div>"
+  },
+  {
+   "id": 5522,
+   "cislo": 1,
+   "dovodVznikuVerzie": "<div>Technick&aacute; zmena t&yacute;kaj&uacute;ca sa zmeny&nbsp;osobitn&eacute;ho procesu konania o ŽoNFP.</div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [
+  {
+   "id": 313,
+   "specifickyCielProgramu": {
+    "id": 31,
+    "href": "/specifickycielprogramu/id/31",
+    "kod": "401405R405",
+    "nazovSk": "RSO4.5 Zabezpečenia rovného prístupu k zdravotnej starostlivosti a zvýšenie odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 11,
+     "href": "/priorita/id/11",
+     "kod": "401405",
+     "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867955
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869635
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1295,
+    "href": "/ukazovatelprojektovy/id/1295",
+    "kod": "PSKPRCR73",
+    "nazovSk": "Používatelia nových alebo modernizovaných zariadení zdravotnej starostlivosti za rok",
+    "mernaJednotka": {
+     "id": 200093,
+     "kod": "105394",
+     "nazovSk": "používatelia / rok",
+     "popisSk": "používatelia / rok",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div>Počet pacientov, ktor&yacute;ch obsl&uacute;ži nov&eacute; alebo modernizovan&eacute; zdravotn&iacute;cke zariadenie/RCIS/CIZS (ďalej aj ako &bdquo;zariadenie&ldquo;) v priebehu roka po ukončen&iacute; intervencie. Ak jednotlivec použije zariadenie viackr&aacute;t, bude započ&iacute;tan&yacute; viac než raz.</div><div>&nbsp;</div><div>Pl&aacute;novan&aacute; cieľov&aacute; hodnota PR052/PSKPRCR73 je na začiatku projektu nastaven&aacute; na &uacute;roveň PO076 (PSKPRCO69) (teda PO076 resp. PSKPRCO69 = PR052 resp. PSKPRCR73).</div><div>&nbsp;</div><div><b><u>Sp&ocirc;sob v&yacute;počtu po realiz&aacute;cii projektu (po naplnen&iacute; prev&aacute;dzky zdravotn&iacute;ckeho zariadenie/RCIS/CIZ</u></b><b><u>S). &nbsp;</u></b></div><div>Prij&iacute;mateľ si vyberie jeden z nasledovn&yacute;ch sp&ocirc;sobov v&yacute;počtu ukazovateľa PR052/PSKPRCR73:</div>1. <b>Počet n&aacute;v&scaron;tev/o&scaron;etren&iacute; v&nbsp;</b><b>zdravotn&iacute;ckom zariaden&iacute;/RCIS/CIZS </b>&ndash; prostredn&iacute;ctvom registračnej karty pre pacientov/klientov zdravotn&iacute;ckeho zariadenia/RCIS/CIZS na z&aacute;klade ktorej d&ocirc;jde pri každej n&aacute;v&scaron;teve zdravotn&iacute;ckeho zariadenia/RCIS/CIZS k identifik&aacute;cii n&aacute;v&scaron;tevn&iacute;ka (tu stač&iacute; napoč&iacute;tavanie počtu n&aacute;v&scaron;tev bez&nbsp;<div>evidencie osobn&yacute;ch &uacute;dajov a jednotlivec bude napoč&iacute;tan&yacute; toľkokr&aacute;t, koľkokr&aacute;t nav&scaron;t&iacute;vil zdravotn&iacute;cke zariadenie/RCIS/CIZS). Je použ&iacute;van&aacute; č&iacute;tačka t&yacute;chto kariet, ktor&aacute; bude bez zberu &uacute;dajov napoč&iacute;tavať len počet n&aacute;v&scaron;tev v zariaden&iacute; na mesačnej b&aacute;ze.</div><div>2. <b>Hl&aacute;senie ambulanci&iacute; prev&aacute;dzkovateľovi zdravotn&iacute;ckeho zariadenia/RCIS/CIZS o počte n&aacute;v&scaron;tev/o&scaron;etren&iacute; pacientov </b>k posledn&eacute;mu dňu každ&eacute;ho kalend&aacute;rneho mesiaca v danej ambulancii. T&yacute;mto sp&ocirc;sobom sa vyč&iacute;sli, koľko použ&iacute;vateľov využilo služby zdravotn&iacute;ckeho zariadenia/RCIS/CIZS v danej ambulancii. Z&aacute;roveň je potrebn&eacute; hodnotu PR052/PSKPRCR73 vypoč&iacute;tať ako s&uacute;čet počtu o&scaron;etren&yacute;ch pacientov zo v&scaron;etk&yacute;ch hl&aacute;sen&iacute;/v&scaron;etk&yacute;ch ambulancii v danom zdravotn&iacute;ckom zariaden&iacute;/RCIS/CIZS. &nbsp;</div>3. <b>Počet n&aacute;v&scaron;tev/o&scaron;etren&iacute; z&iacute;skan&yacute; prieskumom kedykoľvek v priebehu roka </b>(za podmienky uskutočnenia minim&aacute;lne troch prieskumov v sledovanom roku v minim&aacute;lnom trvan&iacute; 5 pracovn&yacute;ch dn&iacute; na každ&eacute; sledovanie). Z tohto prieskumu z&iacute;skame &uacute;daj o počte n&aacute;v&scaron;tev/o&scaron;etren&iacute; za každ&yacute; deň z t&yacute;chto minim&aacute;lne 15 dn&iacute;. S&uacute;činom aritmetick&eacute;ho priemeru t&yacute;chto hodn&ocirc;t a počtom pracovn&yacute;ch dn&iacute; sledovan&eacute;ho kalend&aacute;rneho roku z&iacute;ska prij&iacute;mateľ hodnotu ukazovateľa PR052/PSKPRCR73.&nbsp;</div></div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Intern&eacute; z&aacute;znamy prij&iacute;mateľa o&nbsp;počte pacientov.</div><div>2.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>V&yacute;chodiskov&aacute; hodnota:</div><div>V&nbsp;pr&iacute;pade v&yacute;stavby nov&yacute;ch zariaden&iacute; je v&yacute;chodiskov&aacute; hodnota ukazovateľa 0.&nbsp;</div><div>V&nbsp;pr&iacute;pade modernizovan&yacute;ch zariaden&iacute; sa v&yacute;chodiskov&aacute; hodnota ukazovateľa stanov&iacute; ako počet registrovan&yacute;ch pacientov, ktor&yacute;ch zdravotn&iacute;cke zariadenie obsl&uacute;žilo aspoň raz v priebehu roka pred začiatkom intervencie.</div><div><div><b>Povinnosť plnenia:</b>&nbsp;&aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Intern&eacute; z&aacute;znamy prij&iacute;mateľa o&nbsp;počte pacientov.</div><div>3.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Čas plnenia: rok od d&aacute;tumu, ku ktor&eacute;mu sa začali poskytovať zdravotn&iacute;cke služby v&nbsp;podporovanom zdravotn&iacute;ckom zariaden&iacute;.</div><div><b>Povinnosť plnenia:</b>&nbsp;&aacute;no</div></div></div></div><div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div></div><div>Ordinačn&eacute; hodiny schv&aacute;len&eacute; V&Uacute;C v&nbsp;s&uacute;lade so Z&aacute;konom o&nbsp;zdravotnej starostlivosti č. 576/ 2024 Z.z., ktor&eacute; sa daj&uacute; overiť cez port&aacute;l e-VUC.</div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1675344211312,
+    "updatedAt": 1725893660424
+   }
+  }
+ ],
+ "ukazovatelVystupovy": [
+  {
+   "id": 449,
+   "specifickyCielProgramu": {
+    "id": 31,
+    "href": "/specifickycielprogramu/id/31",
+    "kod": "401405R405",
+    "nazovSk": "RSO4.5 Zabezpečenia rovného prístupu k zdravotnej starostlivosti a zvýšenie odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 11,
+     "href": "/priorita/id/11",
+     "kod": "401405",
+     "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867955
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869635
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1293,
+    "href": "/ukazovatelprojektovy/id/1293",
+    "kod": "PSKPRCO69",
+    "nazovSk": "Kapacita nových alebo modernizovaných zariadení zdravotnej starostlivosti",
+    "mernaJednotka": {
+     "id": 200089,
+     "kod": "105390",
+     "nazovSk": "osoby / rok",
+     "popisSk": "osoby / rok",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Maxim&aacute;lny počet os&ocirc;b, ktor&eacute; m&ocirc;že nov&eacute; alebo modernizovan&eacute; zdravotn&iacute;cke zariadenie/RCIS/CIZS obsl&uacute;žiť najmenej raz za obdobie jedn&eacute;ho roka.</div><div><div>Moderniz&aacute;cia nezahŕňa energetick&uacute; obnovu ani &uacute;držbu alebo opravy</div></div><div><b><u>Sp&ocirc;sob v&yacute;počtu </u></b></div><div>Kapacita každej&nbsp; ambulancie X1 až Xn sa vypoč&iacute;ta nasledovne:</div><div>X1 = &uacute;v&auml;zok lek&aacute;ra danej ambulancie x počet o&scaron;etren&yacute;ch pacientov denne (6) x počet pracovn&yacute;ch dn&iacute; v&nbsp;kalend&aacute;rnom roku ukončenia realiz&aacute;cie projektu (po naplnen&iacute; prev&aacute;dzky zdravotn&iacute;ckeho zariadenia/RCIS/CIZS).&nbsp;</div><div>N&aacute;sledne sa PSKPRCO69 vypoč&iacute;ta ako s&uacute;čet kapac&iacute;t jednotliv&yacute;ch ambulanci&iacute; v&nbsp;zdravotn&iacute;ckom zariaden&iacute;/RCIS/CIZS: <b>PSKPRCO69 = X1+X2+...Xn.</b></div></div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Kolaudačn&eacute; rozhodnutie, preberac&iacute; protokol, rozhodnutie o predčasnom už&iacute;van&iacute; stavby, projektov&aacute; dokument&aacute;cia, dokumenty bliž&scaron;ie &scaron;pecifikovan&eacute; vo v&yacute;zve (ak relevantn&eacute;).</div>Intern&eacute; z&aacute;znamy prij&iacute;mateľa o&nbsp;rozsahu &uacute;v&auml;zkov jednotliv&yacute;ch lek&aacute;rov v&nbsp;zdravotn&iacute;ckom zariaden&iacute;/ RCIS/CIZS a&nbsp;sp&ocirc;sobe v&yacute;počtu<b>.</b></div><div>&nbsp;</div><div>&nbsp;</div></div><div><div style=\"clear:both\">&nbsp;</div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1675343988420,
+    "updatedAt": 1725893869023
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 520,
+   "href": "/typakcieprogramu/id/520",
+   "kod": "401405R40500071",
+   "nazovSk": "Doplnenie siete centier integrovanej zdravotnej starostlivosti s cieľom transformácie poskytovania zdravotnej starostlivosti na komunitnej úrovni a poskytovania dostupnej zdravotnej starostlivosti",
+   "specifickyCielProgramu": {
+    "id": 31,
+    "href": "/specifickycielprogramu/id/31",
+    "kod": "401405R405",
+    "nazovSk": "RSO4.5 Zabezpečenia rovného prístupu k zdravotnej starostlivosti a zvýšenie odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 11,
+     "href": "/priorita/id/11",
+     "kod": "401405",
+     "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867955
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869635
+   },
+   "opatrenie": {
+    "id": 153,
+    "href": "/opatrenie/id/153",
+    "kod": "401405R40500",
+    "nazovSk": "401405R40500",
+    "specifickyCielProgramu": {
+     "id": 31,
+     "href": "/specifickycielprogramu/id/31",
+     "kod": "401405R405",
+     "nazovSk": "RSO4.5 Zabezpečenia rovného prístupu k zdravotnej starostlivosti a zvýšenie odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 11,
+      "href": "/priorita/id/11",
+      "kod": "401405",
+      "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867955
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869635
+    },
+    "createdAt": 1772540869648
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516230680,
+   "updatedAt": 1772541490821
+  },
+  {
+   "id": 1239,
+   "href": "/typakcieprogramu/id/1239",
+   "kod": "401405R405000P1",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 31,
+    "href": "/specifickycielprogramu/id/31",
+    "kod": "401405R405",
+    "nazovSk": "RSO4.5 Zabezpečenia rovného prístupu k zdravotnej starostlivosti a zvýšenie odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 11,
+     "href": "/priorita/id/11",
+     "kod": "401405",
+     "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867955
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869635
+   },
+   "opatrenie": {
+    "id": 153,
+    "href": "/opatrenie/id/153",
+    "kod": "401405R40500",
+    "nazovSk": "401405R40500",
+    "specifickyCielProgramu": {
+     "id": 31,
+     "href": "/specifickycielprogramu/id/31",
+     "kod": "401405R405",
+     "nazovSk": "RSO4.5 Zabezpečenia rovného prístupu k zdravotnej starostlivosti a zvýšenie odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 11,
+      "href": "/priorita/id/11",
+      "kod": "401405",
+      "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867955
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869635
+    },
+    "createdAt": 1772540869648
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717861474764,
+   "updatedAt": 1772541490821
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 31,
+    "href": "/specifickycielprogramu/id/31",
+    "kod": "401405R405",
+    "nazovSk": "RSO4.5 Zabezpečenia rovného prístupu k zdravotnej starostlivosti a zvýšenie odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 11,
+     "href": "/priorita/id/11",
+     "kod": "401405",
+     "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867955
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869635
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200137,
+    "kod": "10364PO128",
+    "kodZdroj": "128",
+    "nazovSk": "Zdravotnícka infraštruktúra",
+    "nazovEn": "Zdravotnícka infraštruktúra",
+    "nazovDe": "Einrichtungen des Gesundheitswesens",
+    "popisSk": "Zdravotnícka infraštruktúra",
+    "popisDe": "Einrichtungen des Gesundheitswesens",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 31,
+    "href": "/specifickycielprogramu/id/31",
+    "kod": "401405R405",
+    "nazovSk": "RSO4.5 Zabezpečenia rovného prístupu k zdravotnej starostlivosti a zvýšenie odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 11,
+     "href": "/priorita/id/11",
+     "kod": "401405",
+     "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867955
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869635
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 31,
+    "href": "/specifickycielprogramu/id/31",
+    "kod": "401405R405",
+    "nazovSk": "RSO4.5 Zabezpečenia rovného prístupu k zdravotnej starostlivosti a zvýšenie odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 11,
+     "href": "/priorita/id/11",
+     "kod": "401405",
+     "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867955
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869635
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200007,
+    "kod": "10344PO08",
+    "kodZdroj": "08",
+    "nazovSk": "Integrované územné investície - Iné typy cieľových území",
+    "nazovEn": "Integrované územné investície - Iné typy cieľových území",
+    "nazovDe": "Sonstige territoriale Ausrichtung",
+    "popisSk": "Integrované územné investície - Iné typy cieľových území",
+    "popisDe": "Sonstige territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 31,
+    "href": "/specifickycielprogramu/id/31",
+    "kod": "401405R405",
+    "nazovSk": "RSO4.5 Zabezpečenia rovného prístupu k zdravotnej starostlivosti a zvýšenie odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 11,
+     "href": "/priorita/id/11",
+     "kod": "401405",
+     "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867955
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869635
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200022,
+    "kod": "10384PO22",
+    "kodZdroj": "22",
+    "nazovSk": "Zdravotnícke činnosti",
+    "nazovEn": "Zdravotnícke činnosti",
+    "nazovDe": "Gesundheitswesen",
+    "popisSk": "Zdravotnícke činnosti",
+    "popisDe": "Gesundheitswesen",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 31,
+    "href": "/specifickycielprogramu/id/31",
+    "kod": "401405R405",
+    "nazovSk": "RSO4.5 Zabezpečenia rovného prístupu k zdravotnej starostlivosti a zvýšenie odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 11,
+     "href": "/priorita/id/11",
+     "kod": "401405",
+     "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867955
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869635
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 31,
+    "href": "/specifickycielprogramu/id/31",
+    "kod": "401405R405",
+    "nazovSk": "RSO4.5 Zabezpečenia rovného prístupu k zdravotnej starostlivosti a zvýšenie odolnosti systémov zdravotnej starostlivosti vrátane primárnej starostlivosti, a podpory prechodu z inštitucionálnej starostlivosti na rodinnú a komunitnú starostlivosť (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 11,
+     "href": "/priorita/id/11",
+     "kod": "401405",
+     "nazovSk": "4P5 Aktívne začlenenie a dostupné služby",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867955
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869635
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200010,
+    "kod": "12094PO11",
+    "kodZdroj": "11",
+    "nazovSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovEn": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "popisSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "popisDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 1,
+   "kod": "1033MRR",
+   "kodZdroj": "MRR",
+   "nazovSk": "Menej rozvinutý región",
+   "nazovEn": "less-developed regions",
+   "popisSk": "Menej rozvinutý región",
+   "popisEn": "less-developed regions",
+   "platnostOd": 725842800000
+  },
+  {
+   "id": 2,
+   "kod": "1033VRR",
+   "kodZdroj": "VRR",
+   "nazovSk": "Viac rozvinutý región",
+   "nazovEn": "more-developed regions",
+   "popisSk": "Viac rozvinutý región",
+   "popisEn": "more-developed regions",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [
+  {
+   "kod": "SP-S-2024/000066",
+   "nazov": "SA.115798 Schéma štátnej pomoci na podporu miestnej infraštruktúry s cieľom integrácie služieb ambulantnej zdravotnej starostlivosti na komunitnej úrovni (skupinová výnimka) v znení dodatku č. 1",
+   "typ": "SCHEMA_STATNEJ_POMOCI",
+   "platnostOd": 1724709600000,
+   "platnostDo": 1814306400000
+  }
+ ],
+ "aktualitaNaVyzve": [
+  {
+   "datumZverejnenia": 1737327600000,
+   "nazov": "Zverejnenie verzie výzvy",
+   "text": "<div>D&ocirc;vodom aktualiz&aacute;cie je zos&uacute;ladenie v&yacute;zvy, jej podmienok a&nbsp;pr&iacute;loh s&nbsp;aktu&aacute;lne platnou riadiacou dokument&aacute;ciou t&yacute;kaj&uacute;cou sa integrovan&yacute;ch &uacute;zemn&yacute;ch invest&iacute;ci&iacute;, uplatňovania horizont&aacute;lnych princ&iacute;pov, posudzovania z&aacute;sady &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; (DNSH), posudzovania podniku v&nbsp;ťažkostiach, tvorby merateľn&yacute;ch ukazovateľov a dimenzi&iacute; intervenci&iacute;, ako aj z&nbsp;d&ocirc;vodu novely z&aacute;kona č. 121/2022 Z. z. o pr&iacute;spevkoch z fondov E&Uacute;.</div>",
+   "dokument": []
+  },
+  {
+   "datumZverejnenia": 1768172400000,
+   "nazov": "Zverejnenie verzie výzvy",
+   "text": "<div>z d&ocirc;vodu aktualiz&aacute;cie č. 2 v&yacute;zvy (nav&yacute;&scaron;enie alok&aacute;cie EU zdroja a doplnenie in&eacute;ho &uacute;daje DNHS).</div>",
+   "dokument": []
+  }
+ ],
+ "projektovyZamerIUS": [
+  {
+   "id": 59,
+   "kod": "ZSK040",
+   "nazov": "Centrum integrovanej zdravotnej starostlivosti Turčianske Teplice - stavebné úpravy, debarierizácia a zníženie energetickej náročnosti objektu",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 1,
+    "kod": "IUSZSK",
+    "nazov": "Integrovaná územná stratégia Žilinského kraja",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 73,
+   "kod": "ZSK027",
+   "nazov": "CIZS Rabča",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 1,
+    "kod": "IUSZSK",
+    "nazov": "Integrovaná územná stratégia Žilinského kraja",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 166,
+   "kod": "BBK021",
+   "nazov": "Centrum integrovanej zdravotnej starostlivosti obce Halič",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 8,
+    "kod": "IUSBBSK",
+    "nazov": "Integrovaná územná stratégia Banskobystrického  samosprávneho kraja na roky 2022 – 2027",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 497,
+   "kod": "TNK057",
+   "nazov": "Centrum integrovanej zdravotnej starostlivosti v obci Chrenovec-Brusno",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 5,
+    "kod": "IUSTSK",
+    "nazov": "Integrovaná územná stratégia Trenčianskeho samosprávneho kraja pre programové obdobie 2021-2027",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 634,
+   "kod": "NSK058",
+   "nazov": "Zdravotné centrum v Pribete",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 6,
+    "kod": "IUSNSK",
+    "nazov": "Integrovaná územná stratégia Nitrianskeho samosprávneho kraja na roky 2021 - 2027",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 643,
+   "kod": "NSK057",
+   "nazov": "Vytvorenie Centra integrovanej zdravotnej starostlivosti v meste Topoľčany",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 6,
+    "kod": "IUSNSK",
+    "nazov": "Integrovaná územná stratégia Nitrianskeho samosprávneho kraja na roky 2021 - 2027",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 886,
+   "kod": "KSK147",
+   "nazov": "Centrum zdravia obce Čečejovce",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 4,
+    "kod": "IUSKSK",
+    "nazov": "Integrovaná územná stratégia Košického kraja 2022 – 2030",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 889,
+   "kod": "KSK148",
+   "nazov": "Centrum zdravia obce Budimír",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 4,
+    "kod": "IUSKSK",
+    "nazov": "Integrovaná územná stratégia Košického kraja 2022 – 2030",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 980,
+   "kod": "TNK118",
+   "nazov": "VÝSTAVBA INTEGROVANÉHO CENTRA ZDRAVOTNÍCKYCH SLUŽIEB, BÁNOVCE NAD BEBRAVOU",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 5,
+    "kod": "IUSTSK",
+    "nazov": "Integrovaná územná stratégia Trenčianskeho samosprávneho kraja pre programové obdobie 2021-2027",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 994,
+   "kod": "PSK082",
+   "nazov": "Centrum integrovanej zdravotnej starostlivosti v obci Raslavice",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 3,
+    "kod": "IUSPSK",
+    "nazov": "Integrovaná územná stratégia Prešovského samosprávneho kraja na roky 2021 – 2027",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 1278,
+   "kod": "PSK129",
+   "nazov": "Výstavba CIZS vo Veľkej Lomnici",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 3,
+    "kod": "IUSPSK",
+    "nazov": "Integrovaná územná stratégia Prešovského samosprávneho kraja na roky 2021 – 2027",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 1477,
+   "kod": "TTK061",
+   "nazov": "Výstavba zdravotného strediska",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 2,
+    "kod": "IUSTTSK",
+    "nazov": "Integrovaná územná stratégia Trnavského samosprávneho kraja v programovom období 2021-2027",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 1479,
+   "kod": "TTK069",
+   "nazov": "Centrum integrovanej zdravotnej starostlivosti v obci Trhová Hradská",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 2,
+    "kod": "IUSTTSK",
+    "nazov": "Integrovaná územná stratégia Trnavského samosprávneho kraja v programovom období 2021-2027",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 1505,
+   "kod": "PSK163",
+   "nazov": "Centrum integrovanej zdravotnej starostlivosti Lemešany",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 3,
+    "kod": "IUSPSK",
+    "nazov": "Integrovaná územná stratégia Prešovského samosprávneho kraja na roky 2021 – 2027",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 1534,
+   "kod": "BBK202",
+   "nazov": "Centrum integrovanej zdravotnej starostlivosti v obci Divín (ID 4510)",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 8,
+    "kod": "IUSBBSK",
+    "nazov": "Integrovaná územná stratégia Banskobystrického  samosprávneho kraja na roky 2022 – 2027",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 1535,
+   "kod": "BBK205",
+   "nazov": "Centrum integrovanej zdravotnej starostlivosti v Kremnici (ID 4494)",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 8,
+    "kod": "IUSBBSK",
+    "nazov": "Integrovaná územná stratégia Banskobystrického  samosprávneho kraja na roky 2022 – 2027",
+    "stav": "SCHVALENA"
+   }
+  },
+  {
+   "id": 1610,
+   "kod": "PSK181",
+   "nazov": "Výstavba nového centra integrovanej zdravotnej starostlivosti",
+   "stav": "SCHVALENY",
+   "strategiaIUS": {
+    "id": 3,
+    "kod": "IUSPSK",
+    "nazov": "Integrovaná územná stratégia Prešovského samosprávneho kraja na roky 2021 – 2027",
+    "stav": "SCHVALENA"
+   }
+  }
+ ]
+}

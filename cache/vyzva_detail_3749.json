@@ -1,0 +1,2928 @@
+{
+ "id": 3749,
+ "href": "/vyzva/id/3749",
+ "kod": "PSK-MIRRI-636-2025-NP-EFRR",
+ "nazovSk": "Kybernetická bezpečnosť v samospráve do 6 000 obyvateľov",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 53,
+   "href": "/specifickycielprogramu/id/53",
+   "kod": "401101R102",
+   "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 1,
+    "href": "/priorita/id/1",
+    "kod": "401101",
+    "nazovSk": "1P1 Veda, výskum a inovácie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867949
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868608
+  }
+ ],
+ "opatrenie": [
+  {
+   "id": 92,
+   "href": "/opatrenie/id/92",
+   "kod": "401101R10201",
+   "nazovSk": "Podpora v oblasti informatizácie a digitálnej transformácie",
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "createdAt": 1772540868622
+  }
+ ],
+ "miestoRealizacie": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 42,
+   "kod": "1009321",
+   "kodZdroj": "321",
+   "nazovSk": "Rozpočtová organizácia",
+   "nazovEn": "Budgetary organization",
+   "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+   "popisEn": "Budgetary organization Budgetary organization",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1768258800000,
+ "datumUkoncenia": 1776031200000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "UZAVRETA",
+ "zameranieProjektu": "NP_21",
+ "createdAt": 1768211673860,
+ "updatedAt": 1768211673895,
+ "sumaEu": 10036842.1,
+ "predvyber": false,
+ "posudzovaneObdobie": [],
+ "pocetPredlozenychZiadosti": 1,
+ "pocetSchvalenychZiadosti": 0,
+ "pocetZiadostiVKonani": 1,
+ "pocetNeschvalenychZiadosti": 0,
+ "pocetRealizovanychProjektov": 0,
+ "planovanaVyzva": [],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 6,
+   "kod": "1032EFRR",
+   "kodZdroj": "EFRR",
+   "nazovSk": "Európsky fond regionálneho rozvoja",
+   "nazovEn": "European Regional Development Fund",
+   "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+   "popisSk": "Európsky fond regionálneho rozvoja",
+   "popisEn": "European Regional Development Fund",
+   "popisDe": "Europäischen Fonds für regionale Entwicklung",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "cielVyzvy": "<div><div style=\"text-align: justify;\"><b>Z&aacute;kladn&yacute;m cieľom V&yacute;zvy </b>ktor&aacute; je vypracovan&aacute; podľa &sect; 14 z&aacute;kona č. 121/2022 Z. z. o pr&iacute;spevkoch z fondov Eur&oacute;pskej &uacute;nie a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov (ďalej ako &bdquo;z&aacute;kon o pr&iacute;spevkoch z fondov&ldquo;) je prostredn&iacute;ctvom nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku (ďalej ako &bdquo;NFP&ldquo;) podporiť n&aacute;rodn&yacute; projekt &bdquo;<a name=\"_Hlk213659595\"><b>Kybernetick&aacute; bezpečnosť v samospr&aacute;ve do 6 000 obyvateľov</b></a>&ldquo;<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><b><b>[1]</b></b></a><b>.</b> Hlavn&yacute;m cieľom projektu je zv&yacute;&scaron;ene a&nbsp;zlep&scaron;enie &uacute;rovne kybernetickej a&nbsp;informačnej bezpečnosti v&nbsp;<b>prostred&iacute; samospr&aacute;vy do 6&nbsp;000 obyvateľov</b>. Tento cieľ sa pl&aacute;nuje zrealizovať pomocou dan&yacute;ch rie&scaron;en&iacute;:</div><ul><li style=\"text-align: justify;\">zaveden&iacute;m funkčn&yacute;ch procesov riadenia riz&iacute;k kybernetickej bezpečnosti,</li><li style=\"text-align: justify;\">vypracovan&iacute;m dlhodobej bezpečnostnej strat&eacute;gie, ktor&aacute; bude zahŕňať ciele, priority a konkr&eacute;tne opatrenia na zlep&scaron;enie bezpečnosti,</li><li style=\"text-align: justify;\">zasaden&iacute;m pokročil&yacute;ch bezpečnostn&yacute;ch technol&oacute;gi&iacute;, ako s&uacute; EDR (Endpoint Detection and Response), firewall, NAS,</li><li style=\"text-align: justify;\">organiz&aacute;ciou pravideln&yacute;ch &scaron;kolen&iacute; pre zamestnancov obecn&yacute;ch &uacute;radov na zv&yacute;&scaron;enie ich povedomia a znalost&iacute; v oblasti kybernetickej bezpečnosti,</li><li style=\"text-align: justify;\">vytvoren&iacute;m vzdel&aacute;vac&iacute;ch materi&aacute;lov a online kurzov, ktor&eacute; bud&uacute; dostupn&eacute; pre v&scaron;etk&yacute;ch zamestnancov,</li><li>zaveden&iacute;m syst&eacute;mov na neust&aacute;le monitorovanie bezpečnostn&yacute;ch incidentov a&nbsp;hrozieb,</li><li>vytvoren&iacute;m a implement&aacute;ciou pl&aacute;nov reakcie na bezpečnostn&eacute; incidenty, vr&aacute;tane postupov na r&yacute;chlu obnovu syst&eacute;mov a&nbsp;d&aacute;t,</li><li style=\"text-align: justify;\">zabezpečen&iacute;m efekt&iacute;vnej komunik&aacute;cie medzi obcami, centr&aacute;lnymi org&aacute;nmi a extern&yacute;mi partnermi,</li><li style=\"text-align: justify;\">pravidelnou aktualiz&aacute;ciou bezpečnostn&yacute;ch opatren&iacute; a polit&iacute;k na z&aacute;klade z&iacute;skan&yacute;ch poznatkov a&nbsp;sk&uacute;senost&iacute;.</li></ul><div style=\"text-align: justify;\">Aktivity podporovan&eacute; touto V&yacute;zvou s&uacute; s&uacute;časťou projektu realizovan&eacute;ho aj na &uacute;zem&iacute; viac rozvinut&eacute;ho regi&oacute;nu aj menej rozvinut&eacute;ho regi&oacute;nu.</div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div style=\"text-align: justify;\"><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> <b>Z&aacute;mer n&aacute;rodn&eacute;ho projektu</b> &bdquo;<b>Kybernetick&aacute; bezpečnosť v samospr&aacute;ve do 6 000 obyvateľov&ldquo; </b>bol schv&aacute;len&yacute; na 17. Zasadnut&iacute; Komisie pri monitorovacom v&yacute;bore pre Program Slovensko 2021 &ndash; 2027 pre cieľ 1 (Konkurencieschopnej&scaron;ia a inteligentnej&scaron;ia Eur&oacute;pa) politiky s&uacute;držnosti E&Uacute; d&aacute;tum konania: 14.10.2025 <a href=\"https://eurofondy.gov.sk/program-slovensko/monitorovaci-vybor/schvalene-zamery/\">https://eurofondy.gov.sk/program-slovensko/monitorovaci-vybor/schvalene-zamery/</a>.</div></div></div></div>",
+ "sposobFinancovania": [
+  "ZALOHA",
+  "PREDFINANCOVANIE",
+  "REFUNDACIA"
+ ],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktNazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky Sekcia implementácie projektov informatizácie Pribinova 25 811 09 Bratislava.",
+ "kontaktEmail": "informatizacia.psk@mirri.gov.sk",
+ "kontaktTelefon": "00421/2/2092 8190",
+ "kontaktneUdajePoskytovatela": "<div><div style=\"text-align: justify;\">Inform&aacute;cie t&yacute;kaj&uacute;ce sa tejto V&yacute;zvy je možn&eacute; z&iacute;skať prostredn&iacute;ctvom <a href=\"https://portal.itms21.sk/\">ITMS21+ Verejn&aacute; časť</a> a webov&eacute;ho s&iacute;dla <a href=\"http://www.eurofondy.gov.sk/\">www.eurofondy.gov.sk</a>, na ktorom s&uacute; zverejňovan&eacute; aj inform&aacute;cie k v&yacute;zvam a často kladen&yacute;m ot&aacute;zkam (FAQ).</div><div style=\"text-align: justify;\">V pr&iacute;pade, ak žiadateľ nen&aacute;jde odpoveď na svoje ot&aacute;zky s&uacute;visiace s pr&iacute;pravou ŽoNFP vo V&yacute;zve, v dokumentoch, na ktor&eacute; sa V&yacute;zva odvol&aacute;va, alebo vo zverejnen&yacute;ch FAQ (ak relevantn&eacute;), m&aacute; možnosť obr&aacute;tiť sa priamo na poskytovateľa, a to:</div><div>a) <b>telefonicky na č&iacute;sle</b>:&nbsp; 00421/2/2092 8190,</div><div style=\"text-align: justify;\">b) <b>p&iacute;somne na e-mailovej adrese</b> <a href=\"mailto:informatizacia.psk@mirri.gov.sk\">informatizacia.psk@mirri.gov.sk</a> alebo <b>prostredn&iacute;ctvom elektronickej schr&aacute;nky</b>.</div><div>&nbsp;</div><div style=\"text-align: justify;\">Odpovede na ot&aacute;zky zaslan&eacute; p&iacute;somne alebo zverejnen&eacute; v r&aacute;mci FAQ s&uacute; z&aacute;v&auml;zn&eacute; a je možn&eacute; sa na ne odvol&aacute;vať. Odpovede na ot&aacute;zky poskytnut&eacute; telefonicky alebo &uacute;stnou formou pokiaľ neboli spracovan&eacute; poskytovateľom do p&iacute;somnej podoby, nemožno považovať za z&aacute;v&auml;zn&eacute; a nie je možn&eacute; sa na ne v ďal&scaron;om procese odvol&aacute;vať.</div><div>&nbsp;</div><div style=\"text-align: justify;\"><b>Odpor&uacute;čame žiadateľom</b> priebežne sledovať webov&eacute; s&iacute;dlo <a href=\"https://portal.itms21.sk/\">https://portal.itms21.sk/</a> a <a href=\"http://www.eurofondy.gov.sk/\">www.eurofondy.gov.sk</a>, kde bud&uacute; zverejňovan&eacute; v&scaron;etky aktu&aacute;lne inform&aacute;cie s&uacute;visiace s V&yacute;zvou, vr&aacute;tane pr&iacute;padn&yacute;ch zmien a usmernen&iacute; k V&yacute;zve.</div></div>",
+ "kontaktnaOsoba": [],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "Oprávnenosť žiadateľa",
+   "popisSk": "<div><div style=\"margin-left:2.85pt\">V r&aacute;mci tejto V&yacute;zvy je opr&aacute;vnen&yacute;m žiadateľom:</div><div>N&aacute;zov<b>: Ministerstvo invest&iacute;ci&iacute;, region&aacute;lneho rozvoja a&nbsp;informatiz&aacute;cie Slovenskej republiky</b></div><div>IČO: 50349287</div><div>&nbsp;</div><div><b><span style=\"background-color:#00FF00\">Forma preuk&aacute;zania žiadateľom:</span></b></div><div><b>Formul&aacute;r ŽoNFP &ndash; </b>časť 1. Identifik&aacute;cia žiadateľa</div><div><b><span style=\"background-color:#00FF00\">Sp&ocirc;sob overenia poskytovateľom:</span></b></div><div>Poskytovateľ overuje splnenie PPP prostredn&iacute;ctvom informačn&eacute;ho syst&eacute;mu <b>ITMS,</b> pr&iacute;padne v informačnom syst&eacute;me verejnej spr&aacute;vy: <a href=\"https://rpo.statistics.sk/\">https://rpo.statistics.sk</a>.</div><div><u>Žiadateľ nepredkladan&aacute; osobitn&uacute; pr&iacute;lohu.</u></div><div><b><span style=\"background-color:#F0FFF0\">Upozorňujeme:</span></b></div><div><span style=\"background-color:#F0FFF0\">V pr&iacute;pade, ak je osoba konaj&uacute;ca v mene opr&aacute;vnen&eacute;ho žiadateľa odli&scaron;n&aacute; od &scaron;tatut&aacute;rneho org&aacute;nu žiadateľa, mus&iacute; byť riadne splnomocnen&aacute;, resp. preuk&aacute;zateľne opr&aacute;vnen&aacute; na v&yacute;kon predmetn&yacute;ch &uacute;konov. V takom pr&iacute;pade je žiadateľ povinn&yacute; k&nbsp;ŽoNFP predložiť pr&iacute;lohu ŽoNFP &ndash; </span><b><span style=\"background-color:#F0FFF0\">Plnomocenstvo / intern&yacute; predpis</span></b><span style=\"background-color:#F0FFF0\"> ktor&aacute; preukazuje, že osoba konaj&uacute;ca v mene žiadateľa, ktor&aacute; nie s&uacute; &scaron;tatut&aacute;rnym org&aacute;nom žiadateľa, je riadne splnomocnen&aacute;, opr&aacute;vnen&aacute; vykon&aacute;vať relevantn&eacute; &uacute;kony vo vzťahu k&nbsp;ŽoNFP.</span></div><div>&nbsp;</div><div><b><span style=\"background-color:#00FF00\">Forma preuk&aacute;zania žiadateľom a&nbsp;sp&ocirc;sob overenia poskytovateľom:</span></b></div><div><b>Pr&iacute;loha ŽoNFP </b>&ndash; <b>Plnomocenstvo vo forme skenu podp&iacute;san&eacute;ho listinn&eacute;ho origin&aacute;lu (vo form&aacute;te .pdf) / Intern&yacute; predpis.</b></div><div>Origin&aacute;l plnomocenstva žiadateľ uchov&aacute;va u&nbsp;seba<b>. </b>Ak v priebehu konania o ŽoNFP d&ocirc;jde k zmene &scaron;tatut&aacute;rneho org&aacute;nu, k zmene či k doplneniu osoby splnomocnenej konať/zastupovať žiadateľa v&nbsp;konan&iacute; o ŽoNFP, žiadateľ je povinn&yacute; zaslať poskytovateľovi <b>ozn&aacute;menie o takejto zmene</b> vr&aacute;tane relevantnej pr&iacute;lohy.</div><div><b><span style=\"background-color:#00FF00\">Ukončenie uplatniteľnosti PPP:</span></b></div>Až do skončenia doby udržateľnosti projektu - v zmysle čl. 65 nariadenia o&nbsp;spoločn&yacute;ch ustanoveniach.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Formulár ŽoNFP",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "UDAJE_Z_RPO"
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Plnomocenstvo/Interný predpis (ak relevantné)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "Podmienka splnenia kritérií pre výber projektov",
+   "popisSk": "<div>Žiadateľ je povinn&yacute; preuk&aacute;zať splnenie krit&eacute;ri&iacute; pre v&yacute;ber projektov uveden&yacute;ch <b>v pr&iacute;lohe č. 2 V&yacute;zvy - Krit&eacute;ria pre v&yacute;ber projektov.</b></div><div>&nbsp;</div><div><div><b><span style=\"background-color:#D3D3D3\">Upozorňujeme:</span></b></div><div><span style=\"background-color:#D3D3D3\">A. Za &uacute;čelom pos&uacute;denia splnenia krit&eacute;ri&iacute; pre v&yacute;ber projektov uveden&yacute;ch v </span><b><span style=\"background-color:#D3D3D3\">pr&iacute;lohe č. 2 V&yacute;zvy, v časti A.</span></b><span style=\"background-color:#D3D3D3\"> </span><b><span style=\"background-color:#D3D3D3\">Vylučuj&uacute;ce krit&eacute;rium podľa čl&aacute;nku 73 nariadenia o&nbsp;spoločn&yacute;ch ustanoveniach</span></b><span style=\"background-color:#D3D3D3\">:</span></div><div><div>a) žiadateľ pop&iacute;&scaron;e v ŽoNFP (v časti 7.3 Sp&ocirc;sob realiz&aacute;cie aktiv&iacute;t projektu) sp&ocirc;sob, ktor&yacute;m projekt dodržiava z&aacute;kladn&eacute; pr&aacute;va a s&uacute;lad s Chartou z&aacute;kladn&yacute;ch pr&aacute;v E&Uacute;, zohľadňuje a presadzuje rovnosť mužov a žien, uplatňuje a začleňuje hľadisko rodovej rovnosti, zabraňuje akejkoľvek diskrimin&aacute;ci&iacute; a zohľadňuje pr&iacute;stupnosť pre osoby so zdravotn&yacute;m postihnut&iacute;m v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m.</div><div>&nbsp;</div><div>Doplňuj&uacute;ce inform&aacute;cie k zneniu vylučuj&uacute;ceho krit&eacute;ria HP:</div><div>Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a>, s prihliadnut&iacute;m na dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky. V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m<a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\">[2]</a>.</div><div><div>&nbsp;</div><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> <a href=\"https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060\">https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060</a></div><div id=\"ftn2\"><div><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> <a href=\"https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf\">https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf</a> &nbsp;</div></div></div></div><div>&nbsp;</div><div><div><span style=\"background-color:#D3D3D3\">B. Za &uacute;čelom pos&uacute;denia splnenia krit&eacute;ri&iacute; pre v&yacute;ber projektov uveden&yacute;ch v </span><b><span style=\"background-color:#D3D3D3\">pr&iacute;lohe č. 2 V&yacute;zvy, v&nbsp;časti B.</span></b><span style=\"background-color:#D3D3D3\"> </span><b><span style=\"background-color:#D3D3D3\">Vecn&eacute; hodnotiace krit&eacute;ria</span></b><span style=\"background-color:#D3D3D3\">, konkr&eacute;tne za &uacute;čelom pos&uacute;denia:</span></div><div>&nbsp;</div><div><div><b><span style=\"background-color:#F0FFFF\">Hodnotiaceho krit&eacute;ria č. 4</span></b><span style=\"background-color:#F0FFFF\"> &bdquo;</span><b><span style=\"background-color:#F0FFFF\">Vhodnosť navrhovan&yacute;ch aktiv&iacute;t z vecn&eacute;ho a časov&eacute;ho hľadiska&ldquo; </span></b><span style=\"background-color:#F0FFFF\">žiadateľ okrem in&eacute;ho (v zmysle predmetu pos&uacute;denia hodnotiaceho krit&eacute;ria č. 4)</span><b><span style=\"background-color:#F0FFFF\">: </span></b></div><div>&nbsp;</div><div><div>a) preukazuje zabezpečenie dostatočn&yacute;ch <b>odborn&yacute;ch kapac&iacute;t implementačn&eacute;ho t&iacute;mu projektu, </b>ktor&yacute;mi žiadateľ pri predložen&iacute; ŽoNFP <b>disponuje a/alebo ktor&eacute; pl&aacute;nuje</b>. Odborn&eacute; kapacity implementačn&eacute;ho t&iacute;mu žiadateľ pop&iacute;&scaron;e v ŽoNFP<u> časť 7. &nbsp;Popis projektu v&nbsp;rozsahu:</u></div><div>&nbsp;</div><div>- uv&aacute;dza sa, či ide o intern&uacute; a/alebo extern&uacute; kapacitu, počet kapac&iacute;t, n&aacute;zov poz&iacute;cie kapacity a&nbsp;pracovn&eacute; zameranie.</div><div>&nbsp;</div><div><div><b>Intern&aacute; odborn&aacute; kapacita &ndash; odborn&yacute; zamestnanec IT </b>predstavuje projektov&uacute; rolu podľa vyhl&aacute;&scaron;ky Ministerstva invest&iacute;ci&iacute;, region&aacute;lneho rozvoja a informatiz&aacute;cie Slovenskej republiky <b>č. 401/2023 Z. z. o riaden&iacute; projektov a zmenov&yacute;ch požiadaviek v prev&aacute;dzke informačn&yacute;ch technol&oacute;gi&iacute; verejnej spr&aacute;vy</b>,</div><div>&nbsp;</div></div><div><div>b) definuje v&nbsp;ŽoNFP (<u>časť 7. Popis projektu, časť 10. Merateľn&eacute; ukazovatele projektu</u>) <b>opr&aacute;vnen&eacute;</b> <b>merateľn&eacute; ukazovatele projektu, </b>ktor&yacute;ch defin&iacute;cia je uveden&aacute; v&nbsp;<b>pr&iacute;lohe č. 4 V&yacute;zvy,</b></div></div></div></div><div><div><div><div><b>Podmienka splnenia krit&eacute;ri&iacute; pre v&yacute;ber projektov </b></div><div>&nbsp;</div></div><div><div><b><span style=\"background-color:#F0FFFF\">- Hodnotiaceho krit&eacute;ria č. 5 &bdquo;Spĺňaj&uacute; v&yacute;davky uveden&eacute; v žiadosti podmienky opr&aacute;vnenosti?&ldquo;:</span></b></div><div>&nbsp;</div><div>c) žiadateľ postupuje pri zostavovan&iacute; <b>rozpočtu projektu</b> vo formul&aacute;ri ŽoNFP (<u>časť 11. Rozpočet projektu</u>) v&nbsp;s&uacute;lade s pravidlami opr&aacute;vnenosti v&yacute;davkov uveden&yacute;mi v:</div><ul><li>Pr&iacute;ručke opr&aacute;vnenosti v&yacute;davkov<b> (pr&iacute;loha č. 6 V&yacute;zvy</b>) a&nbsp;</li><li>Osobitn&yacute;ch podmienkach opr&aacute;vnenosti v&yacute;davkov projektu<b> (pr&iacute;loha č. 7 V&yacute;zvy</b>).</li></ul><div>Pozn.:</div><div>Okrem hodnotiacich krit&eacute;ri&iacute; č. 4 a č. 5 sa na V&yacute;zvu aplikuj&uacute; aj vylučuj&uacute;ce krit&eacute;ria č. 1 a č. 2 uveden&eacute; v r&aacute;mci pr&iacute;lohy č. 2 V&yacute;zvy &bdquo;Krit&eacute;ria pre v&yacute;ber projektov&ldquo;.</div></div></div><div style=\"clear:both\">&nbsp;</div><div><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> <a href=\"https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060\">https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060</a></div></div><div id=\"ftn2\"><div><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> <a href=\"https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf\">https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf</a> &nbsp;</div></div></div></div></div></div><div>&nbsp;</div><div><div><b><span style=\"background-color:#00FF00\">Forma preuk&aacute;zania žiadateľom a&nbsp;sp&ocirc;sob overenia poskytovateľom:</span></b></div><div><b>Formul&aacute;r ŽoNFP - </b>časť 5. Identifik&aacute;cia projektu, časť 7. Popis projektu, časť 9. Harmonogram realiz&aacute;cie aktiv&iacute;t projektu, časť 10. Merateľn&eacute; ukazovatele projektu, časť 11. Rozpočet projektu,</div><div>&nbsp;</div><div><b>Formul&aacute;r ŽoNFP</b> &ndash; formul&aacute;r ŽoNFP, časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa (overenie splnenia s&uacute;ladu projektu s HP),</div><div>&nbsp;</div><div><b>Dokument&aacute;cia v zmysle pr&iacute;lohy č. 7 V&yacute;zvy</b> &ndash; Osobitn&eacute; podmienky opr&aacute;vnenosti v&yacute;davkov projektu.</div><div>&nbsp;</div><div><b>Projekt rozvoja IT -&nbsp; Kybernetick&aacute; bezpečnosť v samospr&aacute;ve do 6 000 obyvateľov - </b>Inform&aacute;cie o&nbsp;projekte žiadateľ uv&aacute;dza vo formul&aacute;ri ŽoNFP (časť 7. Popis projektu) napr. aj odkazom na konkr&eacute;tne relevantn&eacute; časti schv&aacute;len&eacute;ho <b>Projektu rozvoja IT, </b>ktor&yacute; je zverejnen&yacute; v&nbsp;<a href=\"https://metais.slovensko.sk/ci/Projekt/37a7b1e4-5095-4cc0-8b96-d662ee2f9a45/documents?pageNumber=1&amp;pageSize=10\">Centr&aacute;lnom metainformačnom syst&eacute;me verejnej spr&aacute;vy SR</a> (ďalej ako &bdquo;META IS&ldquo;))<b>.</b></div><div>&nbsp;</div><div><b><span style=\"background-color:#00FF00\">Ukončenie uplatniteľnosti PPP:</span></b></div>Skončen&iacute;m konania o&nbsp;ŽoNFP s&nbsp;v&yacute;nimkou t&yacute;ch krit&eacute;ri&iacute;, ktor&eacute; je v&nbsp;nadv&auml;znosti na čl. 65 nariadenia o&nbsp;spoločn&yacute;ch ustanoveniach potrebn&eacute; plniť kontinu&aacute;lne počas realiz&aacute;cie projektu a/alebo obdobia jeho udržateľnosti. V&nbsp;pr&iacute;pade overenia s&uacute;ladu projektu s&nbsp;HP, do skončenia konania o&nbsp;ŽoNFP.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Dokumentácia v zmysle prílohy č. 7 Výzvy",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Formulár ŽoNFP",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Projekt rozvoja IT",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "Podmienka oprávnenosti aktivít projektu",
+   "popisSk": "<div><div>ŽoNFP mus&iacute; byť vo vecnom s&uacute;lade s nasledovn&yacute;m <b>typom akcie PSK</b><a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><sup><sup>[1]</sup></sup></a>:</div><ul><li>Zlep&scaron;ovanie technologick&eacute;ho, procesn&eacute;ho, infra&scaron;trukt&uacute;rneho, vedomostn&eacute;ho a organizačn&eacute;ho zabezpečenia zručnost&iacute; a kapac&iacute;t pre plnenie &uacute;loh v oblasti KIB v prostred&iacute; org&aacute;nov &scaron;t&aacute;tnej a verejnej spr&aacute;vy<b>.</b></li></ul><div>V r&aacute;mci opr&aacute;vnen&eacute;ho typu akcie PSK je opr&aacute;vnen&aacute; nasledovn&aacute; <b><u>hlavn&aacute; aktivita</u>, ktor&uacute; žiadateľ uv&aacute;dza vo formul&aacute;ri ŽoNFP</b>:</div><ul><li>Zv&yacute;&scaron;enie bezpečnostn&eacute;ho &scaron;tandardu v oblasti kybernetickej a informačnej bezpečnosti v podobe procesn&eacute;ho, technick&eacute;ho, hardv&eacute;rov&eacute;ho vybavenia, aplik&aacute;ci&iacute;, SW ako aj zastre&scaron;enie zdieľanej funkcie IT security experta pre kybernetick&uacute; bezpečnosť.</li></ul><div>Hlavn&aacute; aktivita projektu vych&aacute;dza zo Z&aacute;meru n&aacute;rodn&eacute;ho projektu &bdquo;Kybernetick&aacute; bezpečnosť v samospr&aacute;ve do 6 000 obyvateľov&ldquo;, ktor&yacute; bol schv&aacute;len&yacute; na 17. Zasadnut&iacute; Komisie pri monitorovacom v&yacute;bore pre Program Slovensko 2021 &ndash; 2027 pre cieľ 1 (Konkurencieschopnej&scaron;ia a inteligentnej&scaron;ia Eur&oacute;pa) politiky s&uacute;držnosti E&Uacute; d&aacute;tum konania: 14.10.2025 <a href=\"https://eurofondy.gov.sk/program-slovensko/monitorovaci-vybor/schvalene-zamery/\">https://eurofondy.gov.sk/program-slovensko/monitorovaci-vybor/schvalene-zamery/</a>.</div><div>&nbsp;</div>Žiadateľ nesmie ukončiť fyzick&uacute; realiz&aacute;ciu opr&aacute;vnenej hlavnej aktivity projektu pred predložen&iacute;m ŽoNFP<a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\">[2]</a>.<div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div style=\"margin-left:9.1pt\"><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a>&nbsp;&nbsp; Programom Slovensko (<a href=\"https://www.eurofondy.gov.sk/dokumenty-a-publikacie/dokumenty/\">https://www.eurofondy.gov.sk/dokumenty-a-publikacie/dokumenty/</a>).</div></div><div id=\"ftn2\"><div><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> &nbsp;&nbsp;&nbsp;Uveden&yacute; z&aacute;kaz schv&aacute;lenia zrealizovan&yacute;ch projektov vypl&yacute;va z čl. 63 ods. 6 nariadenia o&nbsp;spoločn&yacute;ch ustanoveniach.</div><div>&nbsp;</div><div><div><b><span style=\"background-color:#00FF00\">Forma preuk&aacute;zania žiadateľom a&nbsp;sp&ocirc;sob overenia poskytovateľom:</span></b></div><div><b>Formul&aacute;r ŽoNFP </b>&ndash; časť 7. Popis projektu, 9. Harmonogram realiz&aacute;cie aktiv&iacute;t.</div><div><u>Žiadateľ nepredkladan&aacute; osobitn&uacute; pr&iacute;lohu.</u></div><div>&nbsp;</div><div><b><span style=\"background-color:#F0FFFF\">Upozorňujeme:</span></b></div><div><span style=\"background-color:#F0FFFF\">Celkov&eacute; vecn&eacute; pos&uacute;denie opr&aacute;vnenosti hlavnej aktivity projektu je predmetom odborn&eacute;ho hodnotia ŽoNFP v&nbsp;r&aacute;mci </span><b><span style=\"background-color:#F0FFFF\">Hodnotiaceho krit&eacute;ria č. 4</span></b><span style=\"background-color:#F0FFFF\"> &bdquo;Vhodnosť navrhovan&yacute;ch aktiv&iacute;t z vecn&eacute;ho a časov&eacute;ho hľadiska&ldquo; v&nbsp;zmysle </span><b><span style=\"background-color:#F0FFFF\">PPP č. 2</span></b><span style=\"background-color:#F0FFFF\"> &bdquo;Podmienka splnenia krit&eacute;ri&iacute; pre v&yacute;ber projektov&ldquo;.</span></div><div>&nbsp;</div><div><b><span style=\"background-color:#00FF00\">Ukončenie uplatniteľnosti PPP:</span></b></div>Do skončenia trvania rozhodnutia o&nbsp;schv&aacute;len&iacute; ŽoNFP<a name=\"_Ref201237812\"></a><a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a> s&nbsp;v&yacute;nimkou podmienky neukončiť fyzick&uacute; realiz&aacute;ciu opr&aacute;vnenej hlavnej aktivity projektu pred predložen&iacute;m ŽoNFP, ktorej uplatniteľnosť trv&aacute; do skončenia konania o&nbsp;ŽoNFP.<div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div style=\"margin-left:7.1pt\"><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Slovn&eacute; spojenie &bdquo;skončenia trvania rozhodnutia o&nbsp;schv&aacute;len&iacute; ŽoNFP&ldquo; nezahŕňa v&yacute;nimky podľa bodu 6. v&yacute;roku vzoru rozhodnutia o&nbsp;schv&aacute;len&iacute; ŽoNFP pre niektor&eacute; čl&aacute;nky Pr&iacute;lohy č. 1 rozhodnutia o&nbsp;schv&aacute;len&iacute; ŽoNFP, ktor&eacute; maj&uacute; osobitne stanoven&uacute; &uacute;činnosť. Uveden&eacute; sa uv&aacute;dza z d&ocirc;vodu, aby bola vyl&uacute;čen&aacute; nejednoznačnosť určenia, dokedy sa m&aacute; predmetn&aacute; podmienka poskytnutia pr&iacute;spevku uplatniť.</div></div></div></div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Formulár ŽoNFP",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "Podmienka, že žiadateľ nie je evidovaný v Systéme včasného odhaľovania rizika a vylúčenia (EDES)",
+   "popisSk": "<div><div><div><div>Podmienka, že žiadateľ nie je evidovan&yacute; v Syst&eacute;me včasn&eacute;ho odhaľovania rizika a vyl&uacute;čenia (EDES) ako vyl&uacute;čen&aacute; osoba alebo subjekt (v zmysle čl&aacute;nku 137 nariadenia č. 2024/2509).</div><div>&nbsp;</div></div><div><div><b><span style=\"background-color:#00FF00\">Forma preuk&aacute;zania žiadateľom a sp&ocirc;sob overenia poskytovateľom:</span></b></div><div><u>Žiadateľ nepredkladan&aacute; osobitn&uacute; pr&iacute;lohu</u>.</div><div>&nbsp;</div><div><b>Overenie &uacute;dajov</b> v Syst&eacute;me včasn&eacute;ho odhaľovania rizika a&nbsp;vyl&uacute;čenia (EDES) a to v jeho neverejnej časti dostupnej na webovom s&iacute;dle <a href=\"https://ec.europa.eu/budget/edes/index_en.cfm\">https://ec.europa.eu/budget/edes/index_en.cfm</a>.</div><div>&nbsp;</div><div><b><span style=\"background-color:#00FF00\">Ukončenie uplatniteľnosti PPP:</span></b></div><div>Do skončenia konania o&nbsp;ŽoNFP.</div></div></div><div style=\"clear:both\">&nbsp;</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [
+  {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ ],
+ "miestoRealizacieFull": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 810,
+    "href": "/typakcieprogramu/id/810"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 810,
+    "href": "/typakcieprogramu/id/810"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 810,
+    "href": "/typakcieprogramu/id/810"
+   }
+  },
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 810,
+    "href": "/typakcieprogramu/id/810"
+   }
+  },
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 814,
+    "href": "/typakcieprogramu/id/814"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 814,
+    "href": "/typakcieprogramu/id/814"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 814,
+    "href": "/typakcieprogramu/id/814"
+   }
+  },
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 814,
+    "href": "/typakcieprogramu/id/814"
+   }
+  },
+  {
+   "kod": "1040907",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. a) NSU",
+   "typAkcieProgramu": {
+    "id": 977,
+    "href": "/typakcieprogramu/id/977"
+   }
+  },
+  {
+   "kod": "1040907",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. a) NSU",
+   "typAkcieProgramu": {
+    "id": 976,
+    "href": "/typakcieprogramu/id/976"
+   }
+  }
+ ],
+ "externyZdroj": [
+  {
+   "nazov": "Výzva č. PSK-MIRRI-636-2025-NP-EFRR na predkladanie žiadosti o poskytnutie nenávratného finančného príspevku na národný projekt \"Kybernetická bezpečnosť v samospráve do 6 000 obyvateľov\"",
+   "url": "https://portal.itms21.sk/vyhlasena-vyzva/?id=3749"
+  }
+ ],
+ "dokument": [
+  {
+   "nazov": "Vyzva_PSK_MIRRI_636_2025_NP_EFRR.zip",
+   "uuid": "121a7f88-6a92-4e7d-ad82-e9008de94fc3"
+  }
+ ],
+ "inaSkutocnostUzatvorenieVyzvy": "<div>Konkr&eacute;tny d&aacute;tum uzavretia v&yacute;zvy je uveden&yacute; v časti 3 v&yacute;zvy &quot;Časov&eacute; vymedzenie v&yacute;zvy&quot;.</div>",
+ "mieraSpolufinancovania": "<div><div style=\"text-align: justify;\"><b>Podľa čl. 63 ods. 3 prv&aacute; veta</b> <a href=\"https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060\">Nariadenia Eur&oacute;pskeho parlamentu a Rady (E&Uacute;) 2021/1060 z 24. j&uacute;na 2021</a>, ktor&yacute;m sa stanovuj&uacute; spoločn&eacute; ustanovenia o Eur&oacute;pskom fonde region&aacute;lneho rozvoja, Eur&oacute;pskom soci&aacute;lnom fonde plus, Koh&eacute;znom fonde, Fonde na spravodliv&uacute; transform&aacute;ciu a Eur&oacute;pskom n&aacute;mornom, rybolovnom a akvakult&uacute;rnom fonde a rozpočtov&eacute; pravidl&aacute; pre uveden&eacute; fondy, ako aj pre Fond pre azyl, migr&aacute;ciu a integr&aacute;ciu, Fond pre vn&uacute;torn&uacute; bezpečnosť a N&aacute;stroj finančnej podpory na riadenie hran&iacute;c a v&iacute;zov&uacute; politiku (ďalej ako &bdquo;nariadenie o&nbsp;spoločn&yacute;ch ustanoveniach&ldquo;), <b>ak projekt zahŕňa viac ako jednu kateg&oacute;riu regi&oacute;nu </b>podľa čl&aacute;nku 108 ods. 2 nariadenia o spoločn&yacute;ch ustanoveniach <b>v r&aacute;mci člensk&eacute;ho &scaron;t&aacute;tu</b>, <b>sa v&yacute;davky</b> spojen&eacute; s projektom <b>pridelia na pr&iacute;slu&scaron;n&eacute; kateg&oacute;rie regi&oacute;nu na pomernom z&aacute;klade</b>, a to podľa objekt&iacute;vnych krit&eacute;ri&iacute;.</div><div>Objekt&iacute;vnym krit&eacute;riom vzhľadom na povahu a zameranie projektu je <b>podiel zamestnancov verejnej spr&aacute;vy v bratislavskom regi&oacute;ne (NUTS II) k&nbsp;zamestnancom verejnej spr&aacute;vy v SR</b> (referenčn&yacute;m obdob&iacute;m je rok 2021).</div><div>Celkov&eacute; opr&aacute;vnen&eacute; v&yacute;davky <b>žiadateľa</b> sa rozdelia nasleduj&uacute;cim pomerom podľa kateg&oacute;rie regi&oacute;nu:</div><ul><li>pre<b> menej rozvinut&yacute; regi&oacute;n: 77,14 %</b>,</li><li>pre<b> viac rozvinut&yacute; regi&oacute;n: 22,86 %.</b></li></ul><div>Financovanie podľa zdrojov:</div><div><b>Menej rozvinut&yacute; regi&oacute;n (v&scaron;etky kraje SR s v&yacute;nimkou Bratislavsk&eacute;ho kraja):</b></div><ul><li>zdroje E&Uacute; - <b>85 %</b></li><li>zdroje &scaron;t&aacute;tneho rozpočtu&nbsp;- <b>15 %</b></li><li>spolufinancovanie žiadateľa - <b>0 %</b></li></ul><div>a pre</div><div><b>viac rozvinut&yacute; regi&oacute;n (Bratislavsk&yacute; kraj):</b></div><ul><li>zdroje E&Uacute; &ndash; <b>40 %</b></li><li>zdroje &scaron;t&aacute;tneho rozpočtu &ndash; <b>60 %</b></li><li>spolufinancovanie žiadateľa - 0 %<b>.</b></li></ul></div>",
+ "sposobPodaniaZoNFP": "<div>Časť 7 V&yacute;zvy &quot;<b>Inform&aacute;cie k sp&ocirc;sobu predloženia ŽoNFP&quot;</b></div><div><div><div><div><b>Žiadateľ predklad&aacute; poskytovateľovi</b>:</div><ul><li>vyplnen&yacute; formul&aacute;r ŽoNFP vr&aacute;tane v&scaron;etk&yacute;ch pr&iacute;loh <b>elektronicky</b> prostredn&iacute;ctvom verejnej časti ITMS a&nbsp;z&aacute;roveň</li><li>formul&aacute;r ŽoNFP bez pr&iacute;loh v <b>p&iacute;somnej forme</b>, a to:</li></ul><div style=\"text-align: justify;\"><b>v elektronickej podobe</b> prostredn&iacute;ctvom elektronickej schr&aacute;nky poskytovateľa zriadenej v r&aacute;mci &Uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy, podp&iacute;san&yacute; kvalifikovan&yacute;m elektronick&yacute;m podpisom alebo kvalifikovan&yacute;m elektronick&yacute;m podpisom s mand&aacute;tnym certifik&aacute;tom</div><div style=\"text-align: justify;\">&nbsp;</div><div style=\"text-align: justify;\"><b><span style=\"background-color:#FFFFE0\">Listinn&eacute; predloženie</span></b><span style=\"background-color:#FFFFE0\"> je </span><b><span style=\"background-color:#FFFFE0\">možn&eacute; len z technick&yacute;ch, resp. prev&aacute;dzkov&yacute;ch d&ocirc;vodov</span></b><span style=\"background-color:#FFFFE0\">, ktor&eacute; je žiadateľ povinn&yacute; preuk&aacute;zať pri predložen&iacute; ŽoNFP. Za technick&yacute;, resp. prev&aacute;dzkov&yacute; d&ocirc;vod sa považuje nefunkčnosť syst&eacute;mu ITMS, pr&iacute;padne &Uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy.</span></div><div style=\"text-align: justify;\">&nbsp;</div><div style=\"text-align: justify;\"><b>Listinn&eacute; predloženie ŽoNFP: </b>v origin&aacute;li, opečiatkovan&yacute; formul&aacute;r ŽoNFP (v pr&iacute;pade, že žiadateľ m&aacute; povinnosť použ&iacute;vať pečiatku) a podp&iacute;san&yacute; (osobou opr&aacute;vnenou konať v mene žiadateľa) na adresu poskytovateľa uveden&uacute; niž&scaron;ie</div><div style=\"text-align: justify;\">&nbsp;</div><div style=\"text-align: justify;\"><b>Adresa poskytovateľa pre predloženie listinnej podoby dokument&aacute;cie ŽoNFP</b>:</div><div style=\"text-align: justify;\">Ministerstvo invest&iacute;ci&iacute;, region&aacute;lneho rozvoja a informatiz&aacute;cie Slovenskej republiky</div><div>Sekcia implement&aacute;cie projektov informatiz&aacute;cie</div><div>Pribinova 25</div><div>811 09 Bratislava.</div><div>&nbsp;</div><div><b>V&nbsp;pr&iacute;pade osobn&eacute;ho doručenia je pracovn&yacute; čas podateľne nasledovn&yacute;</b>:</div><div>pondelok - &scaron;tvrtok: 8:00 - 12:00 hod. a 12:30 - 14:45 hod.</div><div>piatok: 8:00 - 12:00 hod. a 12:30 - 14:00 hod.</div><div>&nbsp;</div><div style=\"text-align: justify;\">Žiadateľ je v s&uacute;lade s &sect; 16 ods. 4 z&aacute;kona o pr&iacute;spevkoch z&nbsp;fondov povinn&yacute; predložiť ŽoNFP <b>riadne a včas.</b></div><div><b>Podrobn&aacute; in&scaron;trukcia pre žiadateľa k:</b></div><ul><li>pr&iacute;stupu do ITMS a elektronickej schr&aacute;nky,</li><li>pr&iacute;prave a sp&ocirc;sobu predloženia ŽoNFP,</li><li>inform&aacute;cii o postupe schvaľovania ŽoNFP, vr&aacute;tane inform&aacute;cie o opravn&yacute;ch prostriedkoch a sťažnostiach,</li><li>sp&ocirc;sobu komunik&aacute;cie žiadateľa s poskytovateľom</li></ul><div style=\"text-align: justify;\">je uveden&aacute; v dokumente s n&aacute;zvom &bdquo;<b>V&scaron;eobecn&aacute; inform&aacute;cia k predkladaniu a schvaľovaniu ŽoNFP</b>&ldquo;, ktor&yacute; je zverejnen&yacute; v platnom znen&iacute; na str&aacute;nke: <a href=\"https://www.eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/index.html\">https://www.eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/index.html</a>.</div><div style=\"text-align: justify;\">&nbsp;</div><div><b><span style=\"background-color:#F0FFFF\">Upozorňujeme: </span></b></div><div style=\"text-align: justify;\"><span style=\"background-color:#F0FFFF\">V pr&iacute;pade, </span><b><span style=\"background-color:#F0FFFF\">ak žiadateľ nedoručil ŽoNFP riadne alebo včas</span></b><span style=\"background-color:#F0FFFF\">, ani na z&aacute;klade žiadosti poskytovateľa, aby odstr&aacute;nil pochybnosti t&yacute;kaj&uacute;ce sa doručenia ŽoNFP, </span><b><span style=\"background-color:#F0FFFF\">poskytovateľ zastav&iacute; konanie o ŽoNFP</span></b><span style=\"background-color:#F0FFFF\"> podľa &sect; 17 ods. 1 p&iacute;sm. c) z&aacute;kona o pr&iacute;spevkoch z&nbsp;fondov vydan&iacute;m rozhodnutia o zastaven&iacute; konania o ŽoNFP, ktor&eacute; doruč&iacute; žiadateľovi.</span></div></div><div><div style=\"text-align: justify;\"><span style=\"background-color:#F0FFFF\">Ak pri overovan&iacute; splnenia podmienok poskytnutia pr&iacute;spevku vznikn&uacute; pochybnosti o pravdivosti alebo &uacute;plnosti ŽoNFP, na z&aacute;klade ktor&yacute;ch nie je možn&eacute; overiť splnenie alebo nesplnenie niektorej z&nbsp;podmienok poskytnutia pr&iacute;spevku, poskytovateľ vyzve žiadateľa na doplnenie požadovan&yacute;ch n&aacute;ležitost&iacute;, ne&uacute;pln&yacute;ch &uacute;dajov, vysvetlenie nejasnost&iacute;, </span><b><span style=\"background-color:#F0FFFF\">zaslan&iacute;m v&yacute;zvy na doplnenie ŽoNFP (kap. 4.1 a&nbsp;4.2 </span></b><span style=\"background-color:#F0FFFF\">V&scaron;eobecn&aacute; inform&aacute;cia k predkladaniu a schvaľovaniu ŽoNFP).</span></div><div style=\"text-align: justify;\"><span style=\"background-color:#F0FFFF\">V pr&iacute;pade, ak žiadateľ identifikuje v s&uacute;vislosti s v&yacute;zvou na doplnenie ŽoNFP </span><b><span style=\"background-color:#F0FFFF\">potrebu predĺženia lehoty </span></b><span style=\"background-color:#F0FFFF\">na predloženie požadovan&yacute;ch n&aacute;ležitost&iacute;, ne&uacute;pln&yacute;ch &uacute;dajov, vysvetlenie nejasnost&iacute;</span><b><span style=\"background-color:#F0FFFF\">, ozn&aacute;mi t&uacute;to skutočnosť poskytovateľovi</span></b><span style=\"background-color:#F0FFFF\"> a požiada o jej predĺženie (postačuj&uacute;ce emailom). Poskytovateľ je </span><b><span style=\"background-color:#F0FFFF\">opr&aacute;vnen&yacute; lehotu</span></b><span style=\"background-color:#F0FFFF\"> na predloženie dokumentov na z&aacute;klade žiadosti žiadateľa </span><b><span style=\"background-color:#F0FFFF\">primerane predĺžiť</span></b><span style=\"background-color:#F0FFFF\">. Žiadateľ je v takom pr&iacute;pade povinn&yacute; požiadať o predĺženie lehoty najnesk&ocirc;r do term&iacute;nu uplynutia lehoty stanovenej poskytovateľom na zaslanie odpovede na v&yacute;zvu na doplnenie.</span></div></div></div><div style=\"clear:both\">&nbsp;</div></div>",
+ "miestoPrePodanieZoNFP": "<div>Pozri časť &quot;Sp&ocirc;sob podania ŽoNFP&quot;.</div>",
+ "predpokladanaLehotaNaRozhodnutie": "<div><div style=\"text-align: justify;\">Predpokladan&aacute; lehota na vydanie rozhodnutia v&nbsp;konan&iacute; o&nbsp;ŽoNFP je <b>70 pracovn&yacute;ch dn&iacute; od predloženia ŽoNFP</b>. Poskytovateľ informuje žiadateľa v pr&iacute;pade nedodržania a predlženia lehoty na vydanie rozhodnutia o&nbsp;ŽoNFP.</div><div style=\"text-align: justify;\">Ak je počas procesu schvaľovania ŽoNFP žiadateľ vyzvan&yacute; poskytovateľom na odstr&aacute;nenie identifikovan&yacute;ch nedostatkov ŽoNFP (doplnenie ne&uacute;pln&yacute;ch &uacute;dajov, vysvetlenie nejasnost&iacute;), lehota na&nbsp;vydanie rozhodnutia o ŽoNFP sa preru&scaron;&iacute; v&nbsp;momente zaslania v&yacute;zvy na odstr&aacute;nenie identifikovan&yacute;ch nedostatkov a&nbsp;zač&iacute;na plyn&uacute;ť momentom doručenia n&aacute;ležitost&iacute; poskytovateľovi. V&nbsp;pr&iacute;pade nepredv&iacute;dateľn&yacute;ch okolnost&iacute; na strane poskytovateľa, pr&iacute;padne in&yacute;ch okolnost&iacute; ovplyvnen&yacute;ch extern&yacute;mi faktormi, na z&aacute;klade ktor&yacute;ch nie je možn&eacute; ukončiť schvaľovanie ŽoNFP v&nbsp;predpokladanej lehote na vydanie rozhodnutia o&nbsp;ŽoNFP stanovenej poskytovateľom vo v&yacute;zve, si poskytovateľ m&ocirc;že predĺžiť lehotu na vydanie rozhodnutia o&nbsp;ŽoNFP.</div></div>",
+ "zmenaAZrusenieVyzvy": "<div><div style=\"text-align: justify;\">V&nbsp;nevyhnutn&yacute;ch pr&iacute;padoch, kedy nie je možn&eacute; konať o&nbsp;ŽoNFP predloženej na z&aacute;klade p&ocirc;vodne vyhl&aacute;senej V&yacute;zvy, alebo je zmena potrebn&aacute; za &uacute;čelom jej optimaliz&aacute;cie, resp. vhodnej&scaron;ieho nastavenia, je poskytovateľ opr&aacute;vnen&yacute; v&nbsp;s&uacute;lade s &sect; 14 ods. 4 až 7 z&aacute;kona o&nbsp;pr&iacute;spevkoch z&nbsp;fondov <b>V&yacute;zvu zmeniť alebo zru&scaron;iť</b>.</div><div style=\"text-align: justify;\"><b>Poskytovateľ m&ocirc;že V&yacute;zvu s&nbsp;určen&yacute;m d&aacute;tumom uzavretia zmeniť v&nbsp;celom rozsahu</b> do vydania prv&eacute;ho rozhodnutia o&nbsp;ŽoNFP (vr&aacute;tane podmienok poskytnutia pr&iacute;spevku) v s&uacute;lade s &sect; 14 ods. 4 z&aacute;kona o pr&iacute;spevkoch z fondov E&Uacute;. Za prv&eacute; rozhodnutie o&nbsp;ŽoNFP sa nepovažuje rozhodnutie o zastaven&iacute; konania podľa&nbsp;<a href=\"https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2022/121/20220701#paragraf-17.odsek-1\" title=\"Odkaz na predpis alebo ustanovenie\">&sect; 17 ods. 1</a> z&aacute;kona pr&iacute;spevkoch z fondov E&Uacute;.</div><div>Pri zmene V&yacute;zvy musia byť dodržan&eacute; princ&iacute;py podľa&nbsp;<a href=\"https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2022/121/20220701#paragraf-2.odsek-2\" title=\"Odkaz na predpis alebo ustanovenie\">&sect; 2 ods. 2</a> z&aacute;kona pr&iacute;spevkoch z fondov E&Uacute;.</div><div style=\"text-align: justify;\">Poskytovateľ umožn&iacute; žiadateľovi doplniť alebo zmeniť ŽoNFP podan&uacute; do term&iacute;nu zmeny V&yacute;zvy, ak ide o tak&uacute; zmenu V&yacute;zvy, ktorou m&ocirc;že byť sk&ocirc;r podan&aacute; žiadosť dotknut&aacute;; Poskytovateľ p&iacute;somne informuje žiadateľa a urč&iacute; primeran&uacute; lehotu na doplnenie alebo zmenu ŽoNFP, ktor&aacute; nesmie byť krat&scaron;ia ako 10 pracovn&yacute;ch dn&iacute;.</div><div style=\"text-align: justify;\">Poskytovateľ m&ocirc;že po zverejnen&iacute; <b>V&yacute;zvy</b> a po vydan&iacute; prv&eacute;ho rozhodnutia <b>zmeniť form&aacute;lne n&aacute;ležitosti V&yacute;zvy</b>, ďal&scaron;ie skutočnosti t&yacute;kaj&uacute;ce sa poskytovania pr&iacute;spevku, ktor&eacute; nemaj&uacute; charakter podmienky poskytnutia pr&iacute;spevku, a pr&iacute;lohy. Zverejnenie zmien podľa predch&aacute;dzaj&uacute;cej vety spolu s ich od&ocirc;voden&iacute;m zverejn&iacute; poskytovateľ prostredn&iacute;ctvom ITMS podľa&nbsp;<a href=\"https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2022/121/20220701#paragraf-48\" title=\"Odkaz na predpis alebo ustanovenie\">&sect; 48</a> z&aacute;kona pr&iacute;spevkoch z fondov E&Uacute;.</div><div style=\"text-align: justify;\">V pr&iacute;pade <b>legislat&iacute;vnych zmien</b>, ktor&eacute; maj&uacute; alebo m&ocirc;žu mať vplyv na zmenu PPP, tak&aacute;to zmena nepredstavuje zmenu V&yacute;zvy za predpokladu, že noveliz&aacute;ciou alebo vydan&iacute;m nov&eacute;ho v&scaron;eobecne z&aacute;v&auml;zn&eacute;ho pr&aacute;vneho predpisu ned&ocirc;jde k zmene vecnej podstaty PPP. Poskytovateľ v takom pr&iacute;pade posudzuje ŽoNFP podľa aktu&aacute;lne platn&eacute;ho pr&aacute;vneho predpisu, re&scaron;pektuj&uacute;c prechodn&eacute; ustanovenia vo vzťahu k jeho &uacute;činnosti. V pr&iacute;pade, ak legislat&iacute;vne zmeny vyvolaj&uacute; potrebu zmeny v PPP, poskytovateľ v nadv&auml;znosti na ich pos&uacute;denie rozhodne o potrebe zmeny alebo zru&scaron;enia V&yacute;zvy.</div><div style=\"text-align: justify;\">Poskytovateľ m&ocirc;že <b>V&yacute;zvu zru&scaron;iť v pr&iacute;pade, </b>ak d&ocirc;jde k podstatnej zmene, alebo ak z objekt&iacute;vnych d&ocirc;vodov nie je možn&eacute; schv&aacute;liť ŽoNFP a n&aacute;sledne financovať projekt na z&aacute;klade v&yacute;zvy. Poskytovateľ predložen&uacute; ŽoNFP podan&uacute; do zru&scaron;enia V&yacute;zvy, o ktorej nebolo rozhodnut&eacute; podľa&nbsp;<a href=\"https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2022/121/20220701#paragraf-16\" title=\"Odkaz na predpis alebo ustanovenie\">&sect; 16</a>&nbsp;alebo&nbsp;<a href=\"https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2022/121/20220701#paragraf-17\" title=\"Odkaz na predpis alebo ustanovenie\">&sect; 17</a>, žiadateľovi vr&aacute;ti. Inform&aacute;ciu o zru&scaron;en&iacute; V&yacute;zvy a zd&ocirc;vodnenie jej zru&scaron;enia zverejn&iacute; Poskytovateľ prostredn&iacute;ctvom ITMS podľa&nbsp;<a href=\"https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2022/121/20220701#paragraf-48\" title=\"Odkaz na predpis alebo ustanovenie\">&sect; 48</a> z&aacute;kona pr&iacute;spevkoch z fondov E&Uacute;.</div><div style=\"text-align: justify;\">Zmena V&yacute;zvy, resp. zru&scaron;enie V&yacute;zvy je &uacute;činn&eacute; v s&uacute;lade s inform&aacute;ciou uvedenou v ozn&aacute;men&iacute; o zmene/zru&scaron;en&iacute; V&yacute;zvy, najsk&ocirc;r v&scaron;ak dňom zverejnenia na webovom s&iacute;dle <a href=\"https://portal.itms21.sk/\">ITMS21+ Verejn&aacute; časť</a> a <a href=\"http://www.eurofondy.gov.sk/\">www.eurofondy.gov.sk</a>.</div></div>",
+ "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>",
+ "doplnujuceInformacie": "<div><div><b>Indikat&iacute;vna v&yacute;&scaron;ka finančn&yacute;ch prostriedkov určen&yacute;ch na&nbsp;vyčerpanie vo v&yacute;zve (zdroj E&Uacute;):</b></div><div><b>8 808 449,7 - Eur (menej rozvinut&yacute; regi&oacute;n)</b></div><div><b>1 228 392,4 - Eur (viac rozvinut&yacute; regi&oacute;n)</b></div><div>&nbsp;</div><div><div style=\"text-align: justify;\"><b>Podľa čl. 63 ods. 3 prv&aacute; veta</b> <a href=\"https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060\">Nariadenia Eur&oacute;pskeho parlamentu a Rady (E&Uacute;) 2021/1060 z 24. j&uacute;na 2021</a>, ktor&yacute;m sa stanovuj&uacute; spoločn&eacute; ustanovenia o Eur&oacute;pskom fonde region&aacute;lneho rozvoja, Eur&oacute;pskom soci&aacute;lnom fonde plus, Koh&eacute;znom fonde, Fonde na spravodliv&uacute; transform&aacute;ciu a Eur&oacute;pskom n&aacute;mornom, rybolovnom a akvakult&uacute;rnom fonde a rozpočtov&eacute; pravidl&aacute; pre uveden&eacute; fondy, ako aj pre Fond pre azyl, migr&aacute;ciu a integr&aacute;ciu, Fond pre vn&uacute;torn&uacute; bezpečnosť a N&aacute;stroj finančnej podpory na riadenie hran&iacute;c a v&iacute;zov&uacute; politiku (ďalej ako &bdquo;nariadenie o&nbsp;spoločn&yacute;ch ustanoveniach&ldquo;), <b>ak projekt zahŕňa viac ako jednu kateg&oacute;riu regi&oacute;nu </b>podľa čl&aacute;nku 108 ods. 2 nariadenia o spoločn&yacute;ch ustanoveniach <b>v r&aacute;mci člensk&eacute;ho &scaron;t&aacute;tu</b>, <b>sa v&yacute;davky</b> spojen&eacute; s projektom <b>pridelia na pr&iacute;slu&scaron;n&eacute; kateg&oacute;rie regi&oacute;nu na pomernom z&aacute;klade</b>, a to podľa objekt&iacute;vnych krit&eacute;ri&iacute;.</div><div style=\"text-align: justify;\">Objekt&iacute;vnym krit&eacute;riom vzhľadom na povahu a zameranie projektu je <b>podiel zamestnancov verejnej spr&aacute;vy v bratislavskom regi&oacute;ne (NUTS II) k&nbsp;zamestnancom verejnej spr&aacute;vy v SR</b> (referenčn&yacute;m obdob&iacute;m je rok 2021).</div><div style=\"text-align: justify;\">Celkov&eacute; opr&aacute;vnen&eacute; v&yacute;davky <b>žiadateľa</b> sa rozdelia nasleduj&uacute;cim pomerom podľa kateg&oacute;rie regi&oacute;nu:</div><ul><li>pre<b> menej rozvinut&yacute; regi&oacute;n: 77,14 %</b>,</li><li>pre<b> viac rozvinut&yacute; regi&oacute;n: 22,86 %.</b></li></ul><div>Financovanie podľa zdrojov:</div><div><b>Menej rozvinut&yacute; regi&oacute;n (v&scaron;etky kraje SR s v&yacute;nimkou Bratislavsk&eacute;ho kraja):</b></div><ul><li>zdroje E&Uacute; - <b>85 %</b></li><li>zdroje &scaron;t&aacute;tneho rozpočtu&nbsp;- <b>15 %</b></li><li>spolufinancovanie žiadateľa - <b>0 %</b></li></ul><div>a pre</div><div><b>viac rozvinut&yacute; regi&oacute;n (Bratislavsk&yacute; kraj):</b></div><ul><li>zdroje E&Uacute; &ndash; <b>40 %</b></li><li>zdroje &scaron;t&aacute;tneho rozpočtu &ndash; <b>60 %</b></li><li>spolufinancovanie žiadateľa - 0 %.</li></ul></div></div>",
+ "dalsiaSkutocnost": [
+  {
+   "kod": "DS001PSK-MIRRI-636-2025-NP-EFRR",
+   "dalsiaSkutocnost": "<div><b>S&uacute;lad s horizont&aacute;lnymi princ&iacute;pmi</b></div><div><div><div><div style=\"text-align: justify;\">Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a>, s prihliadnut&iacute;m na dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky.</div><div style=\"text-align: justify;\">V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m<a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\">[2]</a>.</div><div style=\"text-align: justify;\">Gestor HP upozorňuje žiadateľa, že plnenie s&uacute;ladu projektu s HP m&ocirc;že byť predmetom finančnej kontroly v implement&aacute;cii projektu, ktorej pr&aacute;vny z&aacute;klad vych&aacute;dza z &uacute;činn&eacute;ho rozhodnutia o&nbsp;schv&aacute;len&iacute; ŽoNFP.</div><div><b>Čas plnenia/overenia:</b></div><div style=\"text-align: justify;\">V čase realiz&aacute;cie projektu na z&aacute;klade rozhodnutia o&nbsp;schv&aacute;len&iacute; ŽoNFP až do skončenia doby udržateľnosti projektu (ak relevantn&eacute;) v zmysle čl. 65 nariadenia o spoločn&yacute;ch ustanoveniach.</div></div><div><div style=\"text-align: justify;\">Prij&iacute;mateľ počas realiz&aacute;cie projektu mus&iacute; zabezpečiť s&uacute;lad projektu so z&aacute;sadou &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo;. Ide hlavne o&nbsp;plnenie podmienok zelen&eacute;ho verejn&eacute;ho obstar&aacute;vania pri produktov&yacute;ch skupin&aacute;ch pre ktor&eacute; vl&aacute;da SR schv&aacute;lila n&aacute;rodne metodiky pre uplatňovanie zelen&eacute;ho VO<a href=\"#_ftn3\" name=\"_ftnref3\" title=\"\"><sup><sup>[3]</sup></sup></a>. Popis splnenia s&uacute;ladu projektu so z&aacute;sadou &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; je uveden&yacute; v&nbsp;<b>pr&iacute;lohe č. 8 V&yacute;zvy</b>.</div><div>&nbsp;</div><div><b>Čas plnenia/overenia:</b></div><div style=\"text-align: justify;\">Počas implement&aacute;cie projektu, najnesk&ocirc;r pred &uacute;hradou relevantnej žiadosti o platbu.</div></div></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> <a href=\"https://www.eurofondy.gov.sk/wp-content/uploads/2022/06/Nariadenie-2021-1060-CELEX_32021R1060_SK_TXT.pdf\">https://www.eurofondy.gov.sk/wp-content/uploads/2022/06/Nariadenie-2021-1060-CELEX_32021R1060_SK_TXT.pdf</a></div></div><div id=\"ftn2\"><div style=\"margin-left:7.1pt\"><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a><a href=\"https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf\">https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf</a></div></div><div id=\"ftn3\"><div><a href=\"#_ftnref3\" name=\"_ftn3\" title=\"\">[3]</a> Metodick&eacute; usmernenie Riadiaceho org&aacute;nu pre Program Slovensko č. 7 k&nbsp;uplatňovaniu z&aacute;sady &bdquo;Nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo;, link: <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-specificke-pre-program-slovensko/\">https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-specificke-pre-program-slovensko/</a>.</div></div></div></div><div>&nbsp;</div>"
+  },
+  {
+   "kod": "DS002PSK-MIRRI-636-2025-NP-EFRR",
+   "dalsiaSkutocnost": "<div><b>Dodržiavanie z&aacute;sady &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; (DNSH)</b></div><div><div style=\"text-align: justify;\">Prij&iacute;mateľ počas realiz&aacute;cie projektu mus&iacute; zabezpečiť s&uacute;lad projektu so z&aacute;sadou &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo;. Ide hlavne o&nbsp;plnenie podmienok zelen&eacute;ho verejn&eacute;ho obstar&aacute;vania pri produktov&yacute;ch skupin&aacute;ch pre ktor&eacute; vl&aacute;da SR schv&aacute;lila n&aacute;rodne metodiky pre uplatňovanie zelen&eacute;ho VO<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><sup><sup>[1]</sup></sup></a>. Popis splnenia s&uacute;ladu projektu so z&aacute;sadou &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; je uveden&yacute; v&nbsp;<b>pr&iacute;lohe č. 8 V&yacute;zvy</b>.</div><div>&nbsp;</div><div><b>Čas plnenia/overenia:</b></div><div style=\"text-align: justify;\">Počas implement&aacute;cie projektu, najnesk&ocirc;r pred &uacute;hradou relevantnej žiadosti o platbu.</div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Metodick&eacute; usmernenie Riadiaceho org&aacute;nu pre Program Slovensko č. 7 k&nbsp;uplatňovaniu z&aacute;sady &bdquo;Nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo;, link: <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-specificke-pre-program-slovensko/\">https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-specificke-pre-program-slovensko/</a>.</div></div></div></div>"
+  }
+ ],
+ "dalsiaFormalnaNalezitost": [
+  {
+   "kod": "DFN002PSK-MIRRI-636-2025-NP-EFRR",
+   "dalsiaFormalnaNalezitost": "<div><b>Zverejňovanie inform&aacute;ci&iacute;</b></div><div style=\"text-align: justify;\">Poskytovateľ zverejn&iacute; na webovej str&aacute;nke <a href=\"http://www.eurofondy.gov.sk/\">www.eurofondy.gov.sk</a> zoznam oper&aacute;ci&iacute; vybran&yacute;ch na podporu z fondov a najmenej každ&eacute; 4 mesiace ich bude aktualizovať v zmysle čl. 49, odsek 3 nariadenia o&nbsp;spoločn&yacute;ch ustanoveniach. Žiadateľ berie na vedomie, že zverejňovan&eacute; inform&aacute;cie, ktor&eacute; s&uacute; považovan&eacute; za osobn&eacute; &uacute;daje je poskytovateľ opr&aacute;vnen&yacute; zverejniť bez osobitn&eacute;ho s&uacute;hlasu žiadateľa v s&uacute;lade s &sect; 46, odsek 6 z&aacute;kona o pr&iacute;spevkoch z&nbsp;fondov.</div>"
+  },
+  {
+   "kod": "DFN003PSK-MIRRI-636-2025-NP-EFRR",
+   "dalsiaFormalnaNalezitost": "<div><b>Rozhodnutie o&nbsp;schv&aacute;len&iacute; žiadosti o&nbsp;NFP, ak prij&iacute;mateľ a poskytovateľ je t&aacute; ist&aacute; osoba</b></div><div><div style=\"text-align: justify;\">Vzhľadom na skutočnosť, že v r&aacute;mci tejto V&yacute;zvy je <b>poskytovateľ a prij&iacute;mateľ t&aacute; ist&aacute; osoba</b>, zmluva o poskytnut&iacute; NFP sa neuzatv&aacute;ra a <b>pr&aacute;va a povinnosti s&uacute; upraven&eacute; v rozhodnut&iacute; o schv&aacute;len&iacute; ŽoNFP</b> v zmysle &sect; 13 ods. 2 z&aacute;kona o pr&iacute;spevkoch z&nbsp;fondov.</div><div style=\"text-align: justify;\"><b>Vzor rozhodnutia o&nbsp;schv&aacute;len&iacute; ŽoNFP</b> je zverejnen&yacute; na str&aacute;nke <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/\">https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/</a>. Pr&aacute;vny n&aacute;rok na poskytnutie pr&iacute;spevku vznik&aacute; nadobudnut&iacute;m pr&aacute;voplatnosti rozhodnutia o schv&aacute;len&iacute; ŽoNFP.</div></div>"
+  },
+  {
+   "kod": "DFN001PSK-MIRRI-636-2025-NP-EFRR",
+   "dalsiaFormalnaNalezitost": "<div><b>Relevantn&yacute; sp&ocirc;sob financovania</b></div><div><div style=\"text-align: justify;\"><b>Opr&aacute;vnen&yacute; sp&ocirc;sob financovania projektu</b> je: <b>predfinancovanie</b>, <b>z&aacute;lohov&eacute; platby</b> a <b>refund&aacute;cia</b> alebo <b>kombin&aacute;cia uveden&yacute;ch syst&eacute;mov</b>, ktor&yacute; bude obsiahnut&yacute; v&nbsp;rozhodnut&iacute; o&nbsp;schv&aacute;len&iacute; ŽoNFP. Pravidl&aacute; finančn&eacute;ho riadenia s&uacute; upraven&eacute; v <b>Pr&iacute;ručke k finančn&eacute;mu riadenie fondov E&Uacute; na programov&eacute; obdobie 2021-2027</b><a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a>.</div><b>Forma poskytovan&eacute;ho pr&iacute;spevku</b>: nen&aacute;vratn&yacute; finančn&yacute; pr&iacute;spevok.<div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a><a href=\"https://www.mfsr.sk/sk/financne-vztahy-eu/povstupove-fondy-eu/programove-obdobie-2021-2027/prirucka-k-financnemu-riadeniu-fondov-eu-programove-obdobie-2021-2027/\">https://www.mfsr.sk/sk/financne-vztahy-eu/povstupove-fondy-eu/programove-obdobie-2021-2027/prirucka-k-financnemu-riadeniu-fondov-eu-programove-obdobie-2021-2027/</a> &nbsp;</div></div></div></div>"
+  }
+ ],
+ "verzia": [
+  {
+   "id": 6990,
+   "cislo": 1,
+   "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [
+  {
+   "id": 17,
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1250,
+    "href": "/ukazovatelprojektovy/id/1250",
+    "kod": "PSKPRCR11",
+    "nazovSk": "Používatelia nových a vylepšených verejných digitálnych služieb, produktov a procesov",
+    "mernaJednotka": {
+     "id": 200093,
+     "kod": "105394",
+     "nazovSk": "používatelia / rok",
+     "popisSk": "používatelia / rok",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><div><div><div>Definičn&aacute; matica</div><div>1.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Ukazovateľ m&aacute; v&yacute;chodiskov&uacute; hodnotu 0, iba ak je digit&aacute;lna služba, produkt alebo proces&nbsp; nov&yacute;.&nbsp;</div><div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div></div></div></div><div>Prihl&aacute;senie cez spoločn&yacute; modul IAM (Identity Access Management) &Uacute;PVS (&Uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy), cez eID budeme vedieť identifikovať občana/subjekt. Datab&aacute;za použ&iacute;vateľov v&nbsp;oblasti KIB.<br />2.1</div><div><b>Popis znaku, charakteristiky, pravidla&nbsp;</b></div><div>Použ&iacute;vateľ</div><div><b>Povinnosť plnenia:</b>&nbsp;</div><div>Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 2</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Prihl&aacute;senie cez spoločn&yacute; modul IAM (Identity Access Management) &Uacute;PVS (&Uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy), cez eID budeme vedieť identifikovať občana/subjekt.<br />2.2</div><div><b>Popis znaku, charakteristiky, pravidla&nbsp;</b><br />Použ&iacute;vateľ v oblasti KIB</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 2</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Datab&aacute;za použ&iacute;vateľov v oblasti KIB.<br />3.1</div><div><b>Popis znaku, charakteristiky, pravidla&nbsp;</b></div><div>Inov&aacute;cia &ndash; novovyvinut&aacute;</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Žiadosť &ndash; inovuje produkt cez nov&uacute; technol&oacute;giu, či zaobstaral technol&oacute;giu (technick&eacute; listy, technick&eacute; požiadavky).<br />3.2</div><div><b>Popis znaku, charakteristiky, pravidla&nbsp;</b></div><div>Inov&aacute;cia &ndash; v&yacute;razne inovovan&aacute;. V&yacute;znamn&eacute; inov&aacute;cie sa t&yacute;kaj&uacute; iba nov&yacute;ch funkci&iacute;.</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Moderniz&aacute;cia existuj&uacute;cej elektronickej služby pre občana / podnikateľa podporen&aacute; projektom.<br />3.3</div><div><b>Popis znaku, charakteristiky, pravidla&nbsp;</b></div><div>Inov&aacute;cia digit&aacute;lnej verejnej služby.</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne&nbsp;3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Počet podan&iacute; pre nov&eacute; modernizovan&eacute; služby verejnej spr&aacute;vy, overenie:<br />Podp&iacute;san&eacute; podania občana / podnikateľa logovan&eacute; v module IAM &Uacute;PVS.<br />3.4</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Inov&aacute;cia produktov</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne&nbsp;3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Žiadosť &ndash; inovuje produkt cez nov&uacute; technol&oacute;giu, či zaobstaral technol&oacute;giu (stroje, pr&iacute;stroje, zariadenia, pr&iacute;p. in&eacute; relevantn&eacute; v&yacute;davky (napr. softv&eacute;r, licencie,...)), ktor&aacute; mu umožn&iacute; vyr&aacute;bať / poskytovať produkt deklarovan&yacute; v Zmluve o poskytnut&iacute; NFP (technick&eacute; listy, technick&eacute; požiadavky, ďalej napr. prostredn&iacute;ctvom produktov&yacute;ch listov/katal&oacute;gu produktov, internetovej str&aacute;nky, technick&yacute;ch listov v&yacute;robku, protokolov z technickej sk&uacute;&scaron;ky, dodac&iacute;ch listov).<br />3.5</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Inov&aacute;cia procesov</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne&nbsp;3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Žiadosť &ndash; inovuje proces cez nov&uacute; technol&oacute;giu (stroje, pr&iacute;stroje, zariadenia), či zaobstaral technol&oacute;giu (technick&eacute; listy, technick&eacute; požiadavky, ďalej napr. popis technick&yacute;ch parametrov strojov, pr&iacute;strojov, zariaden&iacute;, popis a modelovanie procesu, stav inov&aacute;cie procesu, procesn&aacute; mapa).<br />3.6</div><div><b>Popis znaku, charakteristiky, pravidla&nbsp;</b></div><div>Nov&aacute; verejn&aacute; digit&aacute;lna služba, produkt, alebo proces</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne&nbsp;3<br /><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Napr.&nbsp; nov&aacute; verejn&aacute; digit&aacute;lna služba, produkt, alebo proces. Poskytovateľ bliž&scaron;ie &scaron;pecifikuje zdroj overenia vo v&yacute;zve.</div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1675330057592,
+    "updatedAt": 1731317909041
+   }
+  },
+  {
+   "id": 21,
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1250,
+    "href": "/ukazovatelprojektovy/id/1250",
+    "kod": "PSKPRCR11",
+    "nazovSk": "Používatelia nových a vylepšených verejných digitálnych služieb, produktov a procesov",
+    "mernaJednotka": {
+     "id": 200093,
+     "kod": "105394",
+     "nazovSk": "používatelia / rok",
+     "popisSk": "používatelia / rok",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><div><div><div>Definičn&aacute; matica</div><div>1.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Ukazovateľ m&aacute; v&yacute;chodiskov&uacute; hodnotu 0, iba ak je digit&aacute;lna služba, produkt alebo proces&nbsp; nov&yacute;.&nbsp;</div><div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div></div></div></div><div>Prihl&aacute;senie cez spoločn&yacute; modul IAM (Identity Access Management) &Uacute;PVS (&Uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy), cez eID budeme vedieť identifikovať občana/subjekt. Datab&aacute;za použ&iacute;vateľov v&nbsp;oblasti KIB.<br />2.1</div><div><b>Popis znaku, charakteristiky, pravidla&nbsp;</b></div><div>Použ&iacute;vateľ</div><div><b>Povinnosť plnenia:</b>&nbsp;</div><div>Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 2</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Prihl&aacute;senie cez spoločn&yacute; modul IAM (Identity Access Management) &Uacute;PVS (&Uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy), cez eID budeme vedieť identifikovať občana/subjekt.<br />2.2</div><div><b>Popis znaku, charakteristiky, pravidla&nbsp;</b><br />Použ&iacute;vateľ v oblasti KIB</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 2</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Datab&aacute;za použ&iacute;vateľov v oblasti KIB.<br />3.1</div><div><b>Popis znaku, charakteristiky, pravidla&nbsp;</b></div><div>Inov&aacute;cia &ndash; novovyvinut&aacute;</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Žiadosť &ndash; inovuje produkt cez nov&uacute; technol&oacute;giu, či zaobstaral technol&oacute;giu (technick&eacute; listy, technick&eacute; požiadavky).<br />3.2</div><div><b>Popis znaku, charakteristiky, pravidla&nbsp;</b></div><div>Inov&aacute;cia &ndash; v&yacute;razne inovovan&aacute;. V&yacute;znamn&eacute; inov&aacute;cie sa t&yacute;kaj&uacute; iba nov&yacute;ch funkci&iacute;.</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Moderniz&aacute;cia existuj&uacute;cej elektronickej služby pre občana / podnikateľa podporen&aacute; projektom.<br />3.3</div><div><b>Popis znaku, charakteristiky, pravidla&nbsp;</b></div><div>Inov&aacute;cia digit&aacute;lnej verejnej služby.</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne&nbsp;3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Počet podan&iacute; pre nov&eacute; modernizovan&eacute; služby verejnej spr&aacute;vy, overenie:<br />Podp&iacute;san&eacute; podania občana / podnikateľa logovan&eacute; v module IAM &Uacute;PVS.<br />3.4</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Inov&aacute;cia produktov</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne&nbsp;3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Žiadosť &ndash; inovuje produkt cez nov&uacute; technol&oacute;giu, či zaobstaral technol&oacute;giu (stroje, pr&iacute;stroje, zariadenia, pr&iacute;p. in&eacute; relevantn&eacute; v&yacute;davky (napr. softv&eacute;r, licencie,...)), ktor&aacute; mu umožn&iacute; vyr&aacute;bať / poskytovať produkt deklarovan&yacute; v Zmluve o poskytnut&iacute; NFP (technick&eacute; listy, technick&eacute; požiadavky, ďalej napr. prostredn&iacute;ctvom produktov&yacute;ch listov/katal&oacute;gu produktov, internetovej str&aacute;nky, technick&yacute;ch listov v&yacute;robku, protokolov z technickej sk&uacute;&scaron;ky, dodac&iacute;ch listov).<br />3.5</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Inov&aacute;cia procesov</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne&nbsp;3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Žiadosť &ndash; inovuje proces cez nov&uacute; technol&oacute;giu (stroje, pr&iacute;stroje, zariadenia), či zaobstaral technol&oacute;giu (technick&eacute; listy, technick&eacute; požiadavky, ďalej napr. popis technick&yacute;ch parametrov strojov, pr&iacute;strojov, zariaden&iacute;, popis a modelovanie procesu, stav inov&aacute;cie procesu, procesn&aacute; mapa).<br />3.6</div><div><b>Popis znaku, charakteristiky, pravidla&nbsp;</b></div><div>Nov&aacute; verejn&aacute; digit&aacute;lna služba, produkt, alebo proces</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne&nbsp;3<br /><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Napr.&nbsp; nov&aacute; verejn&aacute; digit&aacute;lna služba, produkt, alebo proces. Poskytovateľ bliž&scaron;ie &scaron;pecifikuje zdroj overenia vo v&yacute;zve.</div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1675330057592,
+    "updatedAt": 1731317909041
+   }
+  }
+ ],
+ "ukazovatelVystupovy": [
+  {
+   "id": 97,
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1315,
+    "href": "/ukazovatelprojektovy/id/1315",
+    "kod": "PSKPSOI12",
+    "nazovSk": "Verejné inštitúcie podporované v rozvoji kybernetických služieb, produktov a procesov",
+    "mernaJednotka": {
+     "id": 200101,
+     "kod": "1053102",
+     "nazovSk": "verejné inštitúcie",
+     "popisSk": "verejné inštitúcie",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><div>Definičn&aacute; matica</div><div>1.1.</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet verejn&yacute;ch in&scaron;tit&uacute;ci&iacute;, ktor&eacute; s&uacute; podporovan&eacute; za &uacute;čelom rozvoja a&nbsp; moderniz&aacute;cie kybernetick&yacute;ch služieb, produktov, procesov a zvy&scaron;ovania vedomostnej &uacute;rovne napr&iacute;klad v kontexte opatren&iacute; smeruj&uacute;cich k elektronickej bezpečnosti verejnej spr&aacute;vy.</div><div><b>Povinnosť plnenia:</b> minim&aacute;lne&nbsp; jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Subjekty verejnej spr&aacute;vy zap&iacute;san&eacute; v&nbsp;<a href=\"https://slovak.statistics.sk/wps/portal/ext/Databases/Register%20organizacii/!ut/p/z1/jY_BDoIwEEQ_qVNbLB4XI6WGEFstYi-mJ9NE0YPx-1XiVWBvk7yXmWWBdSz08ZUu8Znufbx-8iksz2St3ddtC90uShjBNRrvgVKx4wBYZfKi4IS8cRuYA-2020oOmbEwxx8Bvj7-HOHnrzVVUtVAXusMhirvVlYIkJjXP1Iw6YcBGVsw9cPj5r3vkN7pj02T/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X1ZMUDhCQjFBMDhETzAwNlNWUkk3UzYxMEEz/\">&scaron;tatistickom registri organiz&aacute;ci&iacute; vedenom &Scaron;tatistick&yacute;m &uacute;radom SR</a>, ktor&eacute; s&uacute; zaraden&eacute; v sektore verejnej spr&aacute;vy.&nbsp;</div><div>1.2.</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Moderniz&aacute;cia a postupn&eacute; roz&scaron;irovanie proakt&iacute;vnych služieb formou budovania bezpečnostn&eacute;ho dohľadov&eacute;ho centra CSIRT. Zvy&scaron;ovanie vedomostnej &uacute;rovne o kybernetickej bezpečnosti.</div><div><b>Povinnosť plnenia:</b> minim&aacute;lne&nbsp; jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Subjekt VS podľa &Scaron;&Uacute;</div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1677658788300,
+    "updatedAt": 1739443623781
+   }
+  },
+  {
+   "id": 98,
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1315,
+    "href": "/ukazovatelprojektovy/id/1315",
+    "kod": "PSKPSOI12",
+    "nazovSk": "Verejné inštitúcie podporované v rozvoji kybernetických služieb, produktov a procesov",
+    "mernaJednotka": {
+     "id": 200101,
+     "kod": "1053102",
+     "nazovSk": "verejné inštitúcie",
+     "popisSk": "verejné inštitúcie",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><div>Definičn&aacute; matica</div><div>1.1.</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet verejn&yacute;ch in&scaron;tit&uacute;ci&iacute;, ktor&eacute; s&uacute; podporovan&eacute; za &uacute;čelom rozvoja a&nbsp; moderniz&aacute;cie kybernetick&yacute;ch služieb, produktov, procesov a zvy&scaron;ovania vedomostnej &uacute;rovne napr&iacute;klad v kontexte opatren&iacute; smeruj&uacute;cich k elektronickej bezpečnosti verejnej spr&aacute;vy.</div><div><b>Povinnosť plnenia:</b> minim&aacute;lne&nbsp; jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Subjekty verejnej spr&aacute;vy zap&iacute;san&eacute; v&nbsp;<a href=\"https://slovak.statistics.sk/wps/portal/ext/Databases/Register%20organizacii/!ut/p/z1/jY_BDoIwEEQ_qVNbLB4XI6WGEFstYi-mJ9NE0YPx-1XiVWBvk7yXmWWBdSz08ZUu8Znufbx-8iksz2St3ddtC90uShjBNRrvgVKx4wBYZfKi4IS8cRuYA-2020oOmbEwxx8Bvj7-HOHnrzVVUtVAXusMhirvVlYIkJjXP1Iw6YcBGVsw9cPj5r3vkN7pj02T/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X1ZMUDhCQjFBMDhETzAwNlNWUkk3UzYxMEEz/\">&scaron;tatistickom registri organiz&aacute;ci&iacute; vedenom &Scaron;tatistick&yacute;m &uacute;radom SR</a>, ktor&eacute; s&uacute; zaraden&eacute; v sektore verejnej spr&aacute;vy.&nbsp;</div><div>1.2.</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Moderniz&aacute;cia a postupn&eacute; roz&scaron;irovanie proakt&iacute;vnych služieb formou budovania bezpečnostn&eacute;ho dohľadov&eacute;ho centra CSIRT. Zvy&scaron;ovanie vedomostnej &uacute;rovne o kybernetickej bezpečnosti.</div><div><b>Povinnosť plnenia:</b> minim&aacute;lne&nbsp; jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Subjekt VS podľa &Scaron;&Uacute;</div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1677658788300,
+    "updatedAt": 1739443623781
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 810,
+   "href": "/typakcieprogramu/id/810",
+   "kod": "401101R10201212",
+   "nazovSk": "Zlepšovanie technologického, procesného, infraštruktúrneho, vedomostného a organizačného zabezpečenia zručností a kapacít pre plnenie úloh v oblasti KIB v prostredí orgánov štátnej a verejnej správy",
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "opatrenie": {
+    "id": 92,
+    "href": "/opatrenie/id/92",
+    "kod": "401101R10201",
+    "nazovSk": "Podpora v oblasti informatizácie a digitálnej transformácie",
+    "specifickyCielProgramu": {
+     "id": 53,
+     "href": "/specifickycielprogramu/id/53",
+     "kod": "401101R102",
+     "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 1,
+      "href": "/priorita/id/1",
+      "kod": "401101",
+      "nazovSk": "1P1 Veda, výskum a inovácie",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867949
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868608
+    },
+    "createdAt": 1772540868622
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516234276,
+   "updatedAt": 1772541490793
+  },
+  {
+   "id": 814,
+   "href": "/typakcieprogramu/id/814",
+   "kod": "401101R10201091",
+   "nazovSk": "Zlepšovanie technologického, procesného, infraštruktúrneho, vedomostného a organizačného zabezpečenia zručností a kapacít pre plnenie úloh v oblasti KIB v prostredí orgánov štátnej a verejnej správy",
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "opatrenie": {
+    "id": 92,
+    "href": "/opatrenie/id/92",
+    "kod": "401101R10201",
+    "nazovSk": "Podpora v oblasti informatizácie a digitálnej transformácie",
+    "specifickyCielProgramu": {
+     "id": 53,
+     "href": "/specifickycielprogramu/id/53",
+     "kod": "401101R102",
+     "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 1,
+      "href": "/priorita/id/1",
+      "kod": "401101",
+      "nazovSk": "1P1 Veda, výskum a inovácie",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867949
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868608
+    },
+    "createdAt": 1772540868622
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516234280,
+   "updatedAt": 1772541490792
+  },
+  {
+   "id": 977,
+   "href": "/typakcieprogramu/id/977",
+   "kod": "401101R102010P2",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "opatrenie": {
+    "id": 92,
+    "href": "/opatrenie/id/92",
+    "kod": "401101R10201",
+    "nazovSk": "Podpora v oblasti informatizácie a digitálnej transformácie",
+    "specifickyCielProgramu": {
+     "id": 53,
+     "href": "/specifickycielprogramu/id/53",
+     "kod": "401101R102",
+     "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 1,
+      "href": "/priorita/id/1",
+      "kod": "401101",
+      "nazovSk": "1P1 Veda, výskum a inovácie",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867949
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868608
+    },
+    "createdAt": 1772540868622
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516242465,
+   "updatedAt": 1772541490792
+  },
+  {
+   "id": 976,
+   "href": "/typakcieprogramu/id/976",
+   "kod": "401101R102010P1",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "opatrenie": {
+    "id": 92,
+    "href": "/opatrenie/id/92",
+    "kod": "401101R10201",
+    "nazovSk": "Podpora v oblasti informatizácie a digitálnej transformácie",
+    "specifickyCielProgramu": {
+     "id": 53,
+     "href": "/specifickycielprogramu/id/53",
+     "kod": "401101R102",
+     "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 1,
+      "href": "/priorita/id/1",
+      "kod": "401101",
+      "nazovSk": "1P1 Veda, výskum a inovácie",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867949
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868608
+    },
+    "createdAt": 1772540868622
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516242420,
+   "updatedAt": 1772541490793
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200025,
+    "kod": "10364PO016",
+    "kodZdroj": "016",
+    "nazovSk": "Vládne riešenia IKT, elektronické služby, aplikácie",
+    "nazovEn": "Vládne riešenia IKT, elektronické služby, aplikácie",
+    "nazovDe": "IKT-Lösungen, elektronische Dienste und Anwendungen für staatliche Behörden",
+    "popisSk": "Vládne riešenia IKT, elektronické služby, aplikácie",
+    "popisDe": "IKT-Lösungen, elektronische Dienste und Anwendungen für staatliche Behörden",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200025,
+    "kod": "10364PO016",
+    "kodZdroj": "016",
+    "nazovSk": "Vládne riešenia IKT, elektronické služby, aplikácie",
+    "nazovEn": "Vládne riešenia IKT, elektronické služby, aplikácie",
+    "nazovDe": "IKT-Lösungen, elektronische Dienste und Anwendungen für staatliche Behörden",
+    "popisSk": "Vládne riešenia IKT, elektronické služby, aplikácie",
+    "popisDe": "IKT-Lösungen, elektronische Dienste und Anwendungen für staatliche Behörden",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200015,
+    "kod": "10384PO15",
+    "kodZdroj": "15",
+    "nazovSk": "Informačné a komunikačné činnosti vrátane telekomunikácií",
+    "nazovEn": "Informačné a komunikačné činnosti vrátane telekomunikácií",
+    "nazovDe": "Information und Kommunikation, einschließlich Telekommunikation",
+    "popisSk": "Informačné a komunikačné činnosti vrátane telekomunikácií",
+    "popisDe": "Information und Kommunikation, einschließlich Telekommunikation",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200015,
+    "kod": "10384PO15",
+    "kodZdroj": "15",
+    "nazovSk": "Informačné a komunikačné činnosti vrátane telekomunikácií",
+    "nazovEn": "Informačné a komunikačné činnosti vrátane telekomunikácií",
+    "nazovDe": "Information und Kommunikation, einschließlich Telekommunikation",
+    "popisSk": "Informačné a komunikačné činnosti vrátane telekomunikácií",
+    "popisDe": "Information und Kommunikation, einschließlich Telekommunikation",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200003,
+    "kod": "12094PO04",
+    "kodZdroj": "04",
+    "nazovSk": "Stratégia pre región Dunaja",
+    "nazovEn": "Stratégia pre región Dunaja",
+    "nazovDe": "Strategie für den Donauraum",
+    "popisSk": "Stratégia pre región Dunaja",
+    "popisDe": "Strategie für den Donauraum",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 53,
+    "href": "/specifickycielprogramu/id/53",
+    "kod": "401101R102",
+    "nazovSk": "RSO1.2 Využívanie prínosov digitalizácie pre občanov, podniky, výskumné organizácie a orgány verejnej správy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 1,
+     "href": "/priorita/id/1",
+     "kod": "401101",
+     "nazovSk": "1P1 Veda, výskum a inovácie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867949
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868608
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200003,
+    "kod": "12094PO04",
+    "kodZdroj": "04",
+    "nazovSk": "Stratégia pre región Dunaja",
+    "nazovEn": "Stratégia pre región Dunaja",
+    "nazovDe": "Strategie für den Donauraum",
+    "popisSk": "Stratégia pre región Dunaja",
+    "popisDe": "Strategie für den Donauraum",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 1,
+   "kod": "1033MRR",
+   "kodZdroj": "MRR",
+   "nazovSk": "Menej rozvinutý región",
+   "nazovEn": "less-developed regions",
+   "popisSk": "Menej rozvinutý región",
+   "popisEn": "less-developed regions",
+   "platnostOd": 725842800000
+  },
+  {
+   "id": 2,
+   "kod": "1033VRR",
+   "kodZdroj": "VRR",
+   "nazovSk": "Viac rozvinutý región",
+   "nazovEn": "more-developed regions",
+   "popisSk": "Viac rozvinutý región",
+   "popisEn": "more-developed regions",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [],
+ "projektovyZamerIUS": []
+}

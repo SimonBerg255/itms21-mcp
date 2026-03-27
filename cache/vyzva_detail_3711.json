@@ -1,0 +1,2036 @@
+{
+ "id": 3711,
+ "href": "/vyzva/id/3711",
+ "kod": "PSK-MZ-012-2025-DV-EFRR",
+ "nazovSk": "Podpora infraštruktúry pre výskum v rámci projektov spoločného európskeho záujmu v doméne Zdravá spoločnosť – IPCEI",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 97,
+   "href": "/specifickycielprogramu/id/97",
+   "kod": "401103R106",
+   "nazovSk": "RSO1.6. Podpory investícií, ktoré prispievajú k cieľom Platformy strategických technológií pre Európu uvedeným v článku 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/795 (EFRR)",
+   "nazovDe": "RSO1.6 Unterstützung von Investitionen, die zu den in Artikel 2 der Verordnung (EU) 2024/795 genannten STEP-Zielen beitragen",
+   "nazovEn": "RSO1.6 Supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 41,
+    "href": "/priorita/id/41",
+    "kod": "401103",
+    "nazovSk": "1P3 Platforma strategických technológií pre Európu (STEP)",
+    "nazovDe": "1P3 Plattform für strategische Technologien für Europa (STEP)",
+    "nazovEn": "1P3 Strategic Technologies for Europe Platform (STEP)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867966
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540867984
+  }
+ ],
+ "opatrenie": [],
+ "miestoRealizacie": [
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 14,
+   "kod": "1009112",
+   "kodZdroj": "112",
+   "nazovSk": "Spoločnosť s ručením obmedzeným",
+   "nazovEn": "Limited liability company",
+   "popisSk": "Spol. s r. o. Spoločnosť s ručením obmedzeným",
+   "popisEn": "Limited liability comp. Limited liability company",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1754517600000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 381,
+  "kod": "21_SO_PSK_MZSR",
+  "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo zdravotníctva SR",
+  "subjekt": {
+   "id": 100013,
+   "href": "/subjekt/id/100013",
+   "nazov": "Ministerstvo zdravotníctva Slovenskej republiky",
+   "ico": "00165565",
+   "dic": "2020830141",
+   "icz": "1000108714",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2020830141",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Limbová",
+    "cislo": "3330/2",
+    "psc": "83752",
+    "obec": "Bratislava - mestská časť Nové Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "OTVORENA",
+ "zameranieProjektu": "DOPYT_21",
+ "createdAt": 1753715558599,
+ "updatedAt": 1754558094353,
+ "sumaEu": 21000000.0,
+ "predvyber": false,
+ "posudzovaneObdobie": [
+  {
+   "poradoveCislo": 1,
+   "datumUzavierky": 1759183200000
+  },
+  {
+   "poradoveCislo": 2,
+   "datumUzavierky": 1764457200000
+  }
+ ],
+ "pocetPredlozenychZiadosti": 2,
+ "pocetSchvalenychZiadosti": 2,
+ "pocetZiadostiVKonani": 0,
+ "pocetNeschvalenychZiadosti": 0,
+ "pocetRealizovanychProjektov": 1,
+ "planovanaVyzva": [],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 6,
+   "kod": "1032EFRR",
+   "kodZdroj": "EFRR",
+   "nazovSk": "Európsky fond regionálneho rozvoja",
+   "nazovEn": "European Regional Development Fund",
+   "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+   "popisSk": "Európsky fond regionálneho rozvoja",
+   "popisEn": "European Regional Development Fund",
+   "popisDe": "Europäischen Fonds für regionale Entwicklung",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "cielVyzvy": "<div style=\"text-align: justify;\">Cieľom a &uacute;čelom v&yacute;zvy je zlep&scaron;iť synergie opatren&iacute; v oblasti v&yacute;skumu, v&yacute;voja a inov&aacute;ci&iacute; medzi vn&uacute;tro&scaron;t&aacute;tnou &uacute;rovňou a &uacute;rovňou E&Uacute; prostredn&iacute;ctvom podpory v&yacute;skumno &ndash; v&yacute;vojovo &ndash; inovačnej f&aacute;zy a f&aacute;zy prv&eacute;ho priemyseln&eacute;ho nasadenia (resp. jej časti) projektov, ktor&eacute; s&uacute; s&uacute;časťou v&yacute;znamn&eacute;ho projektu spoločn&eacute;ho eur&oacute;pskeho z&aacute;ujmu (IPCEI &ndash; Important Project of Common European Interest) Med4Cure (ďalej aj &bdquo;IPCEI projekty&ldquo;), v r&aacute;mci ktor&yacute;ch bolo poskytnutie &scaron;t&aacute;tnej pomoci Slovenskou republikou notifikovan&eacute; a Eur&oacute;pska komisia o tejto notifik&aacute;cii rozhodla. Predmetom podpory v r&aacute;mci tejto v&yacute;zvy bud&uacute; projekty realizovan&eacute; v r&aacute;mci menej rozvinut&yacute;ch regi&oacute;nov. V&yacute;zva sa zameriava &scaron;pecificky na podporu aktiv&iacute;t zameran&yacute;ch na plnenie transformačn&yacute;ch cieľov dom&eacute;ny Zdrav&aacute; spoločnosť.<br />V&yacute;zva podporuje projekty v celom v&yacute;skumnom a inovačnom cykle (&uacute;roveň technologickej pripravenosti 2 &ndash; 9).<br />Opr&aacute;vnen&aacute; aktivita v&yacute;zvy je:<br />Realiz&aacute;cia projektov na podporu kritick&yacute;ch biotechnol&oacute;gi&iacute; (vr&aacute;tane kritick&yacute;ch liekov, ktor&eacute; s&uacute; uveden&eacute; na zozname kritick&yacute;ch liekov &Uacute;nie, a ich zložiek).<br />Cieľ v&yacute;zvy bol zadefinovan&yacute; tak&yacute;m sp&ocirc;sobom, aby prispel k plneniu hlavn&yacute;ch nosn&yacute;ch oblast&iacute; zmeny, ktor&eacute; s&uacute; definovan&eacute; v N&aacute;rodnej strat&eacute;gii v&yacute;skumu, v&yacute;voja a inov&aacute;ci&iacute; 2030, a to nasledovn&yacute;m sp&ocirc;sobom:</div><ul><li style=\"text-align: justify;\">prioriz&aacute;cia v podpore v&yacute;skumu a v&yacute;voja na Slovensku spojen&aacute; predov&scaron;etk&yacute;m s produkt&iacute;vnymi invest&iacute;ciami do biotechnol&oacute;gi&iacute; v zmysle z&aacute;sad podnikateľsk&eacute;ho objavovania.</li></ul>",
+ "sposobFinancovania": [
+  "ZALOHA",
+  "PREDFINANCOVANIE",
+  "REFUNDACIA"
+ ],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktNazov": "Ministerstvo zdravotníctva Slovenskej republiky",
+ "kontaktEmail": "info.eurofondy@health.gov.sk",
+ "kontaktneUdajePoskytovatela": "<div>Inform&aacute;cie t&yacute;kaj&uacute;ce sa tejto v&yacute;zvy m&ocirc;žu žiadatelia z&iacute;skať na webovej str&aacute;nke https://portal.itms21.sk/ a z&aacute;roveň jednou z nasleduj&uacute;cich foriem:</div><ul><li>elektronickou formou na e-mailovej adrese: info.eurofondy@health.gov.sk,</li></ul><div>alebo</div><ul><li>e-schr&aacute;nkou na adrese SO uvedenej v tejto v&yacute;zve.</li></ul><div style=\"text-align: justify;\">Z&aacute;v&auml;zn&yacute; charakter maj&uacute; inform&aacute;cie zverejnen&eacute; na webov&yacute;ch str&aacute;nkach www.eurofondy.gov.sk, www.health.gov.sk a https://portal.itms21.sk/, ako aj inform&aacute;cie poskytnut&eacute; elektronickou a p&iacute;somnou formou. Inform&aacute;cie poskytnut&eacute; telefonicky alebo &uacute;stne nie je možn&eacute; považovať za z&aacute;v&auml;zn&eacute; a odvol&aacute;vať sa na takto poskytnut&eacute; inform&aacute;cie.<br />Na žiadosti o inform&aacute;cie t&yacute;kaj&uacute;ce sa tejto v&yacute;zvy zasielan&eacute; na uveden&eacute; adresy odpoved&aacute; poskytovateľ v lehote najnesk&ocirc;r 10 pracovn&yacute;ch dn&iacute; odo dňa doručenia žiadosti. SO z&aacute;roveň priebežne zverejňuje v&yacute;klad k v&yacute;zve na webovom linku www.health.gov.sk v sekcii &bdquo;Najčastej&scaron;ie kladen&eacute; ot&aacute;zky a odpovede&ldquo;.<br />V r&aacute;mci procesu konania o ŽoNFP bude poskytovateľ komunik&aacute;ciu so žiadateľmi vykon&aacute;vať elektronick&yacute;mi prostriedkami, a to prostredn&iacute;ctvom ITMS21+ (v pr&iacute;padoch, kde nie je nevyhnutn&aacute; komunik&aacute;cia v zmysle Z&aacute;kona o e-Governmente) alebo v zmysle Z&aacute;kona o e-Governmente.<br /><b>Poskytovateľ neposkytuje v procese konania o ŽoNFP žiadne inform&aacute;cie o jeho priebehu až do ukončenia tohto procesu.</b></div>",
+ "kontaktnaOsoba": [],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "Podmienka oprávnenosti žiadateľa (právna forma)",
+   "popisSk": "<div><span style=\"color:#0065b3\"><b>Popis PPP:</b></span></div><div>Opr&aacute;vnen&yacute;m žiadateľom na predloženie ŽoNFP je podnikateľsk&yacute; sektor, ktor&yacute; tvoria podnikatelia, ktor&iacute; v r&aacute;mci svojich podnikateľsk&yacute;ch činnost&iacute; uskutočňuj&uacute; aj v&yacute;skum a v&yacute;voj (mikro, mal&eacute; a stredn&eacute; podniky, tzv. MSP; veľk&eacute; podniky) - opr&aacute;vnen&eacute; na podnikanie podľa &sect; 2 ods. 2 p&iacute;sm. a) Obchodn&eacute;ho z&aacute;konn&iacute;ka, ktor&yacute;ch IPCEI projekt v oblasti zdravotn&iacute;ctva &ndash; Med4Cure - bol s&uacute;časťou notifik&aacute;cie poskytnutia &scaron;t&aacute;tnej pomoci predloženej Slovenskou republikou, pričom Eur&oacute;pska komisia o tejto notifik&aacute;cii rozhodla.</div><div><span style=\"color:#0065b3\"><b>Forma preuk&aacute;zania PPP pri podan&iacute; ŽoNFP:</b></span></div><ul><li>Formul&aacute;r ŽoNFP &ndash; časť 1. Identifik&aacute;cia žiadateľa</li><li>Pr&iacute;loha ŽoNFP č. 1.03 - Plnomocenstvo.&nbsp;V pr&iacute;pade, ak je osoba konaj&uacute;ca v mene opr&aacute;vnen&eacute;ho žiadateľa odli&scaron;n&aacute; od &scaron;tatut&aacute;rneho org&aacute;nu, mus&iacute; byť riadne splnomocnen&aacute; plnomocenstvom na v&yacute;kon &uacute;konov viažucich sa ku konaniu o žiadosti (pr&iacute;loha č. 1.03); žiadateľ pr&iacute;lohu vklad&aacute; do ITMS21+ vo forme skenu podp&iacute;san&eacute;ho &uacute;radne overen&eacute;ho listinn&eacute;ho origin&aacute;lu (vo form&aacute;te pdf).</li></ul><div><span style=\"color:#0065b3\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa:</b></span></div><div>Overenie &uacute;dajov v informačn&yacute;ch syst&eacute;moch verejnej spr&aacute;vy https://rpo.statistics.sk a https://oversi.gov.sk, prostredn&iacute;ctvom formul&aacute;ra ŽoNFP (časť 1. Identifik&aacute;cia žiadateľa) a informačn&eacute;ho syst&eacute;mu ITMS21+, rozhodnutie EK.</div><div><span style=\"color:#0065b3\"><b>Ukončenie uplatniteľnosti:</b></span></div><div>Overuje sa v konan&iacute; o žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne počas realiz&aacute;cie projektu.<br />Až do skončenia doby udržateľnosti projektu - v zmysle čl. 65 NSU.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "UDAJE_Z_RPO"
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Čestné vyhlásenie MSP",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "UCTOVNA_ZAVIERKA"
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Plnomocenstvo",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 4,
+     "nazovSk": "Udelenie súhlasu pre poskytnutie výpisu z registra trestov",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "Podmienka zákazu vedenia výkonu rozhodnutia voči žiadateľovi",
+   "popisSk": "<div><span style=\"color:rgb(0, 101, 179)\"><b>Popis PPP:</b></span></div><div><span style=\"color:#0065b3\">Voči subjektu</span> (okrem vybran&yacute;ch subjektov <span style=\"color:#0065b3\">podľa &sect; 7 p&iacute;sm. a)</span> z&aacute;kona č. 172/2005 Z. z. o organiz&aacute;cii &scaron;t&aacute;tnej podpory VaV) n<span style=\"color:#0065b3\">esmie byť vykon&aacute;van&aacute; exek&uacute;cia podľa Exekučn&eacute;ho poriadku, ani veden&yacute; in&yacute; v&yacute;kon rozhodnutia podľa osobitn&yacute;ch predpisov</span>, ktor&eacute;ho predmetom je n&uacute;ten&yacute; v&yacute;kon povinnosti zaplatiť peňažn&uacute; sumu vo v&yacute;&scaron;ke vym&aacute;han&eacute;ho n&aacute;roku, vr&aacute;tane v&scaron;etk&yacute;ch trov s&uacute;visiacich s v&yacute;konom rozhodnutia za v&scaron;etky takto vykon&aacute;van&eacute; exek&uacute;cie alebo in&eacute; v&yacute;kony rozhodnutia vy&scaron;&scaron;ej ako 5 000 EUR. Voči žiadateľovi tiež nesmie byť veden&yacute; v&yacute;kon rozhodnutia na plnenie inej povinnosti, ktor&aacute; nespoč&iacute;va v zaplaten&iacute; peňažnej sumy, pokiaľ t&aacute;to nepeňažn&aacute; povinnosť akokoľvek priamo alebo nepriamo s&uacute;vis&iacute; s projektom, ktor&yacute; je predmetom podanej ŽoNFP žiadateľa. V pr&iacute;pade, ak celkov&aacute; s&uacute;hrnn&aacute; v&yacute;&scaron;ka vym&aacute;han&eacute;ho n&aacute;roku za v&scaron;etky exek&uacute;cie alebo in&eacute; v&yacute;kony rozhodnutia presiahla sumu 5 000 EUR, je pre &uacute;čely pos&uacute;denia tejto podmienky rozhoduj&uacute;ca skutočnosť, či dlžn&aacute; suma a v&scaron;etky trovy s&uacute;visiace s v&yacute;konom rozhodnutia boli uhraden&eacute;, resp. bola dlžn&aacute; suma a v&yacute;&scaron;ka v&scaron;etk&yacute;ch trov exek&uacute;cie zložen&eacute; do z&aacute;bezpeky v celkovej v&yacute;&scaron;ke vym&aacute;han&eacute;ho n&aacute;roku, na osobitn&yacute; &uacute;čet exek&uacute;tora, zriaden&yacute; na tento &uacute;čel podľa Exekučn&eacute;ho poriadku. Uveden&aacute; PPP sa net&yacute;ka v&yacute;konu rozhodnutia voči členom riadiacich a dozorn&yacute;ch org&aacute;nov žiadateľa, ale je relevantn&aacute; vo vzťahu k subjektu žiadateľa.</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Forma preuk&aacute;zania PPP pri podan&iacute; ŽoNFP:</b></span></div><ul><li>Formul&aacute;r ŽoNFP</li></ul><div><span style=\"color:rgb(0, 101, 179)\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa:</b></span></div><div>Overenie &uacute;dajov v informačn&yacute;ch syst&eacute;moch www.cre.sk, prostredn&iacute;ctvom formul&aacute;ra ŽoNFP&nbsp;a informačn&eacute;ho syst&eacute;mu ITMS21+ a na z&aacute;klade predložen&yacute;ch dokumentov.</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti:</b></span></div><div>Až do skončenia doby udržateľnosti projektu - v zmysle čl. 65 NSU. (V čase implement&aacute;cie projektu je možn&eacute; uplatniť preru&scaron;enie plnenia danej podmienky s t&yacute;m, že prij&iacute;mateľ je povinn&yacute; podmienku op&auml;ť začať plniť v term&iacute;ne stanovenom poskytovateľom &ndash; ak k op&auml;tovn&eacute;mu plneniu podmienky d&ocirc;jde tak, že dočasn&eacute; neplnenie nesp&ocirc;sob&iacute; ohrozenie cieľov projektu, podmienka sa nepovažuje za poru&scaron;en&uacute;).</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "Podmienka splnenia kritérií pre výber projektov",
+   "popisSk": "<div><span style=\"color:rgb(0, 101, 179)\"><b>Popis PPP:</b></span></div><div>a) Doplňuj&uacute;ce inform&aacute;cie k zneniu vylučuj&uacute;ceho krit&eacute;ria HP:<br />Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach, s prihliadnut&iacute;m na dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky. V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m.<br />Za &uacute;čelom overenia zabezpečenia s&uacute;ladu projektu s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m s&uacute; ako odborn&aacute; pom&ocirc;cka&nbsp;pre žiadateľov pri pr&iacute;prave ŽoNFP&nbsp;k dispoz&iacute;cii nasledovn&eacute; Checklisty &ndash; Vyhl&aacute;senie o bezbari&eacute;rovej pr&iacute;stupnosti, spracovan&eacute; gestorom HP, na z&aacute;klade ktor&yacute;ch je žiadateľ schopn&yacute; pre svoje vlastn&eacute; potreby pred vydan&iacute;m čestn&eacute;ho vyhl&aacute;senia kvalifikovane verifikovať dosiahnutie s&uacute;ladu n&iacute;m navrhovan&eacute;ho projektu s požiadavkami t&yacute;kaj&uacute;cimi sa plnenia HP:<br />&bull; 19. CHECKLIST &ndash; VYHL&Aacute;SENIE O BEZBARI&Eacute;ROVEJ PR&Iacute;STUPNOSTI &ndash; rekon&scaron;trukcia v&yacute;skumn&yacute;ch a v&yacute;vojov&yacute;ch pracov&iacute;sk.<br />b) Žiadateľ je povinn&yacute; zabezpečiť potrebn&eacute; finančn&eacute; zdroje a mechanizmy na pokrytie n&aacute;kladov na prev&aacute;dzku a &uacute;držbu v pr&iacute;pade projektu, ktor&yacute; zahŕňa invest&iacute;cie do infra&scaron;trukt&uacute;ry alebo produkt&iacute;vne invest&iacute;cie , aby zabezpečil ich finančn&uacute; udržateľnosť.</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Forma preuk&aacute;zania PPP pri podan&iacute; ŽoNFP:</b></span></div><ul><li>Formul&aacute;r ŽoNFP -&nbsp;časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa</li><li>Formul&aacute;r ŽoNFP - časť 7. Popis projektu</li></ul><div><span style=\"color:rgb(0, 101, 179)\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa:</b></span></div><div>Poskytovateľ overuje splnenie PPP prostredn&iacute;ctvom:</div><ul><li>formul&aacute;ra ŽoNFP, časť 15.&nbsp;(vzťahuje sa pre vylučuj&uacute;ce krit&eacute;rium a), formul&aacute;r ŽoNFP časť 7.4 (vzťahuje sa pre vylučuj&uacute;ce krit&eacute;rium b).</li></ul><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti:</b></span></div><div>Až do skončenia konania o ŽoNFP.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "Podmienka, že žiadateľ nie je evidovaný v Systéme včasného odhaľovania rizika a vylúčenia (EDES) ako vylúčená osoba alebo subjekt",
+   "popisSk": "<div><div><span style=\"color:rgb(0, 101, 179)\"><b>Popis PPP:</b></span></div><div>Žiadateľ nesmie byť evidovan&yacute; v Syst&eacute;me včasn&eacute;ho odhaľovania rizika a vyl&uacute;čenia (EDES).</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Forma preuk&aacute;zania PPP pri podan&iacute; ŽoNFP:</b></span></div><ul><li>bez osobitnej pr&iacute;lohy</li></ul><div><span style=\"color:rgb(0, 101, 179)\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa:</b></span></div><div>&Uacute;daje v Syst&eacute;me včasn&eacute;ho odhaľovania rizika a vyl&uacute;čenia (EDES) a to v jeho neverejnej časti dostupnej na webovom s&iacute;dle https://ec.europa.eu/budget/edes/index_en.cfm.</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti:</b></span></div><div>Do skončenia konania o žiadosti.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 5,
+   "nazovSk": "Podmienka, že voči žiadateľovi nie je vyhlásený konkurz ani povolená reštrukturalizácia a nie je v likvidácii",
+   "popisSk": "<div><span style=\"color:rgb(0, 101, 179)\"><b>Popis PPP:</b></span></div><div><span style=\"color:#0065b3\">Voči subjektu nesmie byť vyhl&aacute;sen&yacute; konkurz ani povolen&aacute; re&scaron;trukturaliz&aacute;cia&nbsp;a nie je v likvid&aacute;cii</span>. Zastavenie konkurzn&eacute;ho konania pre nedostatok majetku žiadateľa alebo zru&scaron;enie konkurzu pre nedostatok majetku žiadateľa predstavuje nesplnenie predmetnej PPP.<br />PPP sa považuje za splnen&uacute;, ak je povolen&aacute; re&scaron;trukturaliz&aacute;cia po &uacute;činnosti zmluvy o poskytnut&iacute; NFP, a n&aacute;sledne je schv&aacute;len&yacute; a potom aj plnen&yacute; re&scaron;trukturalizačn&yacute; pl&aacute;n.</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Forma preuk&aacute;zania PPP pri podan&iacute; ŽoNFP:</b></span></div><ul><li>bez osobitnej pr&iacute;lohy</li></ul><div><span style=\"color:rgb(0, 101, 179)\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa:</b></span></div><div>Na z&aacute;klade ITMS21+, ktor&yacute; je integrovan&yacute; s informačn&yacute;m syst&eacute;mom Registra &uacute;padcov, resp. &ndash; Register &uacute;padcov, Register a identifik&aacute;tor pr&aacute;vnick&yacute;ch os&ocirc;b, podnikateľov a org&aacute;nov verejnej moci. V pr&iacute;pade nefunkčnosti integr&aacute;cie ITMS21+ overenie priamo v registri na https://ru.justice.sk/ru-verejnost-web/pages/searchKonanie.xhtml?query=, resp. prostredn&iacute;ctvom informačn&eacute;ho syst&eacute;mu verejnej spr&aacute;vy OverSi www.oversi.gov.sk.</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti:</b></span></div><div>Overuje sa v konan&iacute; o žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne počas realiz&aacute;cie projektu. Až do skončenia doby udržateľnosti projektu - v zmysle čl. 65 NSU.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "INSOLVENCNY_REGISTER"
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 6,
+   "nazovSk": "Podmienka, že voči žiadateľovi sa nenárokuje vrátenie štátnej pomoci na základe rozhodnutia EK, v ktorom bola táto štátna pomoc označená za neoprávnenú a nezlučiteľnú s vnútorným trhom",
+   "popisSk": "<div><div><span style=\"color:rgb(0, 101, 179)\"><b>Popis PPP:</b></span></div><div>NFP nie je možn&eacute; poskytn&uacute;ť žiadateľovi, voči ktor&eacute;mu je n&aacute;rokovan&eacute; vr&aacute;tenie &scaron;t&aacute;tnej pomoci na z&aacute;klade rozhodnutia Eur&oacute;pskej komisie, v ktorom bola t&aacute;to &scaron;t&aacute;tna pomoc označen&aacute; za neopr&aacute;vnen&uacute; a nezlučiteľn&uacute; s vn&uacute;torn&yacute;m trhom.</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Forma preuk&aacute;zania PPP pri podan&iacute; ŽoNFP:</b></span></div><ul><li>bez osobitnej pr&iacute;lohy</li></ul><div><span style=\"color:rgb(0, 101, 179)\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa:</b></span></div><div>Na z&aacute;klade Inform&aacute;cie o vym&aacute;han&iacute; &scaron;t&aacute;tnej pomoci označenej za neopr&aacute;vnen&uacute; a nezlučiteľn&uacute; s vn&uacute;torn&yacute;m trhom, ktor&eacute; s&uacute; verejne dostupn&eacute; na webovom s&iacute;dle: https://ec.europa.eu/competitionpolicy/state-aid/procedures/recovery-unlawful-aid_en</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti:</b></span></div><div>Až do skončenia doby udržateľnosti projektu - v zmysle čl. 65 NSU.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 7,
+   "nazovSk": "Podmienky týkajúce sa štátnej pomoci",
+   "popisSk": "<div><span style=\"color:rgb(0, 101, 179)\"><b>Popis PPP:</b></span></div><div>Žiadatelia ŽoNFP musia spĺňať v&scaron;etky podmienky t&yacute;kaj&uacute;ce sa &scaron;t&aacute;tnej pomoci.<br />V pr&iacute;pade predmetnej v&yacute;zvy sa podmienky t&yacute;kaj&uacute;ce sa &scaron;t&aacute;tnej pomoci aplikuj&uacute; prostredn&iacute;ctvom Ozn&aacute;menia EK - Krit&eacute;ri&aacute; pre anal&yacute;zu zlučiteľnosti &scaron;t&aacute;tnej pomoci na podporu vykon&aacute;vania d&ocirc;ležit&yacute;ch projektov spoločn&eacute;ho eur&oacute;pskeho z&aacute;ujmu s vn&uacute;torn&yacute;m trhom (2021/C 528/02), pričom Eur&oacute;pska komisia nevzniesla v s&uacute;vislosti s projektom IPCEI predložen&yacute;m Slovenskou republikou za &uacute;čelom notifik&aacute;cie poskytnutia &scaron;t&aacute;tnej pomoci nijak&eacute; n&aacute;mietky a skon&scaron;tatovala, že je v s&uacute;lade s ustanoveniami vy&scaron;&scaron;ie uveden&eacute;ho Ozn&aacute;menia.<br /><span style=\"color:#0065b3\">Ak žiadateľ/prij&iacute;mateľ nedodrž&iacute; v&scaron;etky podmienky vypl&yacute;vaj&uacute;ce z rozhodnutia Eur&oacute;pskej komisie, nesie za svoje konanie pln&uacute; pr&aacute;vnu zodpovednosť. Žiadateľ/prij&iacute;mateľ z&aacute;roveň berie na vedomie, že rovnak&eacute; pr&aacute;vne n&aacute;sledky nastan&uacute; aj v pr&iacute;pade, ak v r&aacute;mci jeho projektu d&ocirc;jde k poskytnutiu inej formy v&yacute;hody, ktor&aacute; na z&aacute;klade Zmluvy o fungovan&iacute; E&Uacute; znamen&aacute; poru&scaron;enie pravidiel t&yacute;kaj&uacute;cich sa &scaron;t&aacute;tnej pomoci.</span></div><div><span style=\"color:rgb(0, 101, 179)\"><b>Forma preuk&aacute;zania PPP pri podan&iacute; ŽoNFP:</b></span></div><ul><li>Formul&aacute;r ŽoNFP</li><li>Pr&iacute;loha ŽoNFP č. 1.06 - Rozpočet projektu, person&aacute;lna matica&nbsp;a doplňuj&uacute;ce &uacute;daje</li></ul><div><span style=\"color:rgb(0, 101, 179)\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa:</b></span></div><ul><li>Formul&aacute;r ŽoNFP,</li><li>Pr&iacute;loha v&yacute;zvy č. 1.06 ŽoNFP - Rozpočet projektu, person&aacute;lna matica a doplňuj&uacute;ce &uacute;daje.</li><li>Na z&aacute;klade verejne dostupn&yacute;ch zdrojov&nbsp;https://competition-cases.ec.europa.eu/cases/SA.105097 a https://ec.europa.eu/competition/state_aid/cases1/202513/SA_105097_290.pdf</li></ul><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti:</b></span></div><div>Overuje sa v konan&iacute; o žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne počas realiz&aacute;cie projektu&nbsp;do skončenia&nbsp;trvania zmluvy o poskytnut&iacute; NFP.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Rozpočet projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 8,
+   "nazovSk": "Podmienka oprávnenosti projektu",
+   "popisSk": "<div><span style=\"color:rgb(0, 101, 179)\"><b>Popis PPP:</b></span></div><div><span style=\"color:#0065b3\">Predmetom hlavnej aktivity opr&aacute;vnen&eacute;ho projektu mus&iacute; byť realiz&aacute;cia</span> projektu, ktor&yacute; je s&uacute;časťou v&yacute;znamn&eacute;ho projektu spoločn&eacute;ho eur&oacute;pskeho z&aacute;ujmu (IPCEI) s n&aacute;zvom Med4Cure, v r&aacute;mci ktor&eacute;ho bolo poskytnutie &scaron;t&aacute;tnej pomoci Slovenskou republikou notifikovan&eacute; a Eur&oacute;pska komisia o tejto notifik&aacute;cii rozhodla.<br />Opr&aacute;vnen&yacute;m typom akcie pre dan&uacute; v&yacute;zvu je v zmysle Programu Slovensko Realiz&aacute;cia projektov na podporu kritick&yacute;ch biotechnol&oacute;gi&iacute; (vr&aacute;tane kritick&yacute;ch liekov, ktor&eacute; s&uacute; uveden&eacute; na zozname kritick&yacute;ch liekov &Uacute;nie, a ich zložiek).<br /><span style=\"color:#0065b3\">Projekt spĺňa podmienku opr&aacute;vnenosti projektu</span> v pr&iacute;pade, <span style=\"color:#0065b3\">ak s&uacute; z&aacute;roveň kumulat&iacute;vne splnen&eacute; nasleduj&uacute;ce podmienky</span>:</div><ol><li>obsahovou n&aacute;plňou projektu, ktor&yacute; je predmetom ŽoNFP, je <span style=\"color:#0065b3\">realiz&aacute;cia činnost&iacute; spadaj&uacute;cich do v&yacute;skumno-v&yacute;vojovo-inovačnej f&aacute;zy a f&aacute;zy prv&eacute;ho priemyseln&eacute;ho nasadenia</span> notifikovan&eacute;ho projektu, pričom <span style=\"color:#0065b3\">žiadateľ nepožiadal o finančn&uacute; podporu ich realiz&aacute;cie z nijak&eacute;ho in&eacute;ho verejn&eacute;ho zdroja</span>;</li><li>projekt, ktor&yacute; je predmetom ŽoNFP, je <span style=\"color:#0065b3\">z hľadiska obsahovej n&aacute;plne totožn&yacute; s relevantnou časťou projektu, ktor&yacute; bol predmetom notifik&aacute;cie poskytnutia &scaron;t&aacute;tnej pomoci</span>;</li><li><span style=\"color:#0065b3\">žiadateľ nesmie ukončiť fyzick&uacute; realiz&aacute;ciu aktiv&iacute;t projektu</span>, t. j. plne zrealizovať aktivity projektu, <span style=\"color:#0065b3\">pred predložen&iacute;m ŽoNFP poskytovateľovi</span>;</li><li><span style=\"color:#0065b3\">realiz&aacute;cia aktiv&iacute;t</span> projektu mus&iacute; skončiť <span style=\"color:#0065b3\">najnesk&ocirc;r 31. decembra 2029</span>;</li><li><span style=\"color:#0065b3\">projekt, ktor&yacute; je predmetom ŽoNFP, mus&iacute; byť v s&uacute;lade so z&aacute;sadou &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo;. Uveden&eacute; znamen&aacute;, že podporen&yacute; projekt nem&ocirc;že v&yacute;razne naru&scaron;iť&nbsp;žiadne z environment&aacute;lnych cieľov uveden&yacute;ch v nariaden&iacute; o taxon&oacute;mii a z&aacute;roveň predmetom projektu nem&ocirc;žu byť činnosti v potenci&aacute;lne po&scaron;kodzuj&uacute;cich oblastiach, t. j.:</span><b>&nbsp;</b><br />&nbsp;<span style=\"color:#0065b3\">-&nbsp;</span><span style=\"color:#0065b3\">invest&iacute;cie s&uacute;visiace s v&yacute;robou, spracovan&iacute;m, prepravou, distrib&uacute;ciou, skladovan&iacute;m alebo spaľovan&iacute;m fos&iacute;lnych pal&iacute;v (uhlie, zemn&yacute; plyn a ropa),</span><br />&nbsp;<span style=\"color:#0065b3\">-&nbsp;invest&iacute;cie s&uacute;visiace so spaľovňami, zariadeniami na mechanicko- biologick&eacute; čistenie odpadov a skl&aacute;dkami odpadov a ostatn&eacute; definovan&eacute; ako vyl&uacute;čen&eacute; ani činnosti vyňat&eacute; z rozsahu podpory EFRR.</span></li><li>projekt, ktor&yacute;&nbsp;je predmetom ŽoNFP, <span style=\"color:#0065b3\">mus&iacute; byť v s&uacute;lade so Strat&eacute;giou v&yacute;skumu a inov&aacute;ci&iacute; pre inteligentn&uacute; &scaron;pecializ&aacute;ciu Slovenskej republiky 2021 - 2027 </span>(ďalej len &bdquo;SK RIS3 2021+&ldquo;), a jej aktu&aacute;lne platnou S&uacute;hrnnou spr&aacute;vou z procesu EDP na obdobie rokov 2025-2027 (ďalej len &bdquo;S&uacute;hrnn&aacute; spr&aacute;va&ldquo;) ktor&aacute; je zverejnen&aacute; na webovom s&iacute;dle www.vaia.gov.sk. S&uacute;lad s SK RIS3 2021+ žiadateľ dokladuje v predloženej ŽoNFP v nasledovnej &scaron;trukt&uacute;re:<br />- schopnosť projektu prispieť k napĺňaniu strategick&yacute;ch cieľov strat&eacute;gie SK RIS3 2021+ (Strategick&eacute; ciele SK RIS3 2021+ s&uacute; s&uacute;časťou Kapitoly 2.2 strat&eacute;gie);<br />- ak&yacute;m sp&ocirc;sobom bude projekt prispievať k dosiahnutiu cieľov vybranej dom&eacute;ny a cieľov&eacute;ho stavu vybranej prioritnej oblasti;<br />- ak&yacute;m sp&ocirc;sobom bude projekt pokr&yacute;vať niektor&uacute; z tematick&yacute;ch oblast&iacute; podpory v danej prioritnej oblasti dom&eacute;ny inteligentnej &scaron;pecializ&aacute;cie SK RIS3 2021+. (Tematick&eacute; oblasti podpory s&uacute; s&uacute;časťou samostatnej tabuľky v každej z prioritn&yacute;ch oblast&iacute; uveden&yacute;ch v S&uacute;hrnnej spr&aacute;ve z procesu EDP k SK RIS3 2021+ na obdobie 2025-2027.) ak&yacute;m sp&ocirc;sobom bude projekt v r&aacute;mci prioritnej oblasti Dom&eacute;ny Zdrav&aacute; spoločnosť prispievať k dosiahnutiu transformačn&eacute;ho cieľa alebo transformačn&yacute;ch cieľov (popis mus&iacute; zohľadňovať cieľov&yacute; stav Transformačn&eacute;ho cieľa prioritnej oblasti Dom&eacute;ny uveden&yacute; v Transformačnej mape prioritnej oblasti).</li></ol><div>Pri definovan&iacute; term&iacute;nu ukončenia realiz&aacute;cie aktiv&iacute;t projektu je potrebn&eacute; re&scaron;pektovať skutočnosť, že v zmysle podmienok časovej opr&aacute;vnenosti v&yacute;davkov musia v&scaron;etky <span style=\"color:#0065b3\">opr&aacute;vnen&eacute; v&yacute;davky v r&aacute;mci projektu vznikn&uacute;ť a byť uhraden&eacute; zo strany prij&iacute;mateľa najnesk&ocirc;r 31. 12. 2029</span>.</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Forma preuk&aacute;zania PPP pri podan&iacute; ŽoNFP:</b></span></div><ul><li>Formul&aacute;r ŽoNFP -&nbsp;časť 7. Popis projektu</li><li>Formul&aacute;r ŽoNFP - časť 9. Harmonogram realiz&aacute;cie aktiv&iacute;t</li><li>Pr&iacute;loha ŽoNFP č. 1.06 - Rozpočet projektu, person&aacute;lna matica&nbsp;a doplňuj&uacute;ce &uacute;daje</li></ul><div><span style=\"color:rgb(0, 101, 179)\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa:</b></span></div><ul><li>ITMS 2021+,</li><li>projekty (vr&aacute;tane v&scaron;etk&yacute;ch pr&iacute;loh a dokument&aacute;cie), ktor&eacute; s&uacute; s&uacute;časťou IPCEI Med4CURE, a v r&aacute;mci ktor&yacute;ch bolo poskytnutie &scaron;t&aacute;tnej pomoci Slovenskou republikou notifikovan&eacute; pod č. SA.105097,</li><li>Centr&aacute;lny register zml&uacute;v (https://crz.gov.sk/),</li><li>Centr&aacute;lny register - Informačn&yacute; syst&eacute;m pre evidenciu a monitorovanie pomoci -&nbsp;IS SEMP (jeho verejn&aacute; časť (https://semp.kti2dc.sk/), ako aj neverejn&aacute; časť (https://sempsecure.kti2dc.sk/),</li><li>v&scaron;etky vy&scaron;&scaron;ie uveden&eacute; dokumenty predložen&eacute; žiadateľom (formul&aacute;r ŽoNFP &ndash; časť 7 a 9, pr&iacute;loha v&yacute;zvy č. 1.06 ŽoNFP Rozpočet projektu, person&aacute;lna matica a doplňuj&uacute;ce &uacute;daje).</li></ul><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti:</b></span></div><div>Overuje sa v konan&iacute; o žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne počas realiz&aacute;cie projektu. Až do skončenia doby udržateľnosti projektu - v zmysle čl. 65 NSU.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "SEMP"
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Rozpočet projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 9,
+   "nazovSk": "Podmienka miesta realizácie projektu",
+   "popisSk": "<div><span style=\"color:rgb(0, 101, 179)\"><b>Popis PPP:</b></span></div><div>Za opr&aacute;vnen&eacute; miesto realiz&aacute;cie projektu sa považuje cel&eacute; &uacute;zemie menej rozvinut&yacute;ch regi&oacute;nov SR (Banskobystrick&yacute; kraj, Žilinsk&yacute; kraj, Ko&scaron;ick&yacute; kraj, Pre&scaron;ovsk&yacute; kraj, Nitriansky kraj, Trenčiansky kraj a Trnavsk&yacute; kraj).<br />Pre stanovenie opr&aacute;vnenosti je rozhoduj&uacute;ce miesto realiz&aacute;cie projektu a nie s&iacute;dlo žiadateľa, pričom žiadateľ je povinn&yacute; uviesť č&iacute;sla parciel v&scaron;etk&yacute;ch miest realiz&aacute;cie VaV aktiv&iacute;t projektu v časti 6.A formul&aacute;ru ŽoNFP v r&aacute;mci Pozn&aacute;mok k miestu realiz&aacute;cie.<br />V pr&iacute;pade pracovn&iacute;kov, ktor&iacute; vykon&aacute;vaj&uacute; im pridelen&eacute; &uacute;lohy formou pr&aacute;ce z domu sa toto miesto v&yacute;konu pr&aacute;ce nerovn&aacute; miestu realiz&aacute;cie projektu.<br />V pr&iacute;pade zahraničn&yacute;ch v&yacute;skumn&yacute;ch pracovn&iacute;kov vykon&aacute;vaj&uacute;cich VaV aktivity na projekte sa miesto v&yacute;konu pr&aacute;ce nerovn&aacute; miestu realiz&aacute;cie projektu.<br />Projekt m&ocirc;že byť realizovan&yacute; aj na viacer&yacute;ch miestach (uveden&yacute;ch v ŽoNFP).<br /><span style=\"color:#0065b3\">Opr&aacute;vnen&eacute; &uacute;zemie je aj &uacute;zemie mimo člensk&eacute;ho &scaron;t&aacute;tu, a to aj mimo Eur&oacute;pskej &uacute;nie, pod podmienkou, že projekt prispieva k dosahovaniu cieľov programu.</span></div><div><span style=\"color:rgb(0, 101, 179)\"><b>Forma preuk&aacute;zania PPP pri podan&iacute; ŽoNFP:</b></span></div><ul><li>Formul&aacute;r ŽoNFP - časť 6. Miesto realiz&aacute;cie&nbsp;projektu</li><li>Zoznam pozemkov a stavieb (pr&iacute;loha č. 1.07)</li></ul><div><span style=\"color:rgb(0, 101, 179)\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa:</b></span></div><div>Na z&aacute;klade predložen&yacute;ch dokumentov (Formul&aacute;r ŽoNFP &ndash; pr&iacute;loha v&yacute;zvy č. 1, Zoznam pozemkov a stavieb &ndash; pr&iacute;loha č.1.07), ITMS21+ / resp. &uacute;daje evidovan&eacute; v informačn&yacute;ch syst&eacute;moch (www.skgeodesy.sk/sk/; www.geoportal.sk; https://oversi.gov.sk).</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti:</b></span></div><div>Overuje sa v konan&iacute; o žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne počas realiz&aacute;cie projektu.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Zoznam pozemkov a stavieb",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "LIST_VLASTNICTVA_CSRU"
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 10,
+   "nazovSk": "Podmienka bezúhonnosti žiadateľa",
+   "popisSk": "<div><span style=\"color:rgb(0, 101, 179)\"><b>Popis PPP:</b></span></div><div>Žiadateľ, ktor&yacute;m je pr&aacute;vnick&aacute; osoba, nem&ocirc;že mať pr&aacute;voplatn&yacute;m rozsudkom uložen&yacute; niektor&yacute; z nasleduj&uacute;cich trestov: trest z&aacute;kazu prij&iacute;mať dot&aacute;cie alebo subvencie, trest zru&scaron;enia pr&aacute;vnickej osoby, trest z&aacute;kazu prij&iacute;mať pomoc a podporu poskytovan&uacute; z fondov Eur&oacute;pskej &uacute;nie, trest z&aacute;kazu činnosti v s&uacute;lade so zameran&iacute;m projektu a podmienkami v&yacute;zvy alebo trest z&aacute;kazu &uacute;časti vo verejnom obstar&aacute;van&iacute; podľa z&aacute;kona o trestnej zodpovednosti pr&aacute;vnick&yacute;ch os&ocirc;b.<br />Podmienka sa vzťahuje aj na žiadateľa, na ktor&eacute;ho pre&scaron;la trestn&aacute; zodpovednosť po zru&scaron;en&iacute; pr&aacute;vnickej osoby podľa &sect; 7 z&aacute;kona č. 91/2016 Z. z. o trestnej zodpovednosti pr&aacute;vnick&yacute;ch os&ocirc;b a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov.</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Forma preuk&aacute;zania PPP pri podan&iacute; ŽoNFP:</b></span></div><ul><li>bez osobitnej pr&iacute;lohy</li></ul><div><span style=\"color:rgb(0, 101, 179)\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa:</b></span></div><div>Overenie &uacute;dajov v informačn&yacute;ch syst&eacute;moch verejnej spr&aacute;vy https://esluzby.genpro.gov.sk/zoznam-odsudenych-pravnickych-osob, resp. in&yacute; informačn&yacute; syst&eacute;m verejnej spr&aacute;vy.</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti:</b></span></div><div>Overuje sa v konan&iacute; o žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne počas realiz&aacute;cie projektu.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 11,
+   "nazovSk": "Podmienka definovania merateľných ukazovateľov a iných údajov",
+   "popisSk": "<div><span style=\"color:rgb(0, 101, 179)\"><b>Popis PPP:</b></span></div><div>V&yacute;stupy, ktor&eacute; maj&uacute; byť dosiahnut&eacute; realiz&aacute;ciou projektu, musia byť kvantifikovateľn&eacute; prostredn&iacute;ctvom relevantn&yacute;ch merateľn&yacute;ch ukazovateľov (MU) definovan&yacute;ch v pr&iacute;lohe č. 2 v&yacute;zvy.<br />V&scaron;etky MU v pr&iacute;lohe s&uacute; definovan&eacute; ako povinn&eacute;. Žiadateľ si je povinn&yacute; v žiadosti o NFP voliť v&scaron;etky povinn&eacute; MU v s&uacute;lade s pr&iacute;lohou v&yacute;zvy.<br />Pre &uacute;čely sledovania pokroku v realiz&aacute;cii projektu a z&iacute;skavania &uacute;dajov o dosiahnut&yacute;ch hodnot&aacute;ch v&yacute;lučne realiz&aacute;ciou projektu je v&yacute;chodiskov&aacute; hodnota v&scaron;etk&yacute;ch MU vždy &bdquo;0&ldquo;, preto pri MU žiadateľ uv&aacute;dza v&yacute;lučne pl&aacute;novan&uacute; cieľov&uacute; hodnotu pre v&scaron;etky MU v s&uacute;lade s pr&iacute;lohou č. 2 v&yacute;zvy (tzn. pl&aacute;novan&aacute; cieľov&aacute; hodnota žiadneho z MU nesmie byť &bdquo;0&ldquo;).</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Forma preuk&aacute;zania PPP pri podan&iacute; ŽoNFP:</b></span></div><ul><li>Formul&aacute;r ŽoNFP &ndash; časť 10. Merateľn&eacute; ukazovatele projektu</li></ul><div><span style=\"color:rgb(0, 101, 179)\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa:</b></span></div><div>Overenie &uacute;dajov prostredn&iacute;ctvom formul&aacute;ra ŽoNFP (časť 10. Merateľn&eacute; ukazovatele projektu) a informačn&eacute;ho syst&eacute;mu ITMS21+.</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti:</b></span></div><div>Overuje sa v konan&iacute; o žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne počas realiz&aacute;cie projektu. Až do skončenia doby udržateľnosti projektu - v zmysle čl. 65 NSU.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [],
+ "miestoRealizacieFull": [
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040551",
+   "nazovSk": "Odpisy",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  },
+  {
+   "kod": "1040568",
+   "nazovSk": "Ostatné finančné výdavky",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  },
+  {
+   "kod": "1040112",
+   "nazovSk": "Zásoby",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  },
+  {
+   "kod": "1040502",
+   "nazovSk": "Spotreba energie",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  },
+  {
+   "kod": "1040503",
+   "nazovSk": "Spotreba ostatných neskladovateľných dodávok",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  },
+  {
+   "kod": "1040511",
+   "nazovSk": "Opravy a udržiavanie",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  },
+  {
+   "kod": "1040512",
+   "nazovSk": "Cestovné náhrady",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  },
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  },
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  },
+  {
+   "kod": "1040014",
+   "nazovSk": "Oceniteľné práva",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  },
+  {
+   "kod": "1040019",
+   "nazovSk": "Ostatný dlhodobý nehmotný majetok",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  },
+  {
+   "kod": "1040021",
+   "nazovSk": "Stavby",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  },
+  {
+   "kod": "1040029",
+   "nazovSk": "Ostatný dlhodobý hmotný majetok",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  },
+  {
+   "kod": "1040548",
+   "nazovSk": "Výdavky na prevádzkovú činnosť",
+   "typAkcieProgramu": {
+    "id": 1344,
+    "href": "/typakcieprogramu/id/1344"
+   }
+  }
+ ],
+ "externyZdroj": [],
+ "dokument": [
+  {
+   "nazov": "Výzva-PSK-MZ-012-2025-DV-EFRR.zip",
+   "uuid": "0cfffef1-8ba5-4996-b6bf-e5643616724e"
+  }
+ ],
+ "inaSkutocnostUzatvorenieVyzvy": "<div style=\"text-align: justify;\">Term&iacute;ny uzavretia jednotliv&yacute;ch k&ocirc;l s&uacute; stanoven&eacute; nasledovne:<br />Term&iacute;n uzavretia 1. kola &ndash; 30.09.2025<br />Term&iacute;n uzavretia 2. kola &ndash; 30.11.2025<br />Ďal&scaron;ie hodnotiace kol&aacute; sa bud&uacute; uzatv&aacute;rať v intervale 2 mesiacov, a to k posledn&eacute;mu dňu pr&iacute;slu&scaron;n&eacute;ho kalend&aacute;rneho mesiaca, na ktor&yacute; pripadne uz&aacute;vierka dan&eacute;ho hodnotiaceho kola v&yacute;zvy.<br />V pr&iacute;pade, ak term&iacute;n uzavretia hodnotiaceho kola pripadne na deň pracovn&eacute;ho pokoja, považuje sa za term&iacute;n uzavretia hodnotiaceho kola prv&yacute; nasleduj&uacute;ci pracovn&yacute; deň. Term&iacute;ny uz&aacute;vierky jednotliv&yacute;ch hodnotiacich k&ocirc;l s&uacute; uveden&eacute; v informačnom monitorovacom syst&eacute;me&nbsp;(ďalej len &bdquo;ITMS&ldquo;).</div><div style=\"text-align: justify;\">Poskytovateľ uzavrie v&yacute;zvu v pr&iacute;pade, ak existuje predpoklad vyčerpania finančn&yacute;ch prostriedkov&nbsp;vyčlenen&yacute;ch na v&yacute;zvu.<br />Poskytovateľ m&ocirc;že v&yacute;zvu uzavrieť taktiež na z&aacute;klade svojho rozhodnutia z d&ocirc;vodu:</div><ul><li style=\"text-align: justify;\">nedostatočn&eacute;ho dopytu zo strany opr&aacute;vnen&yacute;ch žiadateľov alebo</li><li style=\"text-align: justify;\">zabezpečenia riadnej fyzickej a/alebo finančnej implement&aacute;cie Programu Slovensko (ďalej len &bdquo;PSK&ldquo;).</li></ul><div style=\"text-align: justify;\">D&aacute;tum uzavretia v&yacute;zvy nie je obmedzen&yacute; term&iacute;nmi jednotliv&yacute;ch hodnotiacich k&ocirc;l. D&aacute;tumom uzavretia v&yacute;zvy sa m&ocirc;že posledn&eacute; hodnotiace kolo skr&aacute;tiť.<br />Presn&yacute; d&aacute;tum uzavretia v&yacute;zvy spolu s d&ocirc;vodom uzavretia v&yacute;zvy zverejn&iacute; poskytovateľ prostredn&iacute;ctvom ITMS na <a href=\"https://portal.itms21.sk\">https://portal.itms21.sk</a>/ a na <a href=\"https://www.eurofondy.gov.sk/\">www.eurofondy.gov.sk</a>, a to najnesk&ocirc;r 30 kalend&aacute;rnych dn&iacute; pred pl&aacute;novan&yacute;m uzavret&iacute;m v&yacute;zvy. Hodnotiace kol&aacute; v&yacute;zvy, ktor&eacute; mali nastať po d&aacute;tume uz&aacute;vierky v&yacute;zvy, už nebud&uacute; aplikovan&eacute;.</div>",
+ "mieraSpolufinancovania": "<div style=\"text-align: justify;\">Poskytovanie pr&iacute;spevkov podľa tejto v&yacute;zvy sa realizuje formou nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku (ďalej len ,,NFP&ldquo;) a NFP sa poskytuje zo zdrojov EFRR a &scaron;t&aacute;tneho rozpočtu (ak relevantn&eacute;).<br />Maxim&aacute;lna v&yacute;&scaron;ka pomoci na projekt nesmie presiahnuť hodnotu vymedzen&uacute; v r&aacute;mci jednotliv&yacute;ch projektov (konkr&eacute;tne v r&aacute;mci zistenej medzery v ich financovan&iacute; vo vzťahu k&nbsp;opr&aacute;vnen&yacute;m v&yacute;davkom), ktor&eacute; boli s&uacute;časťou notifik&aacute;cie poskytnutia &scaron;t&aacute;tnej pomoci Slovenskou republikou a Eur&oacute;pska komisia o tejto notifik&aacute;cii bez vznesenia n&aacute;mietok rozhodla.</div><div><img alt=\"\" src=\"data:image/png;base64,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\" style=\"height:200px; width:558px\" /></div><div style=\"text-align: justify;\">Žiadateľ je z&aacute;roveň povinn&yacute; v r&aacute;mci relevantnej časti dokument&aacute;cie, ktor&aacute; tvorila s&uacute;časť notifik&aacute;cie poskytnutia &scaron;t&aacute;tnej pomoci odstr&aacute;niť zrejm&eacute; nespr&aacute;vnosti, v d&ocirc;sledku čoho m&ocirc;že d&ocirc;jsť k zmene v&yacute;&scaron;ky pomoci a/alebo v&yacute;&scaron;ky opr&aacute;vnen&yacute;ch v&yacute;davkov. V tak&yacute;chto pr&iacute;padoch sa uplatn&iacute; niž&scaron;ia hodnota v&yacute;&scaron;ky pomoci a intenzita pomoci sa vypoč&iacute;ta ako podiel tejto niž&scaron;ej v&yacute;&scaron;ky pomoci a pr&iacute;slu&scaron;nej, resp. prepoč&iacute;tanej (ak relevantn&eacute;) v&yacute;&scaron;ky opr&aacute;vnen&yacute;ch v&yacute;davkov. Z&aacute;roveň maxim&aacute;lna v&yacute;&scaron;ka pomoci na projekt nesmie presiahnuť sumu vypoč&iacute;tan&uacute; aplikovan&iacute;m v&yacute;slednej intenzity pomoci na celkov&eacute; opr&aacute;vnen&eacute; v&yacute;davky predloženej ŽoNFP.<br />Žiadateľ mus&iacute; byť finančne sp&ocirc;sobil&yacute; na spolufinancovanie projektu, čo znamen&aacute;, že počas realiz&aacute;cie projektu je povinn&yacute; zabezpečiť finančn&eacute; prostriedky v plnej v&yacute;&scaron;ke jeho <b>spolufinancovania, t. j. vo v&yacute;&scaron;ke rozdielu celkov&yacute;ch opr&aacute;vnen&yacute;ch v&yacute;davkov projektu a NFP</b>, v s&uacute;lade so Zmluvou o poskytnut&iacute; NFP a z&aacute;roveň zabezpečiť financovanie pr&iacute;padn&yacute;ch neopr&aacute;vnen&yacute;ch v&yacute;davkov, ktor&eacute; vznikn&uacute; v priebehu realiz&aacute;cie projektu, resp. s&uacute; na jeho realiz&aacute;ciu potrebn&eacute;.<br />Hnuteľn&eacute; veci zhodnoten&eacute;/nadobudnut&eacute; z NFP nie je žiadateľ/prij&iacute;mateľ opr&aacute;vnen&yacute; založiť bez predch&aacute;dzaj&uacute;ceho p&iacute;somn&eacute;ho s&uacute;hlasu poskytovateľa.</div>",
+ "sposobPodaniaZoNFP": "<div style=\"text-align: justify;\">V r&aacute;mci platnej <b>V&scaron;eobecnej inform&aacute;cie k predkladaniu a schvaľovaniu ŽoNFP</b> na programov&eacute; obdobie 2021 &ndash; 2027&nbsp;s&uacute; dostupn&eacute; nasledovn&eacute; v&scaron;eobecn&eacute; inform&aacute;cie o:</div><ul><li>pr&iacute;stupe do ITMS21+ a elektronickej schr&aacute;nky,</li><li>vypracovan&iacute;, sp&ocirc;sobe predloženia a podmienkach doručenia ŽoNFP a jej pr&iacute;loh,</li><li>procese konania o ŽoNFP,</li><li>opravn&yacute;ch prostriedkoch a sťažnostiach,</li><li>zmluve o poskytnut&iacute; NFP a procese jej uzatvorenia.</li></ul><div style=\"text-align: justify;\"><b>Uveden&eacute; inform&aacute;cie s&uacute; z&aacute;v&auml;zn&eacute;, pokiaľ v tejto v&yacute;zve alebo jej pr&iacute;loh&aacute;ch nie je uveden&eacute; inak</b>.</div>",
+ "miestoPrePodanieZoNFP": "<div>Žiadateľ predklad&aacute; ŽoNFP:</div><ul><li><b>elektronicky</b>: vyplnen&yacute; formul&aacute;r ŽoNFP vr&aacute;tane v&scaron;etk&yacute;ch pr&iacute;loh prostredn&iacute;ctvom verejnej časti ITMS21+ a z&aacute;roveň</li><li><b>p&iacute;somne</b>: iba v elektronickej podobe: vygenerovan&yacute; formul&aacute;r ŽoNFP z prostredia ITMS21+ podan&iacute;m do elektronickej schr&aacute;nky poskytovateľa zriadenej v r&aacute;mci &Uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy, podp&iacute;san&yacute; kvalifikovan&yacute;m elektronick&yacute;m podpisom alebo kvalifikovan&yacute;m elektronick&yacute;m podpisom s mand&aacute;tnym certifik&aacute;tom.</li></ul><div style=\"text-align: justify;\">Pre odoslanie elektronick&eacute;ho <b>formul&aacute;ra ŽoNFP priamo z verejnej časti ITMS21+</b> do elektronickej schr&aacute;nky poskytovateľa mus&iacute; byť žiadateľ prihl&aacute;sen&yacute;&nbsp;prostredn&iacute;ctvom <a href=\"https://www.slovensko.sk/sk/titulna-stranka\">&Uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy</a> (prostredn&iacute;ctvom eID žiadateľa).<br />Pre odoslanie elektronick&eacute;ho <b>formul&aacute;ra ŽoNFP</b> z prostredia &Uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy žiadateľ predklad&aacute; ŽoNFP prostredn&iacute;ctvom <a href=\"https://www.slovensko.sk/sk/detail-sluzby?externalCode=App.GeneralAgenda\">V&scaron;eobecnej agendy</a>, pričom zvol&iacute; poskytovateľa služby <b>Ministerstvo zdravotn&iacute;ctva Slovenskej republiky</b>.<br />Žiadateľ je opr&aacute;vnen&yacute; doručiť pr&iacute;lohy, ktor&eacute; nie s&uacute; dostupn&eacute; v elektronickej podobe (resp. ich zaručen&aacute; konverzia vykonan&aacute; postupom podľa &sect; 36 z&aacute;kona č. 305/2013 Z. z. o elektronickej podobe v&yacute;konu p&ocirc;sobnosti org&aacute;nov verejnej moci a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov v znen&iacute; neskor&scaron;&iacute;ch predpisov (ďalej aj &bdquo;Z&aacute;kon o e-Governmente&ldquo;) do elektronickej podoby by žiadateľa ne&uacute;merne zaťažila), v listinnej podobe, pričom žiadateľ vlož&iacute; do ITMS21+ ako samostatn&uacute; pr&iacute;lohu ŽoNFP textov&yacute; dokument (.doc, .docx, .pdf a pod.) s n&aacute;zvom &bdquo;Pr&iacute;lohy predložen&eacute; v listinnej forme&ldquo;, v ktorom bud&uacute; uveden&eacute; n&aacute;zvy pr&iacute;loh, ktor&eacute; predlož&iacute; v listinnej forme. Žiadateľ predlož&iacute; pr&iacute;lohy v listinnej forme poskytovateľovi (doporučenou po&scaron;tou, kuri&eacute;rskou službou) v pevnom, uzavretom a nepriehľadnom obale, na ktorom bude uveden&eacute; označenie k&oacute;du pr&iacute;slu&scaron;nej v&yacute;zvy, cel&yacute; n&aacute;zov (meno) a adresa žiadateľa, IČO žiadateľa, n&aacute;zov a adresa poskytovateľa, n&aacute;zov projektu, k&oacute;d ŽoNFP vygenerovan&yacute; ITMS21+ (13 miestny k&oacute;d), n&aacute;pisy &bdquo;Pr&iacute;lohy k Žiadosti o nen&aacute;vratn&yacute; finančn&yacute; pr&iacute;spevok&ldquo; a &bdquo;NEOTV&Aacute;RAŤ&ldquo; na adresu poskytovateľa:<br /><b>Ministerstvo zdravotn&iacute;ctva Slovenskej republiky</b><br />Sekcia programov a projektov<br />Odbor implement&aacute;cie projektov v&yacute;skumu a v&yacute;voja<br />Limbov&aacute; 2<br />P. O. BOX 52<br />837 52 Bratislava<br />Z&aacute;roveň v pr&iacute;pade technick&yacute;ch probl&eacute;mov &Uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy, na z&aacute;klade ktor&yacute;ch nie je žiadateľ objekt&iacute;vne schopn&yacute; predložiť ŽoNFP v elektronickej podobe, pričom tieto technick&eacute; d&ocirc;vody trvaj&uacute; po tak&uacute; dobu, že by na strane žiadateľa mohlo d&ocirc;jsť k poru&scaron;eniu povinnosti konať v lehot&aacute;ch určen&yacute;ch z&aacute;konom, alebo touto v&yacute;zvou, m&ocirc;že žiadateľ predložiť ŽoNFP v listinnej podobe v origin&aacute;li, opečiatkovan&uacute; (v pr&iacute;pade, že žiadateľ m&aacute; povinnosť použ&iacute;vať pečiatku) a podp&iacute;san&uacute; (osobou opr&aacute;vnenou konať v mene žiadateľa) na adresu poskytovateľa a vo forme uvedenej vy&scaron;&scaron;ie, pričom ale ako n&aacute;pis na ob&aacute;lke uvedie &bdquo;Žiadosť o nen&aacute;vratn&yacute; finančn&yacute; pr&iacute;spevok&ldquo; a &bdquo;NEOTV&Aacute;RAŤ&ldquo;.</div>",
+ "predpokladanaLehotaNaRozhodnutie": "<div style=\"text-align: justify;\">Žiadateľ m&ocirc;že predložiť žiadosť o nen&aacute;vratn&yacute; finančn&yacute; pr&iacute;spevok (ďalej aj &bdquo;ŽoNFP&ldquo;) kedykoľvek od vyhl&aacute;senia v&yacute;zvy na predkladanie ŽoNFP (ďalej len &bdquo;v&yacute;zva&ldquo;) až do vyčerpania finančnej alok&aacute;cie alebo jej uzatvorenia. Doručen&iacute;m ŽoNFP na SO sa zač&iacute;na konanie o ŽoNFP v zmysle &sect; 16 ods. 2 z&aacute;kona o pr&iacute;spevkoch z fondov E&Uacute;.</div><div style=\"text-align: justify;\"><b>Predložen&eacute; žiadosti o NFP s&uacute; vyhodnocovan&eacute; priebežne.</b></div><div style=\"text-align: justify;\">Lehota na konanie o žiadosti je do 70 pracovn&yacute;ch dn&iacute; od term&iacute;nu uz&aacute;vierky pr&iacute;slu&scaron;n&eacute;ho hodnotiaceho kola. Do tejto lehoty sa nezapoč&iacute;tava doba potrebn&aacute; na predloženie n&aacute;ležitost&iacute; zo strany žiadateľa na z&aacute;klade v&yacute;zvy zaslanej SO, t. j. lehota konania o žiadosti sa preru&scaron;uje v momente zaslania v&yacute;zvy na vyjadrenie sa k zisten&yacute;m pochybnostiam o pravdivosti alebo &uacute;plnosti žiadosti v s&uacute;lade s &sect; 16 ods. 5 z&aacute;kona o pr&iacute;spevkoch z fondov a zač&iacute;na plyn&uacute;ť momentom doručenia tohto vyjadrenie na SO v s&uacute;lade so z&aacute;konom o pr&iacute;spevkoch z fondov. V pr&iacute;pade, ak na z&aacute;klade overenia ŽoNFP vznikn&uacute; pochybnosti o pravdivosti alebo &uacute;plnosti ŽoNFP alebo jej pr&iacute;loh, SO vyzve žiadateľa p&iacute;somne (cez e-schr&aacute;nku, ITMS, resp. e-mailom) v zmysle &sect; 16 odsek 5 z&aacute;kona o pr&iacute;spevkoch z fondov na doručenie vyjadrenia/doplnenia ŽoNFP.</div><div style=\"text-align: justify;\">Pri zasielan&iacute; v&yacute;zvy na vyjadrenie/doplnenia ŽoNFP sa SO riadi princ&iacute;pmi uveden&yacute;mi v &sect; 2, odsek 2 z&aacute;kona o pr&iacute;spevkoch z fondov s d&ocirc;razom na princ&iacute;p nediskrimin&aacute;cie a princ&iacute;p transparentnosti. Na webov&yacute;ch str&aacute;nkach <a href=\"https://www.eurofondy.gov.sk/\">Eurofondy (gov.sk)</a>,&nbsp;<a href=\"https://www.health.gov.sk/Titulka\">MZ SR</a>&nbsp;a prostredn&iacute;ctvom ITMS bude počas trvania v&yacute;zvy zverejnen&aacute; inform&aacute;cia o aktu&aacute;lnej disponibilnej indikat&iacute;vnej v&yacute;&scaron;ke finančn&yacute;ch prostriedkov uvedenej v časti Identifik&aacute;cia v&yacute;zvy. <b>Ozn&aacute;menie o pl&aacute;novanom uzavret&iacute; v&yacute;zvy a/alebo o vyčerpan&iacute; disponibilnej alok&aacute;cie bude zverejnen&eacute; najnesk&ocirc;r mesiac pred pl&aacute;novan&yacute;m d&aacute;tumom uzavretia v&yacute;zvy. Lehoty určen&eacute; touto v&yacute;zvou maj&uacute; vždy prednosť pred lehotami uveden&yacute;mi v dokumentoch, ktor&eacute; s&uacute; s&uacute;časťou v&yacute;zvy ako pr&iacute;lohy alebo na ktor&eacute; sa v&yacute;zva odvol&aacute;va</b>.</div>",
+ "zmenaAZrusenieVyzvy": "<div style=\"text-align: justify;\">V nevyhnutn&yacute;ch pr&iacute;padoch, kedy nie je možn&eacute; konať o ŽoNFP predložen&yacute;ch na z&aacute;klade p&ocirc;vodne vyhl&aacute;senej v&yacute;zvy, alebo je zmena potrebn&aacute; za &uacute;čelom jej optimaliz&aacute;cie, resp. vhodnej&scaron;ieho nastavenia, je poskytovateľ opr&aacute;vnen&yacute; za podmienok stanoven&yacute;ch v Z&aacute;kone o pr&iacute;spevkoch E&Uacute; v&yacute;zvu zmeniť alebo zru&scaron;iť.<br />Rozhodnutie, ktor&eacute; bolo vydan&eacute; na z&aacute;klade v&yacute;zvy do jej zmeny, nie je zmenou v&yacute;zvy dotknut&eacute;.<br /><b>Zmena v&yacute;zvy</b><br />Poskytovateľ v s&uacute;lade s &sect; 14 ods. 4 Z&aacute;kona o pr&iacute;spevkoch E&Uacute; m&ocirc;že v&yacute;zvu zmeniť v celom rozsahu do vydania prv&eacute;ho rozhodnutia o ŽoNFP34. Poskytovateľ v s&uacute;lade s &sect; 14 ods. 6 Z&aacute;kona o pr&iacute;spevkoch E&Uacute; m&ocirc;že po zverejnen&iacute; v&yacute;zvy, aj po vydan&iacute; prv&eacute;ho rozhodnutia o ŽoNFP, zmeniť form&aacute;lne n&aacute;ležitosti v&yacute;zvy, ďal&scaron;ie skutočnosti t&yacute;kaj&uacute;ce sa poskytovania pr&iacute;spevku, ktor&eacute; nemaj&uacute; charakter podmienky poskytnutia pr&iacute;spevku, a pr&iacute;lohy.<br />Zverejnenie zmien podľa predch&aacute;dzaj&uacute;cej vety spolu s ich od&ocirc;voden&iacute;m zverejn&iacute; poskytovateľ formou usmernenia k v&yacute;zve prostredn&iacute;ctvom ITMS21+ a z&aacute;roveň predmetn&eacute; zmeny vyznač&iacute; formou sledovania zmien v dotknut&yacute;ch dokumentoch. Poskytovateľ umožn&iacute; žiadateľovi doplniť alebo zmeniť ŽoNFP podan&uacute; do term&iacute;nu zmeny v&yacute;zvy, ak ide o tak&uacute; zmenu v&yacute;zvy, ktorou m&ocirc;že byť sk&ocirc;r podan&aacute; ŽoNFP dotknut&aacute;. Poskytovateľ p&iacute;somne informuje žiadateľa a urč&iacute; primeran&uacute; lehotu na doplnenie alebo zmenu žiadosti, ktor&aacute; nesmie byť krat&scaron;ia ako 10 pracovn&yacute;ch dn&iacute;. Zmena v&yacute;zvy je &uacute;činn&aacute; v s&uacute;lade s inform&aacute;ciou uvedenou v usmernen&iacute; k v&yacute;zve, najsk&ocirc;r v&scaron;ak dňom zverejnenia v ITMS21+.<br /><b>Zru&scaron;enie v&yacute;zvy</b><br />Ak d&ocirc;jde k podstatnej zmene podmienok poskytnutia pr&iacute;spevku, poskytovateľ v&yacute;zvu zru&scaron;&iacute;. Rozhodnutie podľa &sect; 16 a &sect; 17 Z&aacute;kona o pr&iacute;spevkoch E&Uacute;, ktor&eacute; bolo vydan&eacute; na z&aacute;klade v&yacute;zvy do jej zru&scaron;enia, je zru&scaron;en&iacute;m v&yacute;zvy nedotknut&eacute;. ŽoNFP predložen&eacute; do d&aacute;tumu zru&scaron;enia v&yacute;zvy, o ktor&yacute;ch poskytovateľ nerozhodol podľa &sect; 16 a &sect; 17 Z&aacute;kona o pr&iacute;spevkoch E&Uacute;, vr&aacute;ti žiadateľom.<br />Inform&aacute;ciu o zru&scaron;en&iacute; v&yacute;zvy a zd&ocirc;vodnenie jej zru&scaron;enia zverejn&iacute; poskytovateľ prostredn&iacute;ctvom ITMS21+. Zru&scaron;enie v&yacute;zvy je &uacute;činn&eacute; v s&uacute;lade s inform&aacute;ciami uveden&yacute;mi v inform&aacute;cii o zru&scaron;en&iacute; v&yacute;zvy, najsk&ocirc;r v&scaron;ak dňom jej zverejnenia.</div>",
+ "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>",
+ "dalsiaSkutocnost": [
+  {
+   "kod": "DS001PSK-MZ-012-2025-DV-EFRR",
+   "dalsiaSkutocnost": "<div><span style=\"color:rgb(0, 0, 0)\">Bliž&scaron;ie &scaron;pecifikovan&eacute; vo v&yacute;zve v&nbsp;časti: &quot;</span><span style=\"color:rgb(0, 101, 179)\">Ďal&scaron;ie skutočnosti t&yacute;kaj&uacute;ce sa poskytovania pr&iacute;spevku</span><span style=\"color:rgb(0, 0, 0)\">&quot;.</span></div>"
+  }
+ ],
+ "dalsiaFormalnaNalezitost": [
+  {
+   "kod": "DFN003PSK-MZ-012-2025-DV-EFRR",
+   "dalsiaFormalnaNalezitost": "<div><span style=\"color:#0065b3\"><b>Konanie o zmene rozhodnutia o neschv&aacute;len&iacute; ŽoNFP v s&uacute;lade s &sect; 18 z&aacute;kona o pr&iacute;spevkoch z fondov E&Uacute;</b></span></div><div>&nbsp;</div><div>Zmena rozhodnutia sa v r&aacute;mci tejto v&yacute;zvy bude aplikovať podľa ustanovenia &sect; 18 z&aacute;kona o pr&iacute;spevkoch z fondov E&Uacute;.</div>"
+  },
+  {
+   "kod": "DFN001PSK-MZ-012-2025-DV-EFRR",
+   "dalsiaFormalnaNalezitost": "<div><span style=\"color:#0065b3\"><b>Sp&ocirc;sob financovania</b></span></div><div>&nbsp;</div><div style=\"text-align: justify;\">V s&uacute;lade s platnou Pr&iacute;ručkou k finančn&eacute;mu riadeniu fondov E&Uacute; na programov&eacute; obdobie 2021 - 202731 bud&uacute; prostriedky E&Uacute; a &scaron;t&aacute;tneho rozpočtu na spolufinancovanie poskytovan&eacute; syst&eacute;mom:</div><ul><li><span style=\"color:#0065b3\">predfinancovania,</span></li><li><span style=\"color:#0065b3\">z&aacute;lohov&yacute;ch platieb,</span></li><li><span style=\"color:#0065b3\">refund&aacute;cie,</span></li><li><span style=\"color:#0065b3\">kombin&aacute;ciou vy&scaron;&scaron;ie uveden&yacute;ch sp&ocirc;sobov financovania.</span></li></ul>"
+  },
+  {
+   "kod": "DFN002PSK-MZ-012-2025-DV-EFRR",
+   "dalsiaFormalnaNalezitost": "<div><span style=\"color:#0065b3\"><b>Uzatvorenie zmluvy o poskytnut&iacute; NFP</b></span></div><div>&nbsp;</div><div>Poskytovateľ za&scaron;le p&iacute;somn&yacute; n&aacute;vrh na uzavretie zmluvy a urč&iacute; lehotu na prijatie n&aacute;vrhu žiadateľovi o NFP:</div><ol><li>ktor&eacute;mu rozhodnutie o schv&aacute;len&iacute; ŽoNFP nadobudlo pr&aacute;voplatnosť,</li><li>ktor&yacute; splnil podmienky určen&eacute; vo v&yacute;roku rozhodnutia podľa &sect; 16 ods. 9, ak boli podmienky vo v&yacute;roku rozhodnutia určen&eacute;,</li><li>ktor&yacute; poskytol potrebn&uacute; s&uacute;činnosť a</li><li>ktor&yacute; splnil predpoklady na uzavretie zmluvy podľa osobitn&yacute;ch predpisov, nebol on, ani člen jeho &scaron;tatut&aacute;rneho alebo dozorn&eacute;ho org&aacute;nu pr&aacute;voplatne ods&uacute;den&yacute; za trestn&yacute; čin subvenčn&eacute;ho podvodu, trestn&yacute; čin po&scaron;kodzovania finančn&yacute;ch z&aacute;ujmov Eur&oacute;pskej &uacute;nie, trestn&yacute; čin machin&aacute;cii pri verejnom obstar&aacute;van&iacute; a verejnej dražbe, trestn&yacute; čin prij&iacute;mania &uacute;platku, trestn&yacute; čin podpl&aacute;cania, trestn&yacute; čin nepriamej korupcie alebo trestn&yacute; čin prijatia a poskytnutia nen&aacute;ležitej v&yacute;hody.</li></ol><div>Bliž&scaron;ie podrobnosti a procesn&yacute; postup pri uzatv&aacute;ran&iacute; zmluvy o poskytnut&iacute; NFP je uveden&yacute; vo V&scaron;eobecnej inform&aacute;cii k predkladaniu a schvaľovaniu ŽoNFP, kapitola 5, ktor&aacute; je spolu so vzorom zmluvy o poskytnut&iacute; NFP zverejnen&aacute; na webovej str&aacute;nke: Metodick&eacute; dokumenty CKO | Eurofondy (gov.sk).</div>"
+  },
+  {
+   "kod": "DFN004PSK-MZ-012-2025-DV-EFRR",
+   "dalsiaFormalnaNalezitost": "<div><span style=\"color:#0065b3\"><b>Zverejňovanie inform&aacute;ci&iacute;</b></span></div><div>&nbsp;</div><div>Poskytovateľ podľa čl. 49, bod 3 nariadenia Parlamentu a Rady E&Uacute; 2021/1060 zverejn&iacute; na webov&yacute;ch str&aacute;nkach www.eurofondy.gov.sk a www.health.gov.sk a priebežne bude aktualizovať zoznamy:</div><ul><li>ŽoNFP, ktor&eacute; boli schv&aacute;len&eacute;,</li><li>ŽoNFP, ktor&eacute; neboli schv&aacute;len&eacute;,</li><li>ŽoNFP, pri ktor&yacute;ch bolo zastaven&eacute; konanie o ŽoNFP.</li></ul><div>Žiadateľ berie na vedomie, že zverejňovan&eacute; inform&aacute;cie, ktor&eacute; s&uacute; považovan&eacute; za osobn&eacute; &uacute;daje, je poskytovateľ opr&aacute;vnen&yacute; zverejniť bez osobitn&eacute;ho s&uacute;hlasu žiadateľa v s&uacute;lade s &sect; 46 ods. 6 z&aacute;kona o pr&iacute;spevkoch z fondov E&Uacute;.<br />V pr&iacute;pade potreby bud&uacute; vysvetlenia a upresnenia s&uacute;visiace s v&yacute;zvou zverejňovan&eacute; prostredn&iacute;ctvom odpoved&iacute; na často kladen&eacute; ot&aacute;zky (FAQ) na webovom s&iacute;dle SO.</div>"
+  },
+  {
+   "kod": "DFN005PSK-MZ-012-2025-DV-EFRR",
+   "dalsiaFormalnaNalezitost": "<div><span style=\"color:#0065b3\"><b>Z&aacute;pis žiadateľa v registri partnerov verejn&eacute;ho sektora</b></span></div><div>&nbsp;</div><div>Žiadateľ mus&iacute; byť zap&iacute;san&yacute; v registri partnerov verejn&eacute;ho sektora. Predmetn&aacute; podmienka sa vzťahuje aj na v&scaron;etk&yacute;ch dod&aacute;vateľov a subdod&aacute;vateľov v r&aacute;mci projektu, ak sa na nich vzťahuje povinnosť z&aacute;pisu podľa &sect; 2 z&aacute;kona o registri partnerov.<br /><span style=\"color:#0065b3\">Čas overenia:</span><br />Skutočnosť bude overen&aacute; pred podpisom zmluvy o NFP v s&uacute;lade s &sect; 22 ods. 4 p&iacute;sm. d) z&aacute;kona č. 121/2022 Z. z.</div>"
+  }
+ ],
+ "verzia": [
+  {
+   "id": 6597,
+   "cislo": 1,
+   "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [
+  {
+   "id": 1137,
+   "specifickyCielProgramu": {
+    "id": 97,
+    "href": "/specifickycielprogramu/id/97",
+    "kod": "401103R106",
+    "nazovSk": "RSO1.6. Podpory investícií, ktoré prispievajú k cieľom Platformy strategických technológií pre Európu uvedeným v článku 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/795 (EFRR)",
+    "nazovDe": "RSO1.6 Unterstützung von Investitionen, die zu den in Artikel 2 der Verordnung (EU) 2024/795 genannten STEP-Zielen beitragen",
+    "nazovEn": "RSO1.6 Supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 41,
+     "href": "/priorita/id/41",
+     "kod": "401103",
+     "nazovSk": "1P3 Platforma strategických technológií pre Európu (STEP)",
+     "nazovDe": "1P3 Plattform für strategische Technologien für Europa (STEP)",
+     "nazovEn": "1P3 Strategic Technologies for Europe Platform (STEP)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867966
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540867984
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1247,
+    "href": "/ukazovatelprojektovy/id/1247",
+    "kod": "PSKPRCR03",
+    "nazovSk": "Malé a stredné podniky (MSP) zavádzajúce inovácie produktov alebo procesov",
+    "mernaJednotka": {
+     "id": 22,
+     "kod": "105322",
+     "nazovSk": "podniky",
+     "nazovEn": "podniky",
+     "popisSk": "podniky",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Mikro, mal&yacute; alebo stredn&yacute; podnik.</div>Podnik klasifikovan&yacute; v zmysle defin&iacute;cie MSP, t.j. subjekt identifikovan&yacute; pr&iacute;slu&scaron;n&yacute;m IČO (resp. DIČ ak subjekt nedisponuje IČO), ktor&yacute; samostatne vykon&aacute;va hospod&aacute;rsku činnosť, pričom pri pos&uacute;den&iacute; jeho veľkostnej kateg&oacute;rie sa zohľadnili pr&iacute;padn&eacute; partnersk&eacute; a prepojen&eacute; podniky plne v zmysle pravidiel stanoven&yacute;ch v odpor&uacute;čan&iacute; Komisie zo 6. m&aacute;ja 2003 o defin&iacute;cii mikro, mal&yacute;ch a stredn&yacute;ch podnikov <a href=\"https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32003H0361\">2003/361/ES</a> (resp. v pr&iacute;lohe I nariadenia Komisie (E&Uacute;) č. <a href=\"https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32014R0651\">651/2014</a> zo 17. j&uacute;na 2014 o vyhl&aacute;sen&iacute; určit&yacute;ch kateg&oacute;ri&iacute; pomoci za zlučiteľn&eacute; s vn&uacute;torn&yacute;m trhom podľa čl&aacute;nkov 107 a 108 zmluvy, ktor&aacute; preber&aacute; obsah predmetn&eacute;ho odpor&uacute;čania Komisie).</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Obchodn&yacute; register, Živnostensk&yacute; register,</div><div>Register pr&aacute;vnick&yacute;ch os&ocirc;b, podnikateľov a&nbsp;org&aacute;nov verejnej moci, Register z&aacute;ujmov&yacute;ch združen&iacute; pr&aacute;vnick&yacute;ch os&ocirc;b.</div><div>Register &uacute;čtovn&yacute;ch z&aacute;vierok.</div><div>Počet zamestnancov &ndash; Soci&aacute;lna poisťovňa.</div><div>&Scaron;tatistick&yacute; &uacute;rad SR &ndash; veľkostn&eacute; kateg&oacute;rie podnikov.</div><div>&Uacute;daje predložen&eacute; prij&iacute;mateľom.</div><div>Zmluva o&nbsp;poskytnut&iacute; NFP, Zmluva o&nbsp;partnerstve, in&yacute; pr&aacute;vny &uacute;kon, na z&aacute;klade ktor&eacute;ho sa poskytuje pomoc.</div><div><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Prij&iacute;mateľ podpory.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Zmluva o poskytnut&iacute; NFP, Zmluva o&nbsp;partnerstve, in&yacute; pr&aacute;vny &uacute;kon, na z&aacute;klade ktor&eacute;ho sa poskytuje pomoc.</div><div><div><b>3.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Inov&aacute;cia produktu &ndash; nov&yacute; pre podnik.</div><div>Inov&aacute;cia produktu je uvedenie nov&eacute;ho alebo z hľadiska jeho schopnost&iacute;, už&iacute;vateľskej pr&iacute;vetivosti, komponentov alebo podsyst&eacute;mov v&yacute;razne vylep&scaron;en&eacute;ho tovaru alebo služby na trh.&nbsp;</div>Bliž&scaron;ia &scaron;pecifik&aacute;cia m&ocirc;že byť určen&aacute; v&nbsp;dokument&aacute;cii v&yacute;zvy (ak relevantn&eacute;).</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Projektov&aacute; dokument&aacute;cia, Žiadosť o poskytnut&iacute; NFP &ndash; inovuje produkt a zav&aacute;dza ho cez nov&uacute; technol&oacute;giu, či zaobstaral technol&oacute;giu (stroje, pr&iacute;stroje, zariadenia, pr&iacute;p. in&eacute; relevantn&eacute; v&yacute;davky (napr. softv&eacute;r, licencie,...)), ktor&aacute; mu umožn&iacute; vyr&aacute;bať/poskytovať inovovan&yacute; produkt deklarovan&yacute; v&nbsp;Zmluve o poskytnut&iacute; NFP (technick&eacute; listy, technick&eacute; požiadavky, ďalej napr. prostredn&iacute;ctvom produktov&yacute;ch listov / katal&oacute;gu produktov, internetovej str&aacute;nky, technick&yacute;ch listov v&yacute;robku, protokolov z&nbsp;technickej sk&uacute;&scaron;ky, dodac&iacute;ch listov). Dokumenty bliž&scaron;ie &scaron;pecifikovan&eacute; vo v&yacute;zve (ak relevantn&eacute;).</div><div><div><b>3.2</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Inov&aacute;cia procesu &ndash; nov&yacute; pre podnik.</div><div>Inov&aacute;cia procesu je implement&aacute;cia / uvedenie nov&eacute;ho alebo v&yacute;razne zlep&scaron;en&eacute;ho v&yacute;robn&eacute;ho procesu, distribučnej met&oacute;dy alebo podpornej činnosti.</div>Bliž&scaron;ia &scaron;pecifik&aacute;cia m&ocirc;že byť určen&aacute; v&nbsp;dokument&aacute;cii v&yacute;zvy (ak relevantn&eacute;).</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Projektov&aacute; dokument&aacute;cia,&nbsp; Žiadosť o poskytnut&iacute; NFP &ndash; inovuje proces a zav&aacute;dza ho cez nov&uacute; technol&oacute;giu, ktor&aacute; mu umožn&iacute; vyr&aacute;bať/poskytovať produkty prostredn&iacute;ctvom inovovan&eacute;ho procesu (stroje, pr&iacute;stroje, zariadenia), či zaobstaral technol&oacute;giu (technick&eacute; listy, technick&eacute; požiadavky, ďalej napr. popis technick&yacute;ch parametrov strojov, pr&iacute;strojov, zariaden&iacute;, popis a modelovanie procesu, stav inov&aacute;cie procesu, procesn&aacute; mapa). Dokumenty bliž&scaron;ie &scaron;pecifikovan&eacute; vo v&yacute;zve (ak relevantn&eacute;).</div></div></div><div><b>4.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Čas plnenia: najnesk&ocirc;r jeden rok po dokončen&iacute; v&yacute;stupu podporen&eacute;ho projektu, t.j. najnesk&ocirc;r jeden rok od prv&eacute;ho dňa v mesiaci, ktor&yacute; nasleduje po mesiaci, v ktorom do&scaron;lo k ukončeniu realiz&aacute;cie v&scaron;etk&yacute;ch aktiv&iacute;t projektu.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Hodnota vyk&aacute;zan&aacute; najnesk&ocirc;r v r&aacute;mci prvej n&aacute;slednej monitorovacej spr&aacute;vy projektu.</div><div><div><b>5.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Podporen&yacute; podnik je vyk&aacute;zan&yacute; prostredn&iacute;ctvom identifik&aacute;tora jedinečnosti &ndash; IČO (identifikačn&eacute; č&iacute;slo organiz&aacute;cie), resp. DIČ (daňov&eacute; identifikačn&eacute; č&iacute;slo) ak subjekt nedisponuje IČO.</div>Z&aacute;znamy jedinečnosti s&nbsp;identifik&aacute;torom jedinečnosti IČO, resp. DIČ je prij&iacute;mateľ povinn&yacute; zaevidovať v&nbsp;detaile in&eacute;ho &uacute;daja projektu, ktor&eacute; je dostupn&eacute; len prostredn&iacute;ctvom zmeny projektu typu &bdquo;monitorovanie&ldquo; (viď usmernenie <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/dokumenty-itms21/\">&bdquo;Monitorovanie projektu v syst&eacute;me ITMS21+&ldquo;</a>), v&nbsp;predp&iacute;sanom tvare (pr&iacute;klad IČO: 00123456 &ndash; mus&iacute; byť uv&aacute;dzan&eacute; bez medzier a mus&iacute; mať 8 znakov, pr&iacute;klad DIČ: 0012345678 &ndash; mus&iacute; byť uv&aacute;dzan&eacute; bez medzier a mus&iacute; mať 10 znakov).&nbsp;</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Zmluva o poskytnut&iacute;&nbsp;NFP, Zmluva o&nbsp;partnerstve, in&yacute; pr&aacute;vny &uacute;kon, na z&aacute;klade ktor&eacute;ho sa poskytuje pomoc, vyplnen&yacute; zoznam z&aacute;znamov jedinečnosti v&nbsp;detaile in&eacute;ho &uacute;daja v&nbsp;ITMS21+.</div></div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1675326539362,
+    "updatedAt": 1740651925692
+   }
+  }
+ ],
+ "ukazovatelVystupovy": [
+  {
+   "id": 1138,
+   "specifickyCielProgramu": {
+    "id": 97,
+    "href": "/specifickycielprogramu/id/97",
+    "kod": "401103R106",
+    "nazovSk": "RSO1.6. Podpory investícií, ktoré prispievajú k cieľom Platformy strategických technológií pre Európu uvedeným v článku 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/795 (EFRR)",
+    "nazovDe": "RSO1.6 Unterstützung von Investitionen, die zu den in Artikel 2 der Verordnung (EU) 2024/795 genannten STEP-Zielen beitragen",
+    "nazovEn": "RSO1.6 Supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 41,
+     "href": "/priorita/id/41",
+     "kod": "401103",
+     "nazovSk": "1P3 Platforma strategických technológií pre Európu (STEP)",
+     "nazovDe": "1P3 Plattform für strategische Technologien für Europa (STEP)",
+     "nazovEn": "1P3 Strategic Technologies for Europe Platform (STEP)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867966
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540867984
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1192,
+    "href": "/ukazovatelprojektovy/id/1192",
+    "kod": "PSKPRCO02",
+    "nazovSk": "Podniky podporované grantmi",
+    "mernaJednotka": {
+     "id": 22,
+     "kod": "105322",
+     "nazovSk": "podniky",
+     "nazovEn": "podniky",
+     "popisSk": "podniky",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><div><div><div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Podnik - subjekt identifikovan&yacute; pr&iacute;slu&scaron;n&yacute;m IČO (resp. DIČ ak subjekt nedisponuje IČO), ktor&yacute; samostatne vykon&aacute;va hospod&aacute;rsku činnosť.&nbsp;</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Obchodn&yacute; register, Živnostensk&yacute; register, Register pr&aacute;vnick&yacute;ch os&ocirc;b, podnikateľov a&nbsp;org&aacute;nov verejnej moci,&nbsp; Register z&aacute;ujmov&yacute;ch združen&iacute; pr&aacute;vnick&yacute;ch os&ocirc;b.</div><div><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Prij&iacute;mateľ podpory.</div><div>&nbsp;</div>Ak jedn&eacute;mu podniku (jedinečn&eacute; IČO, resp. DIČ ak subjekt nedisponuje IČO) bude v r&aacute;mci projektu v&nbsp;rovnakom &scaron;pecifickom cieli a kateg&oacute;rii regi&oacute;nu poskytnut&aacute; podpora viackr&aacute;t, do&nbsp;ukazovateľa sa tento podnik vyk&aacute;že iba raz na &uacute;rovni &scaron;pecifick&eacute;ho cieľa a kateg&oacute;rie regi&oacute;nu. Podnik, ktor&eacute;mu bol v r&aacute;mci n&aacute;rodn&eacute;ho projektu poskytnut&yacute; voucher, sa do ukazovateľa vyk&aacute;že až ku dňu preplatenia vouchera.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Zmluva o poskytnut&iacute; NFP, Zmluva o&nbsp;partnerstve, pri voucheroch zmluva s&nbsp;prij&iacute;mateľom, in&yacute; pr&aacute;vny &uacute;kon, na z&aacute;klade ktor&eacute;ho sa poskytuje pomoc.</div><div><div><b>3.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Podpora poskytnut&aacute; vo forme grantu (nen&aacute;vratnej finančnej podpory, vr&aacute;tane voucherov).</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div></div><div>Zmluva o poskytnut&iacute; NFP, Zmluva o&nbsp;partnerstve, pri voucheroch zmluva s&nbsp;prij&iacute;mateľom, in&yacute; pr&aacute;vny &uacute;kon, na z&aacute;klade ktor&eacute;ho sa poskytuje pomoc.</div><div><div><b>4.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Podporen&yacute; podnik je vyk&aacute;zan&yacute; prostredn&iacute;ctvom identifik&aacute;tora jedinečnosti &ndash; IČO (identifikačn&eacute; č&iacute;slo organiz&aacute;cie), resp. DIČ (daňov&eacute; identifikačn&eacute; č&iacute;slo) ak subjekt nedisponuje IČO.</div>Z&aacute;znamy jedinečnosti s&nbsp;identifik&aacute;torom jedinečnosti IČO, resp. DIČ je prij&iacute;mateľ povinn&yacute; zaevidovať v&nbsp;detaile merateľn&eacute;ho ukazovateľa projektu, ktor&eacute; je dostupn&eacute; len prostredn&iacute;ctvom zmeny projektu typu &bdquo;monitorovanie&ldquo; (viď usmernenie <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/dokumenty-itms21/\"><i>&bdquo;Monitorovanie projektu v syst&eacute;me ITMS21+&ldquo;</i></a><i>), </i>v&nbsp;predp&iacute;sanom tvare (pr&iacute;klad IČO: 00123456 &ndash; mus&iacute; byť uv&aacute;dzan&eacute; bez medzier a mus&iacute; mať 8 znakov, pr&iacute;klad DIČ: 0012345678 &ndash; mus&iacute; byť uv&aacute;dzan&eacute; bez medzier a mus&iacute; mať 10 znakov).&nbsp;</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Zmluva o poskytnut&iacute;&nbsp;NFP, Zmluva o&nbsp;partnerstve, pri voucheroch zmluva s&nbsp;prij&iacute;mateľom, in&yacute; pr&aacute;vny &uacute;kon, na z&aacute;klade ktor&eacute;ho sa poskytuje pomoc, vyplnen&yacute; zoznam z&aacute;znamov jedinečnosti v detaile merateľn&eacute;ho ukazovateľa projektu v&nbsp;ITMS21+.</div></div></div></div></div></div></div></div>",
+    "definiciaDe": "<div><div><div>&nbsp;</div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1673940593661,
+    "updatedAt": 1740647212439
+   }
+  },
+  {
+   "id": 1139,
+   "specifickyCielProgramu": {
+    "id": 97,
+    "href": "/specifickycielprogramu/id/97",
+    "kod": "401103R106",
+    "nazovSk": "RSO1.6. Podpory investícií, ktoré prispievajú k cieľom Platformy strategických technológií pre Európu uvedeným v článku 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/795 (EFRR)",
+    "nazovDe": "RSO1.6 Unterstützung von Investitionen, die zu den in Artikel 2 der Verordnung (EU) 2024/795 genannten STEP-Zielen beitragen",
+    "nazovEn": "RSO1.6 Supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 41,
+     "href": "/priorita/id/41",
+     "kod": "401103",
+     "nazovSk": "1P3 Platforma strategických technológií pre Európu (STEP)",
+     "nazovDe": "1P3 Plattform für strategische Technologien für Europa (STEP)",
+     "nazovEn": "1P3 Strategic Technologies for Europe Platform (STEP)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867966
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540867984
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1796,
+    "href": "/ukazovatelprojektovy/id/1796",
+    "kod": "PSKPRCO127",
+    "nazovSk": "Podniky primárne spojené s produktívnymi investíciami do biotechnológií",
+    "mernaJednotka": {
+     "id": 22,
+     "kod": "105322",
+     "nazovSk": "podniky",
+     "nazovEn": "podniky",
+     "popisSk": "podniky",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Podnik - subjekt identifikovan&yacute; pr&iacute;slu&scaron;n&yacute;m IČO (resp. DIČ ak subjekt nedisponuje IČO), ktor&yacute; samostatne vykon&aacute;va hospod&aacute;rsku činnosť.&nbsp;</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div><div>Obchodn&yacute; register, Živnostensk&yacute; register, Register pr&aacute;vnick&yacute;ch os&ocirc;b, podnikateľov a&nbsp;org&aacute;nov verejnej moci,&nbsp; Register z&aacute;ujmov&yacute;ch združen&iacute; pr&aacute;vnick&yacute;ch os&ocirc;b.</div><div><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Prij&iacute;mateľ nen&aacute;vratnej finančnej podpory (podpora poskytnut&aacute; vo forme grantu, vr&aacute;tane voucherov) alebo n&aacute;vratnej formy podpory (napr. podpora vo forme z&aacute;ruky, &uacute;veru, kv&aacute;zikapit&aacute;lovej invest&iacute;cie a kapit&aacute;lovej invest&iacute;cie)</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div></div></div></div><div style=\"clear:both\"><div>Zmluva o poskytnut&iacute; NFP, Zmluva o&nbsp;partnerstve, pri voucheroch zmluva s&nbsp;prij&iacute;mateľom, in&yacute; pr&aacute;vny &uacute;kon, na z&aacute;klade ktor&eacute;ho sa poskytuje pomoc.</div><div>Zmluva s konečn&yacute;m prij&iacute;mateľom finančn&eacute;ho n&aacute;stroja, napr. Zmluva o invest&iacute;cii, Zmluva o &uacute;vere (o poskytnut&iacute; z&aacute;ruky), atď.</div><div>Reporty od prij&iacute;mateľa/spr&aacute;vcov/ sprostredkovateľov (na z&aacute;klade pr&iacute;slu&scaron;nej zmluvy).</div><div><div><b>3.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Podpora prostredn&iacute;ctvom projektu je zameran&aacute; na produkt&iacute;vne invest&iacute;cie t&yacute;kaj&uacute;ce sa v&yacute;voja alebo v&yacute;roby biotechnol&oacute;gi&iacute; v&nbsp;s&uacute;lade s Ozn&aacute;men&iacute;m Komisie &ndash; Usmernenie t&yacute;kaj&uacute;ce sa určit&yacute;ch ustanoven&iacute; nariadenia (E&Uacute;) 2024/795, ktor&yacute;m sa zriaďuje platforma strategick&yacute;ch technol&oacute;gi&iacute; pre Eur&oacute;pu (STEP).</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Projektov&aacute; dokument&aacute;cia, relevantn&eacute; dokumenty bliž&scaron;ie &scaron;pecifikovan&eacute; vo v&yacute;zve (ak relevantn&eacute;).</div><a href=\"https://eur-lex.europa.eu/eli/C/2024/3209/oj/slk\">Ozn&aacute;menie Komisie</a> &ndash; Usmernenie t&yacute;kaj&uacute;ce sa určit&yacute;ch ustanoven&iacute; nariadenia (E&Uacute;) 2024/795, ktor&yacute;m sa zriaďuje Platforma strategick&yacute;ch technol&oacute;gi&iacute; pre Eur&oacute;pu (platforma STEP).</div></div><div><div><b>4.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Podporen&yacute; podnik je vyk&aacute;zan&yacute; prostredn&iacute;ctvom identifik&aacute;tora jedinečnosti &ndash; IČO (identifikačn&eacute; č&iacute;slo organiz&aacute;cie), resp. DIČ (daňov&eacute; identifikačn&eacute; č&iacute;slo) ak subjekt nedisponuje IČO v&nbsp;s&uacute;lade s&nbsp;časom plnenia PSKPRCO02 &bdquo;Podniky podporovan&eacute; grantmi&ldquo; alebo PSKPRCO03 &bdquo;Podniky podporovan&eacute; finančn&yacute;mi n&aacute;strojmi&ldquo;, t. j. v&nbsp;z&aacute;vislosti od formy poskytnutej podpory (nen&aacute;vratn&aacute; alebo n&aacute;vratn&aacute;).</div>Z&aacute;znamy jedinečnosti s&nbsp;identifik&aacute;torom jedinečnosti IČO, resp. DIČ je prij&iacute;mateľ povinn&yacute; zaevidovať v&nbsp;detaile merateľn&eacute;ho ukazovateľa projektu, ktor&eacute; je dostupn&eacute; len prostredn&iacute;ctvom zmeny projektu typu &bdquo;monitorovanie&ldquo; (viď usmernenie <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/dokumenty-itms21/\"><i>&bdquo;Monitorovanie projektu v syst&eacute;me ITMS21+&ldquo;</i></a><i>), </i>v&nbsp;predp&iacute;sanom tvare (pr&iacute;klad IČO: 00123456 &ndash; mus&iacute; byť uv&aacute;dzan&eacute; bez medzier a mus&iacute; mať 8 znakov, pr&iacute;klad DIČ: 0012345678 &ndash; mus&iacute; byť uv&aacute;dzan&eacute; bez medzier a mus&iacute; mať 10 znakov).&nbsp;</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Zmluva o poskytnut&iacute;&nbsp;NFP, Zmluva o&nbsp;partnerstve, pri voucheroch zmluva s&nbsp;prij&iacute;mateľom, in&yacute; pr&aacute;vny &uacute;kon, na z&aacute;klade ktor&eacute;ho sa poskytuje pomoc. Zmluva s konečn&yacute;m prij&iacute;mateľom finančn&eacute;ho n&aacute;stroja, napr. Zmluva o invest&iacute;cii, Zmluva o &uacute;vere (o poskytnut&iacute; z&aacute;ruky), atď.</div>Reporty od prij&iacute;mateľa/spr&aacute;vcov/ sprostredkovateľov (na z&aacute;klade pr&iacute;slu&scaron;nej zmluvy). Vyplnen&yacute; zoznam z&aacute;znamov jedinečnosti v detaile merateľn&eacute;ho ukazovateľa projektu v&nbsp;ITMS21+.</div></div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1753344265776,
+    "updatedAt": 1753358412719
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 1344,
+   "href": "/typakcieprogramu/id/1344",
+   "kod": "401103R10600061",
+   "nazovSk": "Realizácia projektov na podporu kritických biotechnológií (vrátane kritických liekov, ktoré sú uvedené na zozname kritických liekov Únie, a ich zložiek)",
+   "specifickyCielProgramu": {
+    "id": 97,
+    "href": "/specifickycielprogramu/id/97",
+    "kod": "401103R106",
+    "nazovSk": "RSO1.6. Podpory investícií, ktoré prispievajú k cieľom Platformy strategických technológií pre Európu uvedeným v článku 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/795 (EFRR)",
+    "nazovDe": "RSO1.6 Unterstützung von Investitionen, die zu den in Artikel 2 der Verordnung (EU) 2024/795 genannten STEP-Zielen beitragen",
+    "nazovEn": "RSO1.6 Supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 41,
+     "href": "/priorita/id/41",
+     "kod": "401103",
+     "nazovSk": "1P3 Platforma strategických technológií pre Európu (STEP)",
+     "nazovDe": "1P3 Plattform für strategische Technologien für Europa (STEP)",
+     "nazovEn": "1P3 Strategic Technologies for Europe Platform (STEP)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867966
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540867984
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1750163414929,
+   "updatedAt": 1772541472122
+  },
+  {
+   "id": 1357,
+   "href": "/typakcieprogramu/id/1357",
+   "kod": "401103R106000P1",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 97,
+    "href": "/specifickycielprogramu/id/97",
+    "kod": "401103R106",
+    "nazovSk": "RSO1.6. Podpory investícií, ktoré prispievajú k cieľom Platformy strategických technológií pre Európu uvedeným v článku 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/795 (EFRR)",
+    "nazovDe": "RSO1.6 Unterstützung von Investitionen, die zu den in Artikel 2 der Verordnung (EU) 2024/795 genannten STEP-Zielen beitragen",
+    "nazovEn": "RSO1.6 Supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 41,
+     "href": "/priorita/id/41",
+     "kod": "401103",
+     "nazovSk": "1P3 Platforma strategických technológií pre Európu (STEP)",
+     "nazovDe": "1P3 Plattform für strategische Technologien für Europa (STEP)",
+     "nazovEn": "1P3 Strategic Technologies for Europe Platform (STEP)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867966
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540867984
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1750163421446,
+   "updatedAt": 1772541472122
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 97,
+    "href": "/specifickycielprogramu/id/97",
+    "kod": "401103R106",
+    "nazovSk": "RSO1.6. Podpory investícií, ktoré prispievajú k cieľom Platformy strategických technológií pre Európu uvedeným v článku 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/795 (EFRR)",
+    "nazovDe": "RSO1.6 Unterstützung von Investitionen, die zu den in Artikel 2 der Verordnung (EU) 2024/795 genannten STEP-Zielen beitragen",
+    "nazovEn": "RSO1.6 Supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 41,
+     "href": "/priorita/id/41",
+     "kod": "401103",
+     "nazovSk": "1P3 Platforma strategických technológií pre Európu (STEP)",
+     "nazovDe": "1P3 Plattform für strategische Technologien für Europa (STEP)",
+     "nazovEn": "1P3 Strategic Technologies for Europe Platform (STEP)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867966
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540867984
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200362,
+    "kod": "10364PO191",
+    "kodZdroj": "191",
+    "nazovSk": "Produktívne investície do MSP primárne spojené s biotechnológiami",
+    "nazovDe": "Produktive Investitionen in KMU, die in erster Linie mit Biotechnologien verbunden sind",
+    "popisSk": "Produktívne investície do MSP primárne spojené s biotechnológiami",
+    "popisDe": "Produktive Investitionen in KMU, die in erster Linie mit Biotechnologien verbunden sind",
+    "platnostOd": 1717970400000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 97,
+    "href": "/specifickycielprogramu/id/97",
+    "kod": "401103R106",
+    "nazovSk": "RSO1.6. Podpory investícií, ktoré prispievajú k cieľom Platformy strategických technológií pre Európu uvedeným v článku 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/795 (EFRR)",
+    "nazovDe": "RSO1.6 Unterstützung von Investitionen, die zu den in Artikel 2 der Verordnung (EU) 2024/795 genannten STEP-Zielen beitragen",
+    "nazovEn": "RSO1.6 Supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 41,
+     "href": "/priorita/id/41",
+     "kod": "401103",
+     "nazovSk": "1P3 Platforma strategických technológií pre Európu (STEP)",
+     "nazovDe": "1P3 Plattform für strategische Technologien für Europa (STEP)",
+     "nazovEn": "1P3 Strategic Technologies for Europe Platform (STEP)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867966
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540867984
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 97,
+    "href": "/specifickycielprogramu/id/97",
+    "kod": "401103R106",
+    "nazovSk": "RSO1.6. Podpory investícií, ktoré prispievajú k cieľom Platformy strategických technológií pre Európu uvedeným v článku 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/795 (EFRR)",
+    "nazovDe": "RSO1.6 Unterstützung von Investitionen, die zu den in Artikel 2 der Verordnung (EU) 2024/795 genannten STEP-Zielen beitragen",
+    "nazovEn": "RSO1.6 Supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 41,
+     "href": "/priorita/id/41",
+     "kod": "401103",
+     "nazovSk": "1P3 Platforma strategických technológií pre Európu (STEP)",
+     "nazovDe": "1P3 Plattform für strategische Technologien für Europa (STEP)",
+     "nazovEn": "1P3 Strategic Technologies for Europe Platform (STEP)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867966
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540867984
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 97,
+    "href": "/specifickycielprogramu/id/97",
+    "kod": "401103R106",
+    "nazovSk": "RSO1.6. Podpory investícií, ktoré prispievajú k cieľom Platformy strategických technológií pre Európu uvedeným v článku 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/795 (EFRR)",
+    "nazovDe": "RSO1.6 Unterstützung von Investitionen, die zu den in Artikel 2 der Verordnung (EU) 2024/795 genannten STEP-Zielen beitragen",
+    "nazovEn": "RSO1.6 Supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 41,
+     "href": "/priorita/id/41",
+     "kod": "401103",
+     "nazovSk": "1P3 Platforma strategických technológií pre Európu (STEP)",
+     "nazovDe": "1P3 Plattform für strategische Technologien für Europa (STEP)",
+     "nazovEn": "1P3 Strategic Technologies for Europe Platform (STEP)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867966
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540867984
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200009,
+    "kod": "10384PO09",
+    "kodZdroj": "09",
+    "nazovSk": "Iné nešpecifikované výrobné odvetvia",
+    "nazovEn": "Iné nešpecifikované výrobné odvetvia",
+    "nazovDe": "Sonstiges nicht spezifiziertes verarbeitendes Gewerbe",
+    "popisSk": "Iné nešpecifikované výrobné odvetvia",
+    "popisDe": "Sonstiges nicht spezifiziertes verarbeitendes Gewerbe",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 97,
+    "href": "/specifickycielprogramu/id/97",
+    "kod": "401103R106",
+    "nazovSk": "RSO1.6. Podpory investícií, ktoré prispievajú k cieľom Platformy strategických technológií pre Európu uvedeným v článku 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/795 (EFRR)",
+    "nazovDe": "RSO1.6 Unterstützung von Investitionen, die zu den in Artikel 2 der Verordnung (EU) 2024/795 genannten STEP-Zielen beitragen",
+    "nazovEn": "RSO1.6 Supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 41,
+     "href": "/priorita/id/41",
+     "kod": "401103",
+     "nazovSk": "1P3 Platforma strategických technológií pre Európu (STEP)",
+     "nazovDe": "1P3 Plattform für strategische Technologien für Europa (STEP)",
+     "nazovEn": "1P3 Strategic Technologies for Europe Platform (STEP)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867966
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540867984
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 97,
+    "href": "/specifickycielprogramu/id/97",
+    "kod": "401103R106",
+    "nazovSk": "RSO1.6. Podpory investícií, ktoré prispievajú k cieľom Platformy strategických technológií pre Európu uvedeným v článku 2 nariadenia Európskeho parlamentu a Rady (EÚ) 2024/795 (EFRR)",
+    "nazovDe": "RSO1.6 Unterstützung von Investitionen, die zu den in Artikel 2 der Verordnung (EU) 2024/795 genannten STEP-Zielen beitragen",
+    "nazovEn": "RSO1.6 Supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 41,
+     "href": "/priorita/id/41",
+     "kod": "401103",
+     "nazovSk": "1P3 Platforma strategických technológií pre Európu (STEP)",
+     "nazovDe": "1P3 Plattform für strategische Technologien für Europa (STEP)",
+     "nazovEn": "1P3 Strategic Technologies for Europe Platform (STEP)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867966
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540867984
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200003,
+    "kod": "12094PO04",
+    "kodZdroj": "04",
+    "nazovSk": "Stratégia pre región Dunaja",
+    "nazovEn": "Stratégia pre región Dunaja",
+    "nazovDe": "Strategie für den Donauraum",
+    "popisSk": "Stratégia pre región Dunaja",
+    "popisDe": "Strategie für den Donauraum",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 1,
+   "kod": "1033MRR",
+   "kodZdroj": "MRR",
+   "nazovSk": "Menej rozvinutý región",
+   "nazovEn": "less-developed regions",
+   "popisSk": "Menej rozvinutý región",
+   "popisEn": "less-developed regions",
+   "platnostOd": 725842800000
+  },
+  {
+   "id": 2,
+   "kod": "1033VRR",
+   "kodZdroj": "VRR",
+   "nazovSk": "Viac rozvinutý región",
+   "nazovEn": "more-developed regions",
+   "popisSk": "Viac rozvinutý región",
+   "popisEn": "more-developed regions",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [
+  {
+   "kod": "SP-S-2025/000070",
+   "nazov": "SA.105097 (2022/N) IPCEI Med4Cure",
+   "typ": "SCHEMA_STATNEJ_POMOCI",
+   "platnostOd": 1743030000000,
+   "platnostDo": 1924902000000
+  }
+ ],
+ "aktualitaNaVyzve": [],
+ "projektovyZamerIUS": []
+}

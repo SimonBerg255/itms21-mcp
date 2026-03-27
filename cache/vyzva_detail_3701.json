@@ -1,0 +1,1162 @@
+{
+ "id": 3701,
+ "href": "/vyzva/id/3701",
+ "kod": "PRH-MPRV-003-2025-TP-ENRAF",
+ "nazovSk": "Financovanie projektu Technickej pomoci pre prijímateľa MPRV SR  (RO)",
+ "program": {
+  "id": 7,
+  "href": "/program/id/7",
+  "kod": "402000",
+  "nazovSk": "Program Rybné hospodárstvo SR",
+  "nazovEn": "Programme Slovakia - EMFAF",
+  "skratka": "PRH SR",
+  "sumaEu": 15225428.0,
+  "sumaSr": 6525185.0,
+  "sumaSpolu": 21750613.0,
+  "typProgramu": {
+   "typ": "RYBY",
+   "jedenFond": true,
+   "maKategoriuReg": false,
+   "maPriority": true,
+   "maOpatrenia": false
+  },
+  "kodCCI": "2021SK14MFPR001",
+  "riadiaciOrgan": {
+   "id": 413
+  },
+  "createdAt": 1759305536159,
+  "updatedAt": 1759305536398
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 93,
+   "href": "/specifickycielprogramu/id/93",
+   "kod": "4027510051",
+   "nazovSk": "5.1 Technická pomoc",
+   "nazovDe": "5.1 Technische Hilfe",
+   "nazovEn": "5.1 Technical assistance",
+   "program": {
+    "id": 7,
+    "href": "/program/id/7"
+   },
+   "priorita": {
+    "id": 38,
+    "href": "/priorita/id/38",
+    "kod": "402751",
+    "nazovSk": "7. Technická pomoc (ŠC 5.1)",
+    "nazovDe": "7. Technische Hilfe",
+    "nazovEn": "7. Technical assistance",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "createdAt": 1759305536568
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 10,
+    "kod": "1032ENRAF",
+    "kodZdroj": "ENRAF",
+    "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1759305536938
+  }
+ ],
+ "opatrenie": [],
+ "miestoRealizacie": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 42,
+   "kod": "1009321",
+   "kodZdroj": "321",
+   "nazovSk": "Rozpočtová organizácia",
+   "nazovEn": "Budgetary organization",
+   "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+   "popisEn": "Budgetary organization Budgetary organization",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1751839200000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 413,
+  "kod": "21_RO_PRH",
+  "nazov": "Riadiaci orgán Program Rybné hospodárstvo SR (2021-2027)",
+  "subjekt": {
+   "id": 100012,
+   "href": "/subjekt/id/100012",
+   "nazov": "Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky",
+   "ico": "00156621",
+   "dic": "2021291382",
+   "platitelDph": false,
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Dobrovičova",
+    "cislo": "12",
+    "psc": "81266",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 413,
+  "kod": "21_RO_PRH",
+  "nazov": "Riadiaci orgán Program Rybné hospodárstvo SR (2021-2027)",
+  "subjekt": {
+   "id": 100012,
+   "href": "/subjekt/id/100012",
+   "nazov": "Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky",
+   "ico": "00156621",
+   "dic": "2021291382",
+   "platitelDph": false,
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Dobrovičova",
+    "cislo": "12",
+    "psc": "81266",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "OTVORENA",
+ "zameranieProjektu": "TA_21",
+ "createdAt": 1751641133829,
+ "updatedAt": 1754997925581,
+ "sumaEu": 690351.2,
+ "sumaSr": 295864.8,
+ "predvyber": false,
+ "posudzovaneObdobie": [],
+ "pocetPredlozenychZiadosti": 1,
+ "pocetSchvalenychZiadosti": 0,
+ "pocetZiadostiVKonani": 1,
+ "pocetNeschvalenychZiadosti": 0,
+ "pocetRealizovanychProjektov": 0,
+ "planovanaVyzva": [],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 10,
+   "kod": "1032ENRAF",
+   "kodZdroj": "ENRAF",
+   "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+   "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+   "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+   "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "cielVyzvy": "<div><span class=\"fontstyle0\">Zabezpečenie implement&aacute;cie Programu rybn&eacute; hospod&aacute;rstvo Slovenskej republiky 2021 &ndash; 2027 (ďalej len &bdquo;PRH SR 21-27&ldquo;) a zv&yacute;&scaron;enie jeho kvality prostredn&iacute;ctvom zabezpečenia stabiln&yacute;ch, kvalitn&yacute;ch a<br />odborne zdatn&yacute;ch administrat&iacute;vnych kapac&iacute;t (ďalej ako &bdquo;AK&ldquo;).</span></div><div><span class=\"fontstyle0\">Aktivity&nbsp;</span><span class=\"fontstyle2\">bud&uacute; zameran&eacute; na:</span><ul><li><span class=\"fontstyle2\">posilnenie kapac&iacute;t v r&aacute;mci implement&aacute;cie&nbsp;</span>Eur&oacute;psk&eacute;ho&nbsp;n&aacute;morn&eacute;ho, rybolovn&eacute;ho&nbsp;a akvakult&uacute;rn&eacute;ho&nbsp;fondu (ďalej ako &bdquo;<span class=\"fontstyle2\">ENRAF&quot;),</span></li><li><span class=\"fontstyle2\">akt&iacute;vne zapojenie AK ENRAF do vzdel&aacute;vac&iacute;ch aktiv&iacute;t zameran&yacute;ch na kľ&uacute;čov&eacute;&nbsp;</span>procesy riadenia a implement&aacute;cie, vr&aacute;tane v&yacute;meny sk&uacute;senost&iacute; s in&yacute;mi riadiacimi org&aacute;nmi,</li><li><span class=\"fontstyle2\">stabiliz&aacute;ciu AK vytvoren&iacute;m objekt&iacute;vneho, motivačn&eacute;ho a transparentn&eacute;ho&nbsp;</span>syst&eacute;mu odmeňovania porovnateľn&eacute;ho s ostatn&yacute;mi subjektami zapojen&yacute;mi do PO 2021 &ndash; 2027 so<span class=\"fontstyle2\">zohľadnen&iacute;m v&yacute;konnosti AK, vr&aacute;tane zlep&scaron;enia pracovn&yacute;ch podmienok,</span></li><li><span class=\"fontstyle2\">zabezpečenie kontinuity a odbornosti zamestnancov presunom extern&yacute;ch zamestnancov do&nbsp;</span>intern&eacute;ho prostredia,</li><li><span class=\"fontstyle2\">realiz&aacute;cia konkr&eacute;tne cielen&yacute;ch opatren&iacute; s cieľom zlep&scaron;iť administrat&iacute;vne &scaron;trukt&uacute;ry, model&nbsp;</span>poskytovania a podporenie kapac&iacute;t syst&eacute;mu monitorovania a kontroly RO ENRAF,</li><li><span class=\"fontstyle2\">financovanie extern&yacute;ch služieb s&uacute;visiacich s pr&iacute;pravou v&yacute;ziev, verejn&yacute;ch obstar&aacute;van&iacute;, metodologickej&nbsp;</span>podpory a podpory pri pr&iacute;prave riadiacej dokument&aacute;cie a pod &ndash; v pr&iacute;pade poskytnutia služieb&nbsp;<span class=\"fontstyle2\">v r&aacute;mci dohody o vykonan&iacute; pr&aacute;ce, resp. dohody o pracovnej činnosti</span></li></ul></div>",
+ "sposobFinancovania": [
+  "ZALOHA",
+  "PREDFINANCOVANIE",
+  "REFUNDACIA"
+ ],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktNazov": "Odbor Programu Rybné hospodárstvo 2021-2027",
+ "kontaktEmail": "prh@land.gov.sk",
+ "kontaktTelefon": "+421 2 592 66 279",
+ "kontaktneUdajePoskytovatela": "<div>Bliž&scaron;ie inform&aacute;cie t&yacute;kaj&uacute;ce sa v&yacute;zvy a pr&iacute;pravy ŽoNFP je možn&eacute; z&iacute;skať v <b>listinnej podobe</b> na adrese poskytovateľa:<br />Ministerstvo p&ocirc;dohospod&aacute;rstva a rozvoja vidieka Slovenskej republiky<br />Sekcia rozvoja vidieka a priamych platieb<br />Odbor Programu Rybn&eacute; hospod&aacute;rstvo 2021-2027<br />Dobrovičova 12<br />812 66 Bratislava</div><div>Ot&aacute;zky predložen&eacute; p&iacute;somne je potrebn&eacute; označiť odkazom na t&uacute;to v&yacute;zvu (k&oacute;dom v&yacute;zvy PRH-MPRV-003-2025-TP-ENRAF), pričom ot&aacute;zka mus&iacute; byť formulovan&aacute; jasne a zrozumiteľne.</div><div><b>Z&aacute;v&auml;zn&eacute; inform&aacute;cie s&uacute; žiadateľom poskytovan&eacute; v&yacute;lučne v p&iacute;somnej forme. Inform&aacute;cie poskytnut&eacute; nemaj&uacute; z&aacute;v&auml;zn&yacute; charakter a žiadateľ sa na ne nem&ocirc;že odvol&aacute;vať.</b></div>",
+ "kontaktnaOsoba": [],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "Oprávnenosť žiadateľa",
+   "popisSk": "<div>V r&aacute;mci tejto v&yacute;zvy je opr&aacute;vnen&yacute;m žiadateľom <b>Ministerstvo p&ocirc;dohospod&aacute;rstva a rozvoja vidieka Slovenskej republiky</b> ako riadiaci org&aacute;n (ďalej aj &bdquo;RO&ldquo;).<br /><b>Forma preuk&aacute;zania zo strany žiadateľa:</b> &Uacute;daje uveden&eacute; v Pr&iacute;lohe č. 1 v&yacute;zvy &ndash; Formul&aacute;r ŽoNFP, časť 1. Identifik&aacute;cia žiadateľa.<br /><b>Sp&ocirc;sob overenia:</b> Na z&aacute;klade &uacute;dajov poskytnut&yacute;ch v r&aacute;mci dokument&aacute;cie ŽoNFP; ITMS.<br /><b>Ukončenie uplatniteľnosti PPP:</b> do skončenia trvania rozhodnutia o schv&aacute;len&iacute; ŽoNFP.<br /><b>Čas plnenia / overenia:</b> overuje sa v konan&iacute; o žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne počas realiz&aacute;cie projektu - v zmysle čl. 65 Nariadenie Eur&oacute;pskeho parlamentu a Rady (E&Uacute;) 2021/1060 ktor&yacute;m sa stanovuj&uacute; spoločn&eacute; ustanovenia o Eur&oacute;pskom fonde region&aacute;lneho rozvoja, Eur&oacute;pskom soci&aacute;lnom fonde plus,&nbsp; Koh&eacute;znom fonde, Fonde na spravodliv&uacute; transform&aacute;ciu a Eur&oacute;pskom n&aacute;mornom, rybolovnom a akvakult&uacute;rnom fonde a rozpočtov&eacute; pravidl&aacute; pre uveden&eacute; fondy, ako aj pre Fond pre azyl, migr&aacute;ciu a integr&aacute;ciu, Fond pre vn&uacute;torn&uacute; bezpečnosť a N&aacute;stroj finančnej podpory na riadenie hran&iacute;c a v&iacute;zov&uacute; politiku (ďalej&nbsp;aj &bdquo;NSU&ldquo;).</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "Oprávnenosť aktivít projektu",
+   "popisSk": "<div>Aktivity projektu musia byť vo vecnom s&uacute;lade s opr&aacute;vnen&yacute;mi aktivitami, na realiz&aacute;ciu ktor&yacute;ch je vyhl&aacute;sen&aacute; t&aacute;to v&yacute;zva. Opr&aacute;vnen&eacute; na poskytnutie pr&iacute;spevku s&uacute; v&yacute;lučne projekty, ktor&eacute; svojimi aktivitami spadaj&uacute; do opr&aacute;vnen&yacute;ch typov akci&iacute; / aktiv&iacute;t v r&aacute;mci nasledovnej oblasti podpory.</div><div><b>Oblasť podpory:</b> zabezpečenie kvalitn&yacute;ch AK na v&scaron;etk&yacute;ch &uacute;rovniach riadenia, implement&aacute;cie a monitorovania, ktor&eacute; s&uacute; nevyhnutn&eacute; pre napĺňanie strat&eacute;gi&iacute;. <b>Opr&aacute;vnenou aktivitou je financovanie AK</b>.</div><div><b>Časov&aacute; opr&aacute;vnenosť realiz&aacute;cie projektu:</b> aktivity projektu je prij&iacute;mateľ povinn&yacute; realizovať v s&uacute;lade s čl. 63 ods. 2 NSU. Opr&aacute;vnen&yacute;mi aktivitami pre financovanie v&yacute;davkov, ak vznikli a boli zaplaten&eacute; pri vykon&aacute;van&iacute; oper&aacute;ci&iacute; medzi d&aacute;tumom predloženia programu Komisii alebo <b>1. janu&aacute;rom 2021, podľa toho, ktor&yacute;&nbsp; d&aacute;tum nastal sk&ocirc;r, a 31. decembrom 2029</b>.</div><div><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa:</b> &uacute;daje uveden&eacute; v pr&iacute;lohe č. 1 v&yacute;zvy &ndash; Formul&aacute;r ŽoNFP, časť 7. Popis projektu, 9. Harmonogram realiz&aacute;cie aktiv&iacute;t, 10. Merateľn&eacute; ukazovatele projektu a &uacute;daje poskytnut&eacute; v r&aacute;mci nasledovn&yacute;ch pr&iacute;loh ŽoNFP:</div><ul><li>pr&iacute;loha č. 2 <i>Opis projektu</i>;</li><li>pr&iacute;loha č. 9 <i>Opis &scaron;t&aacute;tnozamestnaneck&eacute;ho miesta</i> (ak relevantn&eacute;);</li><li>pr&iacute;loha č. 6 <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-riadiaceho-organu-v-gescii-odboru-technickej-pomoci/\"><i>Usmernenie k realiz&aacute;cii projektov TP</i></a> v aktu&aacute;lne platnej verzii (vybran&eacute; časti &ndash; opr&aacute;vnenosť v&yacute;davkov);</li><li>pr&iacute;loha č. 10 <i>Zoznam pracovn&yacute;ch poz&iacute;ci&iacute;</i> (ak relevantn&eacute;).</li></ul><div><b>Sp&ocirc;sob overenia:</b> overuje sa v konan&iacute; o žiadosti o NFP na z&aacute;klade &uacute;dajov poskytnut&yacute;ch v r&aacute;mci dokument&aacute;cie ŽoNFP v zmysle čl. 65 NSU a v zmysle &sect; 16 z&aacute;kona č. 121/2022 o pr&iacute;spevkoch z fondov Eur&oacute;pskej &uacute;nie a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov (ďalej len &bdquo;z&aacute;kon&ldquo;).</div><div><b>Ukončenie uplatniteľnosti PPP:</b> do skončenia trvania Rozhodnutia o schv&aacute;len&iacute; ŽoNFP.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Opis projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Opis štátnozamestnaneckého miesta a Zoznam pracovných pozícií",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 4,
+     "nazovSk": "Usmernenie k realizácii projektov TP",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "Podmienka splnenia kritérií pre výber projektov",
+   "popisSk": "<div>Žiadateľ je povinn&yacute; preuk&aacute;zať splnenie relevantn&eacute;ho krit&eacute;ria pre v&yacute;ber projektov uveden&eacute;ho v pr&iacute;lohe č. 3 Krit&eacute;ri&aacute; pre v&yacute;ber projektov.</div><div><b>Doplňuj&uacute;ce inform&aacute;cie k zneniu vylučuj&uacute;ceho krit&eacute;ria HP</b><br />Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach, s prihliadnut&iacute;m na dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky. V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m.</div><div><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa:</b> žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom: Formul&aacute;ra ŽoNFP, časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa.</div><div><b>Sp&ocirc;sob overenia splnenia PPP zo strany poskytovateľa:</b> poskytovateľ overuje splnenie PPP prostredn&iacute;ctvom: Formul&aacute;ra ŽoNFP, časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa.</div><div><b>Ukončenie uplatniteľnosti PPP:</b> do skončenia konania o ŽoNFP.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "Oprávnenosť miesta realizácie projektu",
+   "popisSk": "<div>Prij&iacute;mateľ je povinn&yacute; realizovať projekt na opr&aacute;vnenom &uacute;zem&iacute;.</div><div>Pre t&uacute;to v&yacute;zvu je opr&aacute;vnen&yacute;m &uacute;zem&iacute;m cel&eacute; &uacute;zemie Slovenskej republiky.</div><div><b>Forma preuk&aacute;zania zo strany žiadateľa:</b> &uacute;daje uveden&eacute; v pr&iacute;lohe č. 1 Formul&aacute;r ŽoNFP, časť 6. Miesto realiz&aacute;cie projektu.</div><div><b>Sp&ocirc;sob overenia:</b> v konan&iacute; o žiadosti NFP na z&aacute;klade &uacute;dajov poskytnut&yacute;ch v r&aacute;mci dokument&aacute;cie ŽoNFP.</div><div><b>Ukončenie uplatniteľnosti PPP:</b> do skončenia trvania Rozhodnutia&nbsp;o schv&aacute;len&iacute; ŽoNFP.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 5,
+   "nazovSk": "Podmienka povinného definovania merateľných ukazovateľov projektu",
+   "popisSk": "<div>V&yacute;stupy, ktor&eacute; maj&uacute; byť dosiahnut&eacute; realiz&aacute;ciou aktiv&iacute;t projektu musia byť kvantifikovan&eacute; prostredn&iacute;ctvom relevantn&yacute;ch merateľn&yacute;ch ukazovateľov a in&yacute;ch &uacute;dajov. Zoznam merateľn&yacute;ch ukazovateľov projektu a in&yacute;ch &uacute;dajov je uveden&yacute; v pr&iacute;lohe č. 4.</div><div><b>Forma preuk&aacute;zania zo strany žiadateľa:</b> &uacute;daje uveden&eacute; vo formul&aacute;ri ŽoNFP, časť 10. Merateľn&eacute; ukazovatele projektu.</div><div><b>Sp&ocirc;sob overenia:</b> overuje sa v konan&iacute; o ŽoNFP na z&aacute;klade &uacute;dajov poskytnut&yacute;ch v r&aacute;mci dokument&aacute;cie ŽoNFP; v ITMS.</div><div><b>Ukončenie uplatniteľnosti PPP:</b> do skončenia trvania Rozhodnutia o schv&aacute;len&iacute; ŽoNFP.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 6,
+   "nazovSk": "Podmienka, že žiadateľ nie je evidovaný v Systéme včasného odhaľovania rizík a vylúčenia (EDES) ako vylúčená osoba alebo subjekt (v zmysle článku 137 nariadenia č. 2024/2509)",
+   "popisSk": "<div>Žiadateľ nesmie byť evidovan&yacute; v Syst&eacute;me včasn&eacute;ho odhaľovania rizika a vyl&uacute;čenia (EDES) v zmysle čl. 137 Nariadenia eur&oacute;pskeho parlamentu a Rady (E&Uacute;, Euratom) 2024/2509.</div><div><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa:</b> nevyžaduje sa.</div><div><b>Sp&ocirc;sob overenia splnenia PPP zo strany poskytovateľa:</b> &uacute;daje v Syst&eacute;me včasn&eacute;ho odhaľovania rizika a vyl&uacute;čenia (EDES), a to v jeho neverejnej časti dostupnej na webovom s&iacute;dle: <a href=\"https://ec.europa.eu/budget/edes/index_en.cfm\">https://ec.europa.eu/budget/edes/index_en.cfm</a>.</div><div><b>Ukončenie uplatniteľnosti PPP:</b> do skončenia konania o ŽoNFP.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [
+  {
+   "id": 100012,
+   "href": "/subjekt/id/100012",
+   "nazov": "Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky",
+   "ico": "00156621",
+   "dic": "2021291382",
+   "platitelDph": false,
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Dobrovičova",
+    "cislo": "12",
+    "psc": "81266",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ ],
+ "miestoRealizacieFull": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 1317,
+    "href": "/typakcieprogramu/id/1317"
+   }
+  }
+ ],
+ "externyZdroj": [],
+ "dokument": [
+  {
+   "nazov": "Výzva-PRH-MPRV-003-2025-TP-ENRAF.zip",
+   "uuid": "2838bf3f-66d2-46d0-bb3a-d87b1a1f929a"
+  }
+ ],
+ "inaSkutocnostUzatvorenieVyzvy": "<div>V&yacute;zva sa uzavrie z d&ocirc;vodu vyčerpania disponibiln&yacute;ch finančn&yacute;ch prostriedkov alebo na z&aacute;klade riadne od&ocirc;vodnen&eacute;ho rozhodnutia poskytovateľa z d&ocirc;vodu zabezpečenia riadnej fyzickej a/alebo finančnej implement&aacute;cie programu (napr. z d&ocirc;vodu nedostatočn&eacute;ho dopytu zo strany žiadateľa).</div><div>Poskytovateľom, t. j. riadiacim org&aacute;nom PRH SR 21-27 je Ministerstvo p&ocirc;dohospod&aacute;rstva a rozvoja vidieka Slovenskej republiky (ďalej aj ako &bdquo;MPRV SR&ldquo;), ktor&yacute; je zodpovedn&yacute; za implement&aacute;ciu TP (sekcia rozvoja vidieka a priamych platieb). V pr&iacute;pade zmeny organizačn&eacute;ho &uacute;tvaru bude prij&iacute;mateľ/žiadateľ informovan&yacute;.</div><div>Presn&yacute; d&aacute;tum uzavretia v&yacute;zvy zverejn&iacute; poskytovateľ na webovom s&iacute;dle SEKCIA ROZVOJA VIDIEKA A PRIAMYCH PLATIEB - Aktu&aacute;lne v&yacute;zvy - Ministerstvo p&ocirc;dohospod&aacute;rstva a rozvoja vidieka SR, prostredn&iacute;ctvom informačn&eacute;ho monitorovacieho syst&eacute;mu 21+ (ďalej len &bdquo;ITMS21+&ldquo;) na webovom s&iacute;dle <a href=\"https://portal.itms21.sk\">https://portal.itms21.sk</a>/ a z&aacute;roveň za&scaron;le inform&aacute;ciu na kontaktn&uacute; e-mailov&uacute; adresu uveden&uacute; žiadateľom v ŽoNFP.</div>",
+ "mieraSpolufinancovania": "<div>Poskytovateľ zabezpeč&iacute; financovanie projektu v s&uacute;lade s pravidlami&nbsp;<a href=\"https://www.mfsr.sk/sk/financne-vztahy-eu/povstupove-fondy-eu/programove-obdobie-2021-2027/strategia-financovania-efrr-esf-kf-fst-enraf-2021-2027/\">Strat&eacute;gie financovania EFRR, ESF+, KF, FST a ENRAF na programov&eacute; obdobie 2021 &ndash; 2027</a>&nbsp;nasledovne:<br /><img alt=\"\" src=\"/file-download/M-XPZ8GR70BYT7f6bj9iRQ\" style=\"height:106px; width:331px\" /></div><div><b>Fond:</b>&nbsp;<span class=\"fontstyle0\">ENRAF - </span><span class=\"fontstyle0\">Eur&oacute;psky n&aacute;morn&yacute;, rybolovn&yacute; a akvakult&uacute;rny fond</span></div>",
+ "sposobPodaniaZoNFP": "<div><span class=\"fontstyle0\">Žiadateľ o NFP je opr&aacute;vnen&yacute; predložiť v r&aacute;mci v&yacute;zvy s&uacute;časne vždy iba jednu žiadosť o NFP na konkr&eacute;tne časov&eacute; obdobie. Uveden&eacute; neplat&iacute;, ak bolo konanie o ŽoNFP ukončen&eacute; s negat&iacute;vnym v&yacute;sledkom&nbsp;</span>(Rozhodnut&iacute;m o zastaven&iacute; konania o ŽoNFP, Rozhodnut&iacute;m&nbsp;o neschv&aacute;len&iacute; ŽoNFP).</div><div>Žiadateľ o NFP je <b>povinn&yacute; predložiť ŽoNFP riadne a včas</b>, pričom defin&iacute;cia t&yacute;chto podmienok je uveden&aacute; v pr&iacute;lohe č. 5 <i>V&scaron;eobecn&aacute; inform&aacute;cia k predkladaniu a schvaľovaniu žiadosti o poskytnutie nen&aacute;vratn&eacute;ho finančn&eacute;ho&nbsp; pr&iacute;spevku</i>.</div><div>V uvedenom dokumente s&uacute; in&scaron;trukcie pre žiadateľa potrebn&eacute; na pr&iacute;pravu a predloženie ŽoNFP. Dokument obsahuje tiež inform&aacute;cie o postupe v konan&iacute; o žiadosti ŽoNFP poskytovateľom, opis postupov pri uzatv&aacute;ran&iacute; zmluvy o&nbsp;poskytnut&iacute; NFP a sp&ocirc;sob komunik&aacute;cie žiadateľa s poskytovateľom (link na pr&iacute;lohu č. 5 plat&iacute; do doby vydania metodickej dokument&aacute;cie RO PRH t&yacute;kaj&uacute;cej sa inform&aacute;ci&iacute; o postupe v konan&iacute; o žiadosti ŽoNFP poskytovateľom,&nbsp; opisu postupov pri uzatv&aacute;ran&iacute; zmluvy o poskytnut&iacute; NFP a sp&ocirc;sobu komunik&aacute;cie žiadateľa s poskytovateľom).</div><div>Doplňuj&uacute;ce inform&aacute;cie poskytovateľa k sp&ocirc;sobu podania ŽoNFP s&uacute; uveden&eacute; v pr&iacute;lohe č. 6 <i>Usmernenie k realiz&aacute;cii projektov TP</i>.</div><div><span class=\"fontstyle0\">Žiadateľ vych&aacute;dza pri pr&iacute;prave ŽoNFP aj z nasledovn&yacute;ch dokumentov:</span></div><ul><li><span class=\"fontstyle0\">aktu&aacute;lna verzia </span><span class=\"fontstyle2\"><i>Programu rybn&eacute; hospod&aacute;rstvo</i>, </span><span class=\"fontstyle0\">zverejnen&aacute; na:&nbsp;</span><a href=\"https://www.mpsr.sk/rozvoj-vidieka-a-priame-platby-rybne-hospodarstvo/uzitocne-dokumenty/1-43-1513\">SEKCIA ROZVOJA VIDIEKA A PRIAMYCH PLATIEB - Užitočn&eacute; dokumenty - Ministerstvo p&ocirc;dohospod&aacute;rstva a rozvoja vidieka SR</a></li><li><i>Rozhodnutie ministra Ministerstva invest&iacute;ci&iacute;, region&aacute;lneho rozvoja a informatiz&aacute;cie Slovenskej republiky o schv&aacute;len&iacute; počtu administrat&iacute;vnych kapac&iacute;t potrebn&yacute;ch pre implement&aacute;ciu fondov v PO 2021 &ndash; 2027 k 01. 01. 2025</i>, zverejnen&eacute; na: <a href=\"https://cpv.mirri.gov.sk/stranka/dokumenty-na-stiahnutie\">https://cpv.mirri.gov.sk/stranka/dokumenty-na-stiahnutie</a></li><li><i>uznesenie vl&aacute;dy SR č. 488/2023 k Stanoveniu počtu AK financovan&yacute;ch z TP fondov E&Uacute; v programovom obdob&iacute; 2021 - 2027 a nastaveniu syst&eacute;mu financovania AK v programovom obdob&iacute; 2021 &ndash; 2027</i>, zverejnen&eacute; na: <a href=\"https://eurofondy.gov.sk/vzdelavanie-ak-esif/dokumenty/\">https://eurofondy.gov.sk/vzdelavanie-ak-esif/dokumenty/</a></li></ul><div>Pri vypĺňan&iacute; formul&aacute;ru ŽoNFP postupuje žiadateľ podľa pr&iacute;lohy č. 1 <i>Formul&aacute;r ŽoNFP</i>.</div>",
+ "miestoPrePodanieZoNFP": "<div><b><span class=\"fontstyle0\">Identifik&aacute;cia elektronickej schr&aacute;nky</span></b></div><div><span class=\"fontstyle0\">V zmysle &sect;17 ods. 1 a 3 z&aacute;kona č. 305/2013 Z.z. o elektronickej podobe v&yacute;konu p&ocirc;sobnosti org&aacute;nov verejnej moci a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov (z&aacute;kon o e-governmente) v znen&iacute; neskor&scaron;&iacute;ch predpisov je žiadateľ povinn&yacute; doručiť ŽoNFP elektronicky do schr&aacute;nky MPRV SR (RO) prostredn&iacute;ctvom &uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy na adrese&nbsp;</span><span class=\"fontstyle0\" style=\"color:rgb(5, 99, 193)\">www.slovensko.sk&nbsp;</span><span class=\"fontstyle0\">identifik&aacute;cia schr&aacute;nky MPRV SR, IČO: 00156621, č&iacute;slo schr&aacute;nky: E0005579898.</span></div><div>Za &uacute;čelom upresnenia je potrebn&eacute; na konci predmetu elektronickej spr&aacute;vy doplniť pomlčku a v&yacute;raz &bdquo;Technick&aacute; pomoc&ldquo;.</div><div>Žiadateľ predklad&aacute; formul&aacute;r ŽoNFP vr&aacute;tane pr&iacute;loh elektronicky, prostredn&iacute;ctvom verejnej časti ITMS.</div><div><b>Adresa pre listinn&eacute; podanie ŽoNFP</b></div><div>V osobitn&yacute;ch pr&iacute;padoch (napr&iacute;klad z d&ocirc;vodov technick&yacute;ch alebo prev&aacute;dzkov&yacute;ch obmedzen&iacute;, ktor&eacute; je žiadateľ povinn&yacute; preuk&aacute;zať pri predložen&iacute; ŽoNFP) je žiadateľ opr&aacute;vnen&yacute; predložiť ŽoNFP v listinnej podobe na adresu&nbsp; poskytovateľa.</div><div>Žiadosť o NFP vr&aacute;tane v&scaron;etk&yacute;ch pr&iacute;loh, je možn&eacute; doručiť v listinnej podobe v jednom origin&aacute;li (vytlačenom po odoslan&iacute; prostredn&iacute;ctvom ITMS21+ a podp&iacute;sanom) a jednej k&oacute;pii do podateľne:<br />&nbsp; &nbsp;Ministerstvo p&ocirc;dohospod&aacute;rstva a rozvoja vidieka Slovenskej republiky<br />&nbsp; &nbsp;Sekcia rozvoja vidieka a priamych platieb<br />&nbsp; &nbsp;Odbor Programu Rybn&eacute; hospod&aacute;rstvo<br />&nbsp; &nbsp;Dobrovičova 12<br />&nbsp; &nbsp;812 66 Bratislava</div>",
+ "predpokladanaLehotaNaRozhodnutie": "<div>Rozhodnutie o žiadosti o poskytnut&iacute; nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku bude vydan&eacute; najnesk&ocirc;r do <b>50 pracovn&yacute;ch dn&iacute;</b> od predloženia ŽoNFP.</div><div>Poskytovateľ je opr&aacute;vnen&yacute; predĺžiť lehotu na vydanie rozhodnutia o ŽoNFP v pr&iacute;pade, ak nie je možn&eacute; ukončiť konanie o ŽoNFP do 50 pracovn&yacute;ch dn&iacute; od predloženia ŽoNFP.</div><div>V pr&iacute;pade, že zo strany poskytovateľa nem&ocirc;žu byť lehoty dodržan&eacute; v zmysle predch&aacute;dzaj&uacute;cich odsekov, poskytovateľ informuje žiadateľa o d&ocirc;vodoch nedodržania leh&ocirc;t, ako aj o nov&yacute;ch lehot&aacute;ch prostredn&iacute;ctvom oznamu na webovom s&iacute;dle <a href=\"https://www.mpsr.sk\">MPRV SR</a>, prostredn&iacute;ctvom ITMS21+ a tiež zaslan&iacute;m na kontaktn&uacute; emailov&uacute; adresu uveden&uacute; v ŽoNFP. V pr&iacute;pade, že nov&eacute; lehoty nem&ocirc;žu byť dodržan&eacute;, postupuje poskytovateľ obdobne.</div><div>Do lehoty na vydanie Rozhodnutia sa nezapoč&iacute;tava čas potrebn&yacute; na predloženie n&aacute;ležitost&iacute; zo strany žiadateľa na z&aacute;klade v&yacute;zvy zaslanej poskytovateľom (t. j. preru&scaron;uje sa dňom zaslania v&yacute;zvy na doplnenie ch&yacute;baj&uacute;cich n&aacute;ležitost&iacute; a zač&iacute;na plyn&uacute;ť dňom doručenia n&aacute;ležitost&iacute; poskytovateľovi).</div>",
+ "zmenaAZrusenieVyzvy": "<div><span class=\"fontstyle0\">Poskytovateľ je opr&aacute;vnen&yacute; v s&uacute;lade s &sect; 14 ods. 4 až 7 z&aacute;kona v&yacute;zvu zmeniť alebo zru&scaron;iť. Inform&aacute;ciu o zmene v&yacute;zvy vr&aacute;tane zd&ocirc;vodnenia tejto zmeny zverejn&iacute; poskytovateľ prostredn&iacute;ctvom ITMS21+ podľa &sect; 48 z&aacute;kona.<br />Poskytovateľ m&ocirc;že v&yacute;zvu s uzavret&iacute;m na z&aacute;klade inej skutočnosti zmeniť v celom rozsahu (vr&aacute;tane podmienok poskytnutia pr&iacute;spevku) v s&uacute;lade s &sect; 14 ods. 4 z&aacute;kona, do vydania prv&eacute;ho rozhodnutia. Za prv&eacute; rozhodnutie sa nepovažuje rozhodnutie o zastaven&iacute; konania podľa &sect; 17 ods. 1 z&aacute;kona. Pri zmene v&yacute;zvy musia byť dodržan&eacute; princ&iacute;py podľa &sect; 2 ods. 2 z&aacute;kona, t. j. princ&iacute;p partnerstva a viac&uacute;rovňov&eacute;ho riadenia; princ&iacute;p nediskrimin&aacute;cie,&nbsp; princ&iacute;p transparentnosti, princ&iacute;p&nbsp;</span>hospod&aacute;rnosti, princ&iacute;p efekt&iacute;vnosti, princ&iacute;p &uacute;čelnosti a princ&iacute;p &uacute;činnosti; uplatňovan&yacute; je aj z&aacute;kaz konfliktu z&aacute;ujmov. Inform&aacute;ciu o zmene v&yacute;zvy vr&aacute;tane zd&ocirc;vodnenia tejto zmeny zverejn&iacute; poskytovateľ prostredn&iacute;ctvom ITMS21+.</div><div>Poskytovateľ umožn&iacute; žiadateľovi doplniť alebo zmeniť žiadosť podan&uacute; do term&iacute;nu zmeny v&yacute;zvy, ak ide o tak&uacute; zmenu v&yacute;zvy, ktorou m&ocirc;že byť sk&ocirc;r podan&aacute; žiadosť dotknut&aacute;; poskytovateľ p&iacute;somne informuje žiadateľa a urč&iacute; primeran&uacute; lehotu na doplnenie alebo zmenu žiadosti, ktor&aacute; nesmie byť krat&scaron;ia ako 10 pracovn&yacute;ch dn&iacute;. Rozhodnutie, ktor&eacute; bolo vydan&eacute; na z&aacute;klade v&yacute;zvy do jej zmeny, nie je zmenou v&yacute;zvy dotknut&eacute;.</div><div>Poskytovateľ m&ocirc;že kedykoľvek po zverejnen&iacute; v&yacute;zvy zmeniť form&aacute;lne n&aacute;ležitosti v&yacute;zvy, ďal&scaron;ie skutočnosti t&yacute;kaj&uacute;ce sa poskytovania pr&iacute;spevku, ktor&eacute; nemaj&uacute; charakter podmienky poskytnutia pr&iacute;spevku, a pr&iacute;lohy. Zverejnenie zmien spolu s ich od&ocirc;vodnen&iacute;m zverejn&iacute; poskytovateľ prostredn&iacute;ctvom ITMS21+.</div><div>Poskytovateľ m&ocirc;že v&yacute;zvu zru&scaron;iť. Rozhodnutie, ktor&eacute; bolo vydan&eacute; na z&aacute;klade v&yacute;zvy do jej zru&scaron;enia, je zru&scaron;en&iacute;m v&yacute;zvy nedotknut&eacute;. Poskytovateľa predložen&uacute; žiadosť podan&uacute; do zru&scaron;enia v&yacute;zvy, o ktorej nebolo rozhodnut&eacute; podľa &sect; 16 alebo &sect; 17 Z&aacute;kona, žiadateľ vr&aacute;ti. Inform&aacute;ciu o zru&scaron;en&iacute; v&yacute;zvy a zd&ocirc;vodnenie jej zru&scaron;enia zverejn&iacute; poskytovateľ prostredn&iacute;ctvom ITMS21+.</div><div>Informovanie žiadateľov poskytovateľ realizuje prostredn&iacute;ctvom ITMS21+&nbsp;<span class=\"fontstyle0\">a zverejnen&iacute;m na svojom webovom s&iacute;dle <a href=\"https://www.mpsr.sk\">MPRV SR</a></span><span class=\"fontstyle0\" style=\"color:rgb(5, 99, 193)\">&nbsp;</span><span class=\"fontstyle0\">v časti&nbsp;</span>&bdquo;Aktu&aacute;lne v&yacute;zvy&ldquo;.&nbsp;</div><div><b><span class=\"fontstyle2\">Poskytovateľ je opr&aacute;vnen&yacute; zmeniť v&yacute;zvu aj viackr&aacute;t</span></b></div>",
+ "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>",
+ "doplnujuceInformacie": "<div>&nbsp;</div><div class=\"NIGHTEYE_BlueFilter NIGHTEYE_Filter\">&nbsp;</div><div class=\"NIGHTEYE_YellowFilter NIGHTEYE_Filter\">&nbsp;</div><div class=\"NIGHTEYE_DimFilter NIGHTEYE_Filter\">&nbsp;</div>",
+ "dalsiaSkutocnost": [
+  {
+   "kod": "DS002PRH-MPRV-003-2025-TP-ENRAF",
+   "dalsiaSkutocnost": "<div><div><div><span style=\"color:#0065b3\"><b><span class=\"fontstyle0\">Opr&aacute;vnenosť v&yacute;davkov</span></b></span></div></div>&nbsp;<div><div><span class=\"fontstyle0\">V&yacute;davky projektu musia byť v s&uacute;lade s opr&aacute;vnen&yacute;mi v&yacute;davkami pre opr&aacute;vnen&eacute; aktivity v r&aacute;mci tejto v&yacute;zvy. Pre t&uacute;to v&yacute;zvu s&uacute; opr&aacute;vnen&eacute; v&yacute;davky podľa opr&aacute;vnen&yacute;ch typov aktiv&iacute;t v r&aacute;mci nasledovnej oblasti podpory.</span></div><div><span class=\"fontstyle2\">1. </span><span class=\"fontstyle0\">Zabezpečenie kvalitn&yacute;ch AK na v&scaron;etk&yacute;ch &uacute;rovniach riadenia a implement&aacute;cie, ktor&eacute; s&uacute; nevyhnutn&eacute; pre napĺňanie prior&iacute;t/akci&iacute; Technickej pomoci.</span></div><div><b><span class=\"fontstyle2\">Financovanie AK</span></b><br /><span class=\"fontstyle0\">V zmysle Pr&iacute;ručky k opr&aacute;vnenosti v&yacute;davkov pre dopytovo orientovan&eacute; projekty a projekty Technickej pomoci Programu Rybn&eacute; hospod&aacute;rstvo Slovenskej republiky 2021 &ndash; 2027 (ďalej aj &bdquo;Pr&iacute;ručka k opr&aacute;vnenosti v&yacute;davkov&ldquo;), najm&auml; bod 4. 7. 1. Osobn&eacute; v&yacute;davky.</span></div><div><span class=\"fontstyle0\">Žiadateľ sa pri pr&iacute;prave rozpočtu riadi </span><span class=\"fontstyle3\"><i>Pr&iacute;ručkou k opr&aacute;vnenosti v&yacute;davkov</i>, </span><span class=\"fontstyle0\">ktor&aacute; je pr&iacute;lohou č. 7, kde s&uacute; podrobnej&scaron;ie rozp&iacute;san&eacute; opr&aacute;vnen&eacute; skupiny v&yacute;davkov zadefinovan&eacute; v tejto v&yacute;zve, ako aj v&scaron;eobecn&eacute; podmienky opr&aacute;vnenosti v&yacute;davkov.</span></div><div><b><span class=\"fontstyle2\">Hospod&aacute;rnosť a efekt&iacute;vnosť v&yacute;davkov projektu</span></b><br /><span class=\"fontstyle0\">V&yacute;davky projektu musia spĺňať krit&eacute;ri&aacute; hospod&aacute;rnosti a efekt&iacute;vnosti. Uveden&eacute; krit&eacute;ri&aacute; patria k najd&ocirc;ležitej&scaron;&iacute;m krit&eacute;ri&aacute;m pri administrat&iacute;vnom overovan&iacute; ŽoNFP. Žiadateľ je povinn&yacute; venovať dostatočn&uacute; pozornosť pr&iacute;prave podkladov na preuk&aacute;zanie hospod&aacute;rnosti a efekt&iacute;vnosti v&yacute;davkov projektu. Žiadateľ využ&iacute;va na preuk&aacute;zanie hospod&aacute;rnosti a efekt&iacute;vnosti metodiku uveden&uacute; v </span><span class=\"fontstyle3\">Opise projektu </span><span class=\"fontstyle0\">(viď pr&iacute;loha č. 2) a je povinn&yacute; predložiť dokument&aacute;ciu v dostatočnom rozsahu a kvalite. Opis projektu mus&iacute; obsahovať jasn&eacute; a stručn&eacute; inform&aacute;cie, ktor&eacute;&nbsp; preukazuj&uacute; hospod&aacute;rnosť a efekt&iacute;vnosť v&yacute;davkov projektu. Inform&aacute;cie, ktor&eacute; bezprostredne nepreukazuj&uacute; hospod&aacute;rnosť a efekt&iacute;vnosť v&yacute;davkov projektu s&uacute; nepr&iacute;pustn&eacute;.</span></div><div><span class=\"fontstyle2\"><b>Forma preuk&aacute;zania opr&aacute;vnenosti zo strany žiadateľa:</b> </span><span class=\"fontstyle0\">&uacute;daje uveden&eacute; v pr&iacute;lohe č. 1 <i>Formul&aacute;r ŽoNFP</i>, časť </span><span class=\"fontstyle3\">11.A rozpočet žiadateľa a </span><span class=\"fontstyle0\">pr&iacute;lohe č. 2 </span><span class=\"fontstyle3\"><i>Opis projektu</i>.</span></div><div><span class=\"fontstyle2\"><b>Sp&ocirc;sob overenia:</b> n</span><span class=\"fontstyle0\">a z&aacute;klade &uacute;dajov poskytnut&yacute;ch v r&aacute;mci dokument&aacute;cie ŽoNFP.</span></div></div></div>"
+  },
+  {
+   "kod": "DS001PRH-MPRV-003-2025-TP-ENRAF",
+   "dalsiaSkutocnost": "<div><div><div><span style=\"color:#0065b3\"><b><span class=\"fontstyle0\">S&uacute;lad s horizont&aacute;lnymi princ&iacute;pmi</span></b></span></div><div>&nbsp;</div><div>Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach, s prihliadnut&iacute;m na dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky.</div><div>V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m.</div><div>Gestor HP upozorňuje žiadateľa, že plnenie s&uacute;ladu projektu s HP m&ocirc;že byť predmetom finančnej kontroly v implement&aacute;cii projektu, ktorej pr&aacute;vny z&aacute;klad vych&aacute;dza z platn&eacute;ho a &uacute;činn&eacute;ho rozhodnutia o schv&aacute;len&iacute; ŽoNFP.</div><div><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa:&nbsp;</b>Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom: formul&aacute;ra ŽoNFP, časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa.</div><div><b>Sp&ocirc;sob overovania PPP zo strany poskytovateľa:</b>&nbsp;Poskytovateľ overuje splnenie PPP prostredn&iacute;ctvom: formul&aacute;ra ŽoNFP, časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa.</div><div><b>Čas plnenia/overenia:</b> v čase realiz&aacute;cie projektu na z&aacute;klade Rozhodnutia o schv&aacute;len&iacute; ŽoNFP až do skončenia udržateľnosti projektu (ak relevantn&eacute;) v zmysle čl. 65 NS&Uacute;.</div></div></div>"
+  }
+ ],
+ "dalsiaFormalnaNalezitost": [
+  {
+   "kod": "DFN002PRH-MPRV-003-2025-TP-ENRAF",
+   "dalsiaFormalnaNalezitost": "<div><div><div><span style=\"color:#0065b3\"><b><span class=\"fontstyle0\">Zabezpečenie pohľad&aacute;vky</span></b></span></div></div><br style=\"-webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; letter-spacing:normal; line-height:normal; orphans:2; text-align:-webkit-auto; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px\" />Poskytovateľ nevyžaduje zabezpečenie pohľad&aacute;vky (ani bud&uacute;cej) poskytovateľa voči prij&iacute;mateľovi, ktor&aacute; by mu mohla vznikn&uacute;ť z Rozhodnutia o poskytnut&iacute; NFP.</div>"
+  },
+  {
+   "kod": "DFN001PRH-MPRV-003-2025-TP-ENRAF",
+   "dalsiaFormalnaNalezitost": "<div><div><div><span style=\"color:#0065b3\"><b><span class=\"fontstyle0\">Sp&ocirc;sob financovania</span></b></span></div></div><div><br style=\"-webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; letter-spacing:normal; line-height:normal; orphans:2; text-align:-webkit-auto; text-indent:0px; text-transform:none; white-space:normal; widows:2; word-spacing:0px\" />V r&aacute;mci tejto v&yacute;zvy je určen&yacute; sp&ocirc;sob financovania v s&uacute;lade s platnou <a href=\"https://www.mfsr.sk/sk/financne-vztahy-eu/povstupove-fondy-eu/programove-obdobie-2021-2027/prirucka-k-financnemu-riadeniu-fondov-eu-programove-obdobie-2021-2027/\">Pr&iacute;ručkou k finančn&eacute;mu riadeniu fondov E&Uacute; na programov&eacute; obdobie 2021 &ndash; 2027</a>.</div><div>Prostriedky E&Uacute; a &scaron;t&aacute;tneho rozpočtu na spolufinancovanie s&uacute; prij&iacute;mateľom poskytovan&eacute;:</div><ul><li><b>syst&eacute;mom refund&aacute;cie</b></li><li><b>predfinancovanie</b></li><li><b>z&aacute;lohov&eacute; platby</b></li><li>alebo <b>ich kombin&aacute;cia </b>v s&uacute;lade s aktu&aacute;lne platnou verziou <a href=\"https://www.mfsr.sk/sk/financne-vztahy-eu/povstupove-fondy-eu/programove-obdobie-2021-2027/prirucka-k-financnemu-riadeniu-fondov-eu-programove-obdobie-2021-2027/\">Pr&iacute;ručky k finančn&eacute;mu riadeniu fondov E&Uacute; na programov&eacute; obdobie 2021 - 2027</a>.</li></ul><div>Forma poskytovan&eacute;ho pr&iacute;spevku: <b>nen&aacute;vratn&yacute; finančn&yacute; pr&iacute;spevok</b>.</div></div>"
+  }
+ ],
+ "verzia": [
+  {
+   "id": 6540,
+   "cislo": 1,
+   "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [],
+ "ukazovatelVystupovy": [
+  {
+   "id": 1122,
+   "specifickyCielProgramu": {
+    "id": 93,
+    "href": "/specifickycielprogramu/id/93",
+    "kod": "4027510051",
+    "nazovSk": "5.1 Technická pomoc",
+    "nazovDe": "5.1 Technische Hilfe",
+    "nazovEn": "5.1 Technical assistance",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 38,
+     "href": "/priorita/id/38",
+     "kod": "402751",
+     "nazovSk": "7. Technická pomoc (ŠC 5.1)",
+     "nazovDe": "7. Technische Hilfe",
+     "nazovEn": "7. Technical assistance",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536568
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536938
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1793,
+    "href": "/ukazovatelprojektovy/id/1793",
+    "kod": "PRHMIO04",
+    "nazovSk": "Priemerný ročný počet AK financovaných z TP",
+    "mernaJednotka": {
+     "id": 200097,
+     "kod": "105398",
+     "nazovSk": "ročné FTE",
+     "popisSk": "ročné FTE",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><div style=\"background-image:url(&quot;./resource/sk.axonpro.itms3.core.client.component.form.component.ckeditor.res.ckeditor.CkEditorResourceLocator/plugins/showblocks/images/block_div.png&quot;)\"><b>Definičn&aacute; matica</b><br /><b>1.1&nbsp;</b><br /><b>Popis znaku, charakteristiky, pravidla:</b><br />Priemern&yacute; ročn&yacute; počet AK financovan&yacute;ch z TP vyjadren&yacute; v ročn&yacute;ch ekvivalentoch pln&eacute;ho pracovn&eacute;ho &uacute;v&auml;zku (FTE).<br />Pri prepočte AK na FTE sa okrem prepočtu na pln&yacute; pracovn&yacute; &uacute;v&auml;zok zohľadňuje aj miera refund&aacute;cie a obsadenosť pracovn&eacute;ho miesta za dan&uacute; jednotku času.<br />&nbsp;<br />Postupuje sa podľa vzorca:&nbsp; &nbsp;FTE=a/100*b/100*c/n<br />&nbsp;<br /><b>a</b>&nbsp;&ndash; predstavuje percentu&aacute;lny podiel pracovn&eacute;ho &uacute;v&auml;zku zamestnanca,<br /><b>b</b>&nbsp;&ndash; miera refund&aacute;cie mzdy zamestnanca, t. j. percentu&aacute;lny podiel skutočn&eacute;ho pracovn&eacute;ho &uacute;v&auml;zku zamestnanca,<br /><b>c</b>&nbsp;&ndash; predstavuje počet mesiacov obsadenosti miesta,<br /><b>n</b>&nbsp;&ndash; predstavuje počet mesiacov vykazovan&eacute;ho obdobia monitorovacej spr&aacute;vy.<br />&nbsp;<br /><b>Povinnosť plnenia:</b><br />&Aacute;no.<br /><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla:</b><br />Sumarizačn&eacute; h&aacute;rky, prepočet FTE a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy a ITMS.<br />&nbsp;</div><div style=\"background-image:url(&quot;./resource/sk.axonpro.itms3.core.client.component.form.component.ckeditor.res.ckeditor.CkEditorResourceLocator/plugins/showblocks/images/block_div.png&quot;)\"><b>2.1&nbsp;<br />Popis znaku, charakteristiky, pravidla:</b><br />Voľn&eacute; neobsaden&eacute; pracovn&eacute; poz&iacute;cie sa nezapoč&iacute;tavaj&uacute;.<br /><b>Povinnosť plnenia:</b><br />&Aacute;no.<br /><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla:</b><br />Sumarizačn&eacute; h&aacute;rky, prepočet FTE a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy a ITMS.<br />&nbsp;</div><div style=\"background-image:url(&quot;./resource/sk.axonpro.itms3.core.client.component.form.component.ckeditor.res.ckeditor.CkEditorResourceLocator/plugins/showblocks/images/block_div.png&quot;)\"><b>3.1<br />Popis znaku, charakteristiky, pravidla:</b><br />Administrat&iacute;vna kapacita (AK)<br />Je definovan&aacute; ako zamestnanec vo verejnej spr&aacute;ve (&uacute;strednej spr&aacute;ve a &uacute;zemnej samospr&aacute;ve), ktor&yacute; prispieva k &uacute;spe&scaron;nej implement&aacute;cii fondov E&Uacute; a vykon&aacute;va najm&auml; činnosti pre zabezpečenie koordin&aacute;cie, riadenia, implement&aacute;cie, monitorovania, hodnotenia, kontroly a auditu fondov E&Uacute; v PO 2021 &ndash; 2027 bez ohľadu na zdroj financovania. Počet AK sa uv&aacute;dza vo FTE (ekvivalent pln&eacute;ho pracovn&eacute;ho &uacute;v&auml;zku).<br /><b>Povinnosť plnenia:</b><br />&Aacute;no.<br /><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla:</b><br />Materi&aacute;l &ndash; &bdquo;Stanovenie počtu AK financovan&yacute;ch z TP fondov E&Uacute; v PO 2021 &ndash; 2027 a nastavenie syst&eacute;mu financovania AK PO 2021 &ndash; 2027&ldquo;.</div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 10,
+      "kod": "1032ENRAF",
+      "kodZdroj": "ENRAF",
+      "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1751729081135
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 1333,
+   "href": "/typakcieprogramu/id/1333",
+   "kod": "4027510051000P0",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 93,
+    "href": "/specifickycielprogramu/id/93",
+    "kod": "4027510051",
+    "nazovSk": "5.1 Technická pomoc",
+    "nazovDe": "5.1 Technische Hilfe",
+    "nazovEn": "5.1 Technical assistance",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 38,
+     "href": "/priorita/id/38",
+     "kod": "402751",
+     "nazovSk": "7. Technická pomoc (ŠC 5.1)",
+     "nazovDe": "7. Technische Hilfe",
+     "nazovEn": "7. Technical assistance",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536568
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536938
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1733414157021,
+   "updatedAt": 1759307969490
+  },
+  {
+   "id": 1317,
+   "href": "/typakcieprogramu/id/1317",
+   "kod": "402751005100010",
+   "nazovSk": "Technická pomoc",
+   "specifickyCielProgramu": {
+    "id": 93,
+    "href": "/specifickycielprogramu/id/93",
+    "kod": "4027510051",
+    "nazovSk": "5.1 Technická pomoc",
+    "nazovDe": "5.1 Technische Hilfe",
+    "nazovEn": "5.1 Technical assistance",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 38,
+     "href": "/priorita/id/38",
+     "kod": "402751",
+     "nazovSk": "7. Technická pomoc (ŠC 5.1)",
+     "nazovDe": "7. Technische Hilfe",
+     "nazovEn": "7. Technical assistance",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536568
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536938
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1733414156877,
+   "updatedAt": 1759307969490
+  }
+ ],
+ "oblastIntervencie": [],
+ "typIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 93,
+    "href": "/specifickycielprogramu/id/93",
+    "kod": "4027510051",
+    "nazovSk": "5.1 Technická pomoc",
+    "nazovDe": "5.1 Technische Hilfe",
+    "nazovEn": "5.1 Technical assistance",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 38,
+     "href": "/priorita/id/38",
+     "kod": "402751",
+     "nazovSk": "7. Technická pomoc (ŠC 5.1)",
+     "nazovDe": "7. Technische Hilfe",
+     "nazovEn": "7. Technical assistance",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536568
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536938
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "typIntervencie": {
+    "id": 200015,
+    "kod": "1210ENRAF16",
+    "kodZdroj": "16",
+    "nazovSk": "Technická pomoc",
+    "nazovEn": "Technická pomoc",
+    "popisSk": "Technická pomoc",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 93,
+    "href": "/specifickycielprogramu/id/93",
+    "kod": "4027510051",
+    "nazovSk": "5.1 Technická pomoc",
+    "nazovDe": "5.1 Technische Hilfe",
+    "nazovEn": "5.1 Technical assistance",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 38,
+     "href": "/priorita/id/38",
+     "kod": "402751",
+     "nazovSk": "7. Technická pomoc (ŠC 5.1)",
+     "nazovDe": "7. Technische Hilfe",
+     "nazovEn": "7. Technical assistance",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536568
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536938
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [],
+ "hospodarskaCinnost": [],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 200000,
+   "kod": "1033N/A",
+   "kodZdroj": "N/A",
+   "nazovSk": "Bez kategórie regiónu",
+   "popisSk": "Bez kategórie regiónu",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [],
+ "projektovyZamerIUS": []
+}

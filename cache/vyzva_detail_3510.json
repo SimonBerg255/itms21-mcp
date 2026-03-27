@@ -1,0 +1,2061 @@
+{
+ "id": 3510,
+ "href": "/vyzva/id/3510",
+ "kod": "PSK-MD-001-2024-FN-EFRR",
+ "nazovSk": "Finančné nástroje PSK – EFRR (Znižovanie energetickej náročnosti bytových budov)",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 42,
+   "href": "/specifickycielprogramu/id/42",
+   "kod": "401201R201",
+   "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 3,
+    "href": "/priorita/id/3",
+    "kod": "401201",
+    "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867938
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868177
+  }
+ ],
+ "opatrenie": [
+  {
+   "id": 39,
+   "href": "/opatrenie/id/39",
+   "kod": "401201R20102",
+   "nazovSk": "Znižovanie energetickej náročnosti budov",
+   "specifickyCielProgramu": {
+    "id": 42,
+    "href": "/specifickycielprogramu/id/42",
+    "kod": "401201R201",
+    "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868177
+   },
+   "createdAt": 1772540868186
+  }
+ ],
+ "miestoRealizacie": [
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 48,
+   "kod": "1009381",
+   "kodZdroj": "381",
+   "nazovSk": "Fondy",
+   "nazovEn": "Funds",
+   "popisSk": "Fondy Fondy",
+   "popisEn": "Funds Funds",
+   "platnostOd": 675727200000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1718661600000,
+ "datumUkoncenia": 1893366000000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 382,
+  "kod": "21_SO_PSK_MDSR",
+  "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo dopravy SR",
+  "subjekt": {
+   "id": 100008,
+   "href": "/subjekt/id/100008",
+   "nazov": "Ministerstvo dopravy Slovenskej republiky",
+   "ico": "30416094",
+   "dic": "2020799209",
+   "platitelDph": true,
+   "podlaParagrafu": "§7a",
+   "icDph": "SK2020799209",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Námestie slobody",
+    "cislo": "2902/6",
+    "psc": "81005",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "UZAVRETA",
+ "zameranieProjektu": "FN_21",
+ "createdAt": 1718267375741,
+ "updatedAt": 1771249964092,
+ "sumaEu": 313560750.0,
+ "sumaSr": 55334250.0,
+ "predvyber": false,
+ "posudzovaneObdobie": [],
+ "pocetPredlozenychZiadosti": 1,
+ "pocetSchvalenychZiadosti": 1,
+ "pocetZiadostiVKonani": 0,
+ "pocetNeschvalenychZiadosti": 0,
+ "pocetRealizovanychProjektov": 1,
+ "planovanaVyzva": [],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 6,
+   "kod": "1032EFRR",
+   "kodZdroj": "EFRR",
+   "nazovSk": "Európsky fond regionálneho rozvoja",
+   "nazovEn": "European Regional Development Fund",
+   "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+   "popisSk": "Európsky fond regionálneho rozvoja",
+   "popisEn": "European Regional Development Fund",
+   "popisDe": "Europäischen Fonds für regionale Entwicklung",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "cielVyzvy": "<div><div>Cieľom v&yacute;zvy je poskytnutie Pr&iacute;spevku na finančn&yacute; n&aacute;stroj na podporu obnovy bytov&yacute;ch budov s uplatňovan&iacute;m princ&iacute;pu prvoradosti energetickej efekt&iacute;vnosti (Annex, kapitola 4.4. Buildings, Commission Recommendation (EU) 2021/1749 of 28 September 2021 on Energy Efficiency First: from principles to practice &mdash; Guidelines and examples for its implementation in decision-making in the energy sector and beyond) s cieľom zn&iacute;žiť konečn&uacute; energetick&uacute; spotrebu v budov&aacute;ch. V&nbsp;pr&iacute;padoch, kde je to relevantn&eacute; a realizovateľn&eacute;, bude s&uacute;časťou obnovy aj in&scaron;tal&aacute;cia OZE a uplatnenie prvkov na ochranu biodiverzity a zelenej infra&scaron;trukt&uacute;ry na podporu adapt&aacute;cie na zmenu kl&iacute;my, tzv. zelen&eacute; opatrenia ako napr. zelen&eacute; strechy, zelen&eacute; steny, zadržiavanie a využ&iacute;vanie dažďovej vody a aplikovanie princ&iacute;pov iniciat&iacute;vy &bdquo;Nov&yacute; Eur&oacute;psky Bauhaus&ldquo;.</div><div>&nbsp;</div>Podpora cieľa v&yacute;zvy sa bude realizovať najm&auml; prostredn&iacute;ctvom zlep&scaron;ovania tepelno-technick&yacute;ch vlastnost&iacute; stavebn&yacute;ch kon&scaron;trukci&iacute; bytov&yacute;ch domov (zateplenie obvodov&yacute;ch stien a strechy, v&yacute;mena okien, vodorovn&eacute; deliace kon&scaron;trukcie medzi vykurovan&yacute;m a&nbsp;nevykurovan&yacute;m priestorom), moderniz&aacute;cia vykurovac&iacute;ch syst&eacute;mov vr&aacute;tane rozvodov a hydraulick&eacute;ho vyregulovania, in&scaron;tal&aacute;cie termoregulačn&yacute;ch ventilov, in&scaron;tal&aacute;cia syst&eacute;mov merania a riadenia za &uacute;čelom zn&iacute;ženia spotreby energie, moderniz&aacute;cia osvetlenia za &uacute;čelom zn&iacute;ženia spotreby energie, moderniz&aacute;cia v&yacute;ťahov za&nbsp;&uacute;čelom zn&iacute;ženia spotreby energie, odstr&aacute;nenie syst&eacute;mov&yacute;ch por&uacute;ch bytov&yacute;ch domov zateplen&iacute;m za &uacute;čelom zn&iacute;ženia spotreby energie, in&scaron;tal&aacute;cia OZE, zelen&eacute; opatrenia, zadržiavanie a využ&iacute;vanie dažďovej vody, ako aj debarierizačn&eacute; opatrenia v budov&aacute;ch.</div>",
+ "sposobFinancovania": [
+  "TRANZA"
+ ],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktnaOsoba": [
+  {
+   "osoba": {
+    "titulPred": "Ing.",
+    "meno": "Peter",
+    "priezvisko": "Helm",
+    "titulZa": "",
+    "menoUplne": "Ing. Peter Helm"
+   },
+   "telefon": "59494726",
+   "email": "peter.helm@mindop.sk"
+  }
+ ],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "Oprávnenosť žiadateľa:",
+   "popisSk": "<div><div><b>&Scaron;t&aacute;tny fond rozvoja b&yacute;vania</b></div><div><b>Lamačsk&aacute; cesta č. 8</b></div><div><b>833 04 Bratislava 37</b></div><div><b>IČO: 31 749&nbsp;542</b></div><div>&nbsp;</div><div>Forma preuk&aacute;zania: Formul&aacute;r Žiadosti o NFP &ndash; tab. č. 1. Identifik&aacute;cia žiadateľa. Bez osobitnej pr&iacute;lohy.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "Oprávnenosť aktivít projektu:",
+   "popisSk": "<div><div>Finančn&yacute; n&aacute;stroj predstavuje zv&yacute;hodnen&yacute; &uacute;ver na zlep&scaron;enie energetickej efekt&iacute;vnosti bytov&yacute;ch domov prostredn&iacute;ctvom ich obnovy.</div><div>&nbsp;</div><div>Obnovou bytovej budovy podľa z&aacute;kona o&nbsp;&Scaron;FRB je (od 01.01.2024):</div><ol><li>moderniz&aacute;cia alebo rekon&scaron;trukcia spoločn&yacute;ch čast&iacute; a spoločn&yacute;ch zariaden&iacute; bytov&eacute;ho domu, ktorou sa pre &uacute;čely z&aacute;kona o &Scaron;FRB rozumie:</li></ol><div style=\"margin-left:42.55pt\">&bull; v&yacute;mena alebo moderniz&aacute;cia v&yacute;ťahu v bytovom dome,</div><div style=\"margin-left:42.55pt\">&bull; v&yacute;mena spoločn&yacute;ch rozvodov plynu, elektriny, kanaliz&aacute;cie, vody, vzduchotechniky a tepla v bytovom dome,</div><div style=\"margin-left:42.55pt\">&bull; stavebn&aacute; &uacute;prava spoločn&yacute;ch čast&iacute; bytov&eacute;ho domu a spoločn&yacute;ch zariaden&iacute; bytov&eacute;ho domu, ktorou sa umožn&iacute; pr&iacute;stup do&nbsp;bytov v bytovom dome pre osoby s obmedzenou schopnosťou pohybu,</div><div style=\"margin-left:42.55pt\">&bull;&nbsp;vybudovanie technick&eacute;ho zariadenia na využ&iacute;vanie obnoviteľn&yacute;ch zdrojov energie a vybudovanie zariadenia na mechanick&eacute; vetranie so syst&eacute;mom rekuper&aacute;cie tepla pre&nbsp;vlastn&uacute; spotrebu bytovej budovy (ďalej len &bdquo;realiz&aacute;cia obnoviteľn&eacute;ho zdroja energie&ldquo;),</div><div style=\"margin-left:42.55pt\">&bull; in&aacute; moderniz&aacute;cia bytov&eacute;ho domu;</div><ol><li value=\"2\">odstr&aacute;nenie syst&eacute;movej poruchy bytov&eacute;ho domu;</li><li value=\"3\">stavebn&eacute; &uacute;pravy existuj&uacute;ceho bytov&eacute;ho domu alebo jeho samostatne už&iacute;vanej časti alebo rodinn&eacute;ho domu, ktor&yacute;mi sa vykon&aacute;va z&aacute;sah do tepelnej ochrany zateplen&iacute;m obvodov&eacute;ho pl&aacute;&scaron;ťa, stre&scaron;n&eacute;ho pl&aacute;&scaron;ťa a v&yacute;menou p&ocirc;vodn&yacute;ch otvorov&yacute;ch v&yacute;pln&iacute; bytov&eacute;ho domu alebo rodinn&eacute;ho domu (zateplenie bytovej budovy).</li></ol><div style=\"margin-left:36.0pt\">&nbsp;</div><div>&Uacute;ver na obnovu bytov&yacute;ch domov je možn&eacute; poskytn&uacute;ť na &uacute;čely podpory v&nbsp;zmysle pravidiel opr&aacute;vnenosti Programu Slovensko. Typy opr&aacute;vnen&yacute;ch aktiv&iacute;t s&uacute; definovan&eacute; v s&uacute;lade s pr&iacute;lohou č. IV vykon&aacute;vacieho nariadenia, z&aacute;konom o &Scaron;FRB a s t&yacute;m s&uacute;visiacim v&scaron;eobecne z&aacute;v&auml;zn&yacute;m pr&aacute;vnym predpisom.</div><div>&nbsp;</div><div><b>Podporen&eacute; bud&uacute; najm&auml; tieto aktivity: </b></div><ul><li><b>zlep&scaron;ovanie tepelno-technick&yacute;ch vlastnost&iacute; stavebn&yacute;ch kon&scaron;trukci&iacute; bytov&yacute;ch budov; </b><ul><li>striech vr&aacute;tane v&yacute;stavby novej &scaron;ikmej strechy;</li><li>fas&aacute;dnych stien a sokla;</li><li>pivničn&yacute;ch stropov a deliacich kon&scaron;trukci&iacute; medzi bytmi a nebytov&yacute;mi priestormi;</li><li>v&yacute;mena okien, vchodov&yacute;ch dver&iacute; a ďal&scaron;&iacute;ch otvorov&yacute;ch kon&scaron;trukci&iacute; v spoločn&yacute;ch priestoroch;</li></ul></li><li><b>odstr&aacute;nenie syst&eacute;mov&yacute;ch por&uacute;ch bytov&yacute;ch budov; </b></li><li><b>moderniz&aacute;cia vykurovac&iacute;ch syst&eacute;mov</b> <b>vr&aacute;tane rozvodov a hydraulick&eacute;ho vyregulovania, in&scaron;tal&aacute;cie termoregulačn&yacute;ch ventilov, in&scaron;tal&aacute;cia syst&eacute;mov merania a riadenia spotreby tepla;</b></li><li><b>v&yacute;mena alebo renov&aacute;cia odovzd&aacute;vacej stanice tepla alebo kotolne</b>, <b>ako aj syst&eacute;mov na&nbsp;pr&iacute;pravu teplej vody</b>;</li><li><b>z&aacute;važn&eacute; opravy alebo v&yacute;mena syst&eacute;mov vykurovania a teplej vody</b>;</li><li><b>v&yacute;mena alebo oprava spoločne využ&iacute;van&yacute;ch technick&yacute;ch syst&eacute;mov budovy </b></li></ul><div style=\"margin-left:36.0pt\">(kanaliz&aacute;cia, elektrick&eacute; zariadenia požiarnej ochrany, rozvody pitnej vody,&nbsp; zariadenia vetrac&iacute;ch syst&eacute;mov a rozvody plynu);</div><ul><li><b>z&aacute;važn&eacute; opravy v&yacute;ťahov alebo ich v&yacute;mena</b> <b>a nahradenie energeticky efekt&iacute;vnej&scaron;&iacute;mi v&yacute;ťahmi; </b></li><li><b>moderniz&aacute;cia osvetlenia</b>;</li><li><b>n&aacute;klady na realiz&aacute;ciu časti projektu, ktor&aacute; sa t&yacute;ka opatren&iacute; v oblasti energetickej efekt&iacute;vnosti a energi&iacute; z&nbsp;obnoviteľn&yacute;ch zdrojov;</b></li><li><b>n&aacute;klady na realiz&aacute;ciu časti projektu</b>, <b>ktor&aacute; sa t&yacute;ka zelen&yacute;ch opatren&iacute; na bytovej budove,</b></li><li><b>n&aacute;klady na realiz&aacute;ciu časti projektu, ktor&aacute; sa t&yacute;ka zadržiavania a využ&iacute;vania dažďovej vody na bytovej budove,</b></li><li><b>stavebn&eacute; &uacute;pravy bytov&yacute;ch domov, ktor&yacute;m sa umožn&iacute; pr&iacute;stup pre osoby s obmedzenou schopnosťou pohybu</b>;</li><li><b>s&uacute;visiaca projektov&aacute; dokument&aacute;cia</b>.</li></ul><div>&nbsp;</div><div>Pri uskutočňovan&iacute; jednotliv&yacute;ch projektov sa pri realiz&aacute;cii opr&aacute;vnen&yacute;ch aktiv&iacute;t predpoklad&aacute; aj vznik tzv. <b>vyvolan&yacute;ch v&yacute;davkov</b>. Vyvolan&eacute; v&yacute;davky s&uacute; rovnako s&uacute;časťou financovan&yacute;ch opr&aacute;vnen&yacute;ch aktiv&iacute;t za&nbsp;podmienky, že bezprostredne a od&ocirc;vodniteľne s&uacute;visia s niektorou z&nbsp;vy&scaron;&scaron;ie pop&iacute;san&yacute;ch aktiv&iacute;t. <b>Pr&iacute;klady vyvolan&yacute;ch v&yacute;davkov vo&nbsp;vzťahu k realizovan&yacute;m aktivit&aacute;m: </b></div><div>&nbsp;</div><ul><li><b>demont&aacute;ž a mont&aacute;ž hromozvodov a dažďov&yacute;ch zvodov; </b></li><li><b>demont&aacute;ž a mont&aacute;ž parapetn&yacute;ch dosiek, su&scaron;iakov, klimatizačn&yacute;ch jednotiek a satelitov; </b></li><li><b>prestavba odkvapov&eacute;ho chodn&iacute;ka; </b></li><li><b>&uacute;pravy strechy s&uacute;visiace s obnovou budovy;&nbsp; </b></li><li><b>kotvenie balk&oacute;nov&yacute;ch dosiek; </b></li><li><b>demont&aacute;ž a mont&aacute;ž nov&eacute;ho z&aacute;bradlia na lodžii a balk&oacute;ne; </b></li><li><b>demont&aacute;ž a mont&aacute;ž zasklenia balk&oacute;na; </b></li><li><b>opravy a v&yacute;mena nepodstatn&yacute;ch stavebn&yacute;ch kon&scaron;trukci&iacute;, najm&auml; vn&uacute;torn&yacute;ch priečok v&nbsp;spoločn&yacute;ch priestoroch, omietok, obkladov stien, podl&aacute;h; </b></li><li><b>san&aacute;cia vlhk&eacute;ho muriva, odvodnenie suter&eacute;nu, oprava schodiskov&yacute;ch stupňov a vstupov, v&yacute;mena z&aacute;bradlia, &uacute;prava povrchov v spoločn&yacute;ch priestoroch; </b></li><li><b>maliarske a natieračsk&eacute; pr&aacute;ce a podobne; </b></li><li><b>automatick&yacute; zabezpečovac&iacute; syst&eacute;m vstupov; </b></li><li><b>a ďal&scaron;ie obdobn&eacute; v&yacute;davky. </b></li></ul><div>&nbsp;</div><div>Forma preuk&aacute;zania: Formul&aacute;r Žiadosti o NFP &ndash; tab. č. 9.Harmonogram realiz&aacute;cie schv&aacute;len&yacute;ch aktiv&iacute;t.</div><div>Bez osobitnej pr&iacute;lohy.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 5,
+   "nazovSk": "Podmienka povinného definovania merateľných ukazovateľov projektu:",
+   "popisSk": "<div><div>V&yacute;stupy/v&yacute;sledky, ktor&eacute; maj&uacute; byť dosiahnut&eacute; realiz&aacute;ciou aktiv&iacute;t projektu, musia byť kvantifikovan&eacute; prostredn&iacute;ctvom merateľn&yacute;ch ukazovateľov definovan&yacute;ch v Pr&iacute;lohe č. 2 Zoznam merateľn&yacute;ch ukazovateľov projektu a in&yacute;ch &uacute;dajov tejto v&yacute;zvy.</div><div>&nbsp;</div><div>Forma preuk&aacute;zania: Formul&aacute;r žiadosti o NFP &ndash; tab. 10. Aktivity projektu</div><div>a očak&aacute;van&eacute; merateľn&eacute; ukazovatele.</div>Bez osobitnej pr&iacute;lohy</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "Oprávnenosť výdavkov:",
+   "popisSk": "<div><div>V&yacute;davok mus&iacute; byť vynaložen&yacute; a skutočne uhraden&yacute; počas obdobia opr&aacute;vnenosti v&yacute;davkov Programu Slovensko a to v rozmedz&iacute; časov&eacute;ho obdobia stanoven&eacute;ho NSU od 1. janu&aacute;ra 2024 do 31. decembra2029.</div><div>&nbsp;</div><div>Podporen&eacute; bud&uacute; projekty, ktor&yacute;ch opatrenia na &uacute;sporu energie dosiahnu minim&aacute;lne &uacute;roveň &uacute;spory 30% prim&aacute;rnej energie. Revolvingov&yacute; charakter &uacute;veru umožn&iacute; op&auml;tovn&eacute; a opakovan&eacute; použitie t&yacute;chto prostriedkov v&nbsp;bud&uacute;cnosti, č&iacute;m sa v&yacute;razne zvy&scaron;uje dosahovanie cieľov v oblasti energetickej efekt&iacute;vnosti.</div><div>&nbsp;</div><div>Opr&aacute;vnen&eacute; v&yacute;davky na pr&iacute;pravn&eacute; investičn&eacute; pr&aacute;ce vr&aacute;tane energetick&yacute;ch auditov a certifik&aacute;tov, pr&iacute;slu&scaron;n&yacute;ch &scaron;t&uacute;di&iacute; a projektovej dokument&aacute;cie potrebnej na obnovu budov.</div><div>&nbsp;</div><div>Finančn&yacute; n&aacute;stroj predstavuje kombin&aacute;ciu &uacute;veru a&nbsp;grantu, pričom m&aacute; vopred stanoven&yacute; v&yacute;konnostn&yacute; ukazovateľ. V&nbsp;z&aacute;vislosti od toho, či pr&iacute;slu&scaron;n&aacute; obnova dosiahne v&yacute;sledok, sa časť &uacute;veru zmen&iacute; na&nbsp;grant, čiže na odpustenie časti &uacute;veru.</div><div>&nbsp;</div><div>Podmienky poskytnutia grantu vo forme odpustenia &uacute;veru vo v&yacute;&scaron;ke najviac 30 % &uacute;veru počas platnosti zmluvy:</div><ol><li>podpora bola poskytnut&aacute; na zateplenie bytov&eacute;ho domu podľa z&aacute;kona o&nbsp;&Scaron;FRB a&nbsp;na&nbsp;realiz&aacute;ciu obnoviteľn&eacute;ho zdroja energie,</li><li>bolo preuk&aacute;zan&eacute; zn&iacute;ženie potreby prim&aacute;rnej energie bytov&eacute;ho domu minim&aacute;lne o&nbsp;30&nbsp;% oproti v&yacute;počtovo určenej potrebe prim&aacute;rnej energie bytov&eacute;ho domu pred realiz&aacute;ciou zateplenia bytov&eacute;ho domu,</li><li>žiadateľ p&iacute;somne požiada fond o odpustenie časti &uacute;veru najnesk&ocirc;r do jedn&eacute;ho roku po&nbsp;predložen&iacute; energetick&eacute;ho certifik&aacute;tu zateplen&eacute;ho bytov&eacute;ho domu vr&aacute;tane spr&aacute;vy k&nbsp;energetick&eacute;mu certifik&aacute;tu a</li><li>žiadateľ dodržiava podmienky dohodnut&eacute; v&nbsp;zmluve o &uacute;vere a ku dňu podania žiadosti m&aacute; splnen&eacute; z&aacute;v&auml;zky voči fondu.</li></ol><div>&nbsp;</div><div>Bliž&scaron;ie podrobnosti o&nbsp;odpusten&iacute; čast&iacute; &uacute;veru (v&yacute;konnostn&yacute; r&aacute;mec) obsahuje vyhl&aacute;&scaron;ka Ministerstva dopravy, v&yacute;stavby a region&aacute;lneho rozvoja SR č. 284/2013 z. z. o podrobnostiach o v&yacute;&scaron;ke poskytovanej podpory zo &Scaron;t&aacute;tneho fondu rozvoja b&yacute;vania, o&nbsp;v&scaron;eobecn&yacute;ch podmienkach poskytnutia podpory a&nbsp;o&nbsp;obsahu žiadosti v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov.</div><div>&nbsp;</div><div>Forma preuk&aacute;zania: Formul&aacute;r Žiadosti o NFP &ndash; tab. č. 7. Opis projektu.</div>Bez osobitnej pr&iacute;lohy.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 6,
+   "nazovSk": "Podmienka uplatňovania zásady „nespôsobovať významnú škodu“ (DNSH):",
+   "popisSk": "<div><div>Prij&iacute;mateľ pr&iacute;spevku na finančn&yacute; n&aacute;stroj je povinn&yacute; dodržiavať a zmluvne vyžadovať dodržiavanie horizont&aacute;lnych princ&iacute;pov uveden&yacute;ch v čl. 9 Nariadenia (E&Uacute;) 2021/1060, a z&aacute;sady &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; v s&uacute;lade s čl. 9 ods. 4 Nariadenia (E&Uacute;) 2021/1060 a čl. 17 Nariadenia Eur&oacute;pskeho parlamentu a Rady (E&Uacute;) 2020/852 o vytvoren&iacute; r&aacute;mca na uľahčenie udržateľn&yacute;ch invest&iacute;ci&iacute; a o zmene nariadenia (E&Uacute;) 2019/2088 od Konečn&eacute;ho prij&iacute;mateľa. Postup zabezpečenia s&uacute;ladu s uplatňovan&iacute;m z&aacute;sady &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu &ldquo; je uveden&yacute; v Pr&iacute;ručke implement&aacute;cie finančn&yacute;ch n&aacute;strojov, pričom sa primerane aplikuj&uacute; aj relevantn&eacute; pr&iacute;lohy Metodick&eacute;ho usmernenia riadiaceho org&aacute;nu pre Program Slovensko 2021 &ndash; 2027 č. 7 k uplatňovaniu z&aacute;sady &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo;.</div>Konkr&eacute;tne podmienky k uplatňovaniu z&aacute;sady nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu (&bdquo;DNSH&ldquo;) bud&uacute; uveden&eacute; v&nbsp;zmluve, ktor&eacute; bude uzatv&aacute;rať &Scaron;FRB ako prij&iacute;mateľ s konečn&yacute;mi prij&iacute;mateľmi.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "Oprávnenosť miesta realizácie projektu:",
+   "popisSk": "<div><div>Opr&aacute;vnen&yacute;m miestom realiz&aacute;cie projektu s&uacute; menej rozvinut&eacute; regi&oacute;ny Slovenskej republiky:</div><div><b>Z&aacute;padn&eacute; Slovensko ( Trnavsk&yacute;, Trenčiansky a Nitriansky samospr&aacute;vny kraj), Stredn&eacute; Slovensko (Žilinsk&yacute; a Banskobystrick&yacute; samospr&aacute;vny kraj) a V&yacute;chodn&eacute; Slovensko (Pre&scaron;ovsk&yacute; a Ko&scaron;ick&yacute; samospr&aacute;vny kraj).</b></div><div>&nbsp;</div><div>Čerpanie finančn&yacute;ch prostriedkov z&nbsp;Eur&oacute;pskeho fondu region&aacute;lneho rozvoja (EFRR) bude rozdelen&eacute; do menej rozvinut&yacute;ch regi&oacute;nov podľa schv&aacute;len&yacute;ch projektov.</div><div>&nbsp;</div><div><div>Forma preuk&aacute;zania: Formul&aacute;r Žiadosti o NFP &ndash; tab. č. 6. Miesto realiz&aacute;cie projektu.</div>Bez osobitnej pr&iacute;lohy.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [
+  {
+   "id": 100047,
+   "href": "/subjekt/id/100047",
+   "nazov": "Štátny fond rozvoja bývania",
+   "ico": "31749542",
+   "dic": "2020823200",
+   "icz": "1001757999",
+   "platitelDph": false,
+   "pravnaForma": {
+    "id": 48,
+    "kod": "1009381",
+    "kodZdroj": "381",
+    "nazovSk": "Fondy",
+    "nazovEn": "Funds",
+    "popisSk": "Fondy Fondy",
+    "popisEn": "Funds Funds",
+    "platnostOd": 675727200000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Lamačská cesta",
+    "cislo": "4256/8",
+    "psc": "83304",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ ],
+ "miestoRealizacieFull": [
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040352",
+   "nazovSk": "Poskytnutie dotácií, príspevkov voči tretím osobám",
+   "typAkcieProgramu": {
+    "id": 621,
+    "href": "/typakcieprogramu/id/621"
+   }
+  },
+  {
+   "kod": "1040000",
+   "nazovSk": "Bez výdavkov",
+   "typAkcieProgramu": {
+    "id": 1002,
+    "href": "/typakcieprogramu/id/1002"
+   }
+  }
+ ],
+ "externyZdroj": [],
+ "dokument": [
+  {
+   "nazov": "FW USMERNENIE k ďalšiemu postupu po zmene elektronického Formuláru žiadosti o NFP v ITMS21+.msg",
+   "uuid": "e83365d6-2a1c-40b5-bf3a-87b2c6e5683f"
+  },
+  {
+   "nazov": "Komunikácia k výzve.zip",
+   "uuid": "e4646138-c9bf-42f2-80e4-058682c2a909"
+  },
+  {
+   "nazov": "KZ.zip",
+   "uuid": "02aeef24-38a9-4f3d-9732-a38d49f6cf3a"
+  },
+  {
+   "nazov": "Usmernenie k ďalšiemu postupu po zmene elektronického Formuláru žiadosti o NFP v ITMS21+.pdf",
+   "uuid": "69567969-34e6-4418-9fa6-61e5c575dce3"
+  },
+  {
+   "nazov": "Výzva final FN EFRR .zip",
+   "uuid": "0bf21f5e-b594-4e1f-84e8-d489e9c05739"
+  },
+  {
+   "nazov": "Výzva PSK-MD-001-2024-FN-EFRR",
+   "uuid": "73590cd9-4438-42f9-8618-f67e738b37a3"
+  }
+ ],
+ "dovodVznikuVerzie": "<div>Nav&yacute;&scaron;enie sumy v&yacute;zvy o flexibilitu v zmysle Dodatku č. 2 Zmluvy o financovan&iacute;.</div>",
+ "dalsiaSkutocnost": [],
+ "dalsiaFormalnaNalezitost": [],
+ "verzia": [
+  {
+   "id": 7034,
+   "cislo": 3,
+   "datumVykonaniaZmeny": 1771196400000,
+   "dovodVznikuVerzie": "<div>Nav&yacute;&scaron;enie sumy v&yacute;zvy o flexibilitu v zmysle Dodatku č. 2 Zmluvy o financovan&iacute;.</div>"
+  },
+  {
+   "id": 5743,
+   "cislo": 1,
+   "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>"
+  },
+  {
+   "id": 5762,
+   "cislo": 2,
+   "datumVykonaniaZmeny": 1718834400000,
+   "dovodVznikuVerzie": "<div>Nastavenie pr&iacute;znaku rizika R0&nbsp;</div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [
+  {
+   "id": 775,
+   "specifickyCielProgramu": {
+    "id": 42,
+    "href": "/specifickycielprogramu/id/42",
+    "kod": "401201R201",
+    "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868177
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1218,
+    "href": "/ukazovatelprojektovy/id/1218",
+    "kod": "PSKPRCR26a",
+    "nazovSk": "Ročná primárna spotreba energie: obydlia",
+    "mernaJednotka": {
+     "id": 32,
+     "kod": "105332",
+     "nazovSk": "MWh/rok",
+     "nazovEn": "MWh/rok",
+     "popisSk": "MWh/rok",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Celkov&aacute; ročn&aacute; potreba prim&aacute;rnej energie: obydlia (V&yacute;chodiskov&aacute; hodnota)</div><div><div>V&yacute;chodiskov&aacute; hodnota sa t&yacute;ka ročnej potreby prim&aacute;rnej energie pred intervenciou.</div><i>V&nbsp;slovensk&yacute;ch podmienkach je v&yacute;sledkom energetickej certifik&aacute;cie hodnota glob&aacute;lneho ukazovateľa prim&aacute;rnej energie, ktor&yacute; vych&aacute;dza z&nbsp;v&yacute;počtov&yacute;ch hodn&ocirc;t a&nbsp;v&yacute;stupom je potreba energie</i>.&nbsp;</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Projektov&aacute; dokument&aacute;cia vr&aacute;tane projektov&eacute;ho energetick&eacute;ho hodnotenia bytovej budovy pred realiz&aacute;ciou projektu.</div><div>Ak je predmetom projektu viacero budov hodnota vyjadruje s&uacute;čet potreby prim&aacute;rnej energie jednotliv&yacute;ch bytov&yacute;ch budov.&nbsp;</div><div><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Celkov&aacute; ročn&aacute; potreba prim&aacute;rnej energie: obydlia (Dosiahnut&aacute; hodnota)</div>Dosiahnut&aacute; hodnota sa t&yacute;ka ročnej potreby prim&aacute;rnej energie za rok po intervencii.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Energetick&yacute; certifik&aacute;t v s&uacute;lade so smernicou 2010/31/E&Uacute; po realiz&aacute;cii projektu</div><div>Ak je predmetom projektu viacero budov hodnota vyjadruje s&uacute;čet potreby prim&aacute;rnej energie jednotliv&yacute;ch bytov&yacute;ch budov.</div><div>Upozorňujeme na rozdielnosť mernej jednotky v EC a MU.</div><div><div><b>3.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Energetick&aacute; hospod&aacute;rnosť bytovej budovy</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Energetick&yacute; certifik&aacute;t v s&uacute;lade so smernicou 2010/31/E&Uacute; po realiz&aacute;cii projektu</div></div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1673945615793,
+    "updatedAt": 1718630692159
+   }
+  }
+ ],
+ "ukazovatelVystupovy": [
+  {
+   "id": 776,
+   "specifickyCielProgramu": {
+    "id": 42,
+    "href": "/specifickycielprogramu/id/42",
+    "kod": "401201R201",
+    "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868177
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1254,
+    "href": "/ukazovatelprojektovy/id/1254",
+    "kod": "PSKPRCO18",
+    "nazovSk": "Obydlia so zlepšenou energetickou hospodárnosťou",
+    "mernaJednotka": {
+     "id": 200051,
+     "kod": "105353",
+     "nazovSk": "obydlie",
+     "popisSk": "obydlie",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Obydlie (dom&aacute;cnosť) (nerelevantn&eacute; pre typ akcie &bdquo;<i>Zlep&scaron;ovanie energetickej hospod&aacute;rnosti a obnovy verejn&yacute;ch budov</i>&ldquo; opatrenia 2.1.2 a&nbsp;pre opatrenie 2.1.1 PSK).</div><div>Obydlie je definovan&eacute; ako &bdquo;<i>izba alebo s&uacute;bor miestnost&iacute; v budove určenej na trval&eacute; b&yacute;vanie alebo v &scaron;trukt&uacute;rne oddelenej časti budovy, ktor&aacute; je sp&ocirc;sobom ako bola postaven&aacute;, prestaven&aacute; alebo upraven&aacute; určen&aacute; na celoročn&eacute; b&yacute;vanie jednej s&uacute;kromnej dom&aacute;cnosti. Obydl&iacute;m m&ocirc;že byť buď byt pre jednu rodinu v samostatnej stojacej budove alebo byt v bytovom dome.</i>&ldquo;. (ESTAT)</div><div>Ukazovateľ sa t&yacute;ka aj soci&aacute;lneho b&yacute;vania podľa RSO2.1. Využit&aacute; by mala byť aj kapacita nov&eacute;ho alebo modernizovan&eacute;ho soci&aacute;lneho b&yacute;vania.</div></div></div></div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Zoznam zml&uacute;v o&nbsp;poskytnut&iacute; podpory na zv&yacute;&scaron;enie energetickej hospod&aacute;rnosti bytov&yacute;ch domov (vr&aacute;tane počtu obydl&iacute;, resp. bytov).</div><div><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Zlep&scaron;enie energetickej hospod&aacute;rnosti min. o&nbsp;1 triedu</div><div>&nbsp;</div>Zlep&scaron;enou energetickou hospod&aacute;rnosťou sa rozumie zlep&scaron;enie energetickej klasifik&aacute;cie obydlia najmenej o jednu energetick&uacute; triedu a m&aacute; sa dokumentovať na z&aacute;klade energetick&eacute;ho certifik&aacute;tu (EC). Uvažovan&aacute; energetick&aacute; klasifik&aacute;cia zodpoved&aacute; defin&iacute;cii v n&aacute;rodnom energetickom certifik&aacute;te v s&uacute;lade so smernicou 2010/31/E&Uacute;.&nbsp;</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Projektov&aacute; dokument&aacute;cia, resp. projektov&eacute; energetick&eacute; hodnotenie bytovej budovy.</div><div>Energetick&yacute; certifik&aacute;t v s&uacute;lade so smernicou 2010/31/E&Uacute; po realiz&aacute;cii projektu.</div><div>Ak je predmetom projektu viacero obydl&iacute; (bytov), hodnota vyjadruje s&uacute;čet jednotliv&yacute;ch obydl&iacute; (bytov) so zlep&scaron;enou energetickou hospod&aacute;rnosťou, resp. vyjadruje zlep&scaron;en&uacute; energetick&uacute; hospod&aacute;rnosť cel&eacute;ho bytov&eacute;ho domu.</div><div><div><b>2.2</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Zlep&scaron;enie energetickej hospod&aacute;rnosti &uacute;sporou prim&aacute;rnej energie bytovej budovy minim&aacute;lne o 30 % oproti v&yacute;počtovo určenej potrebe prim&aacute;rnej energie bytovej budovy pred realiz&aacute;ciou projektu.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Projektov&aacute; dokument&aacute;cia, resp. projektov&eacute; energetick&eacute; hodnotenie bytovej budovy.</div><div>Energetick&yacute; certifik&aacute;t v s&uacute;lade so smernicou 2010/31/E&Uacute; po realiz&aacute;cii projektu.</div>Ak je predmetom projektu viacero obydl&iacute; (bytov), hodnota vyjadruje s&uacute;čet jednotliv&yacute;ch obydl&iacute; (bytov) so zlep&scaron;enou energetickou hospod&aacute;rnosťou, resp. vyjadruje zlep&scaron;en&uacute; energetick&uacute; hospod&aacute;rnosť cel&eacute;ho bytov&eacute;ho domu.<div><div><div><b>3.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet obydl&iacute; so zlep&scaron;enou energetickou hospod&aacute;rnosťou</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>IT monitorovac&iacute; syst&eacute;m</div><div>Projekty&nbsp;</div><div><div><b>4.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Obydlie so zlep&scaron;enou energetickou klasifik&aacute;ciou</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&eacute;ho prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div></div></div></div></div>Projektov&eacute; energetick&eacute; hodnotenie bytovej budovy pred a energetick&yacute; certifik&aacute;t v s&uacute;lade so smernicou 2010/31/E&Uacute; po realiz&aacute;cii projektu.</div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1675330888418,
+    "updatedAt": 1718630347358
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 621,
+   "href": "/typakcieprogramu/id/621",
+   "kod": "401201R20102011",
+   "nazovSk": "Zlepšovanie energetickej hospodárnosti a obnovy bytových domov",
+   "specifickyCielProgramu": {
+    "id": 42,
+    "href": "/specifickycielprogramu/id/42",
+    "kod": "401201R201",
+    "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868177
+   },
+   "opatrenie": {
+    "id": 39,
+    "href": "/opatrenie/id/39",
+    "kod": "401201R20102",
+    "nazovSk": "Znižovanie energetickej náročnosti budov",
+    "specifickyCielProgramu": {
+     "id": 42,
+     "href": "/specifickycielprogramu/id/42",
+     "kod": "401201R201",
+     "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 3,
+      "href": "/priorita/id/3",
+      "kod": "401201",
+      "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867938
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868177
+    },
+    "createdAt": 1772540868186
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516232085,
+   "updatedAt": 1772541473140
+  },
+  {
+   "id": 1002,
+   "href": "/typakcieprogramu/id/1002",
+   "kod": "401201R201020P1",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 42,
+    "href": "/specifickycielprogramu/id/42",
+    "kod": "401201R201",
+    "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868177
+   },
+   "opatrenie": {
+    "id": 39,
+    "href": "/opatrenie/id/39",
+    "kod": "401201R20102",
+    "nazovSk": "Znižovanie energetickej náročnosti budov",
+    "specifickyCielProgramu": {
+     "id": 42,
+     "href": "/specifickycielprogramu/id/42",
+     "kod": "401201R201",
+     "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 3,
+      "href": "/priorita/id/3",
+      "kod": "401201",
+      "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867938
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868177
+    },
+    "createdAt": 1772540868186
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516244579,
+   "updatedAt": 1772541473140
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 42,
+    "href": "/specifickycielprogramu/id/42",
+    "kod": "401201R201",
+    "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868177
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200051,
+    "kod": "10364PO042",
+    "kodZdroj": "042",
+    "nazovSk": "Obnova jestvujúceho bytového fondu s cieľom zabezpečiť energetickú efektívnosť, demonštračné projekty a podporné opatrenia v súlade s kritériami energetickej efektívnosti",
+    "nazovEn": "Obnova jestvujúceho bytového fondu s cieľom zabezpečiť energetickú efektívnosť, demonštračné projekty a podporné opatrenia v súlade s kritériami energetickej efektívnosti",
+    "nazovDe": "Energieeffiziente Renovierung des vorhandenen Wohnungsbestands, Demonstrationsvorhaben und Begleitmaßnahmen im Einklang mit Energieeffizienzkriterien",
+    "popisSk": "Obnova jestvujúceho bytového fondu s cieľom zabezpečiť energetickú efektívnosť, demonštračné projekty a podporné opatrenia v súlade s kritériami energetickej efektívnosti ",
+    "popisDe": "Energieeffiziente Renovierung des vorhandenen Wohnungsbestands, Demonstrationsvorhaben und Begleitmaßnahmen im Einklang mit Energieeffizienzkriterien",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 42,
+    "href": "/specifickycielprogramu/id/42",
+    "kod": "401201R201",
+    "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868177
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200002,
+    "kod": "10374PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Podpora prostredníctvom finančných nástrojov: úver",
+    "nazovEn": "Podpora prostredníctvom finančných nástrojov: úver",
+    "nazovDe": "Unterstützung durch Finanzinstrumente: Darlehen",
+    "popisSk": "Podpora prostredníctvom finančných nástrojov: úver",
+    "popisDe": "Unterstützung durch Finanzinstrumente: Darlehen",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 42,
+    "href": "/specifickycielprogramu/id/42",
+    "kod": "401201R201",
+    "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868177
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200004,
+    "kod": "10374PO05",
+    "kodZdroj": "05",
+    "nazovSk": "Podpora prostredníctvom finančných nástrojov: granty v rámci operácie finančného nástroja",
+    "nazovEn": "Podpora prostredníctvom finančných nástrojov: granty v rámci operácie finančného nástroja",
+    "nazovDe": "Unterstützung durch Finanzinstrumente: Zuschüsse innerhalb eines Finanzinstrumentvorhabens",
+    "popisSk": "Podpora prostredníctvom finančných nástrojov: granty v rámci operácie finančného nástroja",
+    "popisDe": "Unterstützung durch Finanzinstrumente: Zuschüsse innerhalb eines Finanzinstrumentvorhabens",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 42,
+    "href": "/specifickycielprogramu/id/42",
+    "kod": "401201R201",
+    "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868177
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 42,
+    "href": "/specifickycielprogramu/id/42",
+    "kod": "401201R201",
+    "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868177
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 42,
+    "href": "/specifickycielprogramu/id/42",
+    "kod": "401201R201",
+    "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868177
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200010,
+    "kod": "10384PO10",
+    "kodZdroj": "10",
+    "nazovSk": "Stavebníctvo",
+    "nazovEn": "Stavebníctvo",
+    "nazovDe": "Baugewerbe/Bau",
+    "popisSk": "Stavebníctvo",
+    "popisDe": "Baugewerbe/Bau",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 42,
+    "href": "/specifickycielprogramu/id/42",
+    "kod": "401201R201",
+    "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868177
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 42,
+    "href": "/specifickycielprogramu/id/42",
+    "kod": "401201R201",
+    "nazovSk": "RSO2.1 Podpora energetickej efektívnosti a znižovania emisií skleníkových plynov (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868177
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200010,
+    "kod": "12094PO11",
+    "kodZdroj": "11",
+    "nazovSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovEn": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "popisSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "popisDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 1,
+   "kod": "1033MRR",
+   "kodZdroj": "MRR",
+   "nazovSk": "Menej rozvinutý región",
+   "nazovEn": "less-developed regions",
+   "popisSk": "Menej rozvinutý región",
+   "popisEn": "less-developed regions",
+   "platnostOd": 725842800000
+  },
+  {
+   "id": 2,
+   "kod": "1033VRR",
+   "kodZdroj": "VRR",
+   "nazovSk": "Viac rozvinutý región",
+   "nazovEn": "more-developed regions",
+   "popisSk": "Viac rozvinutý región",
+   "popisEn": "more-developed regions",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [
+  {
+   "datumZverejnenia": 1718834400000,
+   "nazov": "Zverejnenie verzie výzvy",
+   "text": "<div>Nastavenie pr&iacute;znaku rizika R0&nbsp;</div>",
+   "dokument": []
+  },
+  {
+   "datumZverejnenia": 1771196400000,
+   "nazov": "Zverejnenie verzie výzvy",
+   "text": "<div>Nav&yacute;&scaron;enie sumy v&yacute;zvy o flexibilitu v zmysle Dodatku č. 2 Zmluvy o financovan&iacute;.</div>",
+   "dokument": []
+  }
+ ],
+ "projektovyZamerIUS": []
+}

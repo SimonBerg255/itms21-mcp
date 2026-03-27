@@ -1,0 +1,1955 @@
+{
+ "id": 3271,
+ "href": "/vyzva/id/3271",
+ "kod": "PSK-MV-001-2024-DV-EFRR",
+ "nazovSk": "Identifikácia vývoja rizík, určenie spôsobov prevencie, zavádzanie postupov a opatrení na pripravenosť a reakciu na katastrofy spôsobené zmenou klímy",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 52,
+   "href": "/specifickycielprogramu/id/52",
+   "kod": "401202R204",
+   "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 4,
+    "href": "/priorita/id/4",
+    "kod": "401202",
+    "nazovSk": "2P2 Životné prostredie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867941
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540871485
+  }
+ ],
+ "opatrenie": [
+  {
+   "id": 89,
+   "href": "/opatrenie/id/89",
+   "kod": "401202R20407",
+   "nazovSk": "Identifikácia vývoja rizík, určenie spôsobov prevencie, zavádzanie postupov a opatrení na pripravenosť a reakciu na katastrofy spôsobené zmenou klímy",
+   "specifickyCielProgramu": {
+    "id": 52,
+    "href": "/specifickycielprogramu/id/52",
+    "kod": "401202R204",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871485
+   },
+   "createdAt": 1772540871514
+  }
+ ],
+ "miestoRealizacie": [
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 42,
+   "kod": "1009321",
+   "kodZdroj": "321",
+   "nazovSk": "Rozpočtová organizácia",
+   "nazovEn": "Budgetary organization",
+   "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+   "popisEn": "Budgetary organization Budgetary organization",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1711407600000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 379,
+  "kod": "21_SO_PSK_MVSR",
+  "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo vnútra SR",
+  "subjekt": {
+   "id": 100004,
+   "href": "/subjekt/id/100004",
+   "nazov": "Ministerstvo vnútra Slovenskej republiky",
+   "ico": "00151866",
+   "dic": "2020571520",
+   "icz": "1001753291",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2020571520",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "2",
+    "psc": "81272",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "OTVORENA",
+ "zameranieProjektu": "DOPYT_21",
+ "createdAt": 1711368128292,
+ "updatedAt": 1755164521140,
+ "sumaEu": 2300000.0,
+ "sumaSr": 405883.0,
+ "predvyber": false,
+ "posudzovaneObdobie": [
+  {
+   "poradoveCislo": 1,
+   "datumUzavierky": 1714428000000
+  },
+  {
+   "poradoveCislo": 2,
+   "datumUzavierky": 1717106400000
+  },
+  {
+   "poradoveCislo": 3,
+   "datumUzavierky": 1719784800000
+  },
+  {
+   "poradoveCislo": 4,
+   "datumUzavierky": 1722376800000
+  },
+  {
+   "poradoveCislo": 5,
+   "datumUzavierky": 1725228000000
+  },
+  {
+   "poradoveCislo": 6,
+   "datumUzavierky": 1727647200000
+  },
+  {
+   "poradoveCislo": 7,
+   "datumUzavierky": 1730329200000
+  },
+  {
+   "poradoveCislo": 8,
+   "datumUzavierky": 1733094000000
+  },
+  {
+   "poradoveCislo": 9,
+   "datumUzavierky": 1735599600000
+  },
+  {
+   "poradoveCislo": 19,
+   "datumUzavierky": 1761865200000
+  },
+  {
+   "poradoveCislo": 10,
+   "datumUzavierky": 1738278000000
+  },
+  {
+   "poradoveCislo": 11,
+   "datumUzavierky": 1740697200000
+  },
+  {
+   "poradoveCislo": 12,
+   "datumUzavierky": 1743372000000
+  },
+  {
+   "poradoveCislo": 13,
+   "datumUzavierky": 1745964000000
+  },
+  {
+   "poradoveCislo": 14,
+   "datumUzavierky": 1748815200000
+  },
+  {
+   "poradoveCislo": 15,
+   "datumUzavierky": 1751234400000
+  },
+  {
+   "poradoveCislo": 16,
+   "datumUzavierky": 1753912800000
+  },
+  {
+   "poradoveCislo": 17,
+   "datumUzavierky": 1756677600000
+  },
+  {
+   "poradoveCislo": 18,
+   "datumUzavierky": 1759183200000
+  },
+  {
+   "poradoveCislo": 20,
+   "datumUzavierky": 1764543600000
+  },
+  {
+   "poradoveCislo": 21,
+   "datumUzavierky": 1767135600000
+  },
+  {
+   "poradoveCislo": 22,
+   "datumUzavierky": 1769986800000
+  },
+  {
+   "poradoveCislo": 23,
+   "datumUzavierky": 1772406000000
+  },
+  {
+   "poradoveCislo": 24,
+   "datumUzavierky": 1774908000000
+  },
+  {
+   "poradoveCislo": 25,
+   "datumUzavierky": 1777500000000
+  },
+  {
+   "poradoveCislo": 26,
+   "datumUzavierky": 1780264800000
+  },
+  {
+   "poradoveCislo": 27,
+   "datumUzavierky": 1782770400000
+  },
+  {
+   "poradoveCislo": 28,
+   "datumUzavierky": 1785448800000
+  },
+  {
+   "poradoveCislo": 29,
+   "datumUzavierky": 1788127200000
+  },
+  {
+   "poradoveCislo": 30,
+   "datumUzavierky": 1790719200000
+  },
+  {
+   "poradoveCislo": 31,
+   "datumUzavierky": 1793574000000
+  },
+  {
+   "poradoveCislo": 32,
+   "datumUzavierky": 1795993200000
+  },
+  {
+   "poradoveCislo": 33,
+   "datumUzavierky": 1798671600000
+  }
+ ],
+ "pocetPredlozenychZiadosti": 0,
+ "pocetSchvalenychZiadosti": 0,
+ "pocetZiadostiVKonani": 0,
+ "pocetNeschvalenychZiadosti": 0,
+ "pocetRealizovanychProjektov": 0,
+ "planovanaVyzva": [],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 6,
+   "kod": "1032EFRR",
+   "kodZdroj": "EFRR",
+   "nazovSk": "Európsky fond regionálneho rozvoja",
+   "nazovEn": "European Regional Development Fund",
+   "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+   "popisSk": "Európsky fond regionálneho rozvoja",
+   "popisEn": "European Regional Development Fund",
+   "popisDe": "Europäischen Fonds für regionale Entwicklung",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "sposobFinancovania": [],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktEmail": "metodika.adapt@minv.sk",
+ "kontaktTelefon": "+421 961 577 252",
+ "kontaktnaOsoba": [],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "nazovSk": "Podmienka oprávnenosti žiadateľa",
+   "popisSk": "<div>Pre poskytnutie NFP s&uacute; opr&aacute;vnen&eacute; pr&aacute;vne formy žiadateľa patriaceho do kateg&oacute;rie prij&iacute;mateľov &bdquo;vybran&eacute; subjekty &scaron;t&aacute;tnej spr&aacute;vy&ldquo;, v&nbsp;zmysle kap. 1, p&iacute;sm. a) Strat&eacute;gie financovania.</div><div><ul><li>&uacute;stredn&eacute; org&aacute;ny &scaron;t&aacute;tnej spr&aacute;vy,</li><li>ostatn&eacute; &uacute;stredn&eacute; org&aacute;ny &scaron;t&aacute;tnej spr&aacute;vy,</li><li>&scaron;t&aacute;tne rozpočtov&eacute; organiz&aacute;cie.</li></ul></div><div>&nbsp;</div><div>&nbsp;</div>",
+   "priloha": [
+    {
+     "nazovSk": "Formulár ŽoNFP (tabuľka č. 1 - Identifikácia žiadateľa)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": true
+    }
+   ]
+  },
+  {
+   "nazovSk": "Podmienka, že žiadateľ nie je evidovaný v Systéme včasného odhaľovania rizika a vylúčenia (EDES) ako vylúčená osoba alebo subjekt (v zmysle článku 135 nariadenia č. 2018/ 1046)",
+   "popisSk": "<div><div><div>Podmienka, že žiadateľ nie je evidovan&yacute; v Syst&eacute;me včasn&eacute;ho odhaľovania rizika a vyl&uacute;čenia (EDES) ako vyl&uacute;čen&aacute; osoba alebo subjekt v zmysle čl. 135 nariadenia Eur&oacute;pskeho parlamentu a Rady (E&Uacute;, Euratom) č. 2018/1046 o rozpočtov&yacute;ch pravidl&aacute;ch, ktor&eacute; sa vzťahuj&uacute; na v&scaron;eobecn&yacute; rozpočet &Uacute;nie, o zmene nariaden&iacute; (E&Uacute;) č. 1296/2013, (E&Uacute;) č. 1301/2013, (E&Uacute;) č. 1303/2013, (E&Uacute;) č. 1304/2013, (E&Uacute;) č. 1309/2013, (E&Uacute;) č. 1316/2013, (E&Uacute;) č. 223/2014, (E&Uacute;) č. 283/2014 a rozhodnutia č. 541/2014/E&Uacute; a zru&scaron;en&iacute; nariadenia (E&Uacute;, Euratom) č. 966/2012 v platnom znen&iacute;.</div></div></div><div><div>&nbsp;</div></div>",
+   "priloha": [
+    {
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "nazovSk": "Podmienka  neukončenia fyzickej realizácie hlavných aktivít pred predložením ŽoNFP",
+   "popisSk": "<div>Žiadateľ neukončil fyzick&uacute; realiz&aacute;ciu v&scaron;etk&yacute;ch hlavn&yacute;ch aktiv&iacute;t pred predložen&iacute;m ŽoNFP (uveden&yacute; z&aacute;kaz schv&aacute;lenia zrealizovan&yacute;ch projektov vypl&yacute;va z čl. 63 ods. 6 NSU).</div>",
+   "priloha": [
+    {
+     "nazovSk": "Formulár ŽoNFP (tabuľka č. 9 – Harmonogram realizácie aktivít)",
+     "nazovDe": "Antragsformular (Tabelle 9 - Aktivitätszeitplan)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": true
+    }
+   ]
+  },
+  {
+   "nazovSk": "Podmienka oprávnenosti miesta realizácie",
+   "popisSk": "<div><div>Žiadateľ je povinn&yacute; realizovať projekt na opr&aacute;vnenom &uacute;zem&iacute;.&nbsp;Z &uacute;zemn&eacute;ho hľadiska s&uacute; opr&aacute;vnen&eacute; na podporu projekty realizovan&eacute; na &uacute;zem&iacute; menej rozvinut&yacute;ch regi&oacute;nov. Pre t&uacute;to v&yacute;zvu je opr&aacute;vnen&yacute;m miestom realiz&aacute;cie projektu cel&eacute; &uacute;zemie Slovenskej republiky, s v&yacute;nimkou Bratislavsk&eacute;ho samospr&aacute;vne&shy;ho kraja. Opr&aacute;vnen&eacute; na podporu s&uacute; tiež projekty, ktor&eacute; svojimi &uacute;činkami zasahuj&uacute; cel&eacute; &uacute;zemie Slovenskej republiky (vr&aacute;tane Bratislavsk&eacute;ho samospr&aacute;vneho kraja).&nbsp;&nbsp;</div></div>",
+   "priloha": [
+    {
+     "nazovSk": "Formulár ŽoNFP – (tabuľka č. 6 – Miesto realizácie projektu)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": true
+    }
+   ]
+  },
+  {
+   "nazovSk": "Podmienka povinného výberu merateľných ukazovateľov projektu",
+   "popisSk": "<div><div>V&yacute;stupy/v&yacute;sledky, ktor&eacute; maj&uacute; byť dosiah&shy;nut&eacute; realiz&aacute;ciou aktiv&iacute;t projektu musia byť kvantifikovan&eacute; prostredn&iacute;ctvom me&shy;rateľn&yacute;ch ukazovateľov definovan&yacute;ch v &nbsp;Zozname&nbsp; merateľn&yacute;ch ukazovateľov projektu a&nbsp;in&yacute;ch &uacute;dajov, ktor&yacute; je Pr&iacute;lohou č. 5 tejto v&yacute;zvy. Žiadateľ je povinn&yacute; zvoliť minim&aacute;lne jeden v&yacute;stupov&yacute; ukazovateľ pre každ&uacute; hlavn&uacute; aktivitu.</div></div>",
+   "priloha": [
+    {
+     "nazovSk": "Formulár ŽoNFP",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": true
+    }
+   ]
+  },
+  {
+   "nazovSk": "Podmienka oprávnenosti hlavných aktivít projektu",
+   "popisSk": "<div>Hlavn&eacute; aktivity projektu (vytvorenie strat&eacute;gie) &ndash; mus&iacute; byť vo vecnom s&uacute;lade s typmi opr&aacute;vnen&yacute;ch akci&iacute; P SK (ďalej len &bdquo;P SK&ldquo;) pre opatrenie/akciu 2.4.7 Identifik&aacute;cia v&yacute;voja riz&iacute;k, určenie sp&ocirc;sobov prevencie, zav&aacute;dzanie postupov a opatren&iacute; na pripravenosť a reakciu na katastrofy sp&ocirc;soben&eacute; zmenou kl&iacute;my, definovan&yacute;mi v&nbsp;P SK, na realiz&aacute;ciu ktor&yacute;ch je t&aacute;to v&yacute;zva vyhl&aacute;sen&aacute;.&nbsp;</div><div>Hlavn&eacute; aktivity projektu musia byť vo vecnom s&uacute;lade s&nbsp;ustanoveniami Nariadenia Eur&oacute;pskeho parlamentu a&nbsp;Rady (E&Uacute;) 2021/836.</div><div>S cieľom zlep&scaron;iť pripravenosť na mimoriadne udalosti, nutnosťou prijať analytick&eacute; a metodologick&eacute; opatrenia, ktor&eacute; zabezpečia zber a vyhodnotenie d&aacute;t a inform&aacute;ci&iacute;, ako aj modelovanie a monitoring v&yacute;voja riz&iacute;k spojen&yacute;ch so zmenou kl&iacute;my, bude podpora v r&aacute;mci opatrenia 2.4.7 Identifik&aacute;cia v&yacute;voja riz&iacute;k, určenie sp&ocirc;sobov prevencie, zav&aacute;dzanie postupov a opatren&iacute; na pripravenosť a reakciu na katastrofy sp&ocirc;soben&eacute; zmenou kl&iacute;my, smerovať najm&auml; do:</div><ul><li>pr&iacute;pravy a/alebo aktualiz&aacute;cie a&nbsp;zavedenia n&aacute;rodn&eacute;ho a/alebo region&aacute;lneho pl&aacute;nu/strat&eacute;gie riadenia rizika katastrof, a&nbsp;to s&nbsp;ohľadom na aktu&aacute;lne a&nbsp;vyv&iacute;jaj&uacute;ce sa hrozby v&nbsp;časovom rozmedz&iacute; 25 až 35 rokov;</li><li>anal&yacute;zy legislat&iacute;vneho a in&scaron;titucion&aacute;lneho r&aacute;mca;</li><li>mapovania a evidencie existuj&uacute;cich pl&aacute;nov;</li><li>tvorby strategick&yacute;ch cieľov, opatren&iacute; a&nbsp;prior&iacute;t v&nbsp;jednotliv&yacute;ch f&aacute;zach;</li><li>pr&iacute;pravy a/alebo aktualiz&aacute;cie zoznamu a klasifik&aacute;cie hrozieb podľa aktu&aacute;lnej situ&aacute;cie a identifikovan&yacute;ch riz&iacute;k;</li><li>zavedenia efekt&iacute;vneho syst&eacute;mu koordin&aacute;cie činnost&iacute; medzi &uacute;zemnou samospr&aacute;vou, &scaron;t&aacute;tnymi org&aacute;nmi a ďal&scaron;&iacute;mi akt&eacute;rmi;&nbsp;mechanizmov financovania pre realiz&aacute;ciu cieľov, opatren&iacute;, prior&iacute;t a&nbsp;ľudsk&yacute;ch zdrojov;</li><li>monitorovania, hodnotenia a&nbsp;rev&iacute;zie pl&aacute;nu/strat&eacute;gie.</li></ul><div>V&yacute;stupom m&ocirc;že byť opis analytick&yacute;ch postupov a aktiv&iacute;t, napr.:</div><ul><li>modelovanie, simulovanie a monitorovanie riz&iacute;k spojen&yacute;ch so zmenou kl&iacute;my na z&aacute;klade vedeck&yacute;ch podkladov a&nbsp;d&ocirc;kazov vytvorenie jednotn&eacute;ho informačn&eacute;ho syst&eacute;mu kr&iacute;zov&eacute;ho manažmentu a scen&aacute;rov pre identifik&aacute;ciu medzier v kapacit&aacute;ch reakcie na katastrofy, doplnenie kapac&iacute;t a zdrojov potrebn&yacute;ch na rie&scaron;enie mimoriadnych a kr&iacute;zov&yacute;ch udalost&iacute; sp&ocirc;soben&yacute;ch kl&iacute;mou aj človekom;</li><li>n&aacute;vrh a opis nov&yacute;ch technologick&yacute;ch rie&scaron;en&iacute; pre anal&yacute;zy a vyhodnotenie klimatick&yacute;ch riz&iacute;k, napr. satelitn&eacute; rie&scaron;enia, zariadenia pre sn&iacute;manie a monitorovanie, GIS, software a pod.</li></ul><div>V r&aacute;mci realiz&aacute;cie opr&aacute;vnen&yacute;ch aktiv&iacute;t mus&iacute; byť z&aacute;roveň zabezpečen&yacute; s&uacute;lad s N&aacute;rodnou strat&eacute;giou riadenia riz&iacute;k bezpečnostn&yacute;ch hrozieb Slovenskej republiky.</div>",
+   "priloha": [
+    {
+     "nazovSk": "Formulár ŽoNFP – (tabuľka č. 11 - Rozpočet projektu)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "nazovSk": "Formulár ŽoNFP – (tabuľka č. 7 -  Popis projektu)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "nazovSk": "Rozpočet projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "nazovSk": "Podmienka kompatibility projektu s Akčným plánom k Národnej stratégii riadenia rizík bezpečnostných hrozieb Slovenskej republiky do roku 2025",
+   "popisSk": "<div><div>Projekt mus&iacute; prispievať k plneniu &uacute;loh zadefinovan&yacute;ch v Akčnom pl&aacute;ne k N&aacute;rodnej strat&eacute;gii riadenia riz&iacute;k bezpečnostn&yacute;ch hrozieb Slovenskej republiky do roku 2025:</div>Spolupracuj&uacute;cimi subjektami m&ocirc;žu byť napr.: &nbsp;vecne pr&iacute;slu&scaron;n&eacute; ministerstv&aacute;, ostatn&eacute; &uacute;stredn&eacute; org&aacute;ny &scaron;t&aacute;tnej spr&aacute;vy a&nbsp;&uacute;zemn&eacute; samospr&aacute;vy, Združenie miest a&nbsp;obc&iacute; Slovenska, &Uacute;nia miest Slovenska, vy&scaron;&scaron;ie &uacute;zemn&eacute; celky, okresn&eacute; &uacute;rady v&nbsp;s&iacute;dle kraja, vedecko-v&yacute;skumn&eacute; pracovisk&aacute; a&nbsp;akademick&aacute; obec, V&yacute;bor pre civiln&eacute; n&uacute;dzov&eacute; pl&aacute;novanie.</div>",
+   "priloha": [
+    {
+     "nazovSk": "Formulár ŽoNFP – (tabuľka č. 7 -  Popis projektu)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "nazovSk": "Podmienka splnenia kritérií pre výber projektov",
+   "popisSk": "<div><div>Doplňuj&uacute;ce inform&aacute;cie k zneniu vylučuj&uacute;ceho krit&eacute;ria horizont&aacute;lnych princ&iacute;pov (ďalej len &bdquo;HP&ldquo;):&nbsp; &bdquo;Projekt mus&iacute; byť v s&uacute;lade s HP, ktor&eacute; s&uacute; definovan&eacute; v&nbsp;čl. 9 NSU, s prihliadnut&iacute;m na&nbsp; dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky&ldquo;.</div><div>V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m</div><div>Prostredn&iacute;ctvom krit&eacute;ri&iacute; pre v&yacute;ber projektov posudzuje Poskytovateľ s&uacute;lad predloženej ŽoNFP s podmienkami v&yacute;zvy a cieľmi P SK.</div>Poskytovateľ využ&iacute;va v&yacute;berov&eacute; krit&eacute;ri&aacute; iba v pr&iacute;pade, keď z disponibilnej alok&aacute;cie určenej na v&yacute;zvu nie je možn&eacute; podporiť v&scaron;etky ŽoNFP, ktor&eacute; splnili krit&eacute;ri&aacute; odborn&eacute;ho hod&shy;notenia. Na z&aacute;klade v&yacute;berov&yacute;ch krit&eacute;ri&iacute; poskytovateľ vyberie ŽoNFP, ktor&eacute; najefekt&iacute;vnej&scaron;&iacute;m sp&ocirc;sobom napĺňaj&uacute; hodnotu za peniaze.</div>",
+   "priloha": [
+    {
+     "nazovSk": "Formulár ŽoNFP (tabuľka č. 15 - Čestné vyhlásenie žiadateľa)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "nazovSk": "Formulár ŽoNFP – (tabuľka č. 7 -  Popis projektu)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [],
+ "miestoRealizacieFull": [
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 797,
+    "href": "/typakcieprogramu/id/797"
+   }
+  },
+  {
+   "kod": "1040512",
+   "nazovSk": "Cestovné náhrady",
+   "typAkcieProgramu": {
+    "id": 797,
+    "href": "/typakcieprogramu/id/797"
+   }
+  },
+  {
+   "kod": "1040568",
+   "nazovSk": "Ostatné finančné výdavky",
+   "typAkcieProgramu": {
+    "id": 797,
+    "href": "/typakcieprogramu/id/797"
+   }
+  },
+  {
+   "kod": "1040907",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. a) NSU",
+   "typAkcieProgramu": {
+    "id": 1078,
+    "href": "/typakcieprogramu/id/1078"
+   }
+  },
+  {
+   "kod": "1040915",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. b) NSU",
+   "nazovDe": "15 % Kancelárske, administratívne a iné nepriame výdavky",
+   "typAkcieProgramu": {
+    "id": 1078,
+    "href": "/typakcieprogramu/id/1078"
+   }
+  }
+ ],
+ "externyZdroj": [
+  {
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+   "url": "https://eurofondy.gov.sk/"
+  },
+  {
+   "nazov": "Ministerstvo vnútra Slovenskej republiky",
+   "url": "https://www.minv.sk/?vyzvy-na-predkladanie-ziadosti-o-nenavratny-financny-prispevok"
+  }
+ ],
+ "dokument": [
+  {
+   "nazov": "Prílohy k výzve.zip",
+   "uuid": "3a3fcb22-8418-48dc-abc3-d9ccdaef548d"
+  },
+  {
+   "nazov": "Vyzva_PSK-MV-001-2024-DV-EFRR.pdf",
+   "uuid": "ab34a3b2-98f6-4532-90d5-4d656c1956df"
+  }
+ ],
+ "dovodVznikuVerzie": "<div>Roz&scaron;&iacute;renie&nbsp;skupiny opr&aacute;vnen&yacute;ch v&yacute;davkov, ponechanie&nbsp;pau&scaron;&aacute;lnej sadzby na nepriame v&yacute;davky iba podľa čl. 54 p&iacute;sm. a) NSU, zos&uacute;ladenie&nbsp;textu v&nbsp;zmysle vydania Syst&eacute;mu implement&aacute;cie horizont&aacute;lnych princ&iacute;pov PO 2021 &ndash; 2027, verzia 2.0, &uacute;pravy pr&iacute;lohy č. 5 Zoznam merateľn&yacute;ch ukazovateľov projektu a&nbsp;in&yacute;ch &uacute;dajov v&nbsp;zmysle Jednotn&eacute;ho metodick&eacute;ho dokumentu tvorby merateľn&yacute;ch ukazovateľov a&nbsp;dimenzi&iacute; intervencii, verzia 2.0 ako aj precizovanie&nbsp;textu pri niektor&yacute;ch podmienkach poskytnutia pr&iacute;spevku.</div>",
+ "dalsiaSkutocnost": [
+  {
+   "kod": "DS001PSK-MV-001-2024-DV-EFRR",
+   "dalsiaSkutocnost": "<div>1.&nbsp;&nbsp;Ďal&scaron;ia skutočnosť vypl&yacute;vaj&uacute;ca z opr&aacute;vnenosti v&yacute;davkov.</div>"
+  }
+ ],
+ "dalsiaFormalnaNalezitost": [],
+ "verzia": [
+  {
+   "id": 6615,
+   "cislo": 4,
+   "datumVykonaniaZmeny": 1755122400000,
+   "dovodVznikuVerzie": "<div>Roz&scaron;&iacute;renie&nbsp;skupiny opr&aacute;vnen&yacute;ch v&yacute;davkov, ponechanie&nbsp;pau&scaron;&aacute;lnej sadzby na nepriame v&yacute;davky iba podľa čl. 54 p&iacute;sm. a) NSU, zos&uacute;ladenie&nbsp;textu v&nbsp;zmysle vydania Syst&eacute;mu implement&aacute;cie horizont&aacute;lnych princ&iacute;pov PO 2021 &ndash; 2027, verzia 2.0, &uacute;pravy pr&iacute;lohy č. 5 Zoznam merateľn&yacute;ch ukazovateľov projektu a&nbsp;in&yacute;ch &uacute;dajov v&nbsp;zmysle Jednotn&eacute;ho metodick&eacute;ho dokumentu tvorby merateľn&yacute;ch ukazovateľov a&nbsp;dimenzi&iacute; intervencii, verzia 2.0 ako aj precizovanie&nbsp;textu pri niektor&yacute;ch podmienkach poskytnutia pr&iacute;spevku.</div>"
+  },
+  {
+   "id": 5463,
+   "cislo": 1
+  },
+  {
+   "id": 5788,
+   "cislo": 2,
+   "datumVykonaniaZmeny": 1719871200000,
+   "dovodVznikuVerzie": "<div><div>Usmernen&iacute;m č. 1 k v&yacute;zve s&nbsp;k&oacute;dom PSK-MV-001-2024-DV-EFRR na predkladanie ŽoNFP (ďalej len &bdquo;Usmernenie&ldquo;) MV SR ako sprostredkovateľsk&yacute; org&aacute;n pre Program Slovensko v&nbsp;s&uacute;lade s&nbsp;ustanoven&iacute;m v&nbsp;kapitole 4 Metodick&eacute;ho usmernenia k&nbsp;pr&iacute;prave v&yacute;zvy, verzia 2.2 men&iacute; v&yacute;zvu v&nbsp;s&uacute;vislosti s&nbsp;vydan&iacute;m Vzoru Zmluvy o poskytnut&iacute; nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku, verzia 2 &ndash; korigendum, zmenou v&nbsp;elektronickom Formul&aacute;ri ŽoNFP v&nbsp;s&uacute;vislosti so spusten&iacute;m nov&eacute;ho informačn&eacute;ho syst&eacute;mu eurofondov ITMS21+ do produkčnej f&aacute;zy, ako aj ďal&scaron;&iacute;ch legislat&iacute;vnych zmien a relevantn&yacute;ch skutočnost&iacute; vypl&yacute;vaj&uacute;cich z&nbsp;doteraj&scaron;ej praxe. T&yacute;mto Usmernen&iacute;m nedoch&aacute;dza k podstatnej zmene podmienok poskytnutia pr&iacute;spevku.</div></div>"
+  },
+  {
+   "id": 6159,
+   "cislo": 3,
+   "datumVykonaniaZmeny": 1736895600000,
+   "dovodVznikuVerzie": "<div><span style=\"background-color:rgb(242, 246, 249); box-sizing:border-box; color:rgb(0, 0, 0)\">Usmernen&iacute;m č. 2&nbsp;k v&yacute;zve s&nbsp;k&oacute;dom PSK-MV-001-2024-DV-EFRR na predkladanie ŽoNFP (ďalej len &bdquo;Usmernenie&ldquo;) MV SR ako sprostredkovateľsk&yacute; org&aacute;n pre Program Slovensko v&nbsp;s&uacute;lade s&nbsp;ustanoven&iacute;m v&nbsp;kapitole 4 Metodick&eacute;ho usmernenia k&nbsp;pr&iacute;prave v&yacute;zvy, verzia 3.1 men&iacute; v&yacute;zvu v&nbsp;s&uacute;vislosti&nbsp;</span><span style=\"background-color:rgb(242, 246, 249); color:rgb(0, 0, 0)\">s&nbsp;vydan&iacute;m Usmernenia riadiaceho org&aacute;nu pre Program Slovensko k uplatňovaniu zv&yacute;&scaron;enej sadzby DPH od 1. janu&aacute;ra 2025,&nbsp;zmeny kontaktn&yacute;ch &uacute;dajov MV SR &ndash; SO pre P SK a&nbsp;zmeny &uacute;radn&yacute;ch hod&iacute;n podateľne spojen&yacute;ch so zmenou doručovacej adresy MV SR &ndash; SO pre P SK.&nbsp;</span><span style=\"background-color:rgb(242, 246, 249); box-sizing:border-box; color:rgb(0, 0, 0)\">T&yacute;mto Usmernen&iacute;m nedoch&aacute;dza k podstatnej zmene podmienok poskytnutia pr&iacute;spevku.&nbsp;</span></div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [],
+ "ukazovatelVystupovy": [
+  {
+   "id": 447,
+   "specifickyCielProgramu": {
+    "id": 52,
+    "href": "/specifickycielprogramu/id/52",
+    "kod": "401202R204",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871485
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1263,
+    "href": "/ukazovatelprojektovy/id/1263",
+    "kod": "PSKPRCO27",
+    "nazovSk": "Národné stratégie a stratégie na nižšej úrovni na adaptáciu na zmenu klímy",
+    "mernaJednotka": {
+     "id": 200098,
+     "kod": "105399",
+     "nazovSk": "stratégie",
+     "popisSk": "stratégie",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Počet n&aacute;rodn&yacute;ch strat&eacute;gi&iacute;, strat&eacute;gi&iacute; na niž&scaron;ej &uacute;rovni na adapt&aacute;ciu na zmenu kl&iacute;my (napr. na &uacute;rovni čiastkov&yacute;ch povod&iacute;), vr&aacute;tane strat&eacute;gi&iacute; vodn&eacute;ho hospod&aacute;rstva, kde existuje prepojenie na projekty financovan&eacute; P SK.</div></div></div><div style=\"clear:both\"><b>Povinnosť plnenia:</b> &aacute;no</div></div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Akčn&yacute; pl&aacute;n, Prijat&eacute; strat&eacute;gie pr&iacute;slu&scaron;n&yacute;mi org&aacute;nmi, napr. zverejnen&iacute;m na&nbsp;webov&yacute;ch str&aacute;nkach.</div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1675335882452,
+    "updatedAt": 1746005805954
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 797,
+   "href": "/typakcieprogramu/id/797",
+   "kod": "401202R20407011",
+   "nazovSk": "Identifikácia vývoja rizík, určenie spôsobov prevencie, zavádzanie postupov a opatrení na pripravenosť a reakciu na katastrofy spôsobené zmenou klímy",
+   "specifickyCielProgramu": {
+    "id": 52,
+    "href": "/specifickycielprogramu/id/52",
+    "kod": "401202R204",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871485
+   },
+   "opatrenie": {
+    "id": 89,
+    "href": "/opatrenie/id/89",
+    "kod": "401202R20407",
+    "nazovSk": "Identifikácia vývoja rizík, určenie spôsobov prevencie, zavádzanie postupov a opatrení na pripravenosť a reakciu na katastrofy spôsobené zmenou klímy",
+    "specifickyCielProgramu": {
+     "id": 52,
+     "href": "/specifickycielprogramu/id/52",
+     "kod": "401202R204",
+     "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 4,
+      "href": "/priorita/id/4",
+      "kod": "401202",
+      "nazovSk": "2P2 Životné prostredie",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867941
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540871485
+    },
+    "createdAt": 1772540871514
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516234148,
+   "updatedAt": 1772541490849
+  },
+  {
+   "id": 1078,
+   "href": "/typakcieprogramu/id/1078",
+   "kod": "401202R204070P1",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 52,
+    "href": "/specifickycielprogramu/id/52",
+    "kod": "401202R204",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871485
+   },
+   "opatrenie": {
+    "id": 89,
+    "href": "/opatrenie/id/89",
+    "kod": "401202R20407",
+    "nazovSk": "Identifikácia vývoja rizík, určenie spôsobov prevencie, zavádzanie postupov a opatrení na pripravenosť a reakciu na katastrofy spôsobené zmenou klímy",
+    "specifickyCielProgramu": {
+     "id": 52,
+     "href": "/specifickycielprogramu/id/52",
+     "kod": "401202R204",
+     "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 4,
+      "href": "/priorita/id/4",
+      "kod": "401202",
+      "nazovSk": "2P2 Životné prostredie",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867941
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540871485
+    },
+    "createdAt": 1772540871514
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516249774,
+   "updatedAt": 1772541490849
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 52,
+    "href": "/specifickycielprogramu/id/52",
+    "kod": "401202R204",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871485
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200067,
+    "kod": "10364PO058",
+    "kodZdroj": "058",
+    "nazovSk": "Opatrenia v oblasti adaptácie na zmenu klímy a predchádzanie rizikám súvisiacim s klímou a ich riadenie: povodne a zosuvy pôdy (vrátane zvyšovania povedomia, civilnej ochrany a systémov na zvládanie katastrof, infraštruktúry a ekosystémových prístupov)",
+    "nazovDe": "Maßnahmen zur Anpassung an den Klimawandel und Vorbeugung und Bewältigung klimabezogener Risiken: Hochwasser und Erdrutsche (wie etwa Sensibilisierungsmaßnahmen, Einrichtungen im Bereich Katastrophenschutz und -bewältigung, Infrastrukturanlagen sowie ökosystembasierte Ansätze)",
+    "popisSk": "Opatrenia v oblasti adaptácie na zmenu klímy a predchádzanie rizikám súvisiacim s klímou a ich riadenie: povodne a zosuvy pôdy (vrátane zvyšovania povedomia, civilnej ochrany a systémov na zvládanie katastrof, infraštruktúry a ekosystémových prístupov)",
+    "popisDe": "Maßnahmen zur Anpassung an den Klimawandel und Vorbeugung und Bewältigung klimabezogener Risiken: Hochwasser und Erdrutsche (wie etwa Sensibilisierungsmaßnahmen, Einrichtungen im Bereich Katastrophenschutz und -bewältigung, Infrastrukturanlagen sowie ökosystembasierte Ansätze)",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 52,
+    "href": "/specifickycielprogramu/id/52",
+    "kod": "401202R204",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871485
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200068,
+    "kod": "10364PO059",
+    "kodZdroj": "059",
+    "nazovSk": "Opatrenia v oblasti adaptácie na zmenu klímy a predchádzanie rizikám súvisiacim s klímou a ich riadenie: požiare (vrátane zvyšovania povedomia, civilnej ochrany a systémov na zvládanie katastrof, infraštruktúry a ekosystémových prístupov)",
+    "nazovDe": "Maßnahmen zur Anpassung an den Klimawandel und Vorbeugung und Bewältigung klimabezogener Risiken: Brände (wie etwa Sensibilisierungsmaßnahmen, Einrichtungen im Bereich Katastrophenschutz und -bewältigung, Infrastrukturanlagen sowie ökosystembasierte Ansätze)",
+    "popisSk": "Opatrenia v oblasti adaptácie na zmenu klímy a predchádzanie rizikám súvisiacim s klímou a ich riadenie: požiare (vrátane zvyšovania povedomia, civilnej ochrany a systémov na zvládanie katastrof, infraštruktúry a ekosystémových prístupov)",
+    "popisDe": "Maßnahmen zur Anpassung an den Klimawandel und Vorbeugung und Bewältigung klimabezogener Risiken: Brände (wie etwa Sensibilisierungsmaßnahmen, Einrichtungen im Bereich Katastrophenschutz und -bewältigung, Infrastrukturanlagen sowie ökosystembasierte Ansätze)",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 52,
+    "href": "/specifickycielprogramu/id/52",
+    "kod": "401202R204",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871485
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200069,
+    "kod": "10364PO060",
+    "kodZdroj": "060",
+    "nazovSk": "Opatrenia v oblasti adaptácie na zmenu klímy a predchádzanie rizikám súvisiacim s klímou a ich riadenie: iné, napr. búrky a suchá (vrátane zvyšovania povedomia, civilnej ochrany a systémov na zvládanie katastrof, infraštruktúry a ekosystémových prístupov)",
+    "nazovDe": "Maßnahmen zur Anpassung an den Klimawandel und Vorbeugung und Bewältigung klimabezogener Risiken: andere, z. B. Stürme und Dürren (wie etwa Sensibilisierungsmaßnahmen, Einrichtungen im Bereich Katastrophenschutz und -bewältigung, Infrastrukturanlagen sowie ökosystembasierte Ansätze)",
+    "popisSk": "Opatrenia v oblasti adaptácie na zmenu klímy a predchádzanie rizikám súvisiacim s klímou a ich riadenie: iné, napr. búrky a suchá (vrátane zvyšovania povedomia, civilnej ochrany a systémov na zvládanie katastrof, infraštruktúry a ekosystémových prístupov)",
+    "popisDe": "Maßnahmen zur Anpassung an den Klimawandel und Vorbeugung und Bewältigung klimabezogener Risiken: andere, z. B. Stürme und Dürren (wie etwa Sensibilisierungsmaßnahmen, Einrichtungen im Bereich Katastrophenschutz und -bewältigung, Infrastrukturanlagen sowie ökosystembasierte Ansätze)",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 52,
+    "href": "/specifickycielprogramu/id/52",
+    "kod": "401202R204",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871485
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200070,
+    "kod": "10364PO061",
+    "kodZdroj": "061",
+    "nazovSk": "Predchádzanie rizikám a riadenie prírodných rizík nesúvisiacich s klímou (napríklad zemetrasenia) a rizík súvisiacich s ľudskou činnosťou (napríklad technologické havárie) vrátane zvyšovania povedomia, civilnej ochrany a systémov na zvládanie katastrof, infraštruktúry a ekosystémových prístupov",
+    "nazovDe": "Vorbeugung und Bewältigung von nicht mit dem Klima verbundenen naturbedingten Risiken (z. B. Erdbeben) und mit menschlichen Tätigkeiten verbundenen Risiken (z. B. technisch bedingte Unfälle), wie etwa Sensibilisierungsmaßnahmen, Einrichtungen im Bereich Katastrophenschutz und -bewältigung, Infrastrukturanlagen sowie ökosystembasierte Ansätze",
+    "popisSk": "Predchádzanie rizikám a riadenie prírodných rizík nesúvisiacich s klímou (napríklad zemetrasenia) a rizík súvisiacich s ľudskou činnosťou (napríklad technologické havárie) vrátane zvyšovania povedomia, civilnej ochrany a systémov na zvládanie katastrof, infraštruktúry a ekosystémových prístupov",
+    "popisDe": "Vorbeugung und Bewältigung von nicht mit dem Klima verbundenen naturbedingten Risiken (z. B. Erdbeben) und mit menschlichen Tätigkeiten verbundenen Risiken (z. B. technisch bedingte Unfälle), wie etwa Sensibilisierungsmaßnahmen, Einrichtungen im Bereich Katastrophenschutz und -bewältigung, Infrastrukturanlagen sowie ökosystembasierte Ansätze",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 52,
+    "href": "/specifickycielprogramu/id/52",
+    "kod": "401202R204",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871485
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 52,
+    "href": "/specifickycielprogramu/id/52",
+    "kod": "401202R204",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871485
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 52,
+    "href": "/specifickycielprogramu/id/52",
+    "kod": "401202R204",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871485
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200024,
+    "kod": "10384PO24",
+    "kodZdroj": "24",
+    "nazovSk": "Činnosti súvisiace so životným prostredím",
+    "nazovEn": "Činnosti súvisiace so životným prostredím",
+    "nazovDe": "Wirtschaftstätigkeiten im Zusammenhang mit Umwelt",
+    "popisSk": "Činnosti súvisiace so životným prostredím",
+    "popisDe": "Wirtschaftstätigkeiten im Zusammenhang mit Umwelt",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 52,
+    "href": "/specifickycielprogramu/id/52",
+    "kod": "401202R204",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871485
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 52,
+    "href": "/specifickycielprogramu/id/52",
+    "kod": "401202R204",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871485
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200003,
+    "kod": "12094PO04",
+    "kodZdroj": "04",
+    "nazovSk": "Stratégia pre región Dunaja",
+    "nazovEn": "Stratégia pre región Dunaja",
+    "nazovDe": "Strategie für den Donauraum",
+    "popisSk": "Stratégia pre región Dunaja",
+    "popisDe": "Strategie für den Donauraum",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 1,
+   "kod": "1033MRR",
+   "kodZdroj": "MRR",
+   "nazovSk": "Menej rozvinutý región",
+   "nazovEn": "less-developed regions",
+   "popisSk": "Menej rozvinutý región",
+   "popisEn": "less-developed regions",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [
+  {
+   "datumZverejnenia": 1719871200000,
+   "nazov": "Zverejnenie verzie výzvy",
+   "text": "<div><div>Usmernen&iacute;m č. 1 k v&yacute;zve s&nbsp;k&oacute;dom PSK-MV-001-2024-DV-EFRR na predkladanie ŽoNFP (ďalej len &bdquo;Usmernenie&ldquo;) MV SR ako sprostredkovateľsk&yacute; org&aacute;n pre Program Slovensko v&nbsp;s&uacute;lade s&nbsp;ustanoven&iacute;m v&nbsp;kapitole 4 Metodick&eacute;ho usmernenia k&nbsp;pr&iacute;prave v&yacute;zvy, verzia 2.2 men&iacute; v&yacute;zvu v&nbsp;s&uacute;vislosti s&nbsp;vydan&iacute;m Vzoru Zmluvy o poskytnut&iacute; nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku, verzia 2 &ndash; korigendum, zmenou v&nbsp;elektronickom Formul&aacute;ri ŽoNFP v&nbsp;s&uacute;vislosti so spusten&iacute;m nov&eacute;ho informačn&eacute;ho syst&eacute;mu eurofondov ITMS21+ do produkčnej f&aacute;zy, ako aj ďal&scaron;&iacute;ch legislat&iacute;vnych zmien a relevantn&yacute;ch skutočnost&iacute; vypl&yacute;vaj&uacute;cich z&nbsp;doteraj&scaron;ej praxe. T&yacute;mto Usmernen&iacute;m nedoch&aacute;dza k podstatnej zmene podmienok poskytnutia pr&iacute;spevku.</div></div>",
+   "dokument": []
+  },
+  {
+   "datumZverejnenia": 1736895600000,
+   "nazov": "Zverejnenie verzie výzvy",
+   "text": "<div><span style=\"background-color:rgb(242, 246, 249); box-sizing:border-box; color:rgb(0, 0, 0)\">Usmernen&iacute;m č. 2&nbsp;k v&yacute;zve s&nbsp;k&oacute;dom PSK-MV-001-2024-DV-EFRR na predkladanie ŽoNFP (ďalej len &bdquo;Usmernenie&ldquo;) MV SR ako sprostredkovateľsk&yacute; org&aacute;n pre Program Slovensko v&nbsp;s&uacute;lade s&nbsp;ustanoven&iacute;m v&nbsp;kapitole 4 Metodick&eacute;ho usmernenia k&nbsp;pr&iacute;prave v&yacute;zvy, verzia 3.1 men&iacute; v&yacute;zvu v&nbsp;s&uacute;vislosti&nbsp;</span><span style=\"background-color:rgb(242, 246, 249); color:rgb(0, 0, 0)\">s&nbsp;vydan&iacute;m Usmernenia riadiaceho org&aacute;nu pre Program Slovensko k uplatňovaniu zv&yacute;&scaron;enej sadzby DPH od 1. janu&aacute;ra 2025,&nbsp;zmeny kontaktn&yacute;ch &uacute;dajov MV SR &ndash; SO pre P SK a&nbsp;zmeny &uacute;radn&yacute;ch hod&iacute;n podateľne spojen&yacute;ch so zmenou doručovacej adresy MV SR &ndash; SO pre P SK.&nbsp;</span><span style=\"background-color:rgb(242, 246, 249); box-sizing:border-box; color:rgb(0, 0, 0)\">T&yacute;mto Usmernen&iacute;m nedoch&aacute;dza k podstatnej zmene podmienok poskytnutia pr&iacute;spevku.&nbsp;</span></div>",
+   "dokument": []
+  },
+  {
+   "datumZverejnenia": 1755122400000,
+   "nazov": "Zverejnenie verzie výzvy",
+   "text": "<div>Roz&scaron;&iacute;renie&nbsp;skupiny opr&aacute;vnen&yacute;ch v&yacute;davkov, ponechanie&nbsp;pau&scaron;&aacute;lnej sadzby na nepriame v&yacute;davky iba podľa čl. 54 p&iacute;sm. a) NSU, zos&uacute;ladenie&nbsp;textu v&nbsp;zmysle vydania Syst&eacute;mu implement&aacute;cie horizont&aacute;lnych princ&iacute;pov PO 2021 &ndash; 2027, verzia 2.0, &uacute;pravy pr&iacute;lohy č. 5 Zoznam merateľn&yacute;ch ukazovateľov projektu a&nbsp;in&yacute;ch &uacute;dajov v&nbsp;zmysle Jednotn&eacute;ho metodick&eacute;ho dokumentu tvorby merateľn&yacute;ch ukazovateľov a&nbsp;dimenzi&iacute; intervencii, verzia 2.0 ako aj precizovanie&nbsp;textu pri niektor&yacute;ch podmienkach poskytnutia pr&iacute;spevku.</div>",
+   "dokument": []
+  }
+ ],
+ "projektovyZamerIUS": []
+}

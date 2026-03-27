@@ -1,0 +1,1774 @@
+{
+ "id": 3531,
+ "href": "/vyzva/id/3531",
+ "kod": "PSK-SIEA-006-2024-DV-FST",
+ "nazovSk": "Výzva na podporu energetickej efektívnosti verejných budov regiónu hornej Nitry",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 9,
+   "href": "/specifickycielprogramu/id/9",
+   "kod": "401801J801",
+   "nazovSk": "JSO8.1 Umožnenie regiónom a ľuďom riešiť dôsledky v sociálnej, hospodárskej a environmentálnej oblasti, ako aj v oblasti zamestnanosti spôsobené transformáciou smerom k energetickým a klimatickým cieľom Únie na rok 2030 a k dosiahnutiu cieľa klimaticky neutrálneho hospodárstva Únie do roku 2050 na základe Parížskej dohody (FST)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 20,
+    "href": "/priorita/id/20",
+    "kod": "401801",
+    "nazovSk": "8P1 Fond na spravodlivú transformáciu",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867944
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 9,
+    "kod": "1032FST",
+    "kodZdroj": "FST",
+    "nazovSk": "Fond na spravodlivú transformáciu",
+    "nazovEn": "Just Transition Fund",
+    "nazovDe": "Fonds für einen gerechten Übergang",
+    "popisSk": "Fond na spravodlivú transformáciu",
+    "popisEn": "Just Transition Fund",
+    "popisDe": "Fonds für einen gerechten Übergang",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870937
+  }
+ ],
+ "opatrenie": [
+  {
+   "id": 13,
+   "href": "/opatrenie/id/13",
+   "kod": "401801J80121",
+   "nazovSk": "Podpora čistej energie",
+   "specifickyCielProgramu": {
+    "id": 9,
+    "href": "/specifickycielprogramu/id/9",
+    "kod": "401801J801",
+    "nazovSk": "JSO8.1 Umožnenie regiónom a ľuďom riešiť dôsledky v sociálnej, hospodárskej a environmentálnej oblasti, ako aj v oblasti zamestnanosti spôsobené transformáciou smerom k energetickým a klimatickým cieľom Únie na rok 2030 a k dosiahnutiu cieľa klimaticky neutrálneho hospodárstva Únie do roku 2050 na základe Parížskej dohody (FST)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 20,
+     "href": "/priorita/id/20",
+     "kod": "401801",
+     "nazovSk": "8P1 Fond na spravodlivú transformáciu",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867944
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 9,
+     "kod": "1032FST",
+     "kodZdroj": "FST",
+     "nazovSk": "Fond na spravodlivú transformáciu",
+     "nazovEn": "Just Transition Fund",
+     "nazovDe": "Fonds für einen gerechten Übergang",
+     "popisSk": "Fond na spravodlivú transformáciu",
+     "popisEn": "Just Transition Fund",
+     "popisDe": "Fonds für einen gerechten Übergang",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870937
+   },
+   "createdAt": 1772540870961
+  }
+ ],
+ "miestoRealizacie": [
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 42,
+   "kod": "1009321",
+   "kodZdroj": "321",
+   "nazovSk": "Rozpočtová organizácia",
+   "nazovEn": "Budgetary organization",
+   "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+   "popisEn": "Budgetary organization Budgetary organization",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 43,
+   "kod": "1009331",
+   "kodZdroj": "331",
+   "nazovSk": "Príspevková organizácia",
+   "nazovEn": "Organization based on state contributions",
+   "popisSk": "Príspevková organizácia Príspevková organizácia",
+   "popisEn": "Org.based on contrib. Organization based on state contributions",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 92,
+   "kod": "1009801",
+   "kodZdroj": "801",
+   "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+   "nazovEn": "Municipality (municipal office)",
+   "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+   "popisEn": "Municipality Municipality (municipal office)",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 94,
+   "kod": "1009803",
+   "kodZdroj": "803",
+   "nazovSk": "Samosprávny kraj (úrad samosprávneho kraja)",
+   "nazovEn": "Office of local government (regional level)",
+   "popisSk": "Samosprávny kraj Samosprávny kraj (úrad samosprávneho kraja)",
+   "popisEn": "Office of local governm. Office of local government (regional level)",
+   "platnostOd": 1007161200000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1728856800000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 377,
+  "kod": "21_SO_PSK_SIEA",
+  "nazov": "Sprostredkovateľský orgán PSK - Slovenská inovačná a energetická agentúra",
+  "subjekt": {
+   "id": 100005,
+   "href": "/subjekt/id/100005",
+   "nazov": "Slovenská inovačná a energetická agentúra",
+   "ico": "00002801",
+   "dic": "2020877749",
+   "icz": "1000106184",
+   "platitelDph": true,
+   "podlaParagrafu": "§4",
+   "icDph": "SK2020877749",
+   "pravnaForma": {
+    "id": 43,
+    "kod": "1009331",
+    "kodZdroj": "331",
+    "nazovSk": "Príspevková organizácia",
+    "nazovEn": "Organization based on state contributions",
+    "popisSk": "Príspevková organizácia Príspevková organizácia",
+    "popisEn": "Org.based on contrib. Organization based on state contributions",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Bajkalská",
+    "cislo": "1467/27",
+    "psc": "82799",
+    "obec": "Bratislava - mestská časť Ružinov",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "OTVORENA",
+ "zameranieProjektu": "DOPYT_21",
+ "createdAt": 1721201696142,
+ "updatedAt": 1770646957333,
+ "sumaEu": 26384894.0,
+ "sumaSr": 4656157.76,
+ "predvyber": false,
+ "posudzovaneObdobie": [],
+ "pocetPredlozenychZiadosti": 19,
+ "pocetSchvalenychZiadosti": 9,
+ "pocetZiadostiVKonani": 2,
+ "pocetNeschvalenychZiadosti": 8,
+ "pocetRealizovanychProjektov": 8,
+ "planovanaVyzva": [
+  {
+   "id": 4,
+   "href": "/planovanavyzva/id/4",
+   "kod": "2024/00004",
+   "nazovSk": "Výzva na podporu energetickej efektívnosti verejných budov regiónu hornej Nitry",
+   "programSkratka": "PSK",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 9,
+     "href": "/specifickycielprogramu/id/9"
+    }
+   ],
+   "opatrenie": [
+    {
+     "id": 13,
+     "href": "/opatrenie/id/13"
+    }
+   ],
+   "miestoRealizacie": [
+    {
+     "id": 11,
+     "kod": "1006SK022",
+     "kodZdroj": "SK022",
+     "nazovSk": "Trenčiansky kraj",
+     "nazovEn": "Region of Trenčín",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [
+    {
+     "id": 42,
+     "kod": "1009321",
+     "kodZdroj": "321",
+     "nazovSk": "Rozpočtová organizácia",
+     "nazovEn": "Budgetary organization",
+     "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+     "popisEn": "Budgetary organization Budgetary organization",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 43,
+     "kod": "1009331",
+     "kodZdroj": "331",
+     "nazovSk": "Príspevková organizácia",
+     "nazovEn": "Organization based on state contributions",
+     "popisSk": "Príspevková organizácia Príspevková organizácia",
+     "popisEn": "Org.based on contrib. Organization based on state contributions",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 92,
+     "kod": "1009801",
+     "kodZdroj": "801",
+     "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+     "nazovEn": "Municipality (municipal office)",
+     "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+     "popisEn": "Municipality Municipality (municipal office)",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 94,
+     "kod": "1009803",
+     "kodZdroj": "803",
+     "nazovSk": "Samosprávny kraj (úrad samosprávneho kraja)",
+     "nazovEn": "Office of local government (regional level)",
+     "popisSk": "Samosprávny kraj Samosprávny kraj (úrad samosprávneho kraja)",
+     "popisEn": "Office of local governm. Office of local government (regional level)",
+     "platnostOd": 1007161200000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "datumVyhlasenia1Kolo": 1719784800000,
+   "sumaEu": 15828201.0,
+   "druh": "VYZVA_21",
+   "vyhlasena": true,
+   "zrusena": false,
+   "zameranieProjektu": "DOPYT_21",
+   "vyhlasovatel": {
+    "id": 377
+   },
+   "poskytovatel": {
+    "id": 376
+   },
+   "createdAt": 1718709862556,
+   "updatedAt": 1721024977318
+  }
+ ],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 9,
+   "kod": "1032FST",
+   "kodZdroj": "FST",
+   "nazovSk": "Fond na spravodlivú transformáciu",
+   "nazovEn": "Just Transition Fund",
+   "nazovDe": "Fonds für einen gerechten Übergang",
+   "popisSk": "Fond na spravodlivú transformáciu",
+   "popisEn": "Just Transition Fund",
+   "popisDe": "Fonds für einen gerechten Übergang",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "cielVyzvy": "<div>Cieľom v&yacute;zvy je zlep&scaron;ovanie energetickej efekt&iacute;vnosti verejn&yacute;ch budov regi&oacute;nu hornej Nitry.</div>",
+ "sposobFinancovania": [
+  "PREDFINANCOVANIE",
+  "REFUNDACIA"
+ ],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktNazov": "Slovenská inovačná a energetická agentúra",
+ "kontaktEmail": "office@siea.gov.sk",
+ "kontaktTelefon": "02/58 248 111",
+ "kontaktnaOsoba": [
+  {
+   "osoba": {
+    "titulPred": "Ing.",
+    "meno": "Zuzana",
+    "priezvisko": "Murínová",
+    "titulZa": "",
+    "menoUplne": "Ing. Zuzana Murínová"
+   },
+   "telefon": "02/58248451",
+   "email": "zuzana.murinova@siea.gov.sk"
+  },
+  {
+   "osoba": {
+    "titulPred": "Ing.",
+    "meno": "Martina",
+    "priezvisko": "Andelová",
+    "titulZa": "",
+    "menoUplne": "Ing. Martina Andelová"
+   },
+   "telefon": "0258248451",
+   "email": "martina.andelova@siea.gov.sk"
+  }
+ ],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "Podmienka zákazu vedenia výkonu rozhodnutia voči žiadateľovi",
+   "popisSk": "<div><div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "Podmienka, že žiadateľ má schválený program rozvoja a príslušnú územnoplánovaciu dokumentáciu",
+   "popisSk": "<div>&nbsp;</div><div style=\"clear:both\"><div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Uznesenie (výpis z uznesenia) o schválení programu rozvoja a príslušnej územnoplánovacej dokumentácie",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 7,
+   "nazovSk": "Podmienka, že projekt je realizovaný na oprávnenom území",
+   "popisSk": "<div><div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 11,
+   "nazovSk": "Časová oprávnenosť realizácie projektu",
+   "popisSk": "<div><div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 9,
+   "nazovSk": "Podmienky týkajúce sa štátnej pomoci",
+   "popisSk": "<div><div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Dokumentácia k oprávnenosti výdavkov",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "Právna forma",
+   "popisSk": "<div><span style=\"background-color:rgb(242, 246, 249); color:rgb(0, 0, 0)\">Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</span></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Dokumenty preukazujúce právnu subjektivitu žiadateľa (ak relevantné)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "UDAJE_Z_RPO"
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Plnomocenstvo / Poverenie (ak relevantné)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 5,
+   "nazovSk": "Podmienka oprávnenosti aktivít projektu",
+   "popisSk": "<div><div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Dokumentácia k oprávnenosti výdavkov",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Energetický certifikát (ak relevantné)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Projektová dokumentácia",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 6,
+   "nazovSk": "Podmienky splnenia kritérií pre výber projektov",
+   "popisSk": "<div><div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Dokumentácia k oprávnenosti výdavkov",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Projektová dokumentácia",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 8,
+   "nazovSk": "Podmienka mať vysporiadané majetkovo-právne vzťahy",
+   "popisSk": "<div><div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Dokumentácia k oprávnenosti výdavkov",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 10,
+   "nazovSk": "Podmienka oprávnenosti výdavkov projektu",
+   "popisSk": "<div><div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Dokumentácia k oprávnenosti výdavkov",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Projektová dokumentácia",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "Podmienka, ze žiadateľ nie je evidovaný v EDES ako vylúčená osoba alebo subjekt (v zmysle článku 137 nariadenia č. 2024/2509)",
+   "popisSk": "<div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [],
+ "miestoRealizacieFull": [
+  {
+   "id": 37,
+   "kod": "1006SK0225",
+   "kodZdroj": "SK0225",
+   "nazovSk": "Partizánske",
+   "nazovEn": "Partizánske",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 39,
+   "kod": "1006SK0227",
+   "kodZdroj": "SK0227",
+   "nazovSk": "Prievidza",
+   "nazovEn": "Prievidza",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 185,
+    "href": "/typakcieprogramu/id/185"
+   }
+  },
+  {
+   "kod": "1040021",
+   "nazovSk": "Stavby",
+   "typAkcieProgramu": {
+    "id": 185,
+    "href": "/typakcieprogramu/id/185"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 185,
+    "href": "/typakcieprogramu/id/185"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 185,
+    "href": "/typakcieprogramu/id/185"
+   }
+  }
+ ],
+ "externyZdroj": [
+  {
+   "nazov": "Zverejnená výzva",
+   "url": "https://eurofondy.gov.sk/vyzvy/vyzvy-programu-slovensko/"
+  }
+ ],
+ "dokument": [
+  {
+   "nazov": "PSK-SIEA-006-2024-DV-FST_fin_zmena_c_2_bez_SZ.zip",
+   "uuid": "cf23caed-f70a-4a9a-ae68-a49cc875a515"
+  },
+  {
+   "nazov": "Vyzva_FST__v.14-10-2024.7z",
+   "uuid": "f2f675a6-8de2-46a1-85c7-4073d363f215"
+  },
+  {
+   "nazov": "Výzva PSK-SIEA-006-2024-DV-FST",
+   "uuid": "fa4fcdbe-085a-497b-96f5-a04441f3cc03"
+  },
+  {
+   "nazov": "Výzva PSK-SIEA-006-2024-DV-FST_v znení zmeny č. 1.zip",
+   "uuid": "4397f99e-f8db-4dab-9c7e-3cffc65cae6f"
+  },
+  {
+   "nazov": "Zmena_vyzvy_c_2.docx",
+   "uuid": "26f24cf9-4371-42f2-862f-d2c441344dc0"
+  },
+  {
+   "nazov": "Zmluva_o_NFP.7z",
+   "uuid": "bc6ab3a3-121d-4449-9927-68c8825bd912"
+  }
+ ],
+ "dovodVznikuVerzie": "<div><div>Cieľom zmeny č. 2 v&yacute;zvy na predkladanie žiadost&iacute; o poskytnutie nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku s k&oacute;dom PSK- PSK-SIEA-006-2024-DV-FST je:</div><ul><li>&uacute;prava v&yacute;&scaron;ky finančn&yacute;ch prostriedkov určen&yacute;ch na vyčerpanie vo v&yacute;zve (zdroj E&Uacute;)</li><li>dodefinovanie podmienok poskytnutia pr&iacute;spevku (ďalej aj &bdquo;PPP&ldquo;) a zos&uacute;ladenie so vzorom Manu&aacute;lu proced&uacute;r RO, verzia 6, Pr&iacute;loha č. 7 vzoru audit trailu V&yacute;ber projektov, Podmienky poskytnutia pr&iacute;spevku a ďal&scaron;ie skutočnosti</li><li>&uacute;prava popisu ďal&scaron;&iacute;ch skutočnost&iacute; t&yacute;kaj&uacute;cich sa poskytovania pr&iacute;spevku</li><li>&uacute;prava pr&iacute;lohy č. 1v&yacute;zvy Formul&aacute;r ŽoNFP v&nbsp;nadv&auml;znosti na do&scaron;pecifikovanie PPP</li><li>&uacute;prava pr&iacute;lohy č. 2 v&yacute;zvy Zoznam pr&iacute;loh ŽoNFP v&nbsp;nadv&auml;znosti na potrebu zos&uacute;ladenia so vzorom Manu&aacute;lu proced&uacute;r RO, verzia 6, Pr&iacute;loha č. 7 vzoru audit trailu V&yacute;ber projektov, Podmienky poskytnutia pr&iacute;spevku a ďal&scaron;ie skutočnosti</li><li>dodefinovanie Pr&iacute;lohy č. 5 v&yacute;zvy Zoznam merateľn&yacute;ch ukazovateľov a in&yacute;ch &uacute;dajov v&nbsp;nadv&auml;znosti na potrebu doplnenia in&yacute;ch &uacute;dajov</li><li>&uacute;prava Pr&iacute;lohy č. 8 v&yacute;zvy Z&aacute;sada &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; a Pr&iacute;lohy č. 8a - S&uacute;lad s požiadavkami v oblasti vplyvu n&aacute;vrhu pl&aacute;nu, programu alebo projektu na &uacute;zemia patriace do eur&oacute;pskej s&uacute;stavy chr&aacute;nen&yacute;ch &uacute;zem&iacute; Natura 2000 v&nbsp;nadv&auml;znosti na aktualiz&aacute;ciu Metodick&eacute;ho usmernenia RO č. 7 - Usmernenie k uplatňovaniu z&aacute;sady &bdquo;Nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo;, verzia 1.5</li></ul></div>",
+ "dalsiaSkutocnost": [],
+ "dalsiaFormalnaNalezitost": [],
+ "verzia": [
+  {
+   "id": 7027,
+   "cislo": 2,
+   "datumVykonaniaZmeny": 1770591600000,
+   "dovodVznikuVerzie": "<div><div>Cieľom zmeny č. 2 v&yacute;zvy na predkladanie žiadost&iacute; o poskytnutie nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku s k&oacute;dom PSK- PSK-SIEA-006-2024-DV-FST je:</div><ul><li>&uacute;prava v&yacute;&scaron;ky finančn&yacute;ch prostriedkov určen&yacute;ch na vyčerpanie vo v&yacute;zve (zdroj E&Uacute;)</li><li>dodefinovanie podmienok poskytnutia pr&iacute;spevku (ďalej aj &bdquo;PPP&ldquo;) a zos&uacute;ladenie so vzorom Manu&aacute;lu proced&uacute;r RO, verzia 6, Pr&iacute;loha č. 7 vzoru audit trailu V&yacute;ber projektov, Podmienky poskytnutia pr&iacute;spevku a ďal&scaron;ie skutočnosti</li><li>&uacute;prava popisu ďal&scaron;&iacute;ch skutočnost&iacute; t&yacute;kaj&uacute;cich sa poskytovania pr&iacute;spevku</li><li>&uacute;prava pr&iacute;lohy č. 1v&yacute;zvy Formul&aacute;r ŽoNFP v&nbsp;nadv&auml;znosti na do&scaron;pecifikovanie PPP</li><li>&uacute;prava pr&iacute;lohy č. 2 v&yacute;zvy Zoznam pr&iacute;loh ŽoNFP v&nbsp;nadv&auml;znosti na potrebu zos&uacute;ladenia so vzorom Manu&aacute;lu proced&uacute;r RO, verzia 6, Pr&iacute;loha č. 7 vzoru audit trailu V&yacute;ber projektov, Podmienky poskytnutia pr&iacute;spevku a ďal&scaron;ie skutočnosti</li><li>dodefinovanie Pr&iacute;lohy č. 5 v&yacute;zvy Zoznam merateľn&yacute;ch ukazovateľov a in&yacute;ch &uacute;dajov v&nbsp;nadv&auml;znosti na potrebu doplnenia in&yacute;ch &uacute;dajov</li><li>&uacute;prava Pr&iacute;lohy č. 8 v&yacute;zvy Z&aacute;sada &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; a Pr&iacute;lohy č. 8a - S&uacute;lad s požiadavkami v oblasti vplyvu n&aacute;vrhu pl&aacute;nu, programu alebo projektu na &uacute;zemia patriace do eur&oacute;pskej s&uacute;stavy chr&aacute;nen&yacute;ch &uacute;zem&iacute; Natura 2000 v&nbsp;nadv&auml;znosti na aktualiz&aacute;ciu Metodick&eacute;ho usmernenia RO č. 7 - Usmernenie k uplatňovaniu z&aacute;sady &bdquo;Nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo;, verzia 1.5</li></ul></div>"
+  },
+  {
+   "id": 5807,
+   "cislo": 1,
+   "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [
+  {
+   "id": 868,
+   "specifickyCielProgramu": {
+    "id": 9,
+    "href": "/specifickycielprogramu/id/9",
+    "kod": "401801J801",
+    "nazovSk": "JSO8.1 Umožnenie regiónom a ľuďom riešiť dôsledky v sociálnej, hospodárskej a environmentálnej oblasti, ako aj v oblasti zamestnanosti spôsobené transformáciou smerom k energetickým a klimatickým cieľom Únie na rok 2030 a k dosiahnutiu cieľa klimaticky neutrálneho hospodárstva Únie do roku 2050 na základe Parížskej dohody (FST)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 20,
+     "href": "/priorita/id/20",
+     "kod": "401801",
+     "nazovSk": "8P1 Fond na spravodlivú transformáciu",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867944
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 9,
+     "kod": "1032FST",
+     "kodZdroj": "FST",
+     "nazovSk": "Fond na spravodlivú transformáciu",
+     "nazovEn": "Just Transition Fund",
+     "nazovDe": "Fonds für einen gerechten Übergang",
+     "popisSk": "Fond na spravodlivú transformáciu",
+     "popisEn": "Just Transition Fund",
+     "popisDe": "Fonds für einen gerechten Übergang",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870937
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1219,
+    "href": "/ukazovatelprojektovy/id/1219",
+    "kod": "PSKPRCR26b",
+    "nazovSk": "Ročná primárna spotreba energie: verejné budovy",
+    "mernaJednotka": {
+     "id": 32,
+     "kod": "105332",
+     "nazovSk": "MWh/rok",
+     "nazovEn": "MWh/rok",
+     "popisSk": "MWh/rok",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Celkov&aacute; ročn&aacute; spotreba prim&aacute;rnej energie: verejn&eacute; budovy (V&yacute;chodiskov&aacute; hodnota)</div>V&yacute;chodiskov&aacute; hodnota sa t&yacute;ka ročnej spotreby prim&aacute;rnej energie pred intervenciou.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Energetick&yacute; certifik&aacute;t v s&uacute;lade so smernicou 2010/31/E&Uacute; pred realiz&aacute;ciou projektu.</div><div>Ak je predmetom projektu viacero budov hodnota vyjadruje s&uacute;čet spotreby prim&aacute;rnej energie jednotliv&yacute;ch budov. Upozorňujeme na rozdielnosť mernej jednotky v EC a MU.</div><div><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Celkov&aacute; ročn&aacute; spotreba prim&aacute;rnej energie: verejn&eacute; budovy (Dosiahnut&aacute; hodnota)</div>Dosiahnut&aacute; hodnota sa t&yacute;ka ročnej spotreby prim&aacute;rnej energie za rok po intervencii.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Energetick&yacute; certifik&aacute;t v s&uacute;lade so smernicou 2010/31/E&Uacute; po realiz&aacute;cii projektu</div><div>Ak je predmetom projektu viacero budov hodnota vyjadruje s&uacute;čet spotreby prim&aacute;rnej energie jednotliv&yacute;ch budov. Upozorňujeme na rozdielnosť mernej jednotky v EC a MU.</div><div><div><b>3.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Verejn&eacute; budovy s&uacute; definovan&eacute; ako budovy vo vlastn&iacute;ctve verejn&yacute;ch org&aacute;nov a budovy vo vlastn&iacute;ctve neziskovej organiz&aacute;cie za predpokladu, že tieto org&aacute;ny sleduj&uacute; ciele v&scaron;eobecn&eacute;ho z&aacute;ujmu, ak&yacute;mi s&uacute; vzdel&aacute;vanie, zdravie, životn&eacute; prostredie a doprava.&nbsp; Medzi pr&iacute;klady patria budovy pre verejn&uacute; spr&aacute;vu, &scaron;koly, nemocnice atď.</div>Pre &uacute;čely tohto MU je defin&iacute;cia verejn&yacute;ch budov zhodn&aacute; s defin&iacute;ciou verejn&yacute;ch budov ustanovenou v definičnej matici v bode 2 MU PO037 / PSKPRCO19.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>List vlastn&iacute;ctva</div></div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1673945908328,
+    "updatedAt": 1733913822149
+   }
+  }
+ ],
+ "ukazovatelVystupovy": [
+  {
+   "id": 867,
+   "specifickyCielProgramu": {
+    "id": 9,
+    "href": "/specifickycielprogramu/id/9",
+    "kod": "401801J801",
+    "nazovSk": "JSO8.1 Umožnenie regiónom a ľuďom riešiť dôsledky v sociálnej, hospodárskej a environmentálnej oblasti, ako aj v oblasti zamestnanosti spôsobené transformáciou smerom k energetickým a klimatickým cieľom Únie na rok 2030 a k dosiahnutiu cieľa klimaticky neutrálneho hospodárstva Únie do roku 2050 na základe Parížskej dohody (FST)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 20,
+     "href": "/priorita/id/20",
+     "kod": "401801",
+     "nazovSk": "8P1 Fond na spravodlivú transformáciu",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867944
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 9,
+     "kod": "1032FST",
+     "kodZdroj": "FST",
+     "nazovSk": "Fond na spravodlivú transformáciu",
+     "nazovEn": "Just Transition Fund",
+     "nazovDe": "Fonds für einen gerechten Übergang",
+     "popisSk": "Fond na spravodlivú transformáciu",
+     "popisEn": "Just Transition Fund",
+     "popisDe": "Fonds für einen gerechten Übergang",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870937
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1232,
+    "href": "/ukazovatelprojektovy/id/1232",
+    "kod": "PSKPRCO19",
+    "nazovSk": "Verejné budovy so zlepšenou energetickou hospodárnosťou",
+    "mernaJednotka": {
+     "id": 18,
+     "kod": "105318",
+     "nazovSk": "m2",
+     "nazovEn": "m2",
+     "popisSk": "m2",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Celkov&aacute; podlahov&aacute; plocha verejn&yacute;ch budov so zlep&scaron;enou energetickou hospod&aacute;rnosťou.</div></div></div></div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div><div>Energetick&yacute; certifik&aacute;t v s&uacute;lade so smernicou 2010/31/E&Uacute; po realiz&aacute;cii projektu.</div><div>Ak je predmetom projektu viacero budov hodnota vyjadruje s&uacute;čet celkovej podlahovej plochy jednotliv&yacute;ch budov so zlep&scaron;enou energetickou hospod&aacute;rnosťou.</div></div></div><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Verejn&eacute; budovy s&uacute; definovan&eacute; ako budovy vo vlastn&iacute;ctve org&aacute;nov verejnej moci a budovy vo vlastn&iacute;ctve neziskovej organiz&aacute;cie.&nbsp; Neziskov&aacute; organiz&aacute;cia je pr&aacute;vnick&aacute; osoba organizovan&aacute; a prev&aacute;dzkovan&aacute; za &uacute;čelom kolekt&iacute;vneho, verejn&eacute;ho alebo soci&aacute;lneho prospechu, na rozdiel od subjektu, ktor&yacute; funguje ako podnikateľsk&aacute; činnosť zameran&aacute; na vytv&aacute;ranie zisku pre svojich vlastn&iacute;kov.&nbsp; Medzi pr&iacute;klady patria budovy pre verejn&uacute; spr&aacute;vu, &scaron;koly, nemocnice atď.</div><div>Ukazovateľ sa nevzťahuje na</div><ul><li>soci&aacute;lne b&yacute;vanie (ako je uveden&eacute; v&nbsp;RCO18),</li><li>s&uacute;kromn&eacute; &scaron;koly alebo s&uacute;kromn&eacute; nemocnice, ktor&eacute; s&uacute; vo vlastn&iacute;ctve s&uacute;kromn&yacute;ch investorov.</li></ul></div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div><div>List vlastn&iacute;ctva</div><div><div><b>3.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Zlep&scaron;enou energetickou hospod&aacute;rnosťou sa rozumie zlep&scaron;enie energetickej klasifik&aacute;cie verejnej budovy najmenej o jednu energetick&uacute; triedu a m&aacute; sa dokumentovať na z&aacute;klade energetick&eacute;ho certifik&aacute;tu (EC).&nbsp; Stanoven&aacute; energetick&aacute; klasifik&aacute;cia zodpoved&aacute; defin&iacute;cii v n&aacute;rodnom energetickom certifik&aacute;te v s&uacute;lade so smernicou 2010/31/E&Uacute;.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Energetick&yacute; certifik&aacute;t v s&uacute;lade so smernicou 2010/31/E&Uacute; pred a po realiz&aacute;cii projektu.</div></div></div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1673949623153,
+    "updatedAt": 1733913348205
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 905,
+   "href": "/typakcieprogramu/id/905",
+   "kod": "401801J801210P0",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 9,
+    "href": "/specifickycielprogramu/id/9",
+    "kod": "401801J801",
+    "nazovSk": "JSO8.1 Umožnenie regiónom a ľuďom riešiť dôsledky v sociálnej, hospodárskej a environmentálnej oblasti, ako aj v oblasti zamestnanosti spôsobené transformáciou smerom k energetickým a klimatickým cieľom Únie na rok 2030 a k dosiahnutiu cieľa klimaticky neutrálneho hospodárstva Únie do roku 2050 na základe Parížskej dohody (FST)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 20,
+     "href": "/priorita/id/20",
+     "kod": "401801",
+     "nazovSk": "8P1 Fond na spravodlivú transformáciu",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867944
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 9,
+     "kod": "1032FST",
+     "kodZdroj": "FST",
+     "nazovSk": "Fond na spravodlivú transformáciu",
+     "nazovEn": "Just Transition Fund",
+     "nazovDe": "Fonds für einen gerechten Übergang",
+     "popisSk": "Fond na spravodlivú transformáciu",
+     "popisEn": "Just Transition Fund",
+     "popisDe": "Fonds für einen gerechten Übergang",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870937
+   },
+   "opatrenie": {
+    "id": 13,
+    "href": "/opatrenie/id/13",
+    "kod": "401801J80121",
+    "nazovSk": "Podpora čistej energie",
+    "specifickyCielProgramu": {
+     "id": 9,
+     "href": "/specifickycielprogramu/id/9",
+     "kod": "401801J801",
+     "nazovSk": "JSO8.1 Umožnenie regiónom a ľuďom riešiť dôsledky v sociálnej, hospodárskej a environmentálnej oblasti, ako aj v oblasti zamestnanosti spôsobené transformáciou smerom k energetickým a klimatickým cieľom Únie na rok 2030 a k dosiahnutiu cieľa klimaticky neutrálneho hospodárstva Únie do roku 2050 na základe Parížskej dohody (FST)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 20,
+      "href": "/priorita/id/20",
+      "kod": "401801",
+      "nazovSk": "8P1 Fond na spravodlivú transformáciu",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867944
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 200000,
+       "kod": "1033N/A",
+       "kodZdroj": "N/A",
+       "nazovSk": "Bez kategórie regiónu",
+       "popisSk": "Bez kategórie regiónu",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540870937
+    },
+    "createdAt": 1772540870961
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516236815,
+   "updatedAt": 1772541490840
+  },
+  {
+   "id": 185,
+   "href": "/typakcieprogramu/id/185",
+   "kod": "401801J80121020",
+   "nazovSk": "Zvýšenie energetickej efektívnosti verejných budov, vrátane podpory inteligentných opatrení a inovatívnych riešení",
+   "specifickyCielProgramu": {
+    "id": 9,
+    "href": "/specifickycielprogramu/id/9",
+    "kod": "401801J801",
+    "nazovSk": "JSO8.1 Umožnenie regiónom a ľuďom riešiť dôsledky v sociálnej, hospodárskej a environmentálnej oblasti, ako aj v oblasti zamestnanosti spôsobené transformáciou smerom k energetickým a klimatickým cieľom Únie na rok 2030 a k dosiahnutiu cieľa klimaticky neutrálneho hospodárstva Únie do roku 2050 na základe Parížskej dohody (FST)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 20,
+     "href": "/priorita/id/20",
+     "kod": "401801",
+     "nazovSk": "8P1 Fond na spravodlivú transformáciu",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867944
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 9,
+     "kod": "1032FST",
+     "kodZdroj": "FST",
+     "nazovSk": "Fond na spravodlivú transformáciu",
+     "nazovEn": "Just Transition Fund",
+     "nazovDe": "Fonds für einen gerechten Übergang",
+     "popisSk": "Fond na spravodlivú transformáciu",
+     "popisEn": "Just Transition Fund",
+     "popisDe": "Fonds für einen gerechten Übergang",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870937
+   },
+   "opatrenie": {
+    "id": 13,
+    "href": "/opatrenie/id/13",
+    "kod": "401801J80121",
+    "nazovSk": "Podpora čistej energie",
+    "specifickyCielProgramu": {
+     "id": 9,
+     "href": "/specifickycielprogramu/id/9",
+     "kod": "401801J801",
+     "nazovSk": "JSO8.1 Umožnenie regiónom a ľuďom riešiť dôsledky v sociálnej, hospodárskej a environmentálnej oblasti, ako aj v oblasti zamestnanosti spôsobené transformáciou smerom k energetickým a klimatickým cieľom Únie na rok 2030 a k dosiahnutiu cieľa klimaticky neutrálneho hospodárstva Únie do roku 2050 na základe Parížskej dohody (FST)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 20,
+      "href": "/priorita/id/20",
+      "kod": "401801",
+      "nazovSk": "8P1 Fond na spravodlivú transformáciu",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867944
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 200000,
+       "kod": "1033N/A",
+       "kodZdroj": "N/A",
+       "nazovSk": "Bez kategórie regiónu",
+       "popisSk": "Bez kategórie regiónu",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540870937
+    },
+    "createdAt": 1772540870961
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516228154,
+   "updatedAt": 1772541490840
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 9,
+    "href": "/specifickycielprogramu/id/9",
+    "kod": "401801J801",
+    "nazovSk": "JSO8.1 Umožnenie regiónom a ľuďom riešiť dôsledky v sociálnej, hospodárskej a environmentálnej oblasti, ako aj v oblasti zamestnanosti spôsobené transformáciou smerom k energetickým a klimatickým cieľom Únie na rok 2030 a k dosiahnutiu cieľa klimaticky neutrálneho hospodárstva Únie do roku 2050 na základe Parížskej dohody (FST)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 20,
+     "href": "/priorita/id/20",
+     "kod": "401801",
+     "nazovSk": "8P1 Fond na spravodlivú transformáciu",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867944
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 9,
+     "kod": "1032FST",
+     "kodZdroj": "FST",
+     "nazovSk": "Fond na spravodlivú transformáciu",
+     "nazovEn": "Just Transition Fund",
+     "nazovDe": "Fonds für einen gerechten Übergang",
+     "popisSk": "Fond na spravodlivú transformáciu",
+     "popisEn": "Just Transition Fund",
+     "popisDe": "Fonds für einen gerechten Übergang",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870937
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200054,
+    "kod": "10364PO045",
+    "kodZdroj": "045",
+    "nazovSk": "Obnova zameraná na energetickú efektívnosť alebo opatrenia zamerané na energetickú efektívnosť verejnej infraštruktúry, demonštračné projekty a podporné opatrenia v súlade s kritériami energetickej efektívnosti",
+    "nazovEn": "Obnova zameraná na energetickú efektívnosť alebo opatrenia zamerané na energetickú efektívnosť verejnej infraštruktúry, demonštračné projekty a podporné opatrenia v súlade s kritériami energetickej efektívnosti",
+    "nazovDe": "Energieeffiziente Renovierung oder Energieeffizienzmaßnahmen in Bezug auf öffentliche Infrastrukturanlagen, Demonstrationsvorhaben und Begleitmaßnahmen im Einklang mit Energieeffizienzkriterien",
+    "popisSk": "Obnova zameraná na energetickú efektívnosť alebo opatrenia zamerané na energetickú efektívnosť verejnej infraštruktúry, demonštračné projekty a podporné opatrenia v súlade s kritériami energetickej efektívnosti ",
+    "popisDe": "Energieeffiziente Renovierung oder Energieeffizienzmaßnahmen in Bezug auf öffentliche Infrastrukturanlagen, Demonstrationsvorhaben und Begleitmaßnahmen im Einklang mit Energieeffizienzkriterien",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 9,
+    "href": "/specifickycielprogramu/id/9",
+    "kod": "401801J801",
+    "nazovSk": "JSO8.1 Umožnenie regiónom a ľuďom riešiť dôsledky v sociálnej, hospodárskej a environmentálnej oblasti, ako aj v oblasti zamestnanosti spôsobené transformáciou smerom k energetickým a klimatickým cieľom Únie na rok 2030 a k dosiahnutiu cieľa klimaticky neutrálneho hospodárstva Únie do roku 2050 na základe Parížskej dohody (FST)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 20,
+     "href": "/priorita/id/20",
+     "kod": "401801",
+     "nazovSk": "8P1 Fond na spravodlivú transformáciu",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867944
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 9,
+     "kod": "1032FST",
+     "kodZdroj": "FST",
+     "nazovSk": "Fond na spravodlivú transformáciu",
+     "nazovEn": "Just Transition Fund",
+     "nazovDe": "Fonds für einen gerechten Übergang",
+     "popisSk": "Fond na spravodlivú transformáciu",
+     "popisEn": "Just Transition Fund",
+     "popisDe": "Fonds für einen gerechten Übergang",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870937
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 9,
+    "href": "/specifickycielprogramu/id/9",
+    "kod": "401801J801",
+    "nazovSk": "JSO8.1 Umožnenie regiónom a ľuďom riešiť dôsledky v sociálnej, hospodárskej a environmentálnej oblasti, ako aj v oblasti zamestnanosti spôsobené transformáciou smerom k energetickým a klimatickým cieľom Únie na rok 2030 a k dosiahnutiu cieľa klimaticky neutrálneho hospodárstva Únie do roku 2050 na základe Parížskej dohody (FST)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 20,
+     "href": "/priorita/id/20",
+     "kod": "401801",
+     "nazovSk": "8P1 Fond na spravodlivú transformáciu",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867944
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 9,
+     "kod": "1032FST",
+     "kodZdroj": "FST",
+     "nazovSk": "Fond na spravodlivú transformáciu",
+     "nazovEn": "Just Transition Fund",
+     "nazovDe": "Fonds für einen gerechten Übergang",
+     "popisSk": "Fond na spravodlivú transformáciu",
+     "popisEn": "Just Transition Fund",
+     "popisDe": "Fonds für einen gerechten Übergang",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870937
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 9,
+    "href": "/specifickycielprogramu/id/9",
+    "kod": "401801J801",
+    "nazovSk": "JSO8.1 Umožnenie regiónom a ľuďom riešiť dôsledky v sociálnej, hospodárskej a environmentálnej oblasti, ako aj v oblasti zamestnanosti spôsobené transformáciou smerom k energetickým a klimatickým cieľom Únie na rok 2030 a k dosiahnutiu cieľa klimaticky neutrálneho hospodárstva Únie do roku 2050 na základe Parížskej dohody (FST)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 20,
+     "href": "/priorita/id/20",
+     "kod": "401801",
+     "nazovSk": "8P1 Fond na spravodlivú transformáciu",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867944
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 9,
+     "kod": "1032FST",
+     "kodZdroj": "FST",
+     "nazovSk": "Fond na spravodlivú transformáciu",
+     "nazovEn": "Just Transition Fund",
+     "nazovDe": "Fonds für einen gerechten Übergang",
+     "popisSk": "Fond na spravodlivú transformáciu",
+     "popisEn": "Just Transition Fund",
+     "popisDe": "Fonds für einen gerechten Übergang",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870937
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200024,
+    "kod": "10384PO24",
+    "kodZdroj": "24",
+    "nazovSk": "Činnosti súvisiace so životným prostredím",
+    "nazovEn": "Činnosti súvisiace so životným prostredím",
+    "nazovDe": "Wirtschaftstätigkeiten im Zusammenhang mit Umwelt",
+    "popisSk": "Činnosti súvisiace so životným prostredím",
+    "popisDe": "Wirtschaftstätigkeiten im Zusammenhang mit Umwelt",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 9,
+    "href": "/specifickycielprogramu/id/9",
+    "kod": "401801J801",
+    "nazovSk": "JSO8.1 Umožnenie regiónom a ľuďom riešiť dôsledky v sociálnej, hospodárskej a environmentálnej oblasti, ako aj v oblasti zamestnanosti spôsobené transformáciou smerom k energetickým a klimatickým cieľom Únie na rok 2030 a k dosiahnutiu cieľa klimaticky neutrálneho hospodárstva Únie do roku 2050 na základe Parížskej dohody (FST)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 20,
+     "href": "/priorita/id/20",
+     "kod": "401801",
+     "nazovSk": "8P1 Fond na spravodlivú transformáciu",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867944
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 9,
+     "kod": "1032FST",
+     "kodZdroj": "FST",
+     "nazovSk": "Fond na spravodlivú transformáciu",
+     "nazovEn": "Just Transition Fund",
+     "nazovDe": "Fonds für einen gerechten Übergang",
+     "popisSk": "Fond na spravodlivú transformáciu",
+     "popisEn": "Just Transition Fund",
+     "popisDe": "Fonds für einen gerechten Übergang",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870937
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 9,
+    "href": "/specifickycielprogramu/id/9",
+    "kod": "401801J801",
+    "nazovSk": "JSO8.1 Umožnenie regiónom a ľuďom riešiť dôsledky v sociálnej, hospodárskej a environmentálnej oblasti, ako aj v oblasti zamestnanosti spôsobené transformáciou smerom k energetickým a klimatickým cieľom Únie na rok 2030 a k dosiahnutiu cieľa klimaticky neutrálneho hospodárstva Únie do roku 2050 na základe Parížskej dohody (FST)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 20,
+     "href": "/priorita/id/20",
+     "kod": "401801",
+     "nazovSk": "8P1 Fond na spravodlivú transformáciu",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867944
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 9,
+     "kod": "1032FST",
+     "kodZdroj": "FST",
+     "nazovSk": "Fond na spravodlivú transformáciu",
+     "nazovEn": "Just Transition Fund",
+     "nazovDe": "Fonds für einen gerechten Übergang",
+     "popisSk": "Fond na spravodlivú transformáciu",
+     "popisEn": "Just Transition Fund",
+     "popisDe": "Fonds für einen gerechten Übergang",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870937
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200010,
+    "kod": "12094PO11",
+    "kodZdroj": "11",
+    "nazovSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovEn": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "popisSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "popisDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 200000,
+   "kod": "1033N/A",
+   "kodZdroj": "N/A",
+   "nazovSk": "Bez kategórie regiónu",
+   "popisSk": "Bez kategórie regiónu",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [
+  {
+   "datumZverejnenia": 1770591600000,
+   "nazov": "Zverejnenie verzie výzvy",
+   "text": "<div><div>Cieľom zmeny č. 2 v&yacute;zvy na predkladanie žiadost&iacute; o poskytnutie nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku s k&oacute;dom PSK- PSK-SIEA-006-2024-DV-FST je:</div><ul><li>&uacute;prava v&yacute;&scaron;ky finančn&yacute;ch prostriedkov určen&yacute;ch na vyčerpanie vo v&yacute;zve (zdroj E&Uacute;)</li><li>dodefinovanie podmienok poskytnutia pr&iacute;spevku (ďalej aj &bdquo;PPP&ldquo;) a zos&uacute;ladenie so vzorom Manu&aacute;lu proced&uacute;r RO, verzia 6, Pr&iacute;loha č. 7 vzoru audit trailu V&yacute;ber projektov, Podmienky poskytnutia pr&iacute;spevku a ďal&scaron;ie skutočnosti</li><li>&uacute;prava popisu ďal&scaron;&iacute;ch skutočnost&iacute; t&yacute;kaj&uacute;cich sa poskytovania pr&iacute;spevku</li><li>&uacute;prava pr&iacute;lohy č. 1v&yacute;zvy Formul&aacute;r ŽoNFP v&nbsp;nadv&auml;znosti na do&scaron;pecifikovanie PPP</li><li>&uacute;prava pr&iacute;lohy č. 2 v&yacute;zvy Zoznam pr&iacute;loh ŽoNFP v&nbsp;nadv&auml;znosti na potrebu zos&uacute;ladenia so vzorom Manu&aacute;lu proced&uacute;r RO, verzia 6, Pr&iacute;loha č. 7 vzoru audit trailu V&yacute;ber projektov, Podmienky poskytnutia pr&iacute;spevku a ďal&scaron;ie skutočnosti</li><li>dodefinovanie Pr&iacute;lohy č. 5 v&yacute;zvy Zoznam merateľn&yacute;ch ukazovateľov a in&yacute;ch &uacute;dajov v&nbsp;nadv&auml;znosti na potrebu doplnenia in&yacute;ch &uacute;dajov</li><li>&uacute;prava Pr&iacute;lohy č. 8 v&yacute;zvy Z&aacute;sada &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; a Pr&iacute;lohy č. 8a - S&uacute;lad s požiadavkami v oblasti vplyvu n&aacute;vrhu pl&aacute;nu, programu alebo projektu na &uacute;zemia patriace do eur&oacute;pskej s&uacute;stavy chr&aacute;nen&yacute;ch &uacute;zem&iacute; Natura 2000 v&nbsp;nadv&auml;znosti na aktualiz&aacute;ciu Metodick&eacute;ho usmernenia RO č. 7 - Usmernenie k uplatňovaniu z&aacute;sady &bdquo;Nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo;, verzia 1.5</li></ul></div>",
+   "dokument": []
+  }
+ ],
+ "projektovyZamerIUS": []
+}

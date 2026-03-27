@@ -1,0 +1,2458 @@
+{
+ "id": 3366,
+ "href": "/vyzva/id/3366",
+ "kod": "PSK-MD-004-2024-FA-EFRR",
+ "nazovSk": "DPMP Trolejbusy-2F a DPMK MUZ-2F",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 2,
+   "href": "/specifickycielprogramu/id/2",
+   "kod": "401203R208",
+   "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 5,
+    "href": "/priorita/id/5",
+    "kod": "401203",
+    "nazovSk": "2P3 Udržateľná mestská mobilita",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867942
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868316
+  }
+ ],
+ "opatrenie": [
+  {
+   "id": 5,
+   "href": "/opatrenie/id/5",
+   "kod": "401203R20801",
+   "nazovSk": "Rozvoj verejnej dopravy",
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "createdAt": 1772540868324
+  }
+ ],
+ "miestoRealizacie": [
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 22,
+   "kod": "1009121",
+   "kodZdroj": "121",
+   "nazovSk": "Akciová spoločnosť",
+   "nazovEn": "Joint stock company",
+   "popisSk": "Akc. spol. Akciová spoločnosť",
+   "popisEn": "Joint stock company Joint stock company",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1715896800000,
+ "datumUkoncenia": 1869688800000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 382,
+  "kod": "21_SO_PSK_MDSR",
+  "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo dopravy SR",
+  "subjekt": {
+   "id": 100008,
+   "href": "/subjekt/id/100008",
+   "nazov": "Ministerstvo dopravy Slovenskej republiky",
+   "ico": "30416094",
+   "dic": "2020799209",
+   "platitelDph": true,
+   "podlaParagrafu": "§7a",
+   "icDph": "SK2020799209",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Námestie slobody",
+    "cislo": "2902/6",
+    "psc": "81005",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "UZAVRETA",
+ "zameranieProjektu": "NP_21",
+ "createdAt": 1714994342047,
+ "updatedAt": 1720527258087,
+ "sumaEu": 14972320.72,
+ "sumaSr": 1761449.5,
+ "predvyber": false,
+ "posudzovaneObdobie": [],
+ "pocetPredlozenychZiadosti": 3,
+ "pocetSchvalenychZiadosti": 2,
+ "pocetZiadostiVKonani": 0,
+ "pocetNeschvalenychZiadosti": 1,
+ "pocetRealizovanychProjektov": 1,
+ "planovanaVyzva": [],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 6,
+   "kod": "1032EFRR",
+   "kodZdroj": "EFRR",
+   "nazovSk": "Európsky fond regionálneho rozvoja",
+   "nazovEn": "European Regional Development Fund",
+   "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+   "popisSk": "Európsky fond regionálneho rozvoja",
+   "popisEn": "European Regional Development Fund",
+   "popisDe": "Europäischen Fonds für regionale Entwicklung",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "sposobFinancovania": [],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktnaOsoba": [
+  {
+   "osoba": {
+    "titulPred": "Ing.",
+    "meno": "Gabriel",
+    "priezvisko": "Čech",
+    "titulZa": "",
+    "menoUplne": "Ing. Gabriel Čech"
+   },
+   "telefon": "02/59494746",
+   "email": "gabriel.cech@mindop.sk"
+  },
+  {
+   "osoba": {
+    "titulPred": "Ing.",
+    "meno": "Peter",
+    "priezvisko": "Špalek",
+    "titulZa": "",
+    "menoUplne": "Ing. Peter Špalek"
+   },
+   "telefon": "02/59494308",
+   "email": "peter.spalek@mindop.sk"
+  }
+ ],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "Právna forma žiadateľa",
+   "popisSk": "<div><div>V r&aacute;mci tejto v&yacute;zvy je opr&aacute;vnen&yacute;m žiadateľom:</div><div><b>Dopravn&yacute; podnik mesta Pre&scaron;ov a. s. a </b></div><div><b>Dopravn&yacute; podnik mesta Ko&scaron;ice a. s.</b></div><div>Z&aacute;roveň osoba konaj&uacute;ca v&nbsp;mene opr&aacute;vnen&eacute;ho žiadateľa, ak je odli&scaron;n&aacute; od &scaron;tatut&aacute;rneho org&aacute;nu žiadateľa, mus&iacute; byť riadne splnomocnen&aacute; na v&yacute;kon predmetn&yacute;ch &uacute;konov.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div><b>Formul&aacute;r ŽoNFP </b>&ndash; časť 1. Identifik&aacute;cia žiadateľa</div><div><b>Pr&iacute;loha ŽoNFP<a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-009-2024-FA-EFRR/PSK-MD-009-2024-FA-EFRR.docx#_ftn1\" name=\"_ftnref1\" title=\"\"><b>[1]</b></a> </b>(ak relevantn&eacute;):</div><div><b>Splnomocnenie osoby konaj&uacute;cej v&nbsp;mene žiadateľa</b> na zastupovanie žiadateľa v&nbsp;konan&iacute; o&nbsp;žiadosti<a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-009-2024-FA-EFRR/PSK-MD-009-2024-FA-EFRR.docx#_ftn2\" name=\"_ftnref2\" title=\"\"><sup><sup>[2]</sup></sup></a> (ak relevantn&eacute;)</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div><b>ITMS </b>(resp. &uacute;daje evidovan&eacute; v informačn&yacute;ch syst&eacute;moch verejnej spr&aacute;vy (<a href=\"https://rpo.statistics.sk/\">https://rpo.statistics.sk</a> /<a href=\"https://oversi.gov.sk/\">https://oversi.gov.sk</a>))</div><div>Integračn&aacute; akcia &bdquo;Z&iacute;skanie V&yacute;pisu z&nbsp;Obchodn&eacute;ho registra SR&ldquo;</div><div style=\"margin-left:-2.0pt\"><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div>Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne do skončenia doby udržateľnosti projektu.<div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-009-2024-FA-EFRR/PSK-MD-009-2024-FA-EFRR.docx#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Pr&iacute;loha č. 1 Formul&aacute;r ŽoNFP popis.</div></div><div id=\"ftn2\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-009-2024-FA-EFRR/PSK-MD-009-2024-FA-EFRR.docx#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> Žiadateľ predklad&aacute; t&uacute;to pr&iacute;lohu iba v&nbsp;pr&iacute;pade, ak osoba konaj&uacute;ca v mene žiadateľa je odli&scaron;n&aacute; od &scaron;tatut&aacute;rneho org&aacute;nu žiadateľa. T&aacute;to osoba mus&iacute; byť riadne splnomocnen&aacute; na zastupovanie žiadateľa v&nbsp;konan&iacute; o&nbsp;žiadosti. T&uacute;to pr&iacute;lohu predklad&aacute; žiadateľ <u>vždy v&nbsp;každej ŽoNFP a</u> nie je možn&eacute; ju nahradiť čestn&yacute;m vyhl&aacute;sen&iacute;m o&nbsp;predložen&iacute; tejto pr&iacute;lohy v&nbsp;niektorej zo skor&scaron;&iacute;ch ŽoNFP.</div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Prílohy definované RO/SO",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "Podmienka oprávnenosti aktivít projektu",
+   "popisSk": "<div><div>V r&aacute;mci opatrenia <b>2.8.1 Rozvoj verejnej dopravy</b> s&uacute; pre t&uacute;to v&yacute;zvu opr&aacute;vnen&eacute; nasledovn&eacute; <b><u>typy akci&iacute;</u></b>:</div><ul><li><b>obnova a moderniz&aacute;cia mobiln&yacute;ch prostriedkov dr&aacute;hovej MHD a vozidiel zabezpečuj&uacute;cich MHD a pr&iacute;mestsk&uacute; dopravu (autobusy na alternat&iacute;vny pohon vr&aacute;tane s&uacute;visiacej plniacej a nab&iacute;jacej infra&scaron;trukt&uacute;ry);</b></li><li><b>vybudovanie a moderniz&aacute;cia technickej z&aacute;kladne na spr&aacute;vu vozidiel MHD.</b></li></ul><div><b><u>Opr&aacute;vnen&eacute; hlavn&eacute; aktivity projektu</u></b>:</div><ul><li><b>n&aacute;kup trolejbusov </b>&ndash; opr&aacute;vnen&aacute; aktivita pre Dopravn&yacute; podnik mesta Pre&scaron;ov, a.s.<b>,</b></li><li><b>moderniz&aacute;cia &uacute;držbovej z&aacute;kladne </b>&ndash; opr&aacute;vnen&aacute; aktivita pre Dopravn&yacute; podnik mesta Ko&scaron;ice, a.s<b>.</b></li></ul><div>V&yacute;stupy/v&yacute;sledky, ktor&eacute; maj&uacute; byť dosiahnut&eacute; realiz&aacute;ciou aktiv&iacute;t projektu, musia byť kvantifikovan&eacute; prostredn&iacute;ctvom merateľn&yacute;ch ukazovateľov definovan&yacute;ch v dokumente <i>Zoznam merateľn&yacute;ch ukazovateľov projektu a in&yacute;ch &uacute;dajov</i>, ktor&yacute; tvor&iacute; <b>pr&iacute;lohu č. 4</b> v&yacute;zvy.</div><div>Z&aacute;roveň s&uacute; pre žiadateľa opr&aacute;vnen&eacute; aj <b>podporn&eacute; aktivity projektu</b> (riadenie projektu, informovanie a&nbsp;publicita).</div><div><b>Žiadateľ nesmie ukončiť fyzick&uacute; realiz&aacute;ciu hlavnej aktivity projektu, t. j. plne zrealizovať hlavn&uacute; aktivitu projektu, pred predložen&iacute;m ŽoNFP poskytovateľovi.</b></div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div><b>Formul&aacute;r ŽoNFP (najm&auml; časť 7.,&nbsp;9. 10., 11.)&nbsp;</b>vr&aacute;tane pr&iacute;loh:</div><div><b>Podporn&aacute; dokument&aacute;cia k opr&aacute;vnenosti v&yacute;davkov</b> &ndash; <b>pr&iacute;loha č. 5b</b></div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div><b>Formul&aacute;r ŽoNFP </b>vr&aacute;tane pr&iacute;loh</div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div>Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne do skončenia doby udržateľnosti projektu.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Prílohy definované RO/SO",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "Podmienka miesta realizácie projektu",
+   "popisSk": "<div><div>Opr&aacute;vnen&yacute;m miestom realiz&aacute;cie projektu s&uacute; kraje NUTS 3:</div><ul><li>Ko&scaron;ick&yacute; kraj,</li><li>Pre&scaron;ovsk&yacute; kraj</li></ul><div>Pre pos&uacute;denie splnenia tejto podmienky je rozhoduj&uacute;ce <b>miesto realiz&aacute;cie projektu</b>, nie s&iacute;dlo žiadateľa.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>Formul&aacute;r ŽoNFP</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div>Formul&aacute;r ŽoNFP</div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div>Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne do skončenia doby udržateľnosti projektu.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "Dodržiavanie zásady „nespôsobovať významnú škodu“ (DNSH)",
+   "popisSk": "<div><div>Prij&iacute;mateľ pred schv&aacute;len&iacute;m projektu mus&iacute; spĺňať požiadavky definovan&eacute; v <b>pr&iacute;lohe č. 3</b> v&yacute;zvy - Podmienky pre zabezpečenie s&uacute;ladu projektu so z&aacute;sadou &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo;.</div><div>V&nbsp;r&aacute;mci konania o&nbsp;ŽoNFP sa v&nbsp;r&aacute;mci DNSH sk&uacute;ma aj plnenie požiadaviek v oblasti posudzovania vplyvov na životn&eacute; prostredie podľa z&aacute;kona č. 24/2006 Z. z. &nbsp;o posudzovan&iacute; vplyvov na životn&eacute; prostredie. Projekt, ktor&yacute; je predmetom ŽoNFP, mus&iacute; byť v s&uacute;lade s požiadavkami v oblasti posudzovania vplyvov navrhovanej činnosti, najm&auml; so z&aacute;konom o posudzovan&iacute; vplyvov.</div><div>V&nbsp;r&aacute;mci DNSH je potrebn&eacute;&nbsp; preuk&aacute;zať aj skutočnosť, že projekt, ktor&yacute; je predmetom ŽoNFP pravdepodobne nebude mať v&yacute;znamn&yacute; nepriazniv&yacute; vplyv na &uacute;zemia s&uacute;stavy Natura 2000.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>V&nbsp;pr&iacute;lohe č. 3 v&yacute;zvy</div><div><b>V&nbsp;pr&iacute;pade f&aacute;zovan&eacute;ho projektu, u&nbsp;ktor&eacute;ho nedo&scaron;lo k&nbsp;zmen&aacute;m &ndash; Pr&iacute;loha č. 7 v&yacute;zvy - </b></div><div><b>Čestn&eacute; vyhl&aacute;senie žiadateľa</b>, že od posudzovania projektu predložen&eacute;ho v programovom obdob&iacute; 2014 &ndash; 2020 nedo&scaron;lo k žiadnym zmen&aacute;m, ktor&eacute; by ak&yacute;mkoľvek negat&iacute;vnym sp&ocirc;sobom vpl&yacute;vali na splnenie podmienok opr&aacute;vnenosti z hľadiska <b>plnenia požiadaviek v oblasti posudzovania vplyvov na životn&eacute; prostredie</b> a z hľadiska preuk&aacute;zania s&uacute;ladu s požiadavkami v oblasti dopadu pl&aacute;nov a projektov na <b>&uacute;zemia s&uacute;stavy NATURA 2000.</b></div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div>V&nbsp;pr&iacute;lohe č. 3 v&yacute;zvy</div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div>PPP je potrebn&eacute; plniť do skončenia konania o žiadosti s v&yacute;nimkou krit&eacute;ri&iacute; uveden&yacute;ch v pr&iacute;lohe č. 3 v&yacute;zvy, ktor&eacute; je potrebn&eacute; plniť kontinu&aacute;lne počas realiz&aacute;cie projektu a/alebo obdobia&nbsp; jeho udržateľnosti.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Prílohy definované RO/SO",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 5,
+   "nazovSk": "Podmienka splnenia kritérií pre výber projektov",
+   "popisSk": "<div><div>Žiadosť o NFP mus&iacute; spĺňať hodnotiace krit&eacute;ri&aacute; uveden&eacute; v&nbsp;<b>pr&iacute;lohe č. 2 </b>v&yacute;zvy, inak SO rozhodne o neschv&aacute;len&iacute; ŽoNFP.</div><div>Doplňuj&uacute;ce inform&aacute;cie k zneniu vylučuj&uacute;ceho krit&eacute;ria HP:</div><div>Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach, s prihliadnut&iacute;m na dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky.</div><div>V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a predch&aacute;dzať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby, ako aj sk&uacute;senosti rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť dostupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre obyvateľov s obmedzenou mobilitou a senzorickou orient&aacute;ciou, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><ol><li><b>Formul&aacute;r ŽoNFP</b> (časť 7. Popis projektu/7.2. Sp&ocirc;sob realiz&aacute;cie aktiv&iacute;t projektu &nbsp;a časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa)</li><li><b>Pr&iacute;lohy</b> <b>ŽoNFP</b>&nbsp; vr&aacute;tane pr&iacute;lohy &quot;<b>Checklist - vyhl&aacute;senie o bezbari&eacute;rovej pr&iacute;stupnosti</b>&quot; &ndash; pr&iacute;loha č. 8a a&nbsp;8b v&yacute;zvy:</li></ol><ul><li>žiadateľ predklad&aacute; &bdquo;Checklist - vyhl&aacute;senie o bezbari&eacute;rovej pr&iacute;stupnosti&quot; podľa relevancie aktiv&iacute;t projektu pre prostriedky alebo pre infra&scaron;trukt&uacute;ru VOD</li></ul><div>Časť 15. Formul&aacute;ru ŽoNFP:</div><div>&nbsp;- vyhl&aacute;senie žiadateľa, že dva roky pred predložen&iacute;m ŽoNFP nepremiestnil prev&aacute;dzkareň, v ktorej sa m&aacute; uskutočniť počiatočn&aacute; invest&iacute;cia, na ktor&uacute; sa žiada NFP, a že tak neurob&iacute; do dvoch rokov od dokončenia počiatočnej invest&iacute;cie, na ktor&uacute; sa NFP žiada (podľa čl&aacute;nku 14, odsek 16 v&scaron;eobecn&eacute;ho nariadenia o skupinov&yacute;ch v&yacute;nimk&aacute;ch) (ak relevantn&eacute;).&quot;.</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><ol><li><b>Formul&aacute;r ŽoNFP</b> (časť 7. Popis projektu/7.2. Sp&ocirc;sob realiz&aacute;cie aktiv&iacute;t projektu a časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa)</li><li><b>Pr&iacute;lohy</b> <b>ŽoNFP</b>&nbsp; vr&aacute;tane pr&iacute;lohy &quot;<b>Checklist - vyhl&aacute;senie o bezbari&eacute;rovej pr&iacute;stupnosti</b>&quot; a Čestn&eacute;ho vyhl&aacute;senia žiadateľa v kap. 15 formul&aacute;ru ŽoNFP k nepremiestneniu prev&aacute;dzkarne (ak relevantn&eacute;).</li></ol><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div>PPP mus&iacute; trvať (byť naplnen&aacute;) kontinu&aacute;lne od jej prv&eacute;ho overenia (v konan&iacute; o žiadosti) a je potrebn&eacute; ju plniť počas cel&eacute;ho obdobia realiz&aacute;cie projektu, ako aj počas obdobia udržateľnosti projektu.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Prílohy definované RO/SO",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 6,
+   "nazovSk": "Podmienka, že žiadateľ nie je evidovaný v Systéme včasného odhaľovania rizika a vylúčenia (EDES) ako vylúčená osoba alebo subjekt (v zmysle článku 135 nariadenia č. 2018/1046).",
+   "popisSk": "<div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>Nevyžaduje sa</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div><b>Syst&eacute;m včasn&eacute;ho odhaľovania rizika&nbsp;a vyl&uacute;čen&yacute;ch subjektov </b>(<a href=\"https://ec.europa.eu/budget/edes/index_en.cfm\">https://ec.europa.eu/budget/edes/index_en.cfm</a>)</div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div>Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne do skončenia doby udržateľnosti projektu.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 7,
+   "nazovSk": "Podmienka, že žiadateľ, ktorým je právnická osoba, nemá právoplatným rozsudkom uložený trest zákazu prijímať dotácie alebo subvencie,",
+   "popisSk": "<div><b>Podmienka, že žiadateľ, ktor&yacute;m je pr&aacute;vnick&aacute; osoba, nem&aacute; pr&aacute;voplatn&yacute;m rozsudkom uložen&yacute; trest z&aacute;kazu prij&iacute;mať dot&aacute;cie alebo subvencie, trest zru&scaron;enia PO, trest z&aacute;kazu prij&iacute;mať pomoc a podporu poskytovan&uacute; z fondov E&Uacute;, trest z&aacute;kazu činnosti v s&uacute;lade so zameran&iacute;m projektu a podmienkami v&yacute;zvy alebo trest z&aacute;kazu &uacute;časti vo verejnom obstar&aacute;van&iacute;.</b></div><div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>Nevyžaduje sa</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div><b>Prostredn&iacute;ctvom dostupn&yacute;ch &uacute;dajov evidovan&yacute;ch v informačn&yacute;ch syst&eacute;moch verejnej spr&aacute;vy </b>(<a href=\"https://esluzby.genpro.gov.sk/zoznam-odsudenych-pravnickych-osob\">https://esluzby.genpro.gov.sk/zoznam-odsudenych-pravnickych-osob</a>)</div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div><div>Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne do skončenia doby udržateľnosti projektu.</div><div><b><u>Platnosť podmienky:</u></b></div><div><u>Podmienka sa vzťahuje</u> aj na žiadateľa, na ktor&eacute;ho pre&scaron;la trestn&aacute; zodpovednosť po zru&scaron;en&iacute; pr&aacute;vnickej osoby podľa &sect; 7 z&aacute;kona č. 91/2016 Z. z. o trestnej zodpovednosti pr&aacute;vnick&yacute;ch os&ocirc;b a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 8,
+   "nazovSk": "Podmienka zákazu vedenia výkonu rozhodnutia voči žiadateľovi",
+   "popisSk": "<div><div>Voči žiadateľovi nesmie byť vykon&aacute;van&aacute; exek&uacute;cia podľa Exekučn&eacute;ho poriadku, ani veden&yacute; in&yacute; v&yacute;kon rozhodnutia podľa osobitn&yacute;ch predpisov, predmetom ktor&eacute;ho je n&uacute;ten&yacute; v&yacute;kon povinnosti zaplatiť peňažn&uacute; sumu vo v&yacute;&scaron;ke vym&aacute;han&eacute;ho n&aacute;roku, vr&aacute;tane v&scaron;etk&yacute;ch trov s&uacute;visiacich s v&yacute;konom rozhodnutia za v&scaron;etky takto vykon&aacute;van&eacute; exek&uacute;cie alebo in&eacute; v&yacute;kony rozhodnutia v&nbsp;sume vy&scaron;&scaron;ej ako 10&nbsp;000 EUR.</div><div>Voči žiadateľovi tiež nesmie byť veden&yacute; v&yacute;kon rozhodnutia na plnenie inej povinnosti, ktor&aacute; nespoč&iacute;va v zaplaten&iacute; peňažnej sumy, pokiaľ t&aacute;to nepeňažn&aacute; povinnosť akokoľvek priamo alebo nepriamo s&uacute;vis&iacute; s projektom, ktor&yacute; je predmetom podanej ŽoNFP žiadateľa.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>Nevyžaduje sa</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div><b>Centr&aacute;lny register exek&uacute;cii</b> <a href=\"http://www.cre.sk/\">www.cre.sk</a></div><div>Formul&aacute;r ŽoNFP</div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div><div>Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť do skončenia doby udržateľnosti projektu.</div><div>V čase implement&aacute;cie projektu je možn&eacute; uplatniť preru&scaron;enie plnenia danej podmienky s t&yacute;m, že prij&iacute;mateľ je povinn&yacute; podmienku op&auml;ť začať plniť v term&iacute;ne stanovenom poskytovateľom &ndash; ak k op&auml;tovn&eacute;mu plneniu podmienky d&ocirc;jde tak, že dočasn&eacute; neplnenie nesp&ocirc;sob&iacute; ohrozenie cieľov projektu, podmienka sa nepovažuje za poru&scaron;en&uacute; (t.j. nie je potrebn&eacute; postupovať v zmysle čl. 65 NSU).</div><div><b><u>Platnosť podmienky:</u></b></div><u>Podmienka sa net&yacute;ka</u> v&yacute;konu rozhodnutia voči členom riadiacich a dozorn&yacute;ch org&aacute;nov žiadateľa, ale je relevantn&aacute; vo vzťahu k subjektu žiadateľa.&nbsp;</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 9,
+   "nazovSk": "Podmienka, že voči žiadateľovi sa nenárokuje vrátenie štátnej pomoci na základe rozhodnutia EK, v ktorom bola táto štátna pomoc označená za neoprávnenú a nezlučiteľnú s vnútorným trhom",
+   "popisSk": "<div><div>NFP nie je možn&eacute; poskytn&uacute;ť žiadateľovi, voči ktor&eacute;mu je n&aacute;rokovan&eacute; vr&aacute;tenie &scaron;t&aacute;tnej pomoci na z&aacute;klade rozhodnutia Eur&oacute;pskej komisie, v ktorom bola t&aacute;to &scaron;t&aacute;tna pomoc označen&aacute; za neopr&aacute;vnen&uacute; a nezlučiteľn&uacute; s vn&uacute;torn&yacute;m trhom.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>Nevyžaduje sa</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div><b>Formul&aacute;r ŽoNFP</b></div><div><b>Inform&aacute;cie o vym&aacute;han&iacute; &scaron;t&aacute;tnej pomoci označenej za neopr&aacute;vnen&uacute; a nezlučiteľn&uacute; s vn&uacute;torn&yacute;m trhom, ktor&eacute; s&uacute; verejne dostupn&eacute; na webovom s&iacute;dle: </b></div><div><a href=\"https://ec.europa.eu/competition-policy/state-aid/procedures/recovery-unlawful-aid_en\">https://ec.europa.eu/competition-policy/state-aid/procedures/recovery-unlawful-aid_en</a></div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div>Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne do skončenia doby udržateľnosti projektu.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 10,
+   "nazovSk": "Podmienka, že voči žiadateľovi nie je  vyhlásený konkurz ani povolená reštrukturalizácia a nie je v likvidácii.",
+   "popisSk": "<div>Zastavenie konkurzn&eacute;ho konania pre nedostatok majetku žiadateľa /partnera alebo zru&scaron;enie konkurzu pre nedostatok majetku žiadateľa predstavuje nesplnenie predmetnej PPP.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>Nevyžaduje sa</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div>Formul&aacute;r ŽoNFP</div><div><b>ITMS </b>(resp. <a href=\"https://ru.justice.sk/ru-verejnost-web/pages/searchKonanie.xhtml?query\">https://ru.justice.sk/ru-verejnost-web/pages/searchKonanie.xhtml?query</a>)</div><div><b>Integračn&aacute; akcia &bdquo;Z&iacute;skanie inform&aacute;cie o&nbsp;konkurzn&yacute;ch a&nbsp;re&scaron;trukturalizačn&yacute;ch konaniach&ldquo;</b></div><div>Ak preuk&aacute;zanie tejto podmienky poskytnutia pr&iacute;spevku nie je možn&eacute; prostredn&iacute;ctvom integračnej akcie, tak SO priamo bez s&uacute;činnosti žiadateľa over&iacute; jej splnenie prostredn&iacute;ctvom overenia &uacute;dajov a inform&aacute;ci&iacute; v Obchodnom vestn&iacute;ku, ktor&yacute; je informačn&yacute;m syst&eacute;mom verejnej spr&aacute;vy v s&uacute;lade so z&aacute;konom č. 200/2011 Z. z. o Obchodnom registri a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov v znen&iacute; neskor&scaron;&iacute;ch predpisov a je verejne dostupn&yacute; v elektronickej podobe na webovom s&iacute;dle</div><div><a href=\"https://www.justice.gov.sk/PortalApp/ObchodnyVestnik/Web/Zoznam.aspx\">https://www.justice.gov.sk/PortalApp/ObchodnyVestnik/Web/Zoznam.aspx</a></div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div><div>Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne do skončenia doby udržateľnosti projektu.</div><div><b><u>Platnosť podmienky:</u></b></div><div><u>Podmienka sa vzťahuje</u> aj na konania začat&eacute; a neukončen&eacute; podľa z&aacute;kona č. 328/1991 Zb. o konkurze a vyrovnan&iacute; v znen&iacute; neskor&scaron;&iacute;ch predpisov, ktor&yacute; bol &uacute;činn&yacute; pred z&aacute;konom č.&nbsp;7/2005 Z. z. o konkurze a re&scaron;trukturaliz&aacute;cii v znen&iacute; neskor&scaron;&iacute;ch predpisov.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [
+  {
+   "id": 100122,
+   "href": "/subjekt/id/100122",
+   "nazov": "Dopravný podnik mesta Prešov, akciová spoločnosť",
+   "ico": "31718922",
+   "dic": "2020523868",
+   "icz": "1001121055",
+   "platitelDph": true,
+   "podlaParagrafu": "§4",
+   "icDph": "SK2020523868",
+   "pravnaForma": {
+    "id": 22,
+    "kod": "1009121",
+    "kodZdroj": "121",
+    "nazovSk": "Akciová spoločnosť",
+    "nazovEn": "Joint stock company",
+    "popisSk": "Akc. spol. Akciová spoločnosť",
+    "popisEn": "Joint stock company Joint stock company",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Bardejovská",
+    "cislo": "7",
+    "psc": "08006",
+    "obec": "Ľubotice",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  },
+  {
+   "id": 100656,
+   "href": "/subjekt/id/100656",
+   "nazov": "Dopravný podnik mesta Košice, akciová spoločnosť",
+   "ico": "31701914",
+   "dic": "2020488206",
+   "icz": "1000762884",
+   "platitelDph": true,
+   "podlaParagrafu": "§4",
+   "icDph": "SK2020488206",
+   "pravnaForma": {
+    "id": 22,
+    "kod": "1009121",
+    "kodZdroj": "121",
+    "nazovSk": "Akciová spoločnosť",
+    "nazovEn": "Joint stock company",
+    "popisSk": "Akc. spol. Akciová spoločnosť",
+    "popisEn": "Joint stock company Joint stock company",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Bardejovská",
+    "cislo": "6",
+    "psc": "04329",
+    "obec": "Košice - mestská časť Západ",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ ],
+ "miestoRealizacieFull": [
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040021",
+   "nazovSk": "Stavby",
+   "typAkcieProgramu": {
+    "id": 46,
+    "href": "/typakcieprogramu/id/46"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 46,
+    "href": "/typakcieprogramu/id/46"
+   }
+  },
+  {
+   "kod": "1040029",
+   "nazovSk": "Ostatný dlhodobý hmotný majetok",
+   "typAkcieProgramu": {
+    "id": 46,
+    "href": "/typakcieprogramu/id/46"
+   }
+  },
+  {
+   "kod": "1040930",
+   "nazovSk": "Rezerva na nepredvídané výdavky",
+   "typAkcieProgramu": {
+    "id": 46,
+    "href": "/typakcieprogramu/id/46"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 46,
+    "href": "/typakcieprogramu/id/46"
+   }
+  },
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 46,
+    "href": "/typakcieprogramu/id/46"
+   }
+  },
+  {
+   "kod": "1040023",
+   "nazovSk": "Dopravné prostriedky",
+   "typAkcieProgramu": {
+    "id": 44,
+    "href": "/typakcieprogramu/id/44"
+   }
+  },
+  {
+   "kod": "1040000",
+   "nazovSk": "Bez výdavkov",
+   "typAkcieProgramu": {
+    "id": 890,
+    "href": "/typakcieprogramu/id/890"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 890,
+    "href": "/typakcieprogramu/id/890"
+   }
+  },
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 890,
+    "href": "/typakcieprogramu/id/890"
+   }
+  }
+ ],
+ "externyZdroj": [
+  {
+   "nazov": "zverejnenie výzvy",
+   "url": "https://eurofondy.gov.sk/vyzvy/vyzvy-program-slovensko/"
+  }
+ ],
+ "dokument": [
+  {
+   "nazov": "archiv výzva PSK-MD-004-2024-FA-EFRR.zip",
+   "uuid": "23de31c5-cb34-4b44-bf81-e53d862c44d6"
+  },
+  {
+   "nazov": "PSK-MD-004-2024-FA-EFRR.zip",
+   "uuid": "c241dad0-8d98-484e-9a44-15806092bdc4"
+  },
+  {
+   "nazov": "Výzva PSK-MD-004-2024-FA-EFRR",
+   "uuid": "79253901-b659-4121-97c8-14e9b9a87515"
+  },
+  {
+   "nazov": "zmena 1 PDF.zip",
+   "uuid": "648d9431-baaf-4b41-b294-63696a6ec58b"
+  }
+ ],
+ "dovodVznikuVerzie": "<div><div>Ministerstvo dopravy SR ako sprostredkovateľsk&yacute; org&aacute;n pre Program Slovensko 2021 &ndash; 2027 (ďalej aj &bdquo;poskytovateľ&ldquo;) prist&uacute;pil k&nbsp;zmene v&yacute;zvy <b>z&nbsp;d&ocirc;vodu potreby monitorovania (dosledovania) merateľn&eacute;ho ukazovateľa projektu v&nbsp;zmysle schv&aacute;lenej ŽoNFP z&nbsp;prvej f&aacute;zy projektu.</b></div><div><b>Dokumenty v&yacute;zvy dotknut&eacute; zmenou, <u>hlavn&yacute; obsah ich zmien</u> a&nbsp;zd&ocirc;vodnenie zmien:</b></div><ol><li><b>V&yacute;zva:</b></li></ol><ul><li>form&aacute;lna zmena t&yacute;kaj&uacute;ca sa opravy odkazu na formul&aacute;r ŽoNFP v PPP č. 5 &bdquo;Podmienka splnenia krit&eacute;ri&iacute; pre v&yacute;ber projektov&ldquo;.</li></ul><ol><li value=\"2\"><b>Pr&iacute;lohy</b>:</li></ol><ul><li><b>Pr&iacute;loha č. 1 Formul&aacute;r ŽoNFP popis - in&scaron;trukcia k vyplneniu ŽoNFP </b>&ndash; formul&aacute;r bol nahraden&yacute; nov&yacute;m formul&aacute;rom platn&yacute;m pre ITMS21+;</li><li><b>Pr&iacute;loha č. 2 Krit&eacute;ri&aacute; pre v&yacute;ber projektov</b> &ndash; form&aacute;lne &uacute;pravy (oprava odkazu, vymazanie pozn&aacute;mky nerelevantnej pre žiadateľa);</li><li><b>Pr&iacute;loha č. 4 Zoznam merateľn&yacute;ch ukazovateľov projektu a in&yacute;ch &uacute;dajov </b>&ndash; doplnen&yacute; nov&yacute; merateľn&yacute; ukazovateľ v&yacute;stupu PSKPO024 Počet nov&yacute;ch mobiln&yacute;ch prostriedkov dr&aacute;hovej mestskej hromadnej dopravy (električky, trolejbusy) vhodn&yacute;ch tiež pre cestuj&uacute;cich s obmedzenou mobilitou z&nbsp;d&ocirc;vodu potreby monitorovania merateľn&eacute;ho ukazovateľa projektu v zmysle schv&aacute;lenej ŽoNFP z prvej f&aacute;zy projektu.</li></ul></div>",
+ "dalsiaSkutocnost": [],
+ "dalsiaFormalnaNalezitost": [],
+ "verzia": [
+  {
+   "id": 5573,
+   "cislo": 1
+  },
+  {
+   "id": 5797,
+   "cislo": 2,
+   "datumVykonaniaZmeny": 1720476000000,
+   "dovodVznikuVerzie": "<div><div>Ministerstvo dopravy SR ako sprostredkovateľsk&yacute; org&aacute;n pre Program Slovensko 2021 &ndash; 2027 (ďalej aj &bdquo;poskytovateľ&ldquo;) prist&uacute;pil k&nbsp;zmene v&yacute;zvy <b>z&nbsp;d&ocirc;vodu potreby monitorovania (dosledovania) merateľn&eacute;ho ukazovateľa projektu v&nbsp;zmysle schv&aacute;lenej ŽoNFP z&nbsp;prvej f&aacute;zy projektu.</b></div><div><b>Dokumenty v&yacute;zvy dotknut&eacute; zmenou, <u>hlavn&yacute; obsah ich zmien</u> a&nbsp;zd&ocirc;vodnenie zmien:</b></div><ol><li><b>V&yacute;zva:</b></li></ol><ul><li>form&aacute;lna zmena t&yacute;kaj&uacute;ca sa opravy odkazu na formul&aacute;r ŽoNFP v PPP č. 5 &bdquo;Podmienka splnenia krit&eacute;ri&iacute; pre v&yacute;ber projektov&ldquo;.</li></ul><ol><li value=\"2\"><b>Pr&iacute;lohy</b>:</li></ol><ul><li><b>Pr&iacute;loha č. 1 Formul&aacute;r ŽoNFP popis - in&scaron;trukcia k vyplneniu ŽoNFP </b>&ndash; formul&aacute;r bol nahraden&yacute; nov&yacute;m formul&aacute;rom platn&yacute;m pre ITMS21+;</li><li><b>Pr&iacute;loha č. 2 Krit&eacute;ri&aacute; pre v&yacute;ber projektov</b> &ndash; form&aacute;lne &uacute;pravy (oprava odkazu, vymazanie pozn&aacute;mky nerelevantnej pre žiadateľa);</li><li><b>Pr&iacute;loha č. 4 Zoznam merateľn&yacute;ch ukazovateľov projektu a in&yacute;ch &uacute;dajov </b>&ndash; doplnen&yacute; nov&yacute; merateľn&yacute; ukazovateľ v&yacute;stupu PSKPO024 Počet nov&yacute;ch mobiln&yacute;ch prostriedkov dr&aacute;hovej mestskej hromadnej dopravy (električky, trolejbusy) vhodn&yacute;ch tiež pre cestuj&uacute;cich s obmedzenou mobilitou z&nbsp;d&ocirc;vodu potreby monitorovania merateľn&eacute;ho ukazovateľa projektu v zmysle schv&aacute;lenej ŽoNFP z prvej f&aacute;zy projektu.</li></ul></div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [
+  {
+   "id": 80,
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1640,
+    "href": "/ukazovatelprojektovy/id/1640",
+    "kod": "PSKPR130",
+    "nazovSk": "Počet cestujúcich prepravených mobilnými prostriedkami verejnej osobnej dopravy za rok",
+    "mernaJednotka": {
+     "id": 200124,
+     "kod": "1053121",
+     "nazovSk": "cestujúci/rok",
+     "popisSk": "cestujúci/rok",
+     "platnostOd": 1709766000000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Počet cestuj&uacute;cich prepraven&yacute;ch mobiln&yacute;mi prostriedkami verejnej osobnej dopravy za rok obstaran&yacute;ch v&nbsp;r&aacute;mci podporen&yacute;ch projektov.</div>Verejn&aacute; osobn&aacute; doprava zahŕňa mestsk&uacute; a&nbsp;region&aacute;lnu verejn&uacute; dopravu realizovan&uacute; prostredn&iacute;ctvom mobiln&yacute;ch prostriedkov v&nbsp;električkovej, trolejbusovej alebo autobusovej doprave&nbsp;</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div>Žiadateľ cieľov&uacute; hodnotu odhaduje ako počet cestuj&uacute;cich prepraven&yacute;ch mobiln&yacute;mi prostriedkami verejnej osobnej dopravy za rok, za jednotliv&eacute; roky po finančnom ukončen&iacute; projektu (počas obdobia udržateľnosti projektu).</div><div>&nbsp;</div><div>Pri projektoch realizovan&yacute;ch s podporou poskytovateľa MD SR sa cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa stanovuje na&nbsp;z&aacute;klade očak&aacute;van&eacute;ho počtu prepraven&yacute;ch cestuj&uacute;cich (obstaran&yacute;mi mobiln&yacute;mi prostriedkami) vo verejnej osobnej doprave v prvom roku po&nbsp;ukončen&iacute; fyzickej realiz&aacute;cie projektu. Tento &uacute;daj vych&aacute;dza z kvantifikovan&eacute;ho časov&eacute;ho radu, ktor&yacute; m&ocirc;že byť odvoden&yacute; z anal&yacute;zy n&aacute;kladov a pr&iacute;nosov&nbsp;(CBA) alebo in&eacute;ho vhodn&eacute;ho analytick&eacute;ho n&aacute;stroja, primeran&eacute;ho charakteru projektu.</div><div>&nbsp;</div><div><div>Prij&iacute;mateľ každoročne vykazuje skutočne dosiahnut&uacute; hodnotu merateľn&eacute;ho ukazovateľa, počn&uacute;c prvou n&aacute;slednou monitorovacou spr&aacute;vou, počas cel&eacute;ho obdobia udržateľnosti projektu s&nbsp;uveden&iacute;m zdroja &uacute;dajov.</div><div>Napr. d&aacute;ta dopravn&eacute;ho podniku / dopravcu / organiz&aacute;tora integrovan&eacute;ho dopravn&eacute;ho syst&eacute;mu (zbieran&eacute; napr. prostredn&iacute;ctvom syst&eacute;mov poč&iacute;tania cestuj&uacute;cich vo vozidle), prieskumov, alebo anal&yacute;z (vr&aacute;tane ex-post CBA)).</div><div>&nbsp;</div>Pre projekty poskytovateľa MD SR plat&iacute;, že zmluvne dohodnut&aacute; cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa mus&iacute; byť dodržan&aacute; po&nbsp;cel&uacute; dobu udržateľnosti projektu, vr&aacute;tane posledn&eacute;ho roka tejto doby.</div></div><div><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Mestsk&aacute; verejn&aacute; doprava</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 2</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div><div><div>Žiadateľ cieľov&uacute; hodnotu odhaduje ako počet cestuj&uacute;cich prepraven&yacute;ch mobiln&yacute;mi prostriedkami verejnej osobnej dopravy za rok, za jednotliv&eacute; roky po finančnom ukončen&iacute; projektu (počas obdobia udržateľnosti projektu).</div><div>&nbsp;</div><div>Pri projektoch realizovan&yacute;ch s podporou poskytovateľa MD SR sa cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa stanovuje na&nbsp;z&aacute;klade očak&aacute;van&eacute;ho počtu prepraven&yacute;ch cestuj&uacute;cich (obstaran&yacute;mi mobiln&yacute;mi prostriedkami) vo verejnej osobnej doprave v prvom roku po&nbsp;ukončen&iacute; fyzickej realiz&aacute;cie projektu. Tento &uacute;daj vych&aacute;dza z kvantifikovan&eacute;ho časov&eacute;ho radu, ktor&yacute; m&ocirc;že byť odvoden&yacute; z anal&yacute;zy n&aacute;kladov a pr&iacute;nosov (CBA) alebo in&eacute;ho vhodn&eacute;ho analytick&eacute;ho n&aacute;stroja, primeran&eacute;ho charakteru projektu.</div><div>&nbsp;</div><div>Prij&iacute;mateľ každoročne vykazuje skutočne dosiahnut&uacute; hodnotu merateľn&eacute;ho ukazovateľa, počn&uacute;c prvou n&aacute;slednou monitorovacou spr&aacute;vou, počas cel&eacute;ho obdobia udržateľnosti projektu s&nbsp;uveden&iacute;m zdroja &uacute;dajov.</div><div><div>Napr. d&aacute;ta dopravn&eacute;ho podniku / dopravcu / organiz&aacute;tora integrovan&eacute;ho dopravn&eacute;ho syst&eacute;mu (zbieran&eacute; napr. prostredn&iacute;ctvom syst&eacute;mov poč&iacute;tania cestuj&uacute;cich vo vozidle), prieskumov, alebo anal&yacute;z (vr&aacute;tane ex-post CBA)).</div><div>&nbsp;</div>Pre projekty poskytovateľa MD SR plat&iacute;, že zmluvne dohodnut&aacute; cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa mus&iacute; byť dodržan&aacute; po&nbsp;cel&uacute; dobu udržateľnosti projektu, vr&aacute;tane posledn&eacute;ho roka tejto doby.</div></div></div></div><div style=\"clear:both\"><div><b>2.2</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Region&aacute;lna verejn&aacute; doprava</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium&nbsp;z &uacute;rovne 2</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div></div><div><div><div><div>Žiadateľ cieľov&uacute; hodnotu odhaduje ako počet cestuj&uacute;cich prepraven&yacute;ch mobiln&yacute;mi prostriedkami verejnej osobnej dopravy za rok, za jednotliv&eacute; roky po finančnom ukončen&iacute; projektu (počas obdobia udržateľnosti projektu).</div><div>&nbsp;</div><div>Pri projektoch realizovan&yacute;ch s podporou poskytovateľa MD SR sa cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa stanovuje na&nbsp;z&aacute;klade očak&aacute;van&eacute;ho počtu prepraven&yacute;ch cestuj&uacute;cich (obstaran&yacute;mi mobiln&yacute;mi prostriedkami) vo verejnej osobnej doprave v prvom roku po&nbsp;ukončen&iacute; fyzickej realiz&aacute;cie projektu. Tento &uacute;daj vych&aacute;dza z kvantifikovan&eacute;ho časov&eacute;ho radu, ktor&yacute; m&ocirc;že byť odvoden&yacute; z anal&yacute;zy n&aacute;kladov a pr&iacute;nosov (CBA) alebo in&eacute;ho vhodn&eacute;ho analytick&eacute;ho n&aacute;stroja, primeran&eacute;ho charakteru projektu.</div><div>&nbsp;</div><div>Prij&iacute;mateľ každoročne vykazuje skutočne dosiahnut&uacute; hodnotu merateľn&eacute;ho ukazovateľa, počn&uacute;c prvou n&aacute;slednou monitorovacou spr&aacute;vou, počas cel&eacute;ho obdobia udržateľnosti projektu s&nbsp;uveden&iacute;m zdroja &uacute;dajov.</div><div><div>Napr. d&aacute;ta dopravn&eacute;ho podniku / dopravcu / organiz&aacute;tora integrovan&eacute;ho dopravn&eacute;ho syst&eacute;mu (zbieran&eacute; napr. prostredn&iacute;ctvom syst&eacute;mov poč&iacute;tania cestuj&uacute;cich vo vozidle), prieskumov, alebo anal&yacute;z (vr&aacute;tane ex-post CBA)).</div><div>&nbsp;</div>Pre projekty poskytovateľa MD SR plat&iacute;, že zmluvne dohodnut&aacute; cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa mus&iacute; byť dodržan&aacute; po&nbsp;cel&uacute; dobu udržateľnosti projektu, vr&aacute;tane posledn&eacute;ho roka tejto doby.</div></div><div><div><b>3.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Električkov&aacute; doprava</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div>Žiadateľ cieľov&uacute; hodnotu odhaduje ako počet cestuj&uacute;cich prepraven&yacute;ch mobiln&yacute;mi prostriedkami verejnej osobnej dopravy za rok, za jednotliv&eacute; roky po finančnom ukončen&iacute; projektu (počas obdobia udržateľnosti projektu).</div><div>&nbsp;</div><div>Pri projektoch realizovan&yacute;ch s podporou poskytovateľa MD SR sa cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa stanovuje na&nbsp;z&aacute;klade očak&aacute;van&eacute;ho počtu prepraven&yacute;ch cestuj&uacute;cich (obstaran&yacute;mi mobiln&yacute;mi prostriedkami) vo verejnej osobnej doprave v prvom roku po&nbsp;ukončen&iacute; fyzickej realiz&aacute;cie projektu. Tento &uacute;daj vych&aacute;dza z kvantifikovan&eacute;ho časov&eacute;ho radu, ktor&yacute; m&ocirc;že byť odvoden&yacute; z anal&yacute;zy n&aacute;kladov a pr&iacute;nosov (CBA) alebo in&eacute;ho vhodn&eacute;ho analytick&eacute;ho n&aacute;stroja, primeran&eacute;ho charakteru projektu.</div><div>&nbsp;</div><div>Prij&iacute;mateľ každoročne vykazuje skutočne dosiahnut&uacute; hodnotu merateľn&eacute;ho ukazovateľa, počn&uacute;c prvou n&aacute;slednou monitorovacou spr&aacute;vou, počas cel&eacute;ho obdobia udržateľnosti projektu s&nbsp;uveden&iacute;m zdroja &uacute;dajov.</div><div>Napr. d&aacute;ta dopravn&eacute;ho podniku / dopravcu / organiz&aacute;tora integrovan&eacute;ho dopravn&eacute;ho syst&eacute;mu (zbieran&eacute; napr. prostredn&iacute;ctvom syst&eacute;mov poč&iacute;tania cestuj&uacute;cich vo vozidle), prieskumov, alebo anal&yacute;z (vr&aacute;tane ex-post CBA)).</div><div>&nbsp;</div>Pre projekty poskytovateľa MD SR plat&iacute;, že zmluvne dohodnut&aacute; cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa mus&iacute; byť dodržan&aacute; po&nbsp;cel&uacute; dobu udržateľnosti&nbsp;projektu, vr&aacute;tane posledn&eacute;ho roka tejto doby.</div><div><div><b>3.2</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Trolejbusov&aacute; doprava</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div>Žiadateľ cieľov&uacute; hodnotu odhaduje ako počet cestuj&uacute;cich prepraven&yacute;ch mobiln&yacute;mi prostriedkami verejnej osobnej dopravy za rok, za jednotliv&eacute; roky po finančnom ukončen&iacute; projektu (počas obdobia udržateľnosti projektu).</div><div>&nbsp;</div><div>Pri projektoch realizovan&yacute;ch s podporou poskytovateľa MD SR sa cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa stanovuje na&nbsp;z&aacute;klade očak&aacute;van&eacute;ho počtu prepraven&yacute;ch cestuj&uacute;cich (obstaran&yacute;mi mobiln&yacute;mi prostriedkami) vo verejnej osobnej doprave v prvom roku po&nbsp;ukončen&iacute; fyzickej realiz&aacute;cie projektu. Tento &uacute;daj vych&aacute;dza z kvantifikovan&eacute;ho časov&eacute;ho radu, ktor&yacute; m&ocirc;že byť odvoden&yacute; z anal&yacute;zy n&aacute;kladov a pr&iacute;nosov (CBA) alebo in&eacute;ho vhodn&eacute;ho analytick&eacute;ho n&aacute;stroja, primeran&eacute;ho charakteru projektu.</div><div>&nbsp;</div><div>Prij&iacute;mateľ každoročne vykazuje skutočne dosiahnut&uacute; hodnotu merateľn&eacute;ho ukazovateľa, počn&uacute;c prvou n&aacute;slednou monitorovacou spr&aacute;vou, počas cel&eacute;ho obdobia udržateľnosti projektu s&nbsp;uveden&iacute;m zdroja &uacute;dajov.</div><div>Napr. d&aacute;ta dopravn&eacute;ho podniku / dopravcu / organiz&aacute;tora integrovan&eacute;ho dopravn&eacute;ho syst&eacute;mu (zbieran&eacute; napr. prostredn&iacute;ctvom syst&eacute;mov poč&iacute;tania cestuj&uacute;cich vo vozidle), prieskumov, alebo anal&yacute;z (vr&aacute;tane ex-post CBA)).</div><div>&nbsp;</div>Pre projekty poskytovateľa MD SR plat&iacute;, že zmluvne dohodnut&aacute; cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa mus&iacute; byť dodržan&aacute; po&nbsp;cel&uacute; dobu udržateľnosti projektu, vr&aacute;tane posledn&eacute;ho roka tejto doby.</div></div></div></div></div><div><div><b>3.3</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Autobusov&aacute; doprava</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div><div><div>Žiadateľ cieľov&uacute; hodnotu odhaduje ako počet cestuj&uacute;cich prepraven&yacute;ch mobiln&yacute;mi prostriedkami verejnej osobnej dopravy za rok, za jednotliv&eacute; roky po finančnom ukončen&iacute; projektu (počas obdobia udržateľnosti projektu).</div><div>&nbsp;</div><div>Pri projektoch realizovan&yacute;ch s podporou poskytovateľa MD SR sa cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa stanovuje na&nbsp;z&aacute;klade očak&aacute;van&eacute;ho počtu prepraven&yacute;ch cestuj&uacute;cich (obstaran&yacute;mi mobiln&yacute;mi prostriedkami) vo verejnej osobnej doprave v prvom roku po&nbsp;ukončen&iacute; fyzickej realiz&aacute;cie projektu. Tento &uacute;daj vych&aacute;dza z kvantifikovan&eacute;ho časov&eacute;ho radu, ktor&yacute; m&ocirc;že byť odvoden&yacute; z anal&yacute;zy n&aacute;kladov a pr&iacute;nosov (CBA) alebo in&eacute;ho vhodn&eacute;ho analytick&eacute;ho n&aacute;stroja, primeran&eacute;ho charakteru projektu.</div><div>&nbsp;</div><div>Prij&iacute;mateľ každoročne vykazuje skutočne dosiahnut&uacute; hodnotu merateľn&eacute;ho ukazovateľa, počn&uacute;c prvou n&aacute;slednou monitorovacou spr&aacute;vou, počas cel&eacute;ho obdobia udržateľnosti projektu s&nbsp;uveden&iacute;m zdroja &uacute;dajov.</div><div>Napr. d&aacute;ta dopravn&eacute;ho podniku / dopravcu / organiz&aacute;tora integrovan&eacute;ho dopravn&eacute;ho syst&eacute;mu (zbieran&eacute; napr. prostredn&iacute;ctvom syst&eacute;mov poč&iacute;tania cestuj&uacute;cich vo vozidle), prieskumov, alebo anal&yacute;z (vr&aacute;tane ex-post CBA)).</div><div>&nbsp;</div>Pre projekty poskytovateľa MD SR plat&iacute;, že zmluvne dohodnut&aacute; cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa mus&iacute; byť dodržan&aacute; po&nbsp;cel&uacute; dobu udržateľnosti projektu, vr&aacute;tane posledn&eacute;ho roka tejto doby.</div></div></div><div style=\"clear:both\">&nbsp;</div></div></div></div></div><div style=\"clear:both\">&nbsp;</div></div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1709717916971,
+    "updatedAt": 1757318669758
+   }
+  },
+  {
+   "id": 81,
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1641,
+    "href": "/ukazovatelprojektovy/id/1641",
+    "kod": "PSKPR131",
+    "nazovSk": "Časová úspora cestujúcich zo zníženia počtu vynechaných spojov na linkách VOD",
+    "mernaJednotka": {
+     "id": 200123,
+     "kod": "1053120",
+     "nazovSk": "minúta/rok",
+     "popisSk": "minúta/rok",
+     "platnostOd": 1709766000000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Celkov&aacute; ročn&aacute; &uacute;spora času cestuj&uacute;cich v&nbsp;peňažnom vyjadren&iacute; dosiahnut&aacute; vďaka zlep&scaron;en&yacute;m podmienkam na opravu a &uacute;držbu vozidiel verejnej osobnej dopravy.</div>Verejn&aacute; osobn&aacute; doprava zahŕňa mestsk&uacute; a&nbsp;region&aacute;lnu verejn&uacute; dopravu realizovan&uacute; prostredn&iacute;ctvom mobiln&yacute;ch prostriedkov v&nbsp;električkovej, trolejbusovej alebo autobusovej doprave&nbsp;</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div><div>Žiadateľ cieľov&uacute; hodnotu odhaduje ako časov&uacute; &uacute;sporu cestuj&uacute;cich zo zn&iacute;ženia počtu vynechan&yacute;ch spojov na link&aacute;ch verejnej osobnej dopravy v&nbsp;min&uacute;tach za&nbsp;rok, za jednotliv&eacute; roky po finančnom ukončen&iacute; projektu (počas obdobia udržateľnosti projektu).</div><div>&nbsp;</div><div>Pri projektoch realizovan&yacute;ch s podporou poskytovateľa MD SR sa cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa stanovuje na&nbsp;z&aacute;klade očak&aacute;vanej časovej &uacute;spory cestuj&uacute;cich zo zn&iacute;ženia počtu vynechan&yacute;ch spojov na link&aacute;ch VOD v prvom roku po&nbsp;ukončen&iacute; fyzickej realiz&aacute;cie projektu. Tento &uacute;daj vych&aacute;dza z kvantifikovan&eacute;ho časov&eacute;ho radu, ktor&yacute; m&ocirc;že byť odvoden&yacute; z anal&yacute;zy n&aacute;kladov a pr&iacute;nosov (CBA) alebo in&eacute;ho vhodn&eacute;ho analytick&eacute;ho n&aacute;stroja, primeran&eacute;ho charakteru projektu.</div><div>&nbsp;</div>Prij&iacute;mateľ každoročne vykazuje skutočne dosiahnut&uacute; hodnotu merateľn&eacute;ho&nbsp;<div>ukazovateľa, počn&uacute;c prvou n&aacute;slednou monitorovacou spr&aacute;vou, počas cel&eacute;ho obdobia udržateľnosti projektu s&nbsp;uveden&iacute;m zdroja &uacute;dajov.</div><div>Napr. Spr&aacute;va o pr&iacute;slu&scaron;nom ex-post</div><div>odhade po roku od dokončenia v&yacute;stupu, Prieskumy, CBA anal&yacute;za/ex-post CBA anal&yacute;za.</div><div>&nbsp;</div>Pre projekty poskytovateľa MD SR plat&iacute;, že&nbsp;zmluvne dohodnut&aacute; cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa mus&iacute; byť dodržan&aacute; po&nbsp;cel&uacute; dobu udržateľnosti projektu, vr&aacute;tane posledn&eacute;ho roka tejto doby.</div><div><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Mestsk&aacute; verejn&aacute; doprava</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 2</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div><div><div>Žiadateľ cieľov&uacute; hodnotu odhaduje ako časov&uacute; &uacute;sporu cestuj&uacute;cich zo zn&iacute;ženia počtu vynechan&yacute;ch spojov na link&aacute;ch verejnej osobnej dopravy v&nbsp;min&uacute;tach za&nbsp;rok, za jednotliv&eacute; roky po finančnom ukončen&iacute; projektu (počas obdobia udržateľnosti projektu).</div><div>&nbsp;</div><div>Pri projektoch realizovan&yacute;ch s podporou poskytovateľa MD SR sa cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa stanovuje na z&aacute;klade očak&aacute;vanej časovej &uacute;spory cestuj&uacute;cich zo zn&iacute;ženia počtu vynechan&yacute;ch spojov na link&aacute;ch VOD v prvom roku po&nbsp;ukončen&iacute; fyzickej realiz&aacute;cie projektu. Tento &uacute;daj vych&aacute;dza z kvantifikovan&eacute;ho časov&eacute;ho radu, ktor&yacute; m&ocirc;že byť odvoden&yacute; z anal&yacute;zy n&aacute;kladov a pr&iacute;nosov (CBA) alebo in&eacute;ho vhodn&eacute;ho analytick&eacute;ho n&aacute;stroja, primeran&eacute;ho charakteru projektu.</div><div>&nbsp;</div><div>Prij&iacute;mateľ každoročne vykazuje skutočne dosiahnut&uacute; hodnotu merateľn&eacute;ho ukazovateľa, počn&uacute;c prvou n&aacute;slednou monitorovacou spr&aacute;vou, počas cel&eacute;ho obdobia udržateľnosti projektu s&nbsp;uveden&iacute;m zdroja &uacute;dajov.</div><div>Napr. Spr&aacute;va o pr&iacute;slu&scaron;nom ex-post</div><div>odhade po roku od dokončenia v&yacute;stupu, Prieskumy, CBA anal&yacute;za/ex-post CBA anal&yacute;za.</div><div>&nbsp;</div><div>Pre projekty poskytovateľa MD SR plat&iacute;, že&nbsp;zmluvne dohodnut&aacute; cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa mus&iacute; byť dodržan&aacute; po&nbsp;cel&uacute; dobu udržateľnosti projektu, vr&aacute;tane posledn&eacute;ho roka tejto doby.</div></div></div><div style=\"clear:both\"><b>2.2</b></div></div><div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Region&aacute;lna verejn&aacute; doprava</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 2</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div><div><div>Žiadateľ cieľov&uacute; hodnotu odhaduje ako časov&uacute; &uacute;sporu cestuj&uacute;cich zo zn&iacute;ženia počtu vynechan&yacute;ch spojov na link&aacute;ch verejnej osobnej dopravy v&nbsp;min&uacute;tach za&nbsp;rok, za jednotliv&eacute; roky po finančnom ukončen&iacute; projektu (počas obdobia udržateľnosti projektu).</div><div>&nbsp;</div><div>Pri projektoch realizovan&yacute;ch s podporou poskytovateľa MD SR sa cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa stanovuje na z&aacute;klade očak&aacute;vanej časovej &uacute;spory cestuj&uacute;cich zo zn&iacute;ženia počtu vynechan&yacute;ch spojov na link&aacute;ch VOD v prvom roku po&nbsp;ukončen&iacute; fyzickej realiz&aacute;cie projektu. Tento &uacute;daj vych&aacute;dza z kvantifikovan&eacute;ho časov&eacute;ho radu, ktor&yacute; m&ocirc;že byť odvoden&yacute; z anal&yacute;zy n&aacute;kladov a pr&iacute;nosov (CBA) alebo in&eacute;ho vhodn&eacute;ho analytick&eacute;ho n&aacute;stroja, primeran&eacute;ho charakteru projektu.</div><div>&nbsp;</div><div>Prij&iacute;mateľ každoročne vykazuje skutočne dosiahnut&uacute; hodnotu merateľn&eacute;ho ukazovateľa, počn&uacute;c prvou n&aacute;slednou monitorovacou spr&aacute;vou, počas cel&eacute;ho obdobia udržateľnosti projektu s&nbsp;uveden&iacute;m zdroja &uacute;dajov.</div><div>Napr. Spr&aacute;va o pr&iacute;slu&scaron;nom ex-post</div><div>odhade po roku od dokončenia v&yacute;stupu, Prieskumy, CBA anal&yacute;za/ex-post CBA anal&yacute;za.</div><div>&nbsp;</div><div>Pre projekty poskytovateľa MD SR plat&iacute;, že&nbsp;zmluvne dohodnut&aacute; cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa mus&iacute; byť dodržan&aacute; po&nbsp;cel&uacute; dobu udržateľnosti projektu, vr&aacute;tane posledn&eacute;ho roka tejto doby.</div></div></div><div style=\"clear:both\"><b>3.1</b></div></div><div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Električkov&aacute; doprava</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium&nbsp;z &uacute;rovne 3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div>Žiadateľ cieľov&uacute; hodnotu odhaduje ako časov&uacute; &uacute;sporu cestuj&uacute;cich zo zn&iacute;ženia počtu vynechan&yacute;ch spojov na link&aacute;ch verejnej osobnej dopravy v&nbsp;min&uacute;tach za&nbsp;rok, za jednotliv&eacute; roky po finančnom ukončen&iacute; projektu (počas obdobia udržateľnosti projektu).</div><div>&nbsp;</div><div>Pri projektoch realizovan&yacute;ch s podporou poskytovateľa MD SR sa cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa stanovuje na&nbsp;z&aacute;klade očak&aacute;vanej časovej &uacute;spory cestuj&uacute;cich zo zn&iacute;ženia počtu vynechan&yacute;ch spojov na link&aacute;ch VOD v prvom roku po&nbsp;ukončen&iacute; fyzickej realiz&aacute;cie projektu. Tento &uacute;daj vych&aacute;dza z kvantifikovan&eacute;ho časov&eacute;ho radu, ktor&yacute; m&ocirc;že byť odvoden&yacute; z anal&yacute;zy n&aacute;kladov a pr&iacute;nosov (CBA) alebo in&eacute;ho vhodn&eacute;ho analytick&eacute;ho n&aacute;stroja, primeran&eacute;ho charakteru projektu.</div><div>&nbsp;</div><div>Prij&iacute;mateľ každoročne vykazuje skutočne dosiahnut&uacute; hodnotu merateľn&eacute;ho ukazovateľa, počn&uacute;c prvou n&aacute;slednou monitorovacou spr&aacute;vou, počas cel&eacute;ho obdobia udržateľnosti projektu s&nbsp;uveden&iacute;m zdroja &uacute;dajov.</div><div>Napr. Spr&aacute;va o pr&iacute;slu&scaron;nom ex-post</div><div>odhade po roku od dokončenia v&yacute;stupu, Prieskumy, CBA anal&yacute;za/ex-post CBA anal&yacute;za.</div><div>&nbsp;</div>Pre projekty poskytovateľa MD SR plat&iacute;, že&nbsp;zmluvne dohodnut&aacute; cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa mus&iacute; byť dodržan&aacute; po&nbsp;cel&uacute; dobu udržateľnosti projektu, vr&aacute;tane posledn&eacute;ho roka tejto doby.</div><div><div><b>3.2</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Trolejbusov&aacute; doprava</div></div></div><div style=\"clear:both\"><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium&nbsp;z &uacute;rovne 3</div></div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div></div></div></div></div></div></div></div></div><div style=\"clear:both\"><div><div>Žiadateľ cieľov&uacute; hodnotu odhaduje ako časov&uacute; &uacute;sporu cestuj&uacute;cich zo zn&iacute;ženia počtu vynechan&yacute;ch spojov na link&aacute;ch verejnej osobnej dopravy v&nbsp;min&uacute;tach za&nbsp;rok, za jednotliv&eacute; roky po finančnom ukončen&iacute; projektu (počas obdobia udržateľnosti projektu).</div><div>&nbsp;</div><div>Pri projektoch realizovan&yacute;ch s podporou poskytovateľa MD SR sa cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa stanovuje na&nbsp;z&aacute;klade očak&aacute;vanej časovej &uacute;spory cestuj&uacute;cich zo zn&iacute;ženia počtu vynechan&yacute;ch spojov na link&aacute;ch VOD v prvom roku po&nbsp;ukončen&iacute; fyzickej realiz&aacute;cie projektu. Tento &uacute;daj vych&aacute;dza z kvantifikovan&eacute;ho časov&eacute;ho radu, ktor&yacute; m&ocirc;že byť odvoden&yacute; z anal&yacute;zy n&aacute;kladov a pr&iacute;nosov (CBA) alebo in&eacute;ho vhodn&eacute;ho analytick&eacute;ho n&aacute;stroja, primeran&eacute;ho charakteru projektu.</div><div>&nbsp;</div><div>Prij&iacute;mateľ každoročne vykazuje skutočne dosiahnut&uacute; hodnotu merateľn&eacute;ho ukazovateľa, počn&uacute;c prvou n&aacute;slednou monitorovacou spr&aacute;vou, počas cel&eacute;ho obdobia udržateľnosti projektu s&nbsp;uveden&iacute;m zdroja &uacute;dajov.</div><div>Napr. Spr&aacute;va o pr&iacute;slu&scaron;nom ex-post</div><div>odhade po roku od dokončenia v&yacute;stupu, Prieskumy, CBA anal&yacute;za/ex-post CBA anal&yacute;za.</div><div>&nbsp;</div>Pre projekty poskytovateľa MD SR plat&iacute;, že&nbsp;zmluvne dohodnut&aacute; cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa mus&iacute; byť dodržan&aacute; po&nbsp;cel&uacute; dobu udržateľnosti projektu, vr&aacute;tane posledn&eacute;ho roka tejto doby.</div><div><div><b>3.3</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Autobusov&aacute; doprava</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium&nbsp;z &uacute;rovne 3</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div>Žiadateľ cieľov&uacute; hodnotu odhaduje ako časov&uacute; &uacute;sporu cestuj&uacute;cich zo zn&iacute;ženia počtu vynechan&yacute;ch spojov na link&aacute;ch verejnej osobnej dopravy v&nbsp;min&uacute;tach za&nbsp;rok, za jednotliv&eacute; roky po finančnom ukončen&iacute; projektu (počas obdobia udržateľnosti projektu).</div><div>&nbsp;</div><div>Pri projektoch realizovan&yacute;ch s podporou poskytovateľa MD SR sa cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa stanovuje na&nbsp;z&aacute;klade očak&aacute;vanej časovej &uacute;spory cestuj&uacute;cich zo zn&iacute;ženia počtu vynechan&yacute;ch spojov na link&aacute;ch VOD v prvom roku po&nbsp;ukončen&iacute; fyzickej realiz&aacute;cie projektu. Tento &uacute;daj vych&aacute;dza z kvantifikovan&eacute;ho časov&eacute;ho radu, ktor&yacute; m&ocirc;že byť odvoden&yacute; z anal&yacute;zy n&aacute;kladov a pr&iacute;nosov (CBA) alebo in&eacute;ho vhodn&eacute;ho analytick&eacute;ho n&aacute;stroja, primeran&eacute;ho charakteru projektu.</div><div>&nbsp;</div><div>Prij&iacute;mateľ každoročne vykazuje skutočne dosiahnut&uacute; hodnotu merateľn&eacute;ho ukazovateľa, počn&uacute;c prvou n&aacute;slednou monitorovacou spr&aacute;vou, počas cel&eacute;ho obdobia udržateľnosti projektu s&nbsp;uveden&iacute;m zdroja &uacute;dajov.</div><div>Napr. Spr&aacute;va o pr&iacute;slu&scaron;nom ex-post</div><div>odhade po roku od dokončenia v&yacute;stupu, Prieskumy, CBA anal&yacute;za/ex-post CBA anal&yacute;za.</div><div>&nbsp;</div>Pre projekty poskytovateľa MD SR plat&iacute;, že&nbsp;zmluvne dohodnut&aacute; cieľov&aacute; hodnota merateľn&eacute;ho ukazovateľa mus&iacute; byť dodržan&aacute; po&nbsp;cel&uacute; dobu udržateľnosti projektu, vr&aacute;tane posledn&eacute;ho roka tejto doby.</div></div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1709718682108,
+    "updatedAt": 1757318258638
+   }
+  }
+ ],
+ "ukazovatelVystupovy": [
+  {
+   "id": 594,
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1238,
+    "href": "/ukazovatelprojektovy/id/1238",
+    "kod": "PSKPRCO57",
+    "nazovSk": "Kapacita koľajových vozidiel  verejnej hromadnej dopravy šetrných k životnému prostrediu",
+    "mernaJednotka": {
+     "id": 200078,
+     "kod": "105379",
+     "nazovSk": "cestujúci",
+     "popisSk": "cestujúci",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Kapacita ekologick&yacute;ch koľajov&yacute;ch/nekoľajov&yacute;ch vozidiel pre</div><div>verejn&uacute; hromadn&uacute; dopravu (s n&iacute;zkymi alebo nulov&yacute;mi emisiami).</div><ul><li>ekologick&eacute; vozidl&aacute; zahŕňaj&uacute; verejn&uacute; hromadn&uacute; dopravu s n&iacute;zkymi emisiami uhl&iacute;ka alebo s nulov&yacute;mi emisiami (autobusy, trolejbusy, električky, atď.)</li><li>kapacitou sa rozumie v&yacute;robcom určen&aacute; kapacita sediacich a stojacich cestuj&uacute;cich</li></ul></div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Prij&iacute;mateľ vykazuje dosiahnut&uacute; hodnotu v r&aacute;mci v&yacute;ročn&yacute;ch monitorovac&iacute;ch spr&aacute;v projektu a z&aacute;verečnej monitorovacej spr&aacute;vy projektu s uveden&iacute;m zdroja &uacute;dajov (napr. technick&yacute; preukaz vozidla, pr&iacute;slu&scaron;n&eacute; technick&eacute; protokoly).<div><br />&nbsp;</div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1673950230778,
+    "updatedAt": 1741776753132
+   }
+  },
+  {
+   "id": 631,
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1330,
+    "href": "/ukazovatelprojektovy/id/1330",
+    "kod": "PSKPSOI20",
+    "nazovSk": "Počet vybudovaných a modernizovaných technických základní na opravu a údržbu vozového parku verejnej osobnej dopravy",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Vybudovan&eacute; technick&eacute; z&aacute;kladne na opravu a &uacute;držbu vozov&eacute;ho parku dr&aacute;hovej MHD, resp. vybudovan&eacute; technick&eacute; z&aacute;kladne dr&aacute;hovej MHD zl&uacute;čen&eacute; s autobusovou dopravou.</div>V zmysle paragrafu 2 z&aacute;kona o dr&aacute;hach (z&aacute;kon č. 513/2009 Z. z.) sa pojem &bdquo;dr&aacute;hov&aacute; MHD&ldquo; vzťahuje na električkov&uacute; a trolejbusov&uacute; dopravu.</div><div><b>Povinnosť plnenia:&nbsp;</b>Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Spr&aacute;va o dokončen&iacute; v&yacute;stupu s pr&iacute;slu&scaron;n&yacute;mi technick&yacute;mi protokolmi, Rozhodnutie o predčasnom už&iacute;van&iacute; stavby, Kolaudačn&eacute; rozhodnutie. Dokument&aacute;cia skutočn&eacute;ho vyhotovenia stavby, Preberac&iacute; protokol.</div><div><div><b>1.2</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Modernizovan&eacute; technick&eacute; z&aacute;kladne na opravu a &uacute;držbu vozov&eacute;ho parku dr&aacute;hovej MHD, resp. modernizovan&eacute; technick&eacute; z&aacute;kladne dr&aacute;hovej MHD zl&uacute;čen&eacute; s autobusovou dopravou.</div><div><b>Povinnosť plnenia:&nbsp;</b>Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div><div>Najm&auml;: Spr&aacute;va o dokončen&iacute; v&yacute;stupu s pr&iacute;slu&scaron;n&yacute;mi technick&yacute;mi protokolmi, Rozhodnutie o predčasnom už&iacute;van&iacute; stavby, Kolaudačn&eacute; rozhodnutie. Dokument&aacute;cia skutočn&eacute;ho vyhotovenia stavby, Preberac&iacute; protokol.</div></div></div><div style=\"clear:both\"><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Dr&aacute;hov&aacute; MHD.</div><div><b>Povinnosť plnenia:&nbsp;</b>Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne 2</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Spr&aacute;va o dokončen&iacute; v&yacute;stupu s pr&iacute;slu&scaron;n&yacute;mi technick&yacute;mi protokolmi, Rozhodnutie o predčasnom už&iacute;van&iacute; stavby, Kolaudačn&eacute; rozhodnutie. Dokument&aacute;cia skutočn&eacute;ho vyhotovenia stavby, Preberac&iacute; protokol.</div><div><div><b>2.2</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Dr&aacute;hov&aacute; MHD vr&aacute;tane autobusovej dopravy.</div><div><b>Povinnosť plnenia:</b>&nbsp;Minim&aacute;lne jedno krit&eacute;rium z &uacute;rovne&nbsp;2</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div><div>Najm&auml;: Spr&aacute;va o dokončen&iacute; v&yacute;stupu s pr&iacute;slu&scaron;n&yacute;mi technick&yacute;mi protokolmi, Rozhodnutie o predčasnom už&iacute;van&iacute; stavby, Kolaudačn&eacute; rozhodnutie. Dokument&aacute;cia skutočn&eacute;ho vyhotovenia stavby, Preberac&iacute; protokol.</div></div></div><div style=\"clear:both\">&nbsp;</div></div></div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1677669291400,
+    "updatedAt": 1741783621496
+   }
+  },
+  {
+   "id": 848,
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1705,
+    "href": "/ukazovatelprojektovy/id/1705",
+    "kod": "PSKPO024",
+    "nazovSk": "Počet nových mobilných prostriedkov dráhovej mestskej hromadnej dopravy (električky, trolejbusy) vhodných tiež pre cestujúcich s obmedzenou mobilitou",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div>Definičn&aacute; matica</div><div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>1.</div><div>Ukazovateľ vyjadruje celkov&yacute; počet obstaran&yacute;ch nov&yacute;ch električiek a trolejbusov v mest&aacute;ch Bratislava, Ko&scaron;ice, Žilina, Pre&scaron;ov a Bansk&aacute; Bystrica.</div><div><b>Povinnosť plnenia:</b> &Aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch&nbsp;prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla:</b></div><div><div><div><div>Najm&auml;: Spr&aacute;va o dokončen&iacute; v&yacute;stupu&nbsp;s pr&iacute;slu&scaron;n&yacute;mi technick&yacute;mi protokolmi,</div><div>Technick&yacute; preukaz vozidla, Rozhodnutie&nbsp;o schv&aacute;len&iacute; typu dr&aacute;hov&eacute;ho vozidla.</div></div></div></div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div></div><div>&nbsp;</div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1719997596291
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 46,
+   "href": "/typakcieprogramu/id/46",
+   "kod": "401203R20801041",
+   "nazovSk": "Vybudovanie a modernizácia technickej základne na správu vozidiel MHD",
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "opatrenie": {
+    "id": 5,
+    "href": "/opatrenie/id/5",
+    "kod": "401203R20801",
+    "nazovSk": "Rozvoj verejnej dopravy",
+    "specifickyCielProgramu": {
+     "id": 2,
+     "href": "/specifickycielprogramu/id/2",
+     "kod": "401203R208",
+     "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 5,
+      "href": "/priorita/id/5",
+      "kod": "401203",
+      "nazovSk": "2P3 Udržateľná mestská mobilita",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867942
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868316
+    },
+    "createdAt": 1772540868324
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516227604,
+   "updatedAt": 1772541473142
+  },
+  {
+   "id": 44,
+   "href": "/typakcieprogramu/id/44",
+   "kod": "401203R20801021",
+   "nazovSk": "Obnova a modernizácia mobilných prostriedkov dráhovej MHD a vozidiel zabezpečujúcich MHD a prímestskú dopravu (autobusy na alternatívny pohon vrátane súvisiacej plniacej a nabíjacej infraštruktúry)",
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "opatrenie": {
+    "id": 5,
+    "href": "/opatrenie/id/5",
+    "kod": "401203R20801",
+    "nazovSk": "Rozvoj verejnej dopravy",
+    "specifickyCielProgramu": {
+     "id": 2,
+     "href": "/specifickycielprogramu/id/2",
+     "kod": "401203R208",
+     "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 5,
+      "href": "/priorita/id/5",
+      "kod": "401203",
+      "nazovSk": "2P3 Udržateľná mestská mobilita",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867942
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868316
+    },
+    "createdAt": 1772540868324
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516227603,
+   "updatedAt": 1772541473142
+  },
+  {
+   "id": 890,
+   "href": "/typakcieprogramu/id/890",
+   "kod": "401203R208010P1",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "opatrenie": {
+    "id": 5,
+    "href": "/opatrenie/id/5",
+    "kod": "401203R20801",
+    "nazovSk": "Rozvoj verejnej dopravy",
+    "specifickyCielProgramu": {
+     "id": 2,
+     "href": "/specifickycielprogramu/id/2",
+     "kod": "401203R208",
+     "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 5,
+      "href": "/priorita/id/5",
+      "kod": "401203",
+      "nazovSk": "2P3 Udržateľná mestská mobilita",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867942
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868316
+    },
+    "createdAt": 1772540868324
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516235473,
+   "updatedAt": 1772541473143
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200090,
+    "kod": "10364PO081",
+    "kodZdroj": "081",
+    "nazovSk": "Infraštruktúra čistej mestskej dopravy",
+    "nazovEn": "Infraštruktúra čistej mestskej dopravy",
+    "nazovDe": "Umweltfreundliche Nahverkehrsinfrastruktur",
+    "popisSk": "Infraštruktúra čistej mestskej dopravy ",
+    "popisDe": "Umweltfreundliche Nahverkehrsinfrastruktur",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200091,
+    "kod": "10364PO082",
+    "kodZdroj": "082",
+    "nazovSk": "Koľajové vozidlá čistej mestskej dopravy",
+    "nazovEn": "Koľajové vozidlá čistej mestskej dopravy",
+    "nazovDe": "Umweltfreundliches rollendes Material im Nahverkehr",
+    "popisSk": "Koľajové vozidlá čistej mestskej dopravy ",
+    "popisDe": "Umweltfreundliches rollendes Material im Nahverkehr",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200014,
+    "kod": "10384PO14",
+    "kodZdroj": "14",
+    "nazovSk": "Doprava a skladovanie",
+    "nazovEn": "Doprava a skladovanie",
+    "nazovDe": "Verkehr und Lagerei",
+    "popisSk": "Doprava a skladovanie",
+    "popisDe": "Verkehr und Lagerei",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 2,
+    "href": "/specifickycielprogramu/id/2",
+    "kod": "401203R208",
+    "nazovSk": "RSO2.8 Podpora udržateľnej multimodálnej mestskej mobility ako súčasti prechodu na hospodárstvo s nulovou bilanciou uhlíka (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 5,
+     "href": "/priorita/id/5",
+     "kod": "401203",
+     "nazovSk": "2P3 Udržateľná mestská mobilita",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867942
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868316
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200010,
+    "kod": "12094PO11",
+    "kodZdroj": "11",
+    "nazovSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovEn": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "popisSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "popisDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 1,
+   "kod": "1033MRR",
+   "kodZdroj": "MRR",
+   "nazovSk": "Menej rozvinutý región",
+   "nazovEn": "less-developed regions",
+   "popisSk": "Menej rozvinutý región",
+   "popisEn": "less-developed regions",
+   "platnostOd": 725842800000
+  },
+  {
+   "id": 2,
+   "kod": "1033VRR",
+   "kodZdroj": "VRR",
+   "nazovSk": "Viac rozvinutý región",
+   "nazovEn": "more-developed regions",
+   "popisSk": "Viac rozvinutý región",
+   "popisEn": "more-developed regions",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [
+  {
+   "datumZverejnenia": 1720476000000,
+   "nazov": "Zverejnenie verzie výzvy",
+   "text": "<div><div>Ministerstvo dopravy SR ako sprostredkovateľsk&yacute; org&aacute;n pre Program Slovensko 2021 &ndash; 2027 (ďalej aj &bdquo;poskytovateľ&ldquo;) prist&uacute;pil k&nbsp;zmene v&yacute;zvy <b>z&nbsp;d&ocirc;vodu potreby monitorovania (dosledovania) merateľn&eacute;ho ukazovateľa projektu v&nbsp;zmysle schv&aacute;lenej ŽoNFP z&nbsp;prvej f&aacute;zy projektu.</b></div><div><b>Dokumenty v&yacute;zvy dotknut&eacute; zmenou, <u>hlavn&yacute; obsah ich zmien</u> a&nbsp;zd&ocirc;vodnenie zmien:</b></div><ol><li><b>V&yacute;zva:</b></li></ol><ul><li>form&aacute;lna zmena t&yacute;kaj&uacute;ca sa opravy odkazu na formul&aacute;r ŽoNFP v PPP č. 5 &bdquo;Podmienka splnenia krit&eacute;ri&iacute; pre v&yacute;ber projektov&ldquo;.</li></ul><ol><li value=\"2\"><b>Pr&iacute;lohy</b>:</li></ol><ul><li><b>Pr&iacute;loha č. 1 Formul&aacute;r ŽoNFP popis - in&scaron;trukcia k vyplneniu ŽoNFP </b>&ndash; formul&aacute;r bol nahraden&yacute; nov&yacute;m formul&aacute;rom platn&yacute;m pre ITMS21+;</li><li><b>Pr&iacute;loha č. 2 Krit&eacute;ri&aacute; pre v&yacute;ber projektov</b> &ndash; form&aacute;lne &uacute;pravy (oprava odkazu, vymazanie pozn&aacute;mky nerelevantnej pre žiadateľa);</li><li><b>Pr&iacute;loha č. 4 Zoznam merateľn&yacute;ch ukazovateľov projektu a in&yacute;ch &uacute;dajov </b>&ndash; doplnen&yacute; nov&yacute; merateľn&yacute; ukazovateľ v&yacute;stupu PSKPO024 Počet nov&yacute;ch mobiln&yacute;ch prostriedkov dr&aacute;hovej mestskej hromadnej dopravy (električky, trolejbusy) vhodn&yacute;ch tiež pre cestuj&uacute;cich s obmedzenou mobilitou z&nbsp;d&ocirc;vodu potreby monitorovania merateľn&eacute;ho ukazovateľa projektu v zmysle schv&aacute;lenej ŽoNFP z prvej f&aacute;zy projektu.</li></ul></div>",
+   "dokument": []
+  }
+ ],
+ "projektovyZamerIUS": []
+}

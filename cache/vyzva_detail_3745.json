@@ -1,0 +1,1092 @@
+{
+ "id": 3745,
+ "href": "/vyzva/id/3745",
+ "kod": "FVZ-2025-AMIF-SC2-A9-V16",
+ "nazovSk": "Operačná podpora MPSVaR",
+ "program": {
+  "id": 6,
+  "href": "/program/id/6",
+  "kod": "408010",
+  "nazovSk": "Fond pre azyl, migráciu a integráciu",
+  "nazovEn": "Asylum, Migration and Integration Fund",
+  "skratka": "AMIF",
+  "sumaEu": 36959799.32,
+  "sumaSr": 8869584.45,
+  "sumaSpolu": 45829383.77,
+  "typProgramu": {
+   "typ": "VF",
+   "jedenFond": true,
+   "maKategoriuReg": false,
+   "maPriority": false,
+   "maOpatrenia": false
+  },
+  "kodCCI": "2021SK65AMPR001",
+  "riadiaciOrgan": {
+   "id": 399
+  },
+  "createdAt": 1751271783339,
+  "updatedAt": 1751271783376
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 77,
+   "href": "/specifickycielprogramu/id/77",
+   "kod": "4080100002",
+   "nazovSk": "Legálna migrácia a integrácia",
+   "nazovEn": "Legal migration and integration",
+   "program": {
+    "id": 6,
+    "href": "/program/id/6"
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 11,
+    "kod": "1032AMIF",
+    "kodZdroj": "AMIF",
+    "nazovSk": "Fond pre azyl, migráciu a integráciu",
+    "nazovEn": "Fond pre azyl, migráciu a integráciu",
+    "popisSk": "Fond pre azyl, migráciu a integráciu",
+    "popisEn": "Fond pre azyl, migráciu a integráciu",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1751271783426
+  }
+ ],
+ "opatrenie": [],
+ "miestoRealizacie": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 42,
+   "kod": "1009321",
+   "kodZdroj": "321",
+   "nazovSk": "Rozpočtová organizácia",
+   "nazovEn": "Budgetary organization",
+   "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+   "popisEn": "Budgetary organization Budgetary organization",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1766098800000,
+ "datumUkoncenia": 1774908000000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 399,
+  "kod": "21_RO_FVZ_MVSR",
+  "nazov": "Riadiaci orgán programov Fondov pre oblasť vnútorných záležitostí 2021-2027 - Ministerstvo vnútra SR",
+  "subjekt": {
+   "id": 100004,
+   "href": "/subjekt/id/100004",
+   "nazov": "Ministerstvo vnútra Slovenskej republiky",
+   "ico": "00151866",
+   "dic": "2020571520",
+   "icz": "1001753291",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2020571520",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "2",
+    "psc": "81272",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 399,
+  "kod": "21_RO_FVZ_MVSR",
+  "nazov": "Riadiaci orgán programov Fondov pre oblasť vnútorných záležitostí 2021-2027 - Ministerstvo vnútra SR",
+  "subjekt": {
+   "id": 100004,
+   "href": "/subjekt/id/100004",
+   "nazov": "Ministerstvo vnútra Slovenskej republiky",
+   "ico": "00151866",
+   "dic": "2020571520",
+   "icz": "1001753291",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2020571520",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "2",
+    "psc": "81272",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "UZAVRETA",
+ "zameranieProjektu": "NP_21",
+ "createdAt": 1765785696814,
+ "updatedAt": 1765785919444,
+ "sumaEu": 819500.0,
+ "predvyber": false,
+ "posudzovaneObdobie": [],
+ "pocetPredlozenychZiadosti": 1,
+ "pocetSchvalenychZiadosti": 0,
+ "pocetZiadostiVKonani": 1,
+ "pocetNeschvalenychZiadosti": 0,
+ "pocetRealizovanychProjektov": 0,
+ "planovanaVyzva": [],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 11,
+   "kod": "1032AMIF",
+   "kodZdroj": "AMIF",
+   "nazovSk": "Fond pre azyl, migráciu a integráciu",
+   "nazovEn": "Fond pre azyl, migráciu a integráciu",
+   "popisSk": "Fond pre azyl, migráciu a integráciu",
+   "popisEn": "Fond pre azyl, migráciu a integráciu",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "cielVyzvy": "<div><div>Cieľom v&yacute;zvy je podpora posilnenia existuj&uacute;cich person&aacute;lnych kapac&iacute;t Ministerstva pr&aacute;ce, soci&aacute;lnych vec&iacute; a rodiny SR o nov&eacute; odborn&eacute; kapacity, ktor&eacute; prispej&uacute; k zabezpečeniu vysokej kvality riadenia a koordin&aacute;cie dlhodobej integr&aacute;cie &scaron;t&aacute;tnych pr&iacute;slu&scaron;n&iacute;kov tret&iacute;ch kraj&iacute;n vr&aacute;tane migrantov v oblasti pracovnej mobility.</div>Identifik&aacute;cia a rie&scaron;enie potrieb &scaron;t&aacute;tnych pr&iacute;slu&scaron;n&iacute;kov tret&iacute;ch kraj&iacute;n vr&aacute;tane migrantov na pracovnom trhu SR na z&aacute;klade sk&uacute;senost&iacute; či už existuj&uacute;cich odborn&yacute;ch kapac&iacute;t žiadateľa alebo novoprijat&yacute;ch zamestnancov s&uacute; očak&aacute;van&yacute;mi v&yacute;sledkami NP.&nbsp;</div>",
+ "sposobFinancovania": [],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktNazov": "Riadiaci orgán programov Fondov pre oblasť vnútorných záležitostí - MV SR",
+ "kontaktEmail": "sekretariat.ozp@minv.sk",
+ "kontaktnaOsoba": [
+  {
+   "osoba": {
+    "titulPred": "Ing.",
+    "meno": "Marek",
+    "priezvisko": "Veľký",
+    "titulZa": "",
+    "menoUplne": "Ing. Marek Veľký"
+   },
+   "telefon": "+421 961 577 273",
+   "email": "marek.velky@minv.sk"
+  }
+ ],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "Oprávnenosť žiadateľa",
+   "popisSk": "<div><div><div><div>V r&aacute;mci tejto V&yacute;zvy je opr&aacute;vnen&yacute;m žiadateľom:</div><div><b>Ministerstvo pr&aacute;ce, soci&aacute;lnych vec&iacute; a rodiny SR</b></div><div>IČO: 00681156</div><div>&nbsp;</div><div><u>Forma preuk&aacute;zania zo strany žiadateľa:</u></div><div><b>Formul&aacute;r ŽoNFP</b> &ndash; časť 1. Identifik&aacute;cia žiadateľa</div><div>ak relevantn&eacute;:</div><div>&nbsp;</div><div><b>Splnomocnenie</b> osoby konaj&uacute;cej v mene žiadateľa / <b>Intern&yacute; predpis </b>vo forme skenu podp&iacute;san&eacute;ho a &uacute;radne overen&eacute;ho listinn&eacute;ho origin&aacute;lu (vo form&aacute;te .pdf)</div><div>&nbsp;</div><div><div><b><span style=\"background-color:#AFEEEE\">Upozornenie:</span></b></div><div><span style=\"background-color:#AFEEEE\">V pr&iacute;pade, ak je osoba konaj&uacute;ca v mene opr&aacute;vnen&eacute;ho žiadateľa odli&scaron;n&aacute; od &scaron;tatut&aacute;rneho org&aacute;nu žiadateľa mus&iacute; byť riadne splnomocnen&aacute;, resp. preuk&aacute;zateľne opr&aacute;vnen&aacute; na v&yacute;kon predmetn&yacute;ch &uacute;konov. V takom pr&iacute;pade je žiadateľ povinn&yacute; k ŽoNFP predložiť pr&iacute;lohu ŽoNFP &ndash; </span><b><span style=\"background-color:#AFEEEE\">Plnomocenstvo / intern&yacute; predpis</span></b><span style=\"background-color:#AFEEEE\">, ktor&aacute; preukazuje, že osoba konaj&uacute;ca v mene žiadateľa, ktor&aacute; nie je &scaron;tatut&aacute;rnym org&aacute;nom žiadateľa, je riadne splnomocnen&aacute; a opr&aacute;vnen&aacute; vykon&aacute;vať relevantn&eacute; &uacute;kony vo vzťahu k ŽoNFP.</span></div><div><span style=\"background-color:#AFEEEE\">Origin&aacute;l plnomocenstva žiadateľ uchov&aacute;va u seba. V&nbsp;pr&iacute;pade zmeny (alebo doplnenia splnomocnenej osoby) &scaron;tatut&aacute;rneho org&aacute;nu v priebehu konania o ŽoNFP je žiadateľ povinn&yacute; zaslať poskytovateľovi ozn&aacute;menie o takejto zmene vr&aacute;tane relevantnej pr&iacute;lohy prostredn&iacute;ctvom Komunik&aacute;cie v ITMS.</span></div><div>&nbsp;</div></div><div><u>Sp&ocirc;sob overenia:</u></div><div>Overenie &uacute;dajov vo formul&aacute;ri a pr&iacute;loh&aacute;ch ŽoNFP, pr&iacute;padne s Registrom a identifik&aacute;torom pr&aacute;vnick&yacute;ch os&ocirc;b, podnikateľov a org&aacute;nov verejnej moci, dostupnom na: <a href=\"https://rpo.statistics.sk/\">https://rpo.statistics.sk </a>alebo v in&yacute;ch verejn&yacute;ch registroch <a href=\"https://oversi.gov.sk/\">(https://oversi.gov.sk</a>).</div><div>&nbsp;</div><div><u>Čas plnenia/overenia:</u></div><div>Podmienka bude overovan&aacute; v konan&iacute; o ŽoNFP.</div></div></div><div style=\"clear:both\">&nbsp;</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Formulár ŽoNFP (tabuľka č. 1 - Identifikácia žiadateľa)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Splnomocnenie osoby konajúcej v mene žiadateľa",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "Podmienka splnenia kritérií pre výber projektov",
+   "popisSk": "<div><div>Predkladan&aacute; ŽoNFP mus&iacute; splniť krit&eacute;ri&aacute; pre v&yacute;ber projektov v&nbsp;zmysle pr&iacute;lohy v&yacute;zvy č. 4 Metodika a krit&eacute;ri&aacute; pre v&yacute;ber projektov programov Fondov pre</div><div>oblasť vn&uacute;torn&yacute;ch z&aacute;ležitost&iacute;.</div><div><u>Forma preuk&aacute;zania zo strany žiadateľa:</u></div><div>Bez nutnosti predkladania samostatnej pr&iacute;lohy.</div><div>Žiadateľ preukazuje splnenie tejto PPP vo Formul&aacute;ri ŽoNFP vr&aacute;tane pr&iacute;loh.</div><div>&nbsp;</div><div><u>Sp&ocirc;sob overenia:</u></div><div>Overenie &uacute;dajov vo formul&aacute;ri a pr&iacute;loh&aacute;ch ŽoNFP.</div><div>&nbsp;</div><div><u>Čas plnenia/overenia:</u></div>Podmienka bude overovan&aacute; v konan&iacute; o ŽoNFP a je potrebn&eacute; ju plniť počas celej realiz&aacute;cie projektu a obdobia udržateľnosti (ak relevantn&eacute;).</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "Podmienka oprávnenosti aktivít projektu",
+   "popisSk": "<div><div>Predkladan&yacute; projekt mus&iacute; byť vo vecnom s&uacute;lade so &scaron;pecifick&yacute;m cieľom <i>2. Leg&aacute;lna migr&aacute;cia a integr&aacute;cia </i>s&nbsp;nasledovnou akciou programu AMIF<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a>:</div><div>&nbsp;</div><div>▪ <b>Operačn&aacute; podpora MPSVaR </b></div><div>&nbsp;</div><div>Aktivity financovan&eacute; z&nbsp;fondu AMIF, ktor&eacute; bud&uacute; realizovan&eacute; v r&aacute;mci programu AMIF nesm&uacute; prispievať k plneniu cieľov Pl&aacute;nu obnovy a&nbsp;odolnosti a Programu Slovensko.</div><div>&nbsp;</div><div>Žiadateľ je povinn&yacute; definovať nasleduj&uacute;cu hlavn&uacute; aktivitu: <b>Nav&yacute;&scaron;enie person&aacute;lnych odborn&yacute;ch kapac&iacute;t pre oblasť pracovnej mobility &scaron;t&aacute;tnych pr&iacute;slu&scaron;n&iacute;kov tret&iacute;ch kraj&iacute;n vr&aacute;tane leg&aacute;lnych migrantov u prij&iacute;mateľa NFP</b></div><div>&nbsp;</div><div><u>Forma preuk&aacute;zania zo strany žiadateľa:</u></div><div>Žiadateľ preukazuje splnenie tejto PPP vo Formul&aacute;ri ŽoNFP a pr&iacute;lohe ŽoNFP:</div><div><b>P02 Inform&aacute;cie o&nbsp;projekte</b>, časť 7.</div><div>&nbsp;</div><div><u>Sp&ocirc;sob overenia:</u></div><div>Overenie &uacute;dajov vo formul&aacute;ri a pr&iacute;loh&aacute;ch ŽoNFP.</div><div>&nbsp;</div><div><u>Čas plnenia/overenia:</u></div>Podmienka bude overovan&aacute; v konan&iacute; o&nbsp;ŽoNFP a&nbsp;je potrebn&eacute; ju plniť počas celej realiz&aacute;cie projektu.<div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Program AMIF zverejnen&yacute; na&nbsp; <a href=\"https://www.minv.sk/?o-fonde-amif\">https://www.minv.sk/?o-fonde-amif</a>.</div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Formulár ŽoNFP",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "P02 Informácie o projekte",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": true
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "Oprávnenosť miesta realizácie projektu",
+   "popisSk": "<div><div><b>Žiadateľ je povinn&yacute; realizovať projekt na opr&aacute;vnenom &uacute;zem&iacute;.</b></div><div>Pre t&uacute;to v&yacute;zvu je opr&aacute;vnen&yacute;m miestom realiz&aacute;cie projektu cel&eacute; &uacute;zemie Slovenskej republiky.</div><div>Na pos&uacute;denie tejto podmienky nem&aacute; vplyv umiestnenie administrat&iacute;vneho s&iacute;dla žiadateľa. Projekt m&ocirc;že byť realizovan&yacute; aj na viacer&yacute;ch opr&aacute;vnen&yacute;ch miestach (uveden&yacute;ch v ŽoNFP).</div><div>&nbsp;</div><div><u>Forma preuk&aacute;zania zo strany žiadateľa:</u></div><div>Bez nutnosti predkladania samostatnej pr&iacute;lohy.</div><div>Žiadateľ preukazuje splnenie tejto PPP vo Formul&aacute;ri ŽoNFP vr&aacute;tane pr&iacute;loh.</div><div>&nbsp;</div><div><u>Sp&ocirc;sob overenia:</u></div><div>Overenie &uacute;dajov vo formul&aacute;ri a pr&iacute;loh&aacute;ch ŽoNFP.</div><div>&nbsp;</div><div><u>Čas plnenia/overenia:</u></div><div>Podmienka bude overovan&aacute; v konan&iacute; o ŽoNFP a&nbsp;je potrebn&eacute; ju plniť počas celej realiz&aacute;cie projektu.</div><div><div><b><span style=\"background-color:#99ccff\">Upozornenie:</span></b></div><div><span style=\"background-color:#99ccff\">Žiadateľ v časti 6.A Miesto realiz&aacute;cie projektu vyberie Lokalitu: </span><b><span style=\"background-color:#99ccff\">Dom&aacute;ci (SK) </span></b><span style=\"background-color:#99ccff\">a&nbsp;k&nbsp;nej pre projekt relevantn&eacute; </span><i><span style=\"background-color:#99ccff\">samospr&aacute;vne kraje (NUTS III)</span></i><span style=\"background-color:#99ccff\"> (v pr&iacute;pade ak bude projekt realizovan&yacute; na celom &uacute;zem&iacute; SK je potrebn&eacute; jednotlivo priradiť v&scaron;etky samospr&aacute;vne kraje).</span></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 5,
+   "nazovSk": "Podmienka definovania merateľných ukazovateľov projektu",
+   "popisSk": "<div><div>Žiadateľ je povinn&yacute; vybrať si <b>každ&yacute; merateľn&yacute; ukazovateľ projektu </b>v zmysle pr&iacute;lohy v&yacute;zvy č. <i>6.</i> <i>Zoznam merateľn&yacute;ch ukazovateľov</i> <i>a in&yacute;ch &uacute;dajov</i> a stanoviť jeho &bdquo;nenulov&uacute;&ldquo; cieľov&uacute; hodnotu, ktor&aacute; m&aacute; byť realiz&aacute;ciou navrhovanej aktivity dosiahnut&aacute;. To znamen&aacute;, že v&scaron;etky ukazovatele zo zoznamu merateľn&yacute;ch ukazovateľov (pr&iacute;loha č. 6 v&yacute;zvy) s&uacute; povinn&eacute; a musia byť priraden&eacute; aspoň k jednej hlavnej aktivite projektu s pl&aacute;novanou cieľovou hodnotou inou ako nula.</div><div>V r&aacute;mci pr&iacute;lohy č. 6 v&yacute;zvy s&uacute; povinn&eacute; nasleduj&uacute;ce merateľn&eacute; ukazovatele:</div><ul><li>PAMIF-X2002 &ndash; Počet novovytvoren&yacute;ch miest</li></ul><div style=\"margin-left:38.25pt\">&nbsp;</div><div><u>Forma preuk&aacute;zania zo strany žiadateľa:</u></div><div>Bez nutnosti predkladania samostatnej pr&iacute;lohy.</div><div>Žiadateľ preukazuje splnenie tejto PPP vo Formul&aacute;ri ŽoNFP vr&aacute;tane pr&iacute;loh.</div><div>&nbsp;</div><div><u>Sp&ocirc;sob overenia:</u></div><div>Overenie &uacute;dajov vo formul&aacute;ri a pr&iacute;loh&aacute;ch ŽoNFP.</div><div>&nbsp;</div><div><u>Čas plnenia/overenia:</u></div>Podmienka bude overovan&aacute; v konan&iacute; o ŽoNFP.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 6,
+   "nazovSk": "Podmienka, že výdavky projektu sú oprávnené",
+   "popisSk": "<div><div>Postupy a pravidl&aacute; s&uacute;visiace s preukazovan&iacute;m (dokladovan&iacute;m) opr&aacute;vnenosti v&yacute;davkov v procese implement&aacute;cie projektu s&uacute; uveden&eacute; v&nbsp;pr&iacute;lohe v&yacute;zvy č. 3 <i>Pr&iacute;ručka k opr&aacute;vnenosti v&yacute;davkov programov Fondov pre oblasť vn&uacute;torn&yacute;ch z&aacute;ležitost&iacute; </i>v platnej verzii dostupnej na webovej str&aacute;nke: <a href=\"https://www.minv.sk/?informacie-pre-ziadatelov\">https://www.minv.sk/?informacie-pre-ziadatelov</a></div><div>&nbsp;</div><div>Za opr&aacute;vnen&eacute; v&yacute;davky sa považuj&uacute; v&yacute;davky, ktor&eacute; vznikli v opr&aacute;vnenom obdob&iacute; od <b>01.01.2026</b> <u>a s&uacute; v s&uacute;lade s v&yacute;zvou vr&aacute;tane pr&iacute;loh resp. so Zmluvou o poskytnut&iacute; NFP. Žiadateľ v zmysle čl&aacute;nku 63 ods. 6 nariadenia o&nbsp;spoločn&yacute;ch ustanoveniach<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><u>[1]</u></a> (ďalej len &bdquo;NSU&ldquo;) nesmie ukončiť fyzick&uacute; realiz&aacute;ciu v&scaron;etk&yacute;ch hlavn&yacute;ch aktiv&iacute;t projektu, t. j. plne zrealizovať v&scaron;etky hlavn&eacute; aktivity projektu, pred predložen&iacute;m ŽoNFP na RO.</u></div><div>&nbsp;</div><div><b>Opr&aacute;vnen&yacute;mi v&yacute;davkami v r&aacute;mci v&yacute;zvy s&uacute;:</b></div><div>&nbsp;</div><ul><li>810 &ndash; Osobn&eacute; v&yacute;davky (AMIF, ISF a BMVI)</li><li>820 &ndash; Cestovn&eacute; n&aacute;hrady (AMIF, ISF a BMVI)</li><li>833 &ndash; Materi&aacute;lno-technick&eacute; vybavenie (AMIF, ISF a BMVI)</li><li>839 &ndash; Ostatn&yacute; nehmotn&yacute; majetok, vybavenie a materi&aacute;l (AMIF, ISF a BMVI)</li></ul><div>&nbsp;</div><div><u>Forma preuk&aacute;zania zo strany žiadateľa:</u></div><div>Žiadateľ preukazuje splnenie tejto PPP vo Formul&aacute;ri ŽoNFP a pr&iacute;lohe ŽoNFP:</div><div>&nbsp;</div><div><b>P01 Rozpočet projektu</b></div><div>&nbsp;</div><div><u>Sp&ocirc;sob overenia:</u></div><div>Overenie &uacute;dajov vo formul&aacute;ri a pr&iacute;loh&aacute;ch ŽoNFP.</div><div>&nbsp;</div><div><u>Čas plnenia/overenia:</u></div>Podmienka bude overovan&aacute; v konan&iacute; o&nbsp;ŽoNFP.<div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> <a href=\"https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=celex%3A32021R1060\"><b>Nariadenie Eur&oacute;pskeho parlamentu a Rady (E&Uacute;) 2021/1060 z 24. j&uacute;na 2021</b>, ktor&yacute;m sa stanovuj&uacute; spoločn&eacute; ustanovenia o Eur&oacute;pskom fonde region&aacute;lneho rozvoja, Eur&oacute;pskom soci&aacute;lnom fonde plus, Koh&eacute;znom fonde, Fonde na spravodliv&uacute; transform&aacute;ciu a Eur&oacute;pskom n&aacute;mornom, rybolovnom a akvakult&uacute;rnom fonde a rozpočtov&eacute; pravidl&aacute; pre uveden&eacute; fondy, ako aj pre Fond pre azyl, migr&aacute;ciu a integr&aacute;ciu, Fond pre vn&uacute;torn&uacute; bezpečnosť a N&aacute;stroj finančnej podpory na riadenie hran&iacute;c a v&iacute;zov&uacute; politiku</a></div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Formulár ŽoNFP",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Rozpočet projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": true
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 7,
+   "nazovSk": "Podmienka, že žiadateľ nie je evidovaný v Systéme včasného odhaľovania rizika a vylúčenia (EDES) ako vylúčená osoba alebo subjekt (v zmysle článku 135 nariadenia č. 2018/1046).",
+   "popisSk": "<div><div>Žiadateľ nesmie byť evidovan&yacute; v Syst&eacute;me včasn&eacute;ho odhaľovania rizika a vyl&uacute;čenia (EDES) ako vyl&uacute;čen&aacute; osoba alebo subjekt (v zmysle čl&aacute;nku 135 a nasleduj&uacute;ceho Nariadenia Eur&oacute;pskeho Parlamentu a Rady (E&Uacute;) č. 2018/1046).</div><div><u>Forma preuk&aacute;zania zo strany žiadateľa:</u></div><div>Bez nutnosti predkladania samostatnej pr&iacute;lohy.</div><div>&nbsp;</div><div><u>Sp&ocirc;sob overenia:</u></div><div>Overenie &uacute;dajov vo formul&aacute;ri a pr&iacute;loh&aacute;ch ŽoNFP, a &uacute;dajov evidovan&yacute;ch v informačn&yacute;ch syst&eacute;moch verejnej spr&aacute;vy, resp. &uacute;dajov v Syst&eacute;me včasn&eacute;ho odhaľovania rizika a vyl&uacute;čenia (EDES) (<a href=\"https://commission.europa.eu/strategy-and-policy/eu-budget/how-it-works/annual-lifecycle/implementation/anti-fraud-measures/edes/edes-database_sk\">https://commission.europa.eu/strategy-and-policy/eu-budget/how-it-works/annual-lifecycle/implementation/anti-fraud-measures/edes/edes-database_sk</a>).</div><div>&nbsp;</div><div><u>Čas plnenia/overenia:</u></div>Podmienka bude overovan&aacute; v konan&iacute; o ŽoNFP a&nbsp;je potrebn&eacute; ju plniť počas celej realiz&aacute;cie projektu.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [
+  {
+   "id": 100003,
+   "href": "/subjekt/id/100003",
+   "nazov": "Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky",
+   "ico": "00681156",
+   "dic": "2020796338",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2020796338",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Špitálska",
+    "cislo": "4-6",
+    "psc": "81643",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ ],
+ "maxZiadanaVyskaNfp": "819500.00",
+ "maxMiera": "100.00",
+ "miestoRealizacieFull": [],
+ "miestoRealizacieStat": [
+  {
+   "id": 210,
+   "kod": "1012SK",
+   "kodZdroj": "703",
+   "nazovSk": "Slovensko",
+   "nazovEn": "Slovakia",
+   "popisSk": "Slovenská republika",
+   "popisEn": "Slovak Republic",
+   "platnostOd": 725842800000,
+   "lokalizacia": "SLOVENSKA_REPUBLIKA"
+  }
+ ],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040833",
+   "nazovSk": "Materiálno-technické vybavenie (AMIF, ISF a BMVI)",
+   "typAkcieProgramu": {
+    "id": 1179,
+    "href": "/typakcieprogramu/id/1179"
+   }
+  },
+  {
+   "kod": "1040820",
+   "nazovSk": "Cestovné náhrady (AMIF, ISF a BMVI)",
+   "typAkcieProgramu": {
+    "id": 1179,
+    "href": "/typakcieprogramu/id/1179"
+   }
+  },
+  {
+   "kod": "1040839",
+   "nazovSk": "Ostatný nehmotný majetok, vybavenie a materiál (AMIF, ISF a BMVI)",
+   "typAkcieProgramu": {
+    "id": 1179,
+    "href": "/typakcieprogramu/id/1179"
+   }
+  },
+  {
+   "kod": "1040810",
+   "nazovSk": "Osobné výdavky (AMIF, ISF a BMVI)",
+   "typAkcieProgramu": {
+    "id": 1179,
+    "href": "/typakcieprogramu/id/1179"
+   }
+  }
+ ],
+ "externyZdroj": [
+  {
+   "nazov": "minv.sk",
+   "url": "https://www.minv.sk/?aktualne-vyzvy-3"
+  }
+ ],
+ "dokument": [
+  {
+   "nazov": "Prílohy výzvy FVZ-2025-AMIF-SC2-A9-V16.zip",
+   "uuid": "d42b7315-33a0-4363-891d-1a4b1c73f2b2"
+  },
+  {
+   "nazov": "Výzva - FVZ-2025-AMIF-SC2-A9-V16.pdf",
+   "uuid": "51493445-ce27-4c8b-bfff-73a8d3ca9de7"
+  }
+ ],
+ "mieraSpolufinancovania": "<div>Podrobnej&scaron;ie inform&aacute;cie s&uacute; uveden&eacute; vo v&yacute;zve v časti 4. Financovanie projektu.</div>",
+ "sposobPodaniaZoNFP": "<div>Podrobnej&scaron;ie inform&aacute;cie s&uacute; uveden&eacute; vo v&yacute;zve v časti 7. Inform&aacute;cie k sp&ocirc;sobu predloženia ŽoNFP.</div>",
+ "miestoPrePodanieZoNFP": "<div>Podrobnej&scaron;ie inform&aacute;cie s&uacute; uveden&eacute; vo v&yacute;zve v časti 7. Inform&aacute;cie k sp&ocirc;sobu predloženia ŽoNFP.</div>",
+ "predpokladanaLehotaNaRozhodnutie": "<div>Podrobnej&scaron;ie inform&aacute;cie s&uacute; uveden&eacute; vo v&yacute;zve v časti 8. Predpokladan&aacute; lehota na vydanie rozhodnutia v konan&iacute; o ŽoNFP.</div>",
+ "zmenaAZrusenieVyzvy": "<div>Podrobnej&scaron;ie inform&aacute;cie s&uacute; uveden&eacute; vo v&yacute;zve v časti 12. Zmena a zru&scaron;enie v&yacute;zvy.</div>",
+ "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>",
+ "dalsiaSkutocnost": [
+  {
+   "kod": "DS001FVZ-2025-AMIF-SC2-A9-V16",
+   "dalsiaSkutocnost": "<div><div>Predkladan&yacute; projekt bude realizovan&yacute; v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi s povinnosťou dodržania s&uacute;ladu projektu s Chartou&nbsp; z&aacute;kladn&yacute;ch pr&aacute;v Eur&oacute;pskej &uacute;nie, rodovou rovnosťou, nediskrimin&aacute;ciou&nbsp; a pr&iacute;stupnosťou os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach, ber&uacute;c do &uacute;vahy Chartu z&aacute;kladn&yacute;ch pr&aacute;v Eur&oacute;pskej &uacute;nie a povinnosti vypl&yacute;vaj&uacute;ce z Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m a zabezpečenia pr&iacute;stupnosti v s&uacute;lade s jeho čl&aacute;nkom 9, ako horizont&aacute;lne z&aacute;kladn&eacute; podmienky, a&nbsp;to v&nbsp;z&aacute;vislosti od charakteru projektu a&nbsp;jeho aktiv&iacute;t.</div>Pri implement&aacute;cii pl&aacute;novan&yacute;ch aktiv&iacute;t projektu je potrebn&eacute; dodržiavať v&scaron;etky čl&aacute;nky Charty ZP E&Uacute; s d&ocirc;razom najm&auml; na čl&aacute;nky Charty ZP E&Uacute;, ktor&eacute; sa najviac vzťahuj&uacute; k pl&aacute;novan&yacute;m intervenci&aacute;m, aktivit&aacute;m a cieľov&yacute;m skupin&aacute;m.</div>"
+  }
+ ],
+ "dalsiaFormalnaNalezitost": [
+  {
+   "kod": "DFN001FVZ-2025-AMIF-SC2-A9-V16",
+   "dalsiaFormalnaNalezitost": "<div><div>Bliž&scaron;ie inform&aacute;cie o form&aacute;lnych n&aacute;ležitostiach s&uacute; uveden&eacute; v&nbsp;pr&iacute;lohe v&yacute;zvy č. 2 Pr&iacute;ručka pre žiadateľa o NFP programov Fondov pre oblasť vn&uacute;torn&yacute;ch z&aacute;ležitost&iacute;.</div><div>Vzor Zmluvy o poskytnut&iacute; NFP je zverejnen&yacute; na webovej str&aacute;nke <a href=\"http://www.minv.sk/\">www.minv.sk</a>.</div></div>"
+  }
+ ],
+ "verzia": [
+  {
+   "id": 6934,
+   "cislo": 1,
+   "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [],
+ "ukazovatelVystupovy": [
+  {
+   "id": 949,
+   "specifickyCielProgramu": {
+    "id": 77,
+    "href": "/specifickycielprogramu/id/77",
+    "kod": "4080100002",
+    "nazovSk": "Legálna migrácia a integrácia",
+    "nazovEn": "Legal migration and integration",
+    "program": {
+     "id": 6,
+     "href": "/program/id/6"
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 11,
+     "kod": "1032AMIF",
+     "kodZdroj": "AMIF",
+     "nazovSk": "Fond pre azyl, migráciu a integráciu",
+     "nazovEn": "Fond pre azyl, migráciu a integráciu",
+     "popisSk": "Fond pre azyl, migráciu a integráciu",
+     "popisEn": "Fond pre azyl, migráciu a integráciu",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1751271783426
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1710,
+    "href": "/ukazovatelprojektovy/id/1710",
+    "kod": "PAMIF-X2002",
+    "nazovSk": "Počet novovytvorených miest",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div>Počet novovytvoren&yacute;ch miest sa vypoč&iacute;ta ako s&uacute;čet zamestnancov na 100% pracovn&yacute; pomer (krat&scaron;&iacute; pracovn&yacute; pomer sa započ&iacute;ta pomerne) zamestnan&yacute;ch na projekt. Uveden&eacute;&nbsp;novovytvoren&eacute; miesta boli vytvoren&eacute; s podporou AMIF a boli obsaden&eacute; v čase realiz&aacute;cie hlavn&yacute;ch aktiv&iacute;t projektu.</div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 11,
+      "kod": "1032AMIF",
+      "kodZdroj": "AMIF",
+      "nazovSk": "Fond pre azyl, migráciu a integráciu",
+      "nazovEn": "Fond pre azyl, migráciu a integráciu",
+      "popisSk": "Fond pre azyl, migráciu a integráciu",
+      "popisEn": "Fond pre azyl, migráciu a integráciu",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1721973252970,
+    "updatedAt": 1726473691000
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 1199,
+   "href": "/typakcieprogramu/id/1199",
+   "kod": "4080100002000P0",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 77,
+    "href": "/specifickycielprogramu/id/77",
+    "kod": "4080100002",
+    "nazovSk": "Legálna migrácia a integrácia",
+    "nazovEn": "Legal migration and integration",
+    "program": {
+     "id": 6,
+     "href": "/program/id/6"
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 11,
+     "kod": "1032AMIF",
+     "kodZdroj": "AMIF",
+     "nazovSk": "Fond pre azyl, migráciu a integráciu",
+     "nazovEn": "Fond pre azyl, migráciu a integráciu",
+     "popisSk": "Fond pre azyl, migráciu a integráciu",
+     "popisEn": "Fond pre azyl, migráciu a integráciu",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1751271783426
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717583690444,
+   "updatedAt": 1751359442538
+  },
+  {
+   "id": 1179,
+   "href": "/typakcieprogramu/id/1179",
+   "kod": "408010000200090",
+   "nazovSk": "Operačná podpora MPSVaR",
+   "specifickyCielProgramu": {
+    "id": 77,
+    "href": "/specifickycielprogramu/id/77",
+    "kod": "4080100002",
+    "nazovSk": "Legálna migrácia a integrácia",
+    "nazovEn": "Legal migration and integration",
+    "program": {
+     "id": 6,
+     "href": "/program/id/6"
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 11,
+     "kod": "1032AMIF",
+     "kodZdroj": "AMIF",
+     "nazovSk": "Fond pre azyl, migráciu a integráciu",
+     "nazovEn": "Fond pre azyl, migráciu a integráciu",
+     "popisSk": "Fond pre azyl, migráciu a integráciu",
+     "popisEn": "Fond pre azyl, migráciu a integráciu",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1751271783426
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717583689893,
+   "updatedAt": 1751359442538
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 77,
+    "href": "/specifickycielprogramu/id/77",
+    "kod": "4080100002",
+    "nazovSk": "Legálna migrácia a integrácia",
+    "nazovEn": "Legal migration and integration",
+    "program": {
+     "id": 6,
+     "href": "/program/id/6"
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 11,
+     "kod": "1032AMIF",
+     "kodZdroj": "AMIF",
+     "nazovSk": "Fond pre azyl, migráciu a integráciu",
+     "nazovEn": "Fond pre azyl, migráciu a integráciu",
+     "popisSk": "Fond pre azyl, migráciu a integráciu",
+     "popisEn": "Fond pre azyl, migráciu a integráciu",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1751271783426
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200212,
+    "kod": "10361036AMIFII012",
+    "kodZdroj": "012",
+    "nazovSk": "Operačná podpora",
+    "nazovEn": "Operačná podpora",
+    "popisSk": "Operačná podpora",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [],
+ "uzemnyMechanizmusAZameranie": [],
+ "hospodarskaCinnost": [],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [],
+ "typAkcie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 77,
+    "href": "/specifickycielprogramu/id/77",
+    "kod": "4080100002",
+    "nazovSk": "Legálna migrácia a integrácia",
+    "nazovEn": "Legal migration and integration",
+    "program": {
+     "id": 6,
+     "href": "/program/id/6"
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 11,
+     "kod": "1032AMIF",
+     "kodZdroj": "AMIF",
+     "nazovSk": "Fond pre azyl, migráciu a integráciu",
+     "nazovEn": "Fond pre azyl, migráciu a integráciu",
+     "popisSk": "Fond pre azyl, migráciu a integráciu",
+     "popisEn": "Fond pre azyl, migráciu a integráciu",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1751271783426
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "typAkcie": {
+    "id": 200001,
+    "kod": "1211AMIF002",
+    "kodZdroj": "002",
+    "nazovSk": "Budovanie kapacít",
+    "nazovEn": "Budovanie kapacít",
+    "popisSk": "Budovanie kapacít",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "vykonavanie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 77,
+    "href": "/specifickycielprogramu/id/77",
+    "kod": "4080100002",
+    "nazovSk": "Legálna migrácia a integrácia",
+    "nazovEn": "Legal migration and integration",
+    "program": {
+     "id": 6,
+     "href": "/program/id/6"
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 11,
+     "kod": "1032AMIF",
+     "kodZdroj": "AMIF",
+     "nazovSk": "Fond pre azyl, migráciu a integráciu",
+     "nazovEn": "Fond pre azyl, migráciu a integráciu",
+     "popisSk": "Fond pre azyl, migráciu a integráciu",
+     "popisEn": "Fond pre azyl, migráciu a integráciu",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1751271783426
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "vykonavanie": {
+    "id": 200003,
+    "kod": "1212AMIF004",
+    "kodZdroj": "AMIF004",
+    "nazovSk": "Operačná podpora",
+    "nazovEn": "Operating support",
+    "popisSk": "Operačná podpora",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "urcitaTema": [
+  {
+   "specifickyCielProgramu": {
+    "id": 77,
+    "href": "/specifickycielprogramu/id/77",
+    "kod": "4080100002",
+    "nazovSk": "Legálna migrácia a integrácia",
+    "nazovEn": "Legal migration and integration",
+    "program": {
+     "id": 6,
+     "href": "/program/id/6"
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 11,
+     "kod": "1032AMIF",
+     "kodZdroj": "AMIF",
+     "nazovSk": "Fond pre azyl, migráciu a integráciu",
+     "nazovEn": "Fond pre azyl, migráciu a integráciu",
+     "popisSk": "Fond pre azyl, migráciu a integráciu",
+     "popisEn": "Fond pre azyl, migráciu a integráciu",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1751271783426
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "urcitaTema": {
+    "id": 200002,
+    "kod": "1213AMIF003",
+    "kodZdroj": "AMIF003",
+    "nazovSk": "Žiadna z uvedených možností",
+    "nazovEn": "Žiadna z uvedených možností",
+    "popisSk": "Žiadna z uvedených možností",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "kategoriaRegionov": [
+  {
+   "id": 200000,
+   "kod": "1033N/A",
+   "kodZdroj": "N/A",
+   "nazovSk": "Bez kategórie regiónu",
+   "popisSk": "Bez kategórie regiónu",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [],
+ "projektovyZamerIUS": []
+}

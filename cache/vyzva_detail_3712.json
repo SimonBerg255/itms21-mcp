@@ -1,0 +1,2216 @@
+{
+ "id": 3712,
+ "href": "/vyzva/id/3712",
+ "kod": "PRH-MPRV-004-2025-DV-ENRAF",
+ "nazovSk": "Zlepšovanie pracovných podmienok zamestnancov a neproduktívne investície",
+ "program": {
+  "id": 7,
+  "href": "/program/id/7",
+  "kod": "402000",
+  "nazovSk": "Program Rybné hospodárstvo SR",
+  "nazovEn": "Programme Slovakia - EMFAF",
+  "skratka": "PRH SR",
+  "sumaEu": 15225428.0,
+  "sumaSr": 6525185.0,
+  "sumaSpolu": 21750613.0,
+  "typProgramu": {
+   "typ": "RYBY",
+   "jedenFond": true,
+   "maKategoriuReg": false,
+   "maPriority": true,
+   "maOpatrenia": false
+  },
+  "kodCCI": "2021SK14MFPR001",
+  "riadiaciOrgan": {
+   "id": 413
+  },
+  "createdAt": 1759305536159,
+  "updatedAt": 1759305536398
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 92,
+   "href": "/specifickycielprogramu/id/92",
+   "kod": "4022210021",
+   "nazovSk": "2.1 Podpora udržateľných akvakultúrnych činností, najmä posilnenie konkurencieschopnosti akvakultúrnej produkcie pri súčasnom zabezpečení dlhodobej environmentálnej udržateľnosti týchto činností",
+   "nazovDe": "2.1 Förderung nachhaltiger Aquakulturtätigkeiten, insbesondere Stärkung der Wettbewerbsfähigkeit der Aquakulturproduktion bei gleichzeitiger Sicherstellung der langfristigen Umweltverträglichkeit dieser Tätigkeiten",
+   "nazovEn": "2.1 Promoting sustainable aquaculture activities, especially strengthening the competitiveness of aquaculture production, while ensuring that the activities are environmentally sustainable in the long term",
+   "program": {
+    "id": 7,
+    "href": "/program/id/7"
+   },
+   "priorita": {
+    "id": 37,
+    "href": "/priorita/id/37",
+    "kod": "402221",
+    "nazovSk": "2. Podpora udržateľných akvakultúrnych činností a spracovania a uvádzania produktov rybolovu a akvakultúry na trh, čím sa prispeje k potravinovej bezpečnosti v Únii (ŠC 2.1)",
+    "nazovDe": "2. Förderung nachhaltiger Aquakulturtätigkeiten sowie der Verarbeitung und Vermarktung von Fischerei- und Aquakulturerzeugnissen als Beitrag zur Ernährungssicherheit in der Union",
+    "nazovEn": "2. Fostering sustainable aquaculture activities and processing and marketing of fishery and aquaculture products, thus contributing to food security in the Union",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "createdAt": 1759305536534
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 10,
+    "kod": "1032ENRAF",
+    "kodZdroj": "ENRAF",
+    "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1759305536663
+  }
+ ],
+ "opatrenie": [],
+ "miestoRealizacie": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 5,
+   "kod": "1009103",
+   "kodZdroj": "103",
+   "nazovSk": "Samostatne hospodáriaci roľník nezapísaný v obchodnom registri",
+   "nazovEn": "Private farmer not entered in Business Register",
+   "popisSk": "SHR roľník Samostatne hospodáriaci roľník nezapísaný v obchodnom registri",
+   "popisEn": "Private farmer Private farmer not entered in Business Register",
+   "platnostOd": 678319200000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 6,
+   "kod": "1009104",
+   "kodZdroj": "104",
+   "nazovSk": "Samostatne hospodáriaci roľník zapísaný v obchodnom registri",
+   "nazovEn": "Private farmer entered in Business Register",
+   "popisSk": "SHR roľník v OR Samostatne hospodáriaci roľník zapísaný v obchodnom registri",
+   "popisEn": "Private farmer in BR Private farmer entered in Business Register",
+   "platnostOd": 678319200000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 9,
+   "kod": "1009107",
+   "kodZdroj": "107",
+   "nazovSk": "Podnikateľ-fyzická osoba-nezapís.v OR-podnikajúca súčasne ako sam.hosp.roľník",
+   "nazovEn": "Entrepreneur-physical person-not entered in Business Register, also active as Private Farmer",
+   "popisSk": "Živ. a SHR roľník Podnikateľ-fyzická osoba-nezapís.v OR-podnikajúca súčasne ako sam.hosp.roľník",
+   "popisEn": "Entrepreneur,priv.farm. Entrepreneur-physical person-not entered in Business Register, also active as Private Farmer",
+   "platnostOd": 730681200000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1009108",
+   "kodZdroj": "108",
+   "nazovSk": "Podnikateľ-fyzická osoba-zapís.v OR-podnikajúca súčasne ako sam.hosp.roľník",
+   "nazovEn": "Entrepreneur-physical person-entered in Business Register, also active as Private Farmer",
+   "popisSk": "Živ. a SHR roľník v OR Podnikateľ-fyzická osoba-zapís.v OR-podnikajúca súčasne ako sam.hosp.roľník",
+   "popisEn": "Entrepr,priv.farm.in BR Entrepreneur-physical person-entered in Business Register, also active as Private Farmer",
+   "platnostOd": 730681200000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1009111",
+   "kodZdroj": "111",
+   "nazovSk": "Verejná obchodná spoločnosť",
+   "nazovEn": "Public commercial company",
+   "popisSk": "Ver. obch. spol. Verejná obchodná spoločnosť",
+   "popisEn": "Public commercial comp. Public commercial company",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1009112",
+   "kodZdroj": "112",
+   "nazovSk": "Spoločnosť s ručením obmedzeným",
+   "nazovEn": "Limited liability company",
+   "popisSk": "Spol. s r. o. Spoločnosť s ručením obmedzeným",
+   "popisEn": "Limited liability comp. Limited liability company",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1009113",
+   "kodZdroj": "113",
+   "nazovSk": "Komanditná spoločnosť",
+   "nazovEn": "Société commandite",
+   "popisSk": "Kom. spol. Komanditná spoločnosť",
+   "popisEn": "Société commandite Société commandite",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 19,
+   "kod": "1009117",
+   "kodZdroj": "117",
+   "nazovSk": "Nadácia",
+   "nazovEn": "Foundation",
+   "popisSk": "Nadácia Nadácia",
+   "popisEn": "Foundation Foundation",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 21,
+   "kod": "1009119",
+   "kodZdroj": "119",
+   "nazovSk": "Nezisková organizácia",
+   "nazovEn": "Not profitable organization",
+   "popisSk": "Nezisková organizácia Nezisková organizácia",
+   "popisEn": "Not profit.organization Not profitable organization",
+   "platnostOd": 870386400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 22,
+   "kod": "1009121",
+   "kodZdroj": "121",
+   "nazovSk": "Akciová spoločnosť",
+   "nazovEn": "Joint stock company",
+   "popisSk": "Akc. spol. Akciová spoločnosť",
+   "popisEn": "Joint stock company Joint stock company",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 39,
+   "kod": "1009301",
+   "kodZdroj": "301",
+   "nazovSk": "Štátny podnik",
+   "nazovEn": "State enterprise",
+   "popisSk": "Štátny podnik Štátny podnik",
+   "popisEn": "State enterprise State enterprise",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 42,
+   "kod": "1009321",
+   "kodZdroj": "321",
+   "nazovSk": "Rozpočtová organizácia",
+   "nazovEn": "Budgetary organization",
+   "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+   "popisEn": "Budgetary organization Budgetary organization",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 43,
+   "kod": "1009331",
+   "kodZdroj": "331",
+   "nazovSk": "Príspevková organizácia",
+   "nazovEn": "Organization based on state contributions",
+   "popisSk": "Príspevková organizácia Príspevková organizácia",
+   "popisEn": "Org.based on contrib. Organization based on state contributions",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 49,
+   "kod": "1009382",
+   "kodZdroj": "382",
+   "nazovSk": "Verejnoprávna inštitúcia",
+   "nazovEn": "Public legal institution",
+   "popisSk": "Verejnopráv.inštitúcia Verejnoprávna inštitúcia",
+   "popisEn": "Public legal institut. Public legal institution",
+   "platnostOd": 838850400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 90,
+   "kod": "1009751",
+   "kodZdroj": "751",
+   "nazovSk": "Záujmové združenie právnických osôb",
+   "nazovEn": "Interest association of legal persons",
+   "popisSk": "Záujm. združ. práv.osôb Záujmové združenie právnických osôb",
+   "popisEn": "Asociat.of legal person Interest association of legal persons",
+   "platnostOd": 694220400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 92,
+   "kod": "1009801",
+   "kodZdroj": "801",
+   "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+   "nazovEn": "Municipality (municipal office)",
+   "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+   "popisEn": "Municipality Municipality (municipal office)",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 94,
+   "kod": "1009803",
+   "kodZdroj": "803",
+   "nazovSk": "Samosprávny kraj (úrad samosprávneho kraja)",
+   "nazovEn": "Office of local government (regional level)",
+   "popisSk": "Samosprávny kraj Samosprávny kraj (úrad samosprávneho kraja)",
+   "popisEn": "Office of local governm. Office of local government (regional level)",
+   "platnostOd": 1007161200000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 200011,
+   "kod": "1009120",
+   "kodZdroj": "120",
+   "nazovSk": "Nezisková organizácia poskytujúca všeobecne prospešné služby",
+   "nazovEn": "Non-profit organization providing community services",
+   "popisSk": "Nezisková organizácia poskytujúca všeobecne prospešné služby",
+   "popisEn": "Non-profit organization providing community services",
+   "platnostOd": 870386400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 80,
+   "kod": "1009701",
+   "kodZdroj": "701",
+   "nazovSk": "Združenie (zväz, spolok, spoločnosť, klub ai.)",
+   "nazovEn": "Association (league, union, society, club, etc.)",
+   "popisSk": "Združenie (zväz,spolok) Združenie (zväz, spolok, spoločnosť, klub ai.)",
+   "popisEn": "Association Association (league, union, society, club, etc.)",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1753999200000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 413,
+  "kod": "21_RO_PRH",
+  "nazov": "Riadiaci orgán Program Rybné hospodárstvo SR (2021-2027)",
+  "subjekt": {
+   "id": 100012,
+   "href": "/subjekt/id/100012",
+   "nazov": "Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky",
+   "ico": "00156621",
+   "dic": "2021291382",
+   "platitelDph": false,
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Dobrovičova",
+    "cislo": "12",
+    "psc": "81266",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 413,
+  "kod": "21_RO_PRH",
+  "nazov": "Riadiaci orgán Program Rybné hospodárstvo SR (2021-2027)",
+  "subjekt": {
+   "id": 100012,
+   "href": "/subjekt/id/100012",
+   "nazov": "Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky",
+   "ico": "00156621",
+   "dic": "2021291382",
+   "platitelDph": false,
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Dobrovičova",
+    "cislo": "12",
+    "psc": "81266",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "OTVORENA",
+ "zameranieProjektu": "DOPYT_21",
+ "createdAt": 1753814804975,
+ "updatedAt": 1754997907724,
+ "sumaEu": 1800000.0,
+ "predvyber": false,
+ "posudzovaneObdobie": [
+  {
+   "poradoveCislo": 1,
+   "datumUzavierky": 1756677600000
+  },
+  {
+   "poradoveCislo": 2,
+   "datumUzavierky": 1759183200000
+  },
+  {
+   "poradoveCislo": 3,
+   "datumUzavierky": 1761865200000
+  },
+  {
+   "poradoveCislo": 5,
+   "datumUzavierky": 1767135600000
+  },
+  {
+   "poradoveCislo": 4,
+   "datumUzavierky": 1764543600000
+  }
+ ],
+ "pocetPredlozenychZiadosti": 9,
+ "pocetSchvalenychZiadosti": 0,
+ "pocetZiadostiVKonani": 6,
+ "pocetNeschvalenychZiadosti": 3,
+ "pocetRealizovanychProjektov": 0,
+ "planovanaVyzva": [],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 10,
+   "kod": "1032ENRAF",
+   "kodZdroj": "ENRAF",
+   "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+   "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+   "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+   "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "cielVyzvy": "<div><div><div style=\"text-align: justify;\"><span class=\"fontstyle0\">Cieľom v&yacute;zvy s&uacute; aktivity ved&uacute;ce k efekt&iacute;vnemu chovu r&yacute;b, zlep&scaron;eniu životn&eacute;ho prostredia, &uacute;držbe fariem a zabezpečeniu bezprobl&eacute;mov&eacute;ho chovu r&yacute;b a zlep&scaron;ovaniu welfare r&yacute;b ako aj podpora aktiv&iacute;t smerovan&yacute;ch k zlep&scaron;eniu pracovn&yacute;ch podmienok zamestnancov.<br />Podporovan&eacute; aktivity:</span></div><ul><li style=\"text-align: justify;\"><span class=\"fontstyle0\">moderniz&aacute;cie nev&yacute;robn&yacute;ch a podporn&yacute;ch činnost&iacute;,</span></li><li style=\"text-align: justify;\"><span class=\"fontstyle0\">zlep&scaron;ovanie podmienok pre zamestnancov,</span></li><li style=\"text-align: justify;\"><span class=\"fontstyle0\">obmena vozov&eacute;ho parku - n&aacute;kup &aacute;ut a &scaron;peci&aacute;lnych strojov s pohonom &scaron;etrnej&scaron;&iacute;m k životn&eacute;mu prostrediu,</span></li><li style=\"text-align: justify;\"><span class=\"fontstyle0\">n&aacute;kup ostatn&yacute;ch zariaden&iacute;, napr. ktor&eacute; sl&uacute;žia na manipul&aacute;ciu s rybou,</span></li></ul><div style=\"text-align: justify;\"><span class=\"fontstyle0\">Uveden&eacute; aktivity s&uacute; smerovan&eacute; pre dosiahnutie zlep&scaron;enia pracovn&yacute;ch podmienok zamestnancov.</span></div><div style=\"text-align: justify;\"><span class=\"fontstyle0\">Zlep&scaron;enie podmienok zamestnancov bude mať za n&aacute;sledok zvy&scaron;ovanie efektivity rybochovn&yacute;ch, v&yacute;robn&yacute;ch aj nev&yacute;robn&yacute;ch zariaden&iacute;, č&iacute;m sa dosiahne pozit&iacute;vny vplyv k zv&yacute;&scaron;eniu atraktivity pracovn&eacute;ho prostredia pre udržanie a tvorbu nov&yacute;ch pracovn&yacute;ch miest v odvetv&iacute;. Cieľom predložen&yacute;ch projektov je kvantifikovať prostredn&iacute;ctvom merateľn&yacute;ch ukazovateľov dosiahnut&eacute; v&yacute;stupy realiz&aacute;cie navrhovan&yacute;ch aktiv&iacute;t projektu.<br />Zoznam povinn&yacute;ch merateľn&yacute;ch ukazovateľov projektu, ako aj sp&ocirc;sob ich stanovenia, je podrobne op&iacute;san&yacute; v r&aacute;mci Pr&iacute;lohy č. 7 Zoznam merateľn&yacute;ch ukazovateľov.</span><br /><b><span class=\"fontstyle2\">Z&aacute;konnou podmienkou pre uzavretie zmluvy o poskytnut&iacute; nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku (ďalej len &bdquo; zmluva o NFP&ldquo;), je z&aacute;pis žiadateľa v registri partnerov verejn&eacute;ho sektora v zmysle osobitn&eacute;ho predpisu (z&aacute;kon č. 315/2016 Z. z. registri partnerov verejn&eacute;ho sektora a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov v znen&iacute; neskor&scaron;&iacute;ch predpisov (ak relevantn&eacute;).</span></b></div></div></div>",
+ "sposobFinancovania": [
+  "ZALOHA",
+  "PREDFINANCOVANIE",
+  "REFUNDACIA"
+ ],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktNazov": "Individuálne poskytovanie informácii k výzve",
+ "kontaktEmail": "prh@land.gov.sk",
+ "kontaktTelefon": "+421 2 592 66 279",
+ "kontaktneUdajePoskytovatela": "<div><div style=\"text-align:justify\">Žiadateľ je opr&aacute;vnen&yacute; predložiť poskytovateľovi individu&aacute;lne ot&aacute;zky s&uacute;visiace s v&yacute;zvou, resp. vypracovan&iacute;m a predkladan&iacute;m ŽoNFP jednou z nasledovn&yacute;ch foriem:</div><div><div><b><span style=\"color:rgb(0, 101, 179)\">Telefonicky</span>&nbsp;</b>v nasleduj&uacute;cich dňoch:</div><div><b>pondelok, streda, piatok&nbsp;</b>v čase od 9:00 &ndash; 11:00,</div><div><b>utorok, &scaron;tvrtok&nbsp;</b>v čase od 13:00 &ndash; 15:00</div><div><div><b><span style=\"color:rgb(0, 101, 179)\">V elektronickej podobe</span>&nbsp;</b>prostredn&iacute;ctvom e-schr&aacute;nky alebo e-mailovej adrese.</div><div><div><b><span style=\"color:rgb(0, 101, 179)\">V listinnej podobe</span>&nbsp;</b>na adrese poskytovateľa:</div><div>&nbsp; &nbsp;Ministerstvo p&ocirc;dohospod&aacute;rstva a rozvoja vidieka Slovenskej republiky</div><div>&nbsp; &nbsp;Sekcia rozvoja vidieka a&nbsp;priamych platieb</div><div>&nbsp; &nbsp;Odbor Programu Rybn&eacute; hospod&aacute;rstvo 2021-2027</div><div>&nbsp; &nbsp;Dobrovičova 12</div><div>&nbsp; &nbsp;812 66 Bratislava&nbsp;</div><div>&nbsp;</div><div style=\"text-align:justify\">Ot&aacute;zky predložen&eacute; p&iacute;somne je potrebn&eacute; označiť odkazom na t&uacute;to v&yacute;zvu (k&oacute;dom v&yacute;zvy PRH-MPRV-004-2025-DV-ENRAF), pričom ot&aacute;zka mus&iacute; byť formulovan&aacute; jasne a zrozumiteľne.</div><div style=\"text-align:justify\"><span style=\"color:#0065b3\"><b><span style=\"text-align:justify\">Z&aacute;v&auml;znosť</span></b></span></div><div style=\"text-align:justify\">Z&aacute;v&auml;zn&yacute; charakter maj&uacute; inform&aacute;cie zverejnen&eacute; v ITMS21+ a na webovom s&iacute;dle poskytovateľa https://www.mpsr.sk/, v časti &bdquo;Aktu&aacute;lne v&yacute;zvy, Aktuality&ldquo;, ako aj inform&aacute;cie poskytnut&eacute; poskytovateľom p&iacute;somnou formou (elektronicky alebo listinne).<br />Inform&aacute;cie poskytnut&eacute; poskytovateľom verb&aacute;lnym sp&ocirc;sobom (telefonicky alebo osobne) nie je možn&eacute; považovať za z&aacute;v&auml;zn&eacute; a odvol&aacute;vať sa na.<br />Poskytovanie inform&aacute;ci&iacute; a komunik&aacute;cia s poskytovateľom je ďalej upraven&aacute; v metodickom dokumente CKO, kapitola 6 V&scaron;eobecnej inform&aacute;cie k predkladaniu a schvaľovaniu ŽoNFP.</div></div></div></div></div>",
+ "kontaktnaOsoba": [],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "Právna forma žiadateľa",
+   "popisSk": "<div><div><span style=\"color:#0065b3\"><b>Popis PPP</b></span></div><div>V r&aacute;mci tejto v&yacute;zvy s&uacute; opr&aacute;vnen&yacute;mi žiadateľmi:&nbsp;&nbsp;</div><ul><li>fyzick&eacute; osoby (ďalej len &bdquo;FO&ldquo;) a pr&aacute;vnick&eacute; osoby (ďalej len &bdquo;PO&ldquo;) (subjekty s podnikateľskou hist&oacute;riou v čase predloženia ŽoNFP a subjekty bez podnikateľskej hist&oacute;rie v čase predloženia ŽoNFP);</li><li>ostatn&eacute; subjekty verejnej spr&aacute;vy a &uacute;zemnej samospr&aacute;vy;</li><li>mimovl&aacute;dne neziskov&eacute; organiz&aacute;cie;</li><li>samostatne hospod&aacute;riaci roľn&iacute;ci (ďalej len&nbsp; &bdquo;SHR&ldquo;);</li><li>obchodn&eacute; spoločnosti podnikaj&uacute;ce v zmysle Obchodn&eacute;ho z&aacute;konn&iacute;ka.&nbsp;</li></ul><div><span style=\"color:rgb(0, 101, 179)\">Upozorňujeme žiadateľov, na spr&aacute;vnosť a aktu&aacute;lnosť &uacute;dajov uveden&yacute;ch v registroch, v ktor&yacute;ch s&uacute; zap&iacute;san&iacute; (v z&aacute;vislosti od ich pr&aacute;vnej formy) a v pr&iacute;pade potreby vykonali opravu/aktualiz&aacute;ciu &uacute;dajov.</span></div><div><span style=\"color:#0065b3\"><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa&nbsp;</b></span></div><div><span style=\"color:rgb(0, 101, 179)\">Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom:</span></div><div><ul><li>formul&aacute;r ŽoNFP, tabuľka č. 1 - Identifik&aacute;cia žiadateľa - žiadateľ preuk&aacute;že, že patr&iacute; medzi opr&aacute;vnen&yacute;ch žiadateľov vyplnen&iacute;m &uacute;dajov&nbsp;v r&aacute;mci tejto tabuľky,&nbsp;&nbsp;</li><li>pr&iacute;loha č. 1 ŽoNFP: Plnomocenstvo, Pr&iacute;lohy č. 1 v&yacute;zvy - In&scaron;trukcie&nbsp;k obsahu povinn&yacute;ch pr&iacute;loh ŽoNFP - v pr&iacute;pade, ak &scaron;tatut&aacute;rny org&aacute;n žiadateľa splnomocn&iacute; na &uacute;kony s&uacute;visiace s predložen&iacute;m a/alebo konan&iacute;m o ŽoNFP in&uacute; osobu/osoby, predlož&iacute;:&nbsp;</li></ul><div>-<span style=\"white-space:pre\"> </span>&uacute;radne overen&eacute; plnomocenstvo s podpisom &scaron;tatut&aacute;rneho org&aacute;nu žiadateľa, ktor&yacute;m &scaron;tatut&aacute;rny org&aacute;n opr&aacute;vňuje dan&uacute; osobu/-y&nbsp;na predmetn&eacute; &uacute;kony, alebo&nbsp;<br />-<span style=\"white-space:pre\"> </span>&uacute;radne overen&eacute; p&iacute;somn&eacute; poverenie starostu v pr&iacute;pade obce.&nbsp;</div><div>Bliž&scaron;ie inform&aacute;cie k obsahovej str&aacute;nke pr&iacute;loh ŽoNFP, ako aj sp&ocirc;sobe&nbsp;ich predloženia, s&uacute; uveden&eacute; v r&aacute;mci Pr&iacute;lohy č. 1 v&yacute;zvy - In&scaron;trukcie k obsahu povinn&yacute;ch pr&iacute;loh ŽoNFP.</div><div><span style=\"color:rgb(0, 101, 179)\">Žiadateľ pre splnenie tejto PPP, je povinn&yacute; preuk&aacute;zať z&aacute;pis&nbsp; v obchodnom, živnostenskom registri, ohl&aacute;senie / osvedčenie o v&yacute;kone poľnohospod&aacute;rskej v&yacute;roby vykon&aacute;vanej samostatne hospod&aacute;riacimi roľn&iacute;kmi (Samostatne hospod&aacute;riaci roľn&iacute;k &ndash; &bdquo;SHR&ldquo; ), najnesk&ocirc;r ku dňu doplnenia ch&yacute;baj&uacute;cich n&aacute;ležitosti ŽoNFP.</span></div><div><span style=\"color:rgb(0, 101, 179)\">Opr&aacute;vnen&eacute; subjekty (FO a PO) s&uacute; aj subjekty bez podnikateľskej hist&oacute;rie v čase predloženia ŽoNFP.</span></div><div><span style=\"color:#0065b3\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa</b></span></div><div><span style=\"color:rgb(0, 101, 179)\">Poskytovateľ na overenie splnenia PPP využ&iacute;va:&nbsp;</span></div><div><div>&bull;<span style=\"white-space:pre\"> f</span>ormul&aacute;r ŽoNFP, tabuľka č. 1 - Identifik&aacute;cia žiadateľa</div><div>&bull;<span style=\"white-space:pre\"> p</span>r&iacute;loha č. 1 ŽoNFP: Plnomocenstvo, Pr&iacute;lohy č. 1 v&yacute;zvy - In&scaron;trukcie k obsahu povinn&yacute;ch pr&iacute;loh ŽoNFP</div><ul><li>&uacute;radne overen&eacute; plnomocenstvo s podpisom &scaron;tatut&aacute;rneho org&aacute;nu žiadateľa, ktor&yacute;m &scaron;tatut&aacute;rny org&aacute;n opr&aacute;vňuje dan&uacute; osobu/-y&nbsp;na predmetn&eacute; &uacute;kony, alebo</li><li>&uacute;radne overen&eacute; p&iacute;somn&eacute; poverenie starostu v pr&iacute;pade obce</li></ul><div>&bull;<span style=\"white-space:pre\"> </span>register a identifik&aacute;tor pr&aacute;vnick&yacute;ch os&ocirc;b, podnikateľov a org&aacute;nov verejnej moci (<a href=\"https://rpo.statistics.sk\">https://rpo.statistics.sk</a>/), resp. in&eacute; verejn&eacute; registre</div><div>&bull;<span style=\"white-space:pre\"> </span>integr&aacute;cia ITMS21+</div><div>&bull;<span style=\"white-space:pre\"> </span>v&scaron;etky žiadateľom poskytnut&eacute; pr&iacute;lohy a inform&aacute;cie v r&aacute;mci sp&ocirc;sobu preuk&aacute;zania splnenia PPP.</div><div>Upozorňujeme žiadateľov, na spr&aacute;vnosť a aktu&aacute;lnosť &uacute;dajov uveden&yacute;ch v registroch, v ktor&yacute;ch s&uacute; zap&iacute;san&iacute; (v z&aacute;vislosti od ich pr&aacute;vnej formy) a v pr&iacute;pade potreby vykonali opravu/aktualiz&aacute;ciu &uacute;dajov.</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti PPP</b></span></div><div>Splnenie PPP poskytovateľ overuje v konan&iacute; o ŽoNFP, v procese administrat&iacute;vneho overovania, v re&aacute;lnom čase (v okamihu v&yacute;konu overenia).</div><div>PPP mus&iacute; trvať (byť naplnen&aacute;) kontinu&aacute;lne, od jej prv&eacute;ho overenia (splnenia), počas realiz&aacute;cie projektu až do skončenia doby udržateľnosti projektu, v zmysle čl. 65 NSU.</div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "UDAJE_Z_RPO"
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Plnomocenstvo",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "Podmienka oprávnenosti aktivít projektu",
+   "popisSk": "<div><div><span style=\"color:#0065b3\"><b>Popis PPP</b></span></div><div><span style=\"color:rgb(0, 101, 179)\">Pre t&uacute;to v&yacute;zvu s&uacute; opr&aacute;vnen&yacute;m typom oper&aacute;cie &ndash; aktivity, ktor&eacute; s&uacute; opr&aacute;vnen&eacute; na financovanie z PRH 21-27, ak s&uacute;:</span></div><ul><li>vo vecnom s&uacute;lade s opr&aacute;vnen&yacute;mi aktivitami PRH 21-27, ktor&eacute; s&uacute; definovan&eacute; vo v&yacute;zve,</li><li>vhodn&eacute; a prepojen&eacute; vo vzťahu k stanoven&yacute;m cieľom a v&yacute;sledkom projektu (tzn., že musia rie&scaron;iť identifikovan&eacute; potreby žiadateľa, musia nadv&auml;zovať na už zrealizovan&eacute; aktivity alebo vytv&aacute;rať nov&eacute; aktivity žiadateľa v danej oblasti (ak relevantn&eacute;) a musia logicky nadv&auml;zovať&nbsp;na ciele a očak&aacute;van&eacute; v&yacute;stupy/v&yacute;sledky projektu).</li></ul><div><span style=\"color:rgb(0, 101, 179)\">Podporovan&eacute; aktivity:</span></div><ul><li>moderniz&aacute;cie nev&yacute;robn&yacute;ch a podporn&yacute;ch činnost&iacute; (sklady krm&iacute;v, syst&eacute;my pre automatizovan&eacute; kŕmenie, sklady pre ryb&aacute;rsku a obslužn&uacute; techniku a vybavenie, spevnen&eacute; plochy, nekryt&eacute; sklady na stredisku a pr&iacute;jazdov&eacute; komunik&aacute;cie,&nbsp; vybudovanie elektrick&yacute;ch pr&iacute;pojok na rybn&iacute;ky a rybochovn&eacute; zariadenia za &uacute;čelom aer&aacute;cie vody, oplotenie farmy a pod.),</li><li>zlep&scaron;ovanie podmienok pre zamestnancov (stavba alebo rekon&scaron;trukcia &scaron;atn&iacute; a soci&aacute;lneho z&aacute;zemia pre zamestnancov),</li><li>obmena vozov&eacute;ho parku &ndash; s preferovan&yacute;m n&aacute;kupom &aacute;ut a &scaron;peci&aacute;lnych strojov s pohonom &scaron;etrnej&scaron;&iacute;m k životn&eacute;mu prostrediu (pozn. vozov&yacute; park a zak&uacute;pen&eacute; &scaron;peci&aacute;lne stroje a zariadenia musia byť &uacute;zko spojen&eacute; s v&yacute;robn&yacute;mi a distribučn&yacute;mi funkciami mal&yacute;ch a stredn&yacute;ch podnikov, ktor&eacute; t&uacute;to činnosť vykon&aacute;vaj&uacute;),</li><li>n&aacute;kup zariaden&iacute; ktor&eacute; sl&uacute;žia na manipul&aacute;ciu s rybou, jej triedenie a poč&iacute;tanie,</li><li>čerpadl&aacute;, kosačky a vyž&iacute;nacie ramen&aacute;, žacia loď, sac&iacute; bager, aer&aacute;tory, elektrocentr&aacute;ly a pod.,</li><li>technol&oacute;gie na pr&iacute;pravu, v&yacute;robu a balenie krm&iacute;v,</li><li>drobnej&scaron;ia technika potrebn&aacute; k &uacute;držbe fariem a zabezpečeniu bezprobl&eacute;mov&eacute;ho chovu r&yacute;b,</li><li>nap&uacute;&scaron;ťacie a v&yacute;pustn&eacute; zariadenia vody,</li><li>kamerov&eacute;, monitorovacie, v&yacute;stražn&eacute; a varovn&eacute; syst&eacute;my (napr. pre pokles vodnej hladiny, upchatie potrub&iacute;, zdokumentovanie &scaron;k&ocirc;d od rybožrav&yacute;ch pred&aacute;torov a pod.)</li></ul><div><span style=\"color:#0065b3\"><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</b></span></div><div><span style=\"color:rgb(0, 101, 179)\">Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom:</span></div><ul><li>formul&aacute;r ŽoNFP, tabuľka č. 7 - Popis projektu</li><li>formul&aacute;r ŽoNFP, tabuľka č. 9 - Harmonogram realiz&aacute;cie aktiv&iacute;t&nbsp;</li><li>formul&aacute;r ŽoNFP, tabuľka č. 10 - Merateľn&eacute; ukazovatele projektu</li></ul><div><span style=\"color:#0065b3\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa</b></span></div><div><span style=\"color:rgb(0, 101, 179)\">Poskytovateľ na overenie splnenia PPP využ&iacute;va:&nbsp;</span></div><ul><li>formul&aacute;r ŽoNFP, tabuľka č. 7 - Popis projektu</li><li>formul&aacute;r ŽoNFP, tabuľka č. 9 - Harmonogram realiz&aacute;cie aktiv&iacute;t</li><li>formul&aacute;r ŽoNFP, tabuľka č. 10 - Merateľn&eacute; ukazovatele projektu</li><li>ITMS21+</li></ul><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti PPP</b></span></div><div>Splnenie PPP poskytovateľ overuje v konan&iacute; o ŽoNFP, v re&aacute;lnom čase (v okamihu v&yacute;konu overenia).&nbsp;<span style=\"color:rgb(0, 101, 179)\">V procese administrat&iacute;vneho overovania</span>&nbsp;poskytovateľ overuje splnenie&nbsp;<span style=\"color:rgb(0, 101, 179)\">form&aacute;lnych n&aacute;ležitost&iacute;&nbsp;</span>PPP, v r&aacute;mci&nbsp;<span style=\"color:rgb(0, 101, 179)\">odborn&eacute;ho hodnotenia</span>&nbsp;(prostredn&iacute;ctvom Podmienky splnenia krit&eacute;ri&iacute; pre v&yacute;ber projektov) sa posudzuje&nbsp;<span style=\"color:rgb(0, 101, 179)\">vecn&yacute; (obsahov&yacute;) s&uacute;lad</span>&nbsp;opr&aacute;vnen&yacute;ch aktiv&iacute;t projektu s PPP a s&uacute;časne či navrhovan&eacute; postupy realiz&aacute;cie aktiv&iacute;t projektu umožnia dosiahnuť stanoven&eacute; ciele a v&yacute;sledky projektu.</div><div>PPP mus&iacute; trvať (byť naplnen&aacute;) kontinu&aacute;lne, od jej prv&eacute;ho overenia (splnenia), počas realiz&aacute;cie projektu, ako aj počas obdobia udržateľnosti projektu, v zmysle čl. 65 NSU.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "Podmienka, že projekt je realizovaný na oprávnenom území",
+   "popisSk": "<div><div><span style=\"color:#0065b3\"><b>Popis PPP</b></span></div><div>Žiadateľ je povinn&yacute; realizovať projekt na opr&aacute;vnenom &uacute;zem&iacute;.&nbsp;<br />Pre t&uacute;to v&yacute;zvu je opr&aacute;vnen&yacute;m miestom realiz&aacute;cie projektu cel&eacute; &uacute;zemie Slovenskej republiky (cel&yacute; regi&oacute;n NUTS I).&nbsp;<br />Pre pos&uacute;denie splnenia tejto podmienky je rozhoduj&uacute;ce&nbsp;<span style=\"color:rgb(0, 101, 179)\">miesto realiz&aacute;cie projektu</span>, nie s&iacute;dlo žiadateľa.</div><div><span style=\"color:#0065b3\"><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</b></span></div><div><span style=\"color:rgb(0, 101, 179)\">Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom:</span></div><div><ul><li>formul&aacute;r ŽoNFP, tabuľka č. 6 - Miesto realiz&aacute;cie projektu</li><li>formul&aacute;r ŽoNFP, tabuľka č. 7 - Popis projektu</li></ul></div><div><span style=\"color:#0065b3\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa</b></span></div><div><span style=\"color:rgb(0, 101, 179)\">Poskytovateľ na overenie splnenia PPP využ&iacute;va:&nbsp;</span></div><div><ul><li>formul&aacute;r ŽoNFP, tabuľka č. 6 - Miesto realiz&aacute;cie projektu</li><li>formul&aacute;r ŽoNFP, tabuľka č. 7 - Popis projektu&nbsp;</li><li>ITMS21+</li></ul></div><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti PPP</b></span></div><div>Splnenie PPP poskytovateľ overuje v konan&iacute; o ŽoNFP v procese administrat&iacute;vneho overenia ŽoNFP v re&aacute;lnom čase (v okamihu v&yacute;konu overenia).&nbsp;<br />PPP mus&iacute; trvať (byť naplnen&aacute;) kontinu&aacute;lne, od jej prv&eacute;ho overenia (splnenia), počas realiz&aacute;cie projektu, ako aj počas obdobia udržateľnosti projektu, v zmysle čl. 65 NSU.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "Podmienka splnenia kritérií pre výber projektov",
+   "popisSk": "<div><div><span style=\"color:#0065b3\"><b>Popis PPP</b></span></div><div><span style=\"color:rgb(0, 101, 179)\">ŽoNFP mus&iacute; splniť krit&eacute;ria v&yacute;beru projektov:</span><br />Krit&eacute;ri&aacute; pre v&yacute;ber projektov pozost&aacute;vaj&uacute; z&nbsp;<span style=\"color:rgb(0, 101, 179)\">vylučuj&uacute;cich krit&eacute;ri&iacute;&nbsp;podľa čl&aacute;nku 73 NSU, vylučuj&uacute;cich vecn&yacute;ch krit&eacute;ri&iacute; a z v&yacute;berov&yacute;ch krit&eacute;ri&iacute;</span>. Aplik&aacute;cia krit&eacute;ri&iacute; pre v&yacute;ber projektov je bliž&scaron;ie uveden&aacute; v Pr&iacute;lohe č. 6 v&yacute;zvy - Hodnotiace a v&yacute;berov&eacute; krit&eacute;ri&aacute; pre v&yacute;ber projektov.</div><div>Doplňuj&uacute;ce inform&aacute;cie k zneniu vylučuj&uacute;ceho krit&eacute;ria HP:&nbsp;<br />Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute;&nbsp;v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach, s prihliadnut&iacute;m&nbsp;na dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml;&nbsp;ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky.</div><div>V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m.</div><div>Za &uacute;čelom overenia zabezpečenia s&uacute;ladu projektu s čl. 9 Dohovoru OSN&nbsp;o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m s&uacute; ako odborn&aacute; pom&ocirc;cka&nbsp;pre žiadateľov pri pr&iacute;prave ŽoNFP&nbsp;k dispoz&iacute;cii nasledovn&eacute; Checklisty<br />&nbsp;&ndash; Vyhl&aacute;senie o bezbari&eacute;rovej pr&iacute;stupnosti, spracovan&eacute; gestorom HP,&nbsp;na z&aacute;klade ktor&yacute;ch je žiadateľ schopn&yacute; pre svoje vlastn&eacute; potreby&nbsp;pred vydan&iacute;m čestn&eacute;ho vyhl&aacute;senia kvalifikovane verifikovať dosiahnutie s&uacute;ladu n&iacute;m navrhovan&eacute;ho projektu s požiadavkami t&yacute;kaj&uacute;cimi sa plnenia HP:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />5. CHECK LIST - VYHL&Aacute;SENIE O BEZBARI&Eacute;ROVEJ PR&Iacute;STUPNOSTI&nbsp;&ndash; DEBARI&Eacute;RIZ&Aacute;CIA ADMINISTRAT&Iacute;VNEJ BUDOVY<br />15. CHECK LIST&nbsp; - VYHL&Aacute;SENIE O BEZBARI&Eacute;ROVEJ PR&Iacute;STUPNOSTI&nbsp; &nbsp;&ndash; VEREJN&Yacute;CH PRIESTOROV</div><div>Tieto Checklisty s&uacute; dostupn&eacute; na webovom s&iacute;dle gestora HP:&nbsp;<a href=\"https://www.horizontalneprincipy.gov.sk/hp-v-novom-po-2021-2027/index.html?csrt=13762856008428084435\">https://www.horizontalneprincipy.gov.sk/hp-v-novom-po-2021-2027/index.html?csrt=13762856008428084435</a>&nbsp;v časti Riadiaca dokument&aacute;cia.&nbsp;</div><div><span style=\"color:#0065b3\"><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</b></span></div><div><span style=\"color:rgb(0, 101, 179)\">Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom:</span></div><ul><li>formul&aacute;r ŽoNFP, tabuľka č. 7 - Popis projektu</li><li>formul&aacute;r ŽoNFP, tabuľka č. 15 - Čestn&eacute; vyhl&aacute;senie žiadateľa, v ktorom žiadateľ vyhl&aacute;si, že:&nbsp;&bdquo;<i>ŽoNFP je v s&uacute;lade s Chartou z&aacute;kladn&yacute;ch pr&aacute;v E&Uacute;, princ&iacute;pmi rodovej rovnosti a nediskrimin&aacute;cie, zohľadňuj&uacute;c potreby zabezpečenia pr&iacute;stupnosti pre&nbsp; osoby so zdravotn&yacute;m postihnut&iacute;m podľa čl&aacute;nku 9 nariadenia Eur&oacute;pskeho parlamentu a Rady (E&Uacute;) 2021/1060</i>&ldquo;.</li></ul><div>Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom inform&aacute;ci&iacute; a pr&iacute;loh ŽoNFP, uveden&yacute;ch priamo v pr&iacute;lohe v&yacute;zvy č. 6 - Hodnotiace a v&yacute;berov&eacute; krit&eacute;ri&aacute; pre v&yacute;ber projektov.</div><div><span style=\"color:#0065b3\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa</b></span></div><div><span style=\"color:rgb(0, 101, 179)\">Poskytovateľ na overenie splnenia PPP využ&iacute;va:&nbsp;</span></div><ul><li>formul&aacute;r ŽoNFP, tabuľka č. 7 - Popis projektu</li><li>formul&aacute;r ŽoNFP, tabuľka č. 15 - Čestn&eacute; vyhl&aacute;senie žiadateľa&nbsp;</li></ul><div>Poskytovateľ na overenie splnenia PPP využ&iacute;va v&scaron;etky žiadateľom poskytnut&eacute; pr&iacute;lohy a inform&aacute;cie uveden&eacute; vy&scaron;&scaron;ie, v r&aacute;mci sp&ocirc;sobu preuk&aacute;zania splnenia PPP.</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti PPP</b></span></div><div>Splnenie PPP poskytovateľ overuje v konan&iacute; o ŽoNFP v procese <span style=\"color:#0065b3\">administrat&iacute;vneho overenia ŽoNFP</span> v re&aacute;lnom čase (v okamihu v&yacute;konu overenia) a odborn&eacute;ho hodnotenia.<br />V procese administrat&iacute;vneho overovania poskytovateľ overuje splnenie form&aacute;lnych n&aacute;ležitost&iacute; PPP a v r&aacute;mci odborn&eacute;ho hodnotenia sa posudzuje vecn&aacute; opr&aacute;vnenosť a &uacute;čelnosť v&yacute;davkov projektu.<br />PPP mus&iacute; trvať (byť naplnen&aacute;) kontinu&aacute;lne, od jej prv&eacute;ho overenia (splnenia), počas realiz&aacute;cie projektu, ako aj počas obdobia udržateľnosti projektu, v zmysle čl. 65 NSU.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 5,
+   "nazovSk": "Podmienka, že žiadateľ nie je evidovaný v Systéme včasného odhaľovania rizika a vylúčenia (EDES) ako vylúčená osoba alebo subjekt (v zmysle článku 137 nariadenia č. 2024/2509)",
+   "popisSk": "<div><div><b>Popis PPP</b></div><div>Žiadateľ nesmie byť evidovan&yacute; v Syst&eacute;me včasn&eacute;ho odhaľovania rizika a vyl&uacute;čenia (EDES) ako vyl&uacute;čen&aacute; osoba alebo subjekt, v zmysle čl&aacute;nku 137&nbsp;a nasleduj&uacute;cich nariadenia o rozpočtov&yacute;ch pravidl&aacute;ch.</div><div>Z&aacute;roveň, upozorňujeme žiadateľov na povinnosť obozn&aacute;miť sa so znen&iacute;m dokumentu Inform&aacute;cia pre žiadateľov o nen&aacute;vratn&yacute; finančn&yacute; pr&iacute;spevok, resp. o pr&iacute;spevok zverejnen&yacute; na webovej str&aacute;nke:&nbsp;<a href=\"https://www.olaf.vlada.gov.sk//system-vcasneho-odhalovania-rizika-a-vylucenia-edes\">https://www.olaf.vlada.gov.sk//system-vcasneho-odhalovania-rizika-a-vylucenia-edes</a></div><div><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</b></div><div><span style=\"color:rgb(0, 101, 179)\">Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom:&nbsp;</span></div><ul><li>formul&aacute;r ŽoNFP, tabuľka č. 15 - Čestn&eacute; vyhl&aacute;senie žiadateľa</li></ul><div><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa</b></div><div><span style=\"color:rgb(0, 101, 179)\">Poskytovateľ na overenie splnenia PPP využ&iacute;va:&nbsp;</span></div><ul><li>formul&aacute;r ŽoNFP, tabuľka č. 15 - Čestn&eacute; vyhl&aacute;senie žiadateľa</li><li>syst&eacute;m včasn&eacute;ho odhaľovania rizika a vyl&uacute;čenia (EDES)&nbsp;</li></ul><div><a href=\"https://commission.europa.eu/strategy-and-policy/eu-budget/how-it-works/annual-lifecycle/implementation/anti-fraud-measures/edes/edes-database_sk\">https://commission.europa.eu/strategy-and-policy/eu-budget/how-it-works/annual-lifecycle/implementation/anti-fraud-measures/edes/edes-database_sk</a></div><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti PPP</b></span></div><div>Splnenie PPP poskytovateľ overuje v konan&iacute; o ŽoNFP v procese administrat&iacute;vneho overenia ŽoNFP v re&aacute;lnom čase (v okamihu v&yacute;konu overenia).&nbsp;</div><div>PPP mus&iacute; trvať (byť naplnen&aacute;) kontinu&aacute;lne. Od jej prv&eacute;ho overenia (splnenia), počas realiz&aacute;cie projektu, ako aj počas obdobia udržateľnosti projektu, v zmysle čl. 65 NSU.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 6,
+   "nazovSk": "Podmienka, že výdavky týkajúce sa projektu sú oprávnené",
+   "popisSk": "<div><div><span style=\"color:#0065b3\"><b>Popis PPP</b></span></div><div><span style=\"color:rgb(0, 101, 179)\">V&yacute;davky projektu</span>, ktor&eacute; si žiadateľ n&aacute;rokuje na spolufinancovanie, musia byť preuk&aacute;zateľne opr&aacute;vnen&eacute; na financovanie z PRH 21-27, čo znamen&aacute;,&nbsp;že s&uacute; v s&uacute;lade s jednotn&yacute;mi pravidlami opr&aacute;vnenosti v&yacute;davkov definovan&yacute;mi v aktu&aacute;lne platnej verzii:&nbsp;<a href=\"https://www.mpsr.sk/rozvoj-vidieka-a-priame-platby-rybne-hospodarstvo/prirucka-k-opravnenosti-vydavkov-pre-dop-a-pre-projekty-tp/47-43-1723\">Pr&iacute;ručka k opr&aacute;vnenosti v&yacute;davkov</a>&nbsp;(ďalej len &bdquo;Pr&iacute;ručka k OV&ldquo;), a z&aacute;roveň s&uacute; v s&uacute;lade s pravidlami vymedzen&yacute;mi v Pr&iacute;lohe č. 2 v&yacute;zvy - In&scaron;trukcie k Opr&aacute;vnenosti v&yacute;davkov a Finančn&yacute;m a percentu&aacute;lnym limitom.</div><div>Žiadateľ je povinn&yacute; vyplniť&nbsp;<span style=\"color:rgb(0, 101, 179)\">Pr&iacute;lohu č. 3 v&yacute;zvy - Opr&aacute;vnenosť v&yacute;davkov projektu</span>, kde bude preuk&aacute;zan&eacute;, ak&yacute;m sp&ocirc;sobom dospel k v&yacute;počtu opr&aacute;vnen&yacute;ch v&yacute;davkov žiadan&yacute;ch v podanej&nbsp; ŽoNFP/ projekte.&nbsp;&nbsp;</div><div>V pr&iacute;pade, ak bolo realizovan&eacute; verejn&eacute; obstar&aacute;vanie/ obstar&aacute;vanie (ďalej len &bdquo;VO&ldquo;, &bdquo;O&ldquo;) na predmetn&eacute; v&yacute;davky projektu, uveden&uacute; pr&iacute;lohu žiadateľ nepredklad&aacute;. V takomto pr&iacute;pade je doklad preukazuj&uacute;ci hospod&aacute;rnosť v&yacute;davkov samotn&eacute; VO.&nbsp;</div><div>Žiadateľ je povinn&yacute; uchov&aacute;vať kompletn&uacute; dokument&aacute;ciu k stanoveniu v&yacute;počtu opr&aacute;vnenosti v&yacute;davkov a VO (ak relevantn&eacute;), vr&aacute;tane zmluvy s &uacute;spe&scaron;n&yacute;m uch&aacute;dzačom u seba a v pr&iacute;pade požiadavky RO,&nbsp;je povinn&yacute; kedykoľvek v priebehu schvaľovacieho procesu&nbsp;alebo implement&aacute;cie projektu, najnesk&ocirc;r v r&aacute;mci pr&iacute;slu&scaron;nej žiadosti&nbsp;o platbu, predložiť relevantn&uacute; dokument&aacute;ciu, na z&aacute;klade ktorej bola stanoven&aacute; v&yacute;&scaron;ka pr&iacute;slu&scaron;n&eacute;ho v&yacute;davku. Uveden&eacute; rovnako plat&iacute; aj v pr&iacute;pade, ak bola v&yacute;&scaron;ka v&yacute;davku stanoven&aacute; na z&aacute;klade prieskumu trhu.</div><div>Bliž&scaron;ie inform&aacute;cie k obsahovej str&aacute;nke pr&iacute;loh ŽoNFP ako aj sp&ocirc;sobe&nbsp;ich predloženia, s&uacute; uveden&eacute; v r&aacute;mci Pr&iacute;lohy v&yacute;zvy č. 1 In&scaron;trukcie k obsahu povinn&yacute;ch pr&iacute;loh ŽoNFP.</div><div><span style=\"color:#0065b3\"><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</b></span></div><div><span style=\"color:rgb(0, 101, 179)\">Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom:</span></div><ul><li>formul&aacute;r ŽoNFP, tabuľka č. 15 - Čestn&eacute; vyhl&aacute;senie žiadateľa,&nbsp;v ktorom žiadateľ vyhl&aacute;si, že:&nbsp;&bdquo;<i>na opr&aacute;vnen&eacute; v&yacute;davky uveden&eacute; v projekte nežiadam o in&uacute; pomoc, resp. požadovanie inej pomoci je v s&uacute;lade s pravidlami kumul&aacute;cie ustanoven&yacute;mi v pr&iacute;slu&scaron;n&yacute;ch pr&aacute;vnych predpisov poskytovania &scaron;t&aacute;tnej pomoci a na tieto v&yacute;davky v minulosti nebol poskytnut&yacute; pr&iacute;spevok&nbsp;z verejn&yacute;ch prostriedkov</i>&ldquo;</li><li>pr&iacute;loha č. 4 v&yacute;zvy - Podrobn&yacute; rozpočet projektu</li><li>pr&iacute;loha č. 7 ŽoNFP: Povolenie na realiz&aacute;ciu projektu, vr&aacute;tane projektovej dokument&aacute;cie, uvedenej v r&aacute;mci Pr&iacute;lohy č. 1 v&yacute;zvy - In&scaron;trukcie k obsahu povinn&yacute;ch pr&iacute;loh ŽoNFP&nbsp; (ak relevantn&eacute;)</li><li>dokument&aacute;cia k VO (relevantn&eacute;, v pr&iacute;pade ak žiadateľ m&aacute; ukončen&eacute; VO/O na n&aacute;kup tovarov, stavebn&yacute;ch pr&aacute;c a služieb &ndash; predklad&aacute;&nbsp;ho spolu so ŽoNFP a nahr&aacute;dza t&yacute;m Pr&iacute;lohu č. 3 v&yacute;zvy - Opr&aacute;vnenosť v&yacute;davkov projektu)</li><li>pr&iacute;loha č. 3 v&yacute;zvy - Opr&aacute;vnenosť v&yacute;davkov projektu</li></ul><div><span style=\"color:#0065b3\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa</b></span></div><div><span style=\"color:rgb(0, 101, 179)\">Poskytovateľ na overenie splnenia PPP využ&iacute;va:&nbsp;</span></div><ul><li>pr&iacute;loha č. 4 v&yacute;zvy - Podrobn&yacute; rozpočet projektu</li><li>pr&iacute;loha č. 7 ŽoNFP: Povolenie na realiz&aacute;ciu projektu,&nbsp;vr&aacute;tane projektovej dokument&aacute;cie, Pr&iacute;lohy č. 1 v&yacute;zvy - In&scaron;trukcie&nbsp;k obsahu povinn&yacute;ch pr&iacute;loh ŽoNFP&nbsp;(ak relevantn&eacute;)</li><li>dokument&aacute;cia k VO (ak relevantn&eacute;)</li><li>pr&iacute;loha č. 3 v&yacute;zvy - Opr&aacute;vnenosť v&yacute;davkov projektu</li><li>ITMS21+</li><li>v&scaron;etky žiadateľom poskytnut&eacute; pr&iacute;lohy a inform&aacute;cie, uveden&eacute; v r&aacute;mci sp&ocirc;sobu preuk&aacute;zania splnenia podmienky</li></ul><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti PPP</b></span></div><div>Splnenie PPP poskytovateľ overuje v konan&iacute; o ŽoNFP v procese administrat&iacute;vneho overenia ŽoNFP v re&aacute;lnom čase (v okamihu v&yacute;konu overenia) a v procese odborn&eacute;ho hodnotenia.&nbsp;&nbsp;</div><div>PPP mus&iacute; trvať (byť naplnen&aacute;) kontinu&aacute;lne, od jej prv&eacute;ho overenia (splnenia), počas realiz&aacute;cie projektu, ako aj počas obdobia udržateľnosti projektu, v zmysle čl. 65 NSU.</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Doklad oprávnenosti výdavkov",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Dokumentácia k verejnému obstarávaniu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 4,
+     "nazovSk": "Podrobný rozpočet projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 5,
+     "nazovSk": "Povolenie na realizáciu projektu, vrátane projektovej dokumentácie",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 7,
+   "nazovSk": "Podmienka schválenia programu rozvoja a príslušného územného plánu obce podľa § 7 ods. 8 a § 8 ods. 6/ § 8a ods. 7 zákona č. 539/2008 o podpore regionálneho rozvoja v znení neskorších predpisov",
+   "popisSk": "<div><span style=\"color:#0065b3\"><b>Popis PPP</b></span></div><div>Žiadateľ, ktor&yacute;m je/s&uacute; subjekty verejnej spr&aacute;vy a &uacute;zemnej samospr&aacute;vy preuk&aacute;že, že obec/obce, na ktorej/ktor&yacute;ch &uacute;zemiach sa projekt fyzicky realizuje, maj&uacute; v čase predloženia ŽoNFP schv&aacute;len&yacute; program rozvoja obce, resp. spoločn&yacute; program rozvoja obc&iacute; a pr&iacute;slu&scaron;n&uacute; &uacute;zemnopl&aacute;novaciu dokument&aacute;ciu, v s&uacute;lade s ustanoven&iacute;m &sect; 8 ods. 6 /&sect; 8a ods. 7 z&aacute;kona&nbsp;o podpore region&aacute;lneho rozvoja.</div><div><span style=\"color:#0065b3\"><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</b></span></div><div><span style=\"color:rgb(0, 101, 179)\">Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom:&nbsp;</span></div><ul><li>formul&aacute;ra ŽoNFP, tabuľka č. 7.2 - Popis v&yacute;chodiskovej situ&aacute;cie,&nbsp;kde uvedie funkčn&yacute; odkaz na webov&eacute; s&iacute;dlo obce, kde je zverejnen&eacute;:&nbsp;<br />-<span style=\"white-space:pre\"> </span>Uznesenie (v&yacute;pis uznesenia) o schv&aacute;len&iacute; programu rozvoja obce,<br />-<span style=\"white-space:pre\"> </span>Uznesenie (v&yacute;pis uznesenia) o schv&aacute;len&iacute; programu rozvoja obce a pr&iacute;slu&scaron;n&eacute;ho &uacute;zemn&eacute;ho pl&aacute;nu obce (ak relevantn&eacute;),</li></ul><div>&nbsp;Ak tieto uznesenia nie s&uacute; zverejnen&eacute; na webovom s&iacute;dle obce, preuk&aacute;že žiadateľ splnenie PPP prostredn&iacute;ctvom predloženia:&nbsp;</div><ul><li>pr&iacute;loha č. 5 ŽoNFP: -<span style=\"white-space:pre\"> </span>Uznesenie (v&yacute;pis uznesenia) o schv&aacute;len&iacute; programu rozvoja obce a pr&iacute;slu&scaron;n&eacute;ho &uacute;zemn&eacute;ho pl&aacute;nu obce, uvedenej v r&aacute;mci Pr&iacute;lohy č. 1 v&yacute;zvy - In&scaron;trukcie k obsahu povinn&yacute;ch pr&iacute;loh ŽoNFP&nbsp; (ak relevantn&eacute;),&nbsp;</li></ul><div>Ak niektor&aacute; z obc&iacute;, kde sa projekt fyzicky realizuje, a kde vypracovanie programu rozvoja obce zabezpečuje obec pri uplatnen&iacute; partnerstva preuk&aacute;že žiadateľ splnenie PPP aj prostredn&iacute;ctvom:</div><ul><li>formul&aacute;r ŽoNFP, tabuľka č. 7.2 - Popis v&yacute;chodiskovej situ&aacute;cie, v ktorom vymenuje obec/obce, na ktor&yacute;ch &uacute;zem&iacute; sa fyzicky realizuje projekt, a kde vypracovanie programu rozvoja obce zabezpečuje obec pri uplatnen&iacute; partnerstva a z&aacute;roveň&nbsp;</li><li>formul&aacute;r ŽoNFP, tabuľka č. 15 - Čestn&eacute; vyhl&aacute;senie žiadateľa, v ktorom vyhl&aacute;si, že:&nbsp;-<span style=\"white-space:pre\"> </span>&bdquo;<i>postupuje v zmysle ustanovenia &sect; 8 z&aacute;kona č. 200/2022 Z. z</i>.&quot;</li></ul><div>Bliž&scaron;ie inform&aacute;cie k obsahovej str&aacute;nke pr&iacute;loh ŽoNFP ako aj k sp&ocirc;sobe&nbsp;ich predloženia, s&uacute; uveden&eacute; v r&aacute;mci Pr&iacute;lohy č. 1 v&yacute;zvy - In&scaron;trukcie k obsahu povinn&yacute;ch pr&iacute;loh ŽoNFP.</div><div><span style=\"color:#0065b3\"><b>Sp&ocirc;sob overenia PPP zo strany poskytovateľa</b></span></div><div><span style=\"color:rgb(0, 101, 179)\">Poskytovateľ na overenie splnenia PPP využ&iacute;va:&nbsp;</span></div><ul><li>formul&aacute;r ŽoNFP, tabuľka č. 7.2 - Popis v&yacute;chodiskovej situ&aacute;cie,&nbsp;kde uvedie funkčn&yacute; odkaz na webov&eacute; s&iacute;dlo obce, kde je zverejnen&eacute;:&nbsp;<br />-<span style=\"white-space:pre\"> </span>uznesenie (v&yacute;pis uznesenia) o schv&aacute;len&iacute; programu rozvoja obce a pr&iacute;slu&scaron;n&eacute;ho &uacute;zemn&eacute;ho pl&aacute;nu obce,&nbsp;</li></ul><ul><li>Pr&iacute;loha č. 5 ŽoNFP: Uznesenie (v&yacute;pis uznesenia) o schv&aacute;len&iacute; programu rozvoja obce a pr&iacute;slu&scaron;n&eacute;ho &uacute;zemn&eacute;ho pl&aacute;nu obce, Pr&iacute;lohy č. 1 v&yacute;zvy - In&scaron;trukcie k obsahu povinn&yacute;ch pr&iacute;loh ŽoNFP&nbsp;(ak relevantn&eacute;),&nbsp;</li></ul><div>Ak niektor&aacute; z obc&iacute;, kde sa projekt fyzicky realizuje, a kde vypracovanie programu rozvoja obce zabezpečuje obec pri uplatnen&iacute; partnerstva preuk&aacute;že žiadateľ splnenie PPP aj prostredn&iacute;ctvom:</div><ul><li>formul&aacute;r ŽoNFP, tabuľka č. 7.2 - Popis v&yacute;chodiskovej situ&aacute;cie, v ktorom vymenuje obec/obce, na ktor&yacute;ch &uacute;zem&iacute; sa fyzicky realizuje projekt, a kde vypracovanie programu rozvoja obce zabezpečuje obec pri uplatnen&iacute; partnerstva a z&aacute;roveň</li><li>formul&aacute;r ŽoNFP, tabuľka č. 15 - Čestn&eacute; vyhl&aacute;senie žiadateľa.</li></ul><div>Poskytovateľ na overenie splnenia PPP využ&iacute;va v&scaron;etky žiadateľom poskytnut&eacute; pr&iacute;lohy a inform&aacute;cie, v r&aacute;mci sp&ocirc;sobu preuk&aacute;zania splnenia PPP.</div><div><span style=\"color:rgb(0, 101, 179)\"><b>Ukončenie uplatniteľnosti PPP</b></span></div><div>Splnenie PPP poskytovateľ overuje v konan&iacute; o ŽoNFP v procese administrat&iacute;vneho overenia ŽoNFP v re&aacute;lnom čase (v okamihu v&yacute;konu overenia).&nbsp;</div><div>PPP mus&iacute; trvať (byť naplnen&aacute;) kontinu&aacute;lne, od jej prv&eacute;ho overenia (splnenia), počas realiz&aacute;cie projektu, ako aj počas obdobia udržateľnosti projektu, v zmysle čl. 65 NSU.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (formulár ŽoNFP)",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Uznesenie (výpis z uznesenia) o schválení programu rozvoja a príslušnej územnoplánovacej dokumentácie",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [],
+ "miestoRealizacieFull": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 1313,
+    "href": "/typakcieprogramu/id/1313"
+   }
+  },
+  {
+   "kod": "1040014",
+   "nazovSk": "Oceniteľné práva",
+   "typAkcieProgramu": {
+    "id": 1313,
+    "href": "/typakcieprogramu/id/1313"
+   }
+  },
+  {
+   "kod": "1040021",
+   "nazovSk": "Stavby",
+   "typAkcieProgramu": {
+    "id": 1313,
+    "href": "/typakcieprogramu/id/1313"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 1313,
+    "href": "/typakcieprogramu/id/1313"
+   }
+  },
+  {
+   "kod": "1040023",
+   "nazovSk": "Dopravné prostriedky",
+   "typAkcieProgramu": {
+    "id": 1313,
+    "href": "/typakcieprogramu/id/1313"
+   }
+  },
+  {
+   "kod": "1040027",
+   "nazovSk": "Pozemky",
+   "typAkcieProgramu": {
+    "id": 1313,
+    "href": "/typakcieprogramu/id/1313"
+   }
+  },
+  {
+   "kod": "1040930",
+   "nazovSk": "Rezerva na nepredvídané výdavky",
+   "typAkcieProgramu": {
+    "id": 1313,
+    "href": "/typakcieprogramu/id/1313"
+   }
+  },
+  {
+   "kod": "1040907",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. a) NSU",
+   "typAkcieProgramu": {
+    "id": 1332,
+    "href": "/typakcieprogramu/id/1332"
+   }
+  }
+ ],
+ "externyZdroj": [],
+ "dokument": [
+  {
+   "nazov": "Aktualizácia č 1 PRH-MPRV-004-2025-DV-ENRAF.pdf",
+   "uuid": "a9392c6a-b2e0-44a7-a66a-1e768e5def89"
+  },
+  {
+   "nazov": "Aktualizácia č 1 PRH-MPRV-004-2025-DV-ENRAF.zip",
+   "uuid": "296fc98c-3a05-4a8f-92a1-81452f65f92c"
+  },
+  {
+   "nazov": "Výzva-PRH-MPRV-004-2025-DV-ENRAF.zip",
+   "uuid": "90e60d6b-fcf8-4fc9-8fc6-2d8d6b8a4913"
+  }
+ ],
+ "inaSkutocnostUzatvorenieVyzvy": "<div style=\"text-align: justify;\">Term&iacute;ny uzavretia jednotliv&yacute;ch k&ocirc;l v&yacute;zvy na predkladanie žiadost&iacute; o poskytnutie nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku (ďalej len &bdquo;v&yacute;zva&ldquo;) s&uacute; stanoven&eacute; nasledovne:<br />Hodnotiace kol&aacute; s&uacute; stanoven&eacute; na obdobie 1 mesiaca vždy k posledn&eacute;mu kalend&aacute;rnemu dňu pr&iacute;slu&scaron;n&eacute;ho mesiaca od d&aacute;tumu vyhl&aacute;senia v&yacute;zvy.<br />Schvaľovanie prebieha priebežne v porad&iacute; predkladan&yacute;ch žiadost&iacute; o poskytnutie nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku (ďalej len &bdquo;ŽoNFP&ldquo;), a to v jednotliv&yacute;ch hodnotiacich kol&aacute;ch (tzv. &bdquo;posudzovan&yacute;ch časov&yacute;ch obdob&iacute;&ldquo;).<br />Syst&eacute;m hodnotiacich k&ocirc;l znamen&aacute;, že ŽoNFP s&uacute; v z&aacute;vislosti od d&aacute;tumu ich predloženia zoskupovan&eacute; do skup&iacute;n t. j. hodnotiacich k&ocirc;l. Poskytovateľ zoskupuje a priebežne zaraďuje predkladan&eacute; ŽoNFP do jednotliv&yacute;ch hodnotiacich k&ocirc;l. Každ&eacute; hodnotiace kolo m&aacute; vopred stanoven&yacute; konečn&yacute; term&iacute;n, a to posledn&yacute; kalend&aacute;rny deň každ&eacute;ho nasleduj&uacute;ceho mesiaca od term&iacute;nu uzavretia predch&aacute;dzaj&uacute;ceho hodnotiaceho kola. &Uacute;čelom syst&eacute;mu hodnotiacich k&ocirc;l je zabezpečiť plynul&yacute; priebeh schvaľovania ŽoNFP.<br />S cieľom optimalizovať proces schvaľovania ŽoNFP si poskytovateľ vyhradzuje pr&aacute;vo počas trvania v&yacute;zvy aktualizovať term&iacute;ny uzavretia jednotliv&yacute;ch hodnotiacich k&ocirc;l, resp. upraviť interval pre uzavretie hodnotiacich k&ocirc;l.<br /><b>Aktualiz&aacute;cia term&iacute;nov uzavretia hodnotiacich k&ocirc;l sa nepovažuje za zmenu v&yacute;zvy.</b><br />Poskytovateľ je opr&aacute;vnen&yacute; uzavrieť v&yacute;zvu na predkladanie ŽoNFP, v pr&iacute;pade vyčerpania finančn&yacute;ch prostriedkov alokovan&yacute;ch na v&yacute;zvu, alebo z d&ocirc;vodu nedostatočn&eacute;ho dopytu zo strany potenci&aacute;lnych žiadateľov.<br />Term&iacute;ny uz&aacute;vierky jednotliv&yacute;ch hodnotiacich k&ocirc;l a inform&aacute;cie o uzavret&iacute; v&yacute;zvy bud&uacute; zverejnen&eacute; prostredn&iacute;ctvom informačn&eacute;ho monitorovacieho syst&eacute;mu&nbsp;(ďalej len &bdquo;ITMS21+&ldquo;) na webovej str&aacute;nke https://portal.itms21.sk a na webovej str&aacute;nke www.mpsr.sk.<br />V pr&iacute;pade, ak term&iacute;n uzavretia hodnotiaceho kola pripadne na deň pracovn&eacute;ho pokoja, za term&iacute;n uzavretia hodnotiaceho kola sa považuje prv&yacute; nasleduj&uacute;ci pracovn&yacute; deň.<br />Žiadateľ je opr&aacute;vnen&yacute; predložiť ŽoNFP kedykoľvek v r&aacute;mci aktu&aacute;lneho hodnotiaceho kola v&yacute;zvy.<br /><b>Žiadateľ nie je opr&aacute;vnen&yacute; op&auml;tovne predložiť ŽoNFP v r&aacute;mci v&yacute;zvy v pr&iacute;pade, ak ŽoNFP s identick&yacute;m predmetom projektu už bola schv&aacute;len&aacute; v r&aacute;mci aktu&aacute;lnej, alebo inej v&yacute;zvy PRH 21-27, alebo ak schvaľovanie ŽoNFP s rovnak&yacute;m predmetom projektu e&scaron;te nebolo ukončen&eacute; pr&aacute;voplatn&yacute;m rozhodnut&iacute;m o ŽoNFP a st&aacute;le prebieha konanie o predmetnej ŽoNFP. V pr&iacute;pade sp&auml;tvzatia žiadosti zo strany žiadateľa, je žiadateľ opr&aacute;vnen&yacute; predložiť žiadosť op&auml;tovne nasleduj&uacute;ci deň po doručen&iacute; sp&auml;tvzatia poskytovateľovi.</b> (obmedzenie sa t&yacute;ka aj pr&iacute;padov, kedy voči vydan&eacute;mu rozhodnutiu bolo podan&eacute; odvolanie v s&uacute;lade s &sect; 19, z&aacute;kona č.121/2022 Z. z. o pr&iacute;spevkoch z fondov Eur&oacute;pskej &uacute;nie a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov a rozhodnutie nenadobudlo pr&aacute;voplatnosť).</div>",
+ "mieraSpolufinancovania": "<div><div><div style=\"text-align: justify;\"><span class=\"fontstyle0\">Poskytovateľ zabezpeč&iacute; financovanie projektu v s&uacute;lade s pravidlami </span><span class=\"fontstyle0\" style=\"color:rgb(5,99,193)\">Strat&eacute;gie financovania EFRR, ESF+, KF, FST a ENRAF na programov&eacute; obdobie 2021 &ndash; 2027.</span></div></div></div><div><div><div style=\"text-align: justify;\"><span class=\"fontstyle0\">V&yacute;zva stanovuje percentu&aacute;lny (%) podiel spolufinancovania verejnej pomoci&nbsp;</span><span class=\"fontstyle0\">a vlastn&yacute;ch zdrojov žiadateľa nasledovne:</span></div></div></div><div><img alt=\"\" src=\"data:image/png;base64,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\" style=\"height:203px; width:444px\" /></div><div>&nbsp;</div><div>&nbsp;</div>",
+ "sposobPodaniaZoNFP": "<div><div style=\"text-align:justify\">Žiadateľ je v zmysle &sect; 16 ods. 4 z&aacute;kona o pr&iacute;spevkoch z fondov povinn&yacute; predložiť ŽoNFP&nbsp;<span style=\"color:rgb(0, 101, 179)\">riadne a včas.</span></div><div style=\"text-align:justify\">Inform&aacute;cie k sp&ocirc;sobu podania ŽoNFP s&uacute; uveden&eacute; v dokumente&nbsp;<a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/\">V&scaron;eobecn&aacute; inform&aacute;cia k predkladaniu a schvaľovaniu ŽoNFP</a>&nbsp;v platnom znen&iacute;, pokiaľ v&yacute;zva neustanovuje inak.</div><div style=\"text-align:justify\">Žiadateľ predklad&aacute; poskytovateľovi vyplnen&yacute;&nbsp; formul&aacute;r ŽoNFP, vygenerovan&yacute; zo syst&eacute;mu ITMS21+, vr&aacute;tane v&scaron;etk&yacute;ch pr&iacute;loh.</div><div style=\"text-align:justify\"><span style=\"color:rgb(0, 101, 179)\">Formul&aacute;r ŽoNFP vygenerovan&yacute; zo syst&eacute;mu ITMS21+ je možn&eacute; podať&nbsp;aj prostredn&iacute;ctvom elektronickej schr&aacute;nky</span>&nbsp;poskytovateľa&nbsp;zriadenej v r&aacute;mci &Uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy (<a href=\"https://www.slovensko.sk/sk/titulna-stranka\">www.slovensko.sk</a>), podp&iacute;san&yacute; kvalifikovan&yacute;m elektronick&yacute;m podpisom, alebo kvalifikovan&yacute;m elektronick&yacute;m podpisom s mand&aacute;tnym certifik&aacute;tom, pričom pr&iacute;lohy&nbsp;tejto ŽoNFP, je žiadateľ povinn&yacute; predložiť prostredn&iacute;ctvom ITMS21+.&nbsp;</div><div style=\"text-align:justify\">Každ&aacute; v&yacute;mena inform&aacute;ci&iacute; medzi prij&iacute;mateľmi a org&aacute;nmi zodpovedn&yacute;mi&nbsp;za programy sa vykon&aacute; prostredn&iacute;ctvom&nbsp;<span style=\"color:rgb(0, 101, 179)\">syst&eacute;mov elektronickej v&yacute;meny &uacute;dajov</span>&nbsp;v s&uacute;lade s pr&iacute;lohou XIV NSU.&nbsp; Riadiaci org&aacute;n pre Program Rybn&eacute; hospod&aacute;rstvo SR 2021-2027 (ďalej len &bdquo;RO&ldquo;) m&ocirc;že na v&yacute;slovn&uacute; žiadosť prij&iacute;mateľa v&yacute;nimočne akceptovať v&yacute;menu inform&aacute;ci&iacute; v&nbsp;<span style=\"color:rgb(0, 101, 179)\">papierovej/ listinnej podobe</span>.</div><div style=\"text-align:justify\">Pre subjekty, ktor&eacute; s&uacute; povinn&eacute; postupovať v zmysle &sect; 17 ods. 1 a 3 z&aacute;kona&nbsp;č. 305/2013 o elektronickej podobe v&yacute;konu p&ocirc;sobnosti org&aacute;nov verejnej moci a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov (z&aacute;kon o e-Governmente),&nbsp;je predkladanie ŽoNFP v elektronickej podobe prostredn&iacute;ctvom elektronickej schr&aacute;nky poskytovateľa,&nbsp;<span style=\"color:rgb(0, 101, 179)\">povinn&eacute;</span>.&nbsp;</div><div style=\"text-align:justify\">Listinn&eacute; predloženie je pre tieto subjekty možn&eacute;<span style=\"color:rgb(0, 101, 179)\">&nbsp;len od&ocirc;vodnen&yacute;ch pr&iacute;padoch a to z technick&yacute;ch, resp. prev&aacute;dzkov&yacute;ch d&ocirc;vodov</span>,&nbsp;ktor&eacute; je žiadateľ povinn&yacute; preuk&aacute;zať pri predložen&iacute; ŽoNFP.</div></div>",
+ "miestoPrePodanieZoNFP": "<div><div style=\"text-align:justify\">Žiadateľ predklad&aacute; formul&aacute;r ŽoNFP vr&aacute;tane pr&iacute;loh&nbsp;<span style=\"color:rgb(0, 101, 179)\">elektronicky</span>, prostredn&iacute;ctvom verejnej časti ITMS21+ a formul&aacute;r ŽoNFP bez pr&iacute;loh pod&aacute;va elektronicky, prostredn&iacute;ctvom &Uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy , podp&iacute;san&yacute; kvalifikovan&yacute;m elektronick&yacute;m podpisom, kvalifikovan&yacute;m elektronick&yacute;m podpisom s mand&aacute;tnym certifik&aacute;tom alebo kvalifikovanou elektronickou pečaťou.&nbsp;</div><div style=\"text-align:justify\">Elektronick&eacute; podanie sa vykon&aacute; do e-schr&aacute;nky:<br />Ministerstvo p&ocirc;dohospod&aacute;rstva a rozvoja vidieka Slovenskej republiky &ndash; v&scaron;eobecn&aacute; agenda.</div><div style=\"text-align:justify\">V osobitn&yacute;ch pr&iacute;padoch, za podmienok uveden&yacute;ch v časti &bdquo;Sp&ocirc;sob podania ŽoNFP&ldquo;, (ak nie je možn&eacute; podať ŽoNFP elektronicky alebo nie je možn&eacute; pr&iacute;lohy ŽoNFP nahrať do ITMS21+ a pod.) je žiadateľ opr&aacute;vnen&yacute; predložiť ŽoNFP 1 x v listinnej podobe a/alebo pr&iacute;lohy (m&ocirc;že využiť predloženie&nbsp;v listinnej podobe alebo v pr&iacute;pade potreby na neprepisovateľnom elektronickom m&eacute;diu, napr. na CD/ DVD nosiči, USB), na adresu poskytovateľa.</div><div style=\"text-align:justify\">Listinn&eacute; podanie sa vykon&aacute; na adresu:</div><div style=\"text-align:justify\">&nbsp; &nbsp;Ministerstvo p&ocirc;dohospod&aacute;rstva a rozvoja vidieka Slovenskej republiky<br />&nbsp; &nbsp;Sekcia rozvoja vidieka a priamych platieb<br />&nbsp; &nbsp;Dobrovičova 12<br />&nbsp; &nbsp;812 66 Bratislava</div><div style=\"text-align:justify\">Dokumenty predkladan&eacute; v listinnej podobe je možn&eacute; predložiť na vy&scaron;&scaron;ie uveden&uacute; adresu jedn&yacute;m z nasledovn&yacute;ch sp&ocirc;sobov:</div><ul><li>osobne v pracovn&eacute; dni v čase 7:30 &ndash; 11:30 a 12:30 &ndash; 15:00,</li><li>doporučenou po&scaron;tou,</li><li>kuri&eacute;rskou službou.</li></ul><div style=\"text-align:justify\"><span style=\"color:rgb(0, 101, 179)\">V pr&iacute;pade, ak žiadateľ nepredlož&iacute; ŽoNFP riadne a včas, resp. ak pretrv&aacute;vaj&uacute; pochybnosti o predložen&iacute; ŽoNFP riadne a včas, poskytovateľ je opr&aacute;vnen&yacute; zastav&iacute; konanie o ŽoNFP.</span></div></div>",
+ "predpokladanaLehotaNaRozhodnutie": "<div><div style=\"text-align:justify\">Lehota na vydanie rozhodnutia (ďalej aj ako &bdquo;lehota&ldquo;) je spravidla&nbsp;<span style=\"color:rgb(0, 101, 179)\">60 pracovn&yacute;ch dn&iacute; odo dňa doručenia ŽoNFP poskytovateľovi</span>.&nbsp;</div><div style=\"text-align:justify\">Lehota zač&iacute;na plyn&uacute;ť pracovn&yacute;m dňom nasleduj&uacute;cim po dni predloženia ŽoNFP poskytovateľovi.</div><div style=\"text-align:justify\">Lehota m&ocirc;že byť poskytovateľom predlžen&aacute;.&nbsp;</div><div style=\"text-align:justify\">Žiadateľ je o v&yacute;sledku konania o predloženej ŽoNFP informovan&yacute; rozhodnut&iacute;m RO.&nbsp;</div><div style=\"text-align:justify\">O ŽoNFP v r&aacute;mci tejto v&yacute;zvy m&ocirc;že byť rozhodnut&eacute; v zmysle &sect;13 ods. 2 z&aacute;kona 121/2022 Z.z. o pr&iacute;spevkoch z fondov Eur&oacute;pskej &uacute;nie a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov.</div><div style=\"text-align:justify\">Na z&aacute;klade skutočnost&iacute; zisten&yacute;ch v r&aacute;mci konania o ŽoNFP vyd&aacute; RO:</div><ul><li>rozhodnutie o schv&aacute;len&iacute; ŽoNFP,</li><li>rozhodnutie o neschv&aacute;len&iacute; ŽoNFP,</li><li>rozhodnutie o zastaven&iacute; konania ŽoNFP.</li></ul><div style=\"text-align:justify\">Do lehoty sa nezapoč&iacute;tava doba potrebn&aacute; na predloženie ch&yacute;baj&uacute;cich n&aacute;ležitost&iacute; zo strany žiadateľa na z&aacute;klade v&yacute;zvy zaslanej RO (t. j. preru&scaron;uje sa v momente zaslania v&yacute;zvy na doplnenie ch&yacute;baj&uacute;cich n&aacute;ležitost&iacute; a zač&iacute;na plyn&uacute;ť momentom doručenia n&aacute;ležitost&iacute; na RO). RO si vyhradzuje pr&aacute;vo&nbsp;na predĺženie lehoty o ŽoNFP v pr&iacute;pade nemožnosti ukončiť konanie o ŽoNFP podľa predch&aacute;dzaj&uacute;cej vety. V pr&iacute;pade nedodržania, resp. predĺženia lehoty na ukončenie konania o ŽoNFP. RO informuje žiadateľov o d&ocirc;vodoch nedodržania term&iacute;nu, ako aj o novom predpokladanom term&iacute;ne prostredn&iacute;ctvom inform&aacute;cie zverejnenej na webovom s&iacute;dle&nbsp;<a href=\"https://www.mpsr.sk/\">www.mpsr.sk</a>&nbsp;a v ITMS2021+ ako aj zaslan&iacute;m inform&aacute;cie na kontaktn&eacute; e-mailov&eacute; adresy uveden&eacute; v ŽoNFP.&nbsp;</div><div style=\"text-align:justify\">&nbsp;</div><div style=\"text-align:justify\">Podrobnosti o plynut&iacute; lehoty, jej pozastaven&iacute;, resp. predĺžen&iacute; s&uacute; uveden&eacute; v metodickom dokumente CKO, kapitola 4&nbsp;<a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/\">V&scaron;eobecnej inform&aacute;cie k predkladaniu a schvaľovaniu ŽoNFP</a>&nbsp;a v z&aacute;kone o pr&iacute;spevkoch z fondov.</div></div>",
+ "zmenaAZrusenieVyzvy": "<div><div style=\"text-align:justify\">V nevyhnutn&yacute;ch pr&iacute;padoch, kedy nie je možn&eacute; konať o ŽoNFP predložen&yacute;ch na z&aacute;klade p&ocirc;vodne vyhl&aacute;senej v&yacute;zvy alebo je zmena potrebn&aacute; za &uacute;čelom jej optimaliz&aacute;cie, resp. vhodnej&scaron;ieho nastavenia, je poskytovateľ opr&aacute;vnen&yacute; v s&uacute;lade s &sect; 14 ods. 4 až 7 Z&aacute;kona o pr&iacute;spevkoch z fondov, v&yacute;zvu zmeniť alebo zru&scaron;iť.</div><div style=\"text-align:justify\"><span style=\"color:rgb(0, 101, 179)\"><b>Pos&uacute;denie potreby zmeny/zru&scaron;enia v&yacute;zvy</b></span></div><div style=\"text-align:justify\">V pr&iacute;pade legislat&iacute;vnych zmien (noveliz&aacute;cia existuj&uacute;ceho v&scaron;eobecne z&aacute;v&auml;zn&eacute;ho pr&aacute;vneho predpisu, alebo vydanie nov&eacute;ho v&scaron;eobecne z&aacute;v&auml;zn&eacute;ho pr&aacute;vneho predpisu), ktor&eacute; maj&uacute; alebo m&ocirc;žu mať vplyv na zmenu PPP a in&yacute;ch skutočnost&iacute;, tak&eacute;to zmeny&nbsp;<span style=\"color:rgb(0, 101, 179)\">nepredstavuj&uacute; zmenu v&yacute;zvy</span>&nbsp;za predpokladu, že v d&ocirc;sledku legislat&iacute;vnych zmien ned&ocirc;jde k zmene vecnej podstaty PPP. Poskytovateľ v pr&iacute;pade legislat&iacute;vnych zmien v takom pr&iacute;pade posudzuje doručen&uacute; ŽoNFP podľa aktu&aacute;lne platn&eacute;ho pr&aacute;vneho predpisu, re&scaron;pektuj&uacute;c prechodn&eacute; ustanovenia v&scaron;eobecne z&aacute;v&auml;zn&eacute;ho pr&aacute;vneho predpisu. V pr&iacute;pade, ak legislat&iacute;vne zmeny vyvolaj&uacute; potrebu zmeny v PPP, poskytovateľ v nadv&auml;znosti na ich pos&uacute;denie rozhodne o potrebe zmeny alebo zru&scaron;enie v&yacute;zvy.&nbsp;</div><div style=\"text-align:justify\">V pr&iacute;pade zmien spojen&yacute;ch s predkladan&iacute;m ŽoNFP prostredn&iacute;ctvom ITMS21+ (napr. zmeny v technickom sp&ocirc;sobe vypĺňania jednotliv&yacute;ch čast&iacute; ŽoNFP), tak&eacute;to zmeny&nbsp;<span style=\"color:rgb(0, 101, 179)\">nepredstavuj&uacute; zmenu v&yacute;zvy</span>&nbsp;a o relevantn&yacute;ch technick&yacute;ch postupoch bude poskytovateľ žiadateľov informovať.&nbsp;</div><div style=\"text-align:justify\">V pr&iacute;pade identifik&aacute;cie ch&yacute;b v p&iacute;san&iacute;, v počtoch alebo in&yacute;ch zrejm&yacute;ch nespr&aacute;vnost&iacute; (napr. vypl&yacute;vaj&uacute;ce z potreby &uacute;pravy technick&yacute;ch n&aacute;ležitost&iacute; vybran&yacute;ch vzorov&yacute;ch formul&aacute;rov pr&iacute;loh ŽoNFP alebo in&yacute;ch čast&iacute; v&yacute;zvy&nbsp;alebo dokumentov t&yacute;kaj&uacute;cich sa v&yacute;zvy) tak&eacute;to zmeny&nbsp;<span style=\"color:rgb(0, 101, 179)\">nepredstavuj&uacute; zmenu v&yacute;zvy</span>&nbsp;a o vykonan&yacute;ch oprav&aacute;ch/&uacute;prav&aacute;ch bude poskytovateľ žiadateľov informovať.&nbsp;</div><div style=\"text-align:justify\">Informovanie žiadateľov poskytovateľ realizuje prostredn&iacute;ctvom ITMS21+ a zverejnen&iacute;m na svojom webovom s&iacute;dle&nbsp;<a href=\"https://www.mpsr.sk\">MPRV SR</a>, v časti &bdquo;<a href=\"https://www.mpsr.sk/rozvoj-vidieka-a-priame-platby-rybne-hospodarstvo/aktualne-vyzvy/47-43-1684\">Aktu&aacute;lne v&yacute;zvy</a>&nbsp;resp.&nbsp;<a href=\"https://www.mpsr.sk/rozvoj-vidieka-a-priame-platby-rybne-hospodarstvo/aktuality/1-43-1515\">Aktuality</a>&ldquo;.</div><div style=\"text-align:justify\"><span style=\"color:rgb(0, 101, 179)\"><b>Zmena v&yacute;zvy</b></span></div><div style=\"text-align:justify\">Poskytovateľ je opr&aacute;vnen&yacute; vykonať zmeny v&yacute;zvy v s&uacute;lade s &sect; 14 ods. 4 a 6 z&aacute;kona o pr&iacute;spevkoch z fondov.&nbsp;<br />Inform&aacute;ciu o zmene v&yacute;zvy vr&aacute;tane zd&ocirc;vodnenia tejto zmeny zverejn&iacute; poskytovateľ prostredn&iacute;ctvom ITMS21+ podľa &sect; 48 z&aacute;kona o pr&iacute;spevkoch&nbsp;z fondov.&nbsp;&nbsp;<br /><span style=\"color:rgb(0, 101, 179)\">Poskytovateľ je opr&aacute;vnen&yacute; zmeniť v&yacute;zvu aj viackr&aacute;t.&nbsp;<br />Pri zmene v&yacute;zvy musia byť dodržan&eacute; princ&iacute;py podľa &sect; 2 ods. 2 z&aacute;kona&nbsp;o pr&iacute;spevkoch z fondov.&nbsp;</span></div><div style=\"text-align:justify\"><span style=\"color:rgb(0, 101, 179)\"><b>Postup vo vzťahu k žiadateľovi pri zmene&nbsp;v&yacute;zvy</b></span></div><div style=\"text-align:justify\">Poskytovateľ umožn&iacute; žiadateľom v primeranej lehote (nie krat&scaron;ej&nbsp;ako 10 pracovn&yacute;ch dn&iacute;) doplniť alebo zmeniť ŽoNFP do term&iacute;nu vyhl&aacute;senia zmeny v&yacute;zvy, o ktor&yacute;ch e&scaron;te nerozhodol, ak ide o tak&uacute; zmenu, ktorou m&ocirc;žu byť sk&ocirc;r predložen&eacute; ŽoNFP dotknut&eacute;, a z&aacute;roveň sa zmena v&yacute;zvy t&yacute;ka&nbsp;aj ŽoNFP, ktor&eacute; boli predložen&eacute; pred vykonan&iacute;m zmeny.&nbsp;Rozhodnutia o ŽoNFP vydan&eacute; pred zmenou v&yacute;zvy nie s&uacute; zmenou v&yacute;zvy dotknut&eacute;.</div><div style=\"text-align:justify\"><span style=\"color:rgb(0, 101, 179)\"><b>Zru&scaron;enie v&yacute;zvy</b></span></div><div style=\"text-align:justify\">Poskytovateľ zru&scaron;&iacute; v&yacute;zvu, ak z objekt&iacute;vnych d&ocirc;vodov nie je možn&eacute; financovať projekty na z&aacute;klade v&yacute;zvy.&nbsp;<br /><span style=\"color:rgb(0, 101, 179)\">V&yacute;zvu je možn&eacute; zmeniť alebo zru&scaron;iť aj po ozn&aacute;men&iacute; term&iacute;nu jej uzavretia.</span></div><div style=\"text-align:justify\"><span style=\"color:rgb(0, 101, 179)\"><b>Postup vo vzťahu k žiadateľovi pri zru&scaron;en&iacute; v&yacute;zvy</b></span><br />ŽoNFP predložen&eacute; do d&aacute;tumu zru&scaron;enia v&yacute;zvy, o ktor&yacute;ch poskytovateľ nerozhodol, vr&aacute;ti žiadateľom.<br />Rozhodnutia o ŽoNFP vydan&eacute; pred zru&scaron;en&iacute;m v&yacute;zvy nie s&uacute; zru&scaron;en&iacute;m v&yacute;zvy dotknut&eacute;.</div><div style=\"text-align:justify\"><span style=\"color:rgb(0, 101, 179)\"><b>Sp&ocirc;sob vykonania zmeny/zru&scaron;enia v&yacute;zvy</b></span></div><div style=\"text-align:justify\">Zmena v&yacute;zvy je realizovan&aacute; formou<span style=\"color:rgb(0, 101, 179)\">&nbsp;inform&aacute;cie o zmene v&yacute;zvy</span>.&nbsp;<br />Zru&scaron;enie v&yacute;zvy je realizovan&eacute; formou&nbsp;<span style=\"color:rgb(0, 101, 179)\">inform&aacute;cie o zru&scaron;en&iacute; v&yacute;zvy</span>.&nbsp;</div><div style=\"text-align:justify\"><span style=\"color:rgb(0, 101, 179)\">Každ&aacute; inform&aacute;cia o zmene v&yacute;zvy</span>&nbsp;jasn&yacute;m sp&ocirc;sobom identifikuje zmeny v&yacute;zvy, vr&aacute;tane zd&ocirc;vodnenia ich vykonania, ďalej dokument&aacute;ciu v&yacute;zvy,&nbsp;<br />ktor&aacute; je zmenou v&yacute;zvy dotknut&aacute; a ŽoNFP, ktor&yacute;ch sa zmena/zru&scaron;enie v&yacute;zvy t&yacute;ka. Poskytovateľ zverejňuje spolu s inform&aacute;ciou o zmene v&yacute;zvy aj zmenou dotknut&eacute; pr&iacute;slu&scaron;n&eacute; dokumenty v&yacute;zvy, v ktor&yacute;ch s&uacute; zmeny zobrazen&eacute; formou sledovania zmien.&nbsp;</div><div style=\"text-align:justify\"><span style=\"color:rgb(0, 101, 179)\">Každ&aacute; inform&aacute;cia o zru&scaron;en&iacute; v&yacute;zvy</span>&nbsp;obsahuje zd&ocirc;vodnenie zru&scaron;enia v&yacute;zvy. Zmena v&yacute;zvy, resp. zru&scaron;enie v&yacute;zvy je &uacute;činn&eacute; dňom zverejnenia.&nbsp;<br />Pravidl&aacute; pre zmenu/zru&scaron;enie v&yacute;zvy sa rovnako aplikuj&uacute; na pr&iacute;pad zmien&nbsp;v dokumentoch, na ktor&eacute; sa v&yacute;zva odvol&aacute;va a tak&eacute;to zmeny maj&uacute; vplyv&nbsp;na zmenu PPP.&nbsp;<br />Inform&aacute;ciu o zmene/zru&scaron;en&iacute; v&yacute;zvy zverejňuje poskytovateľ prostredn&iacute;ctvom ITMS21+,&nbsp;webov&eacute;ho s&iacute;dla&nbsp;<a href=\"https://www.mpsr.sk\">MPRV SR</a>&nbsp;a&nbsp;<a href=\"https://eurofondy.gov.sk\">Eurofondy</a>.&nbsp;</div></div>",
+ "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>",
+ "dalsiaSkutocnost": [
+  {
+   "kod": "DS001PRH-MPRV-004-2025-DV-ENRAF",
+   "dalsiaSkutocnost": "<div><span>Bliž&scaron;ie &scaron;pecifikovan&eacute; vo v&yacute;zve v časti: &quot;Ďal&scaron;ie skutočnosti t&yacute;kaj&uacute;ce sa poskytovania pr&iacute;spevku&quot;.</span></div>"
+  }
+ ],
+ "dalsiaFormalnaNalezitost": [
+  {
+   "kod": "DFN001PRH-MPRV-004-2025-DV-ENRAF",
+   "dalsiaFormalnaNalezitost": "<div><span>Bliž&scaron;ie &scaron;pecifikovan&eacute; vo v&yacute;zve v časti: &quot;Ďal&scaron;ie form&aacute;lne n&aacute;ležitosti&quot;.</span></div>"
+  }
+ ],
+ "verzia": [
+  {
+   "id": 6599,
+   "cislo": 1,
+   "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [
+  {
+   "id": 1027,
+   "specifickyCielProgramu": {
+    "id": 92,
+    "href": "/specifickycielprogramu/id/92",
+    "kod": "4022210021",
+    "nazovSk": "2.1 Podpora udržateľných akvakultúrnych činností, najmä posilnenie konkurencieschopnosti akvakultúrnej produkcie pri súčasnom zabezpečení dlhodobej environmentálnej udržateľnosti týchto činností",
+    "nazovDe": "2.1 Förderung nachhaltiger Aquakulturtätigkeiten, insbesondere Stärkung der Wettbewerbsfähigkeit der Aquakulturproduktion bei gleichzeitiger Sicherstellung der langfristigen Umweltverträglichkeit dieser Tätigkeiten",
+    "nazovEn": "2.1 Promoting sustainable aquaculture activities, especially strengthening the competitiveness of aquaculture production, while ensuring that the activities are environmentally sustainable in the long term",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 37,
+     "href": "/priorita/id/37",
+     "kod": "402221",
+     "nazovSk": "2. Podpora udržateľných akvakultúrnych činností a spracovania a uvádzania produktov rybolovu a akvakultúry na trh, čím sa prispeje k potravinovej bezpečnosti v Únii (ŠC 2.1)",
+     "nazovDe": "2. Förderung nachhaltiger Aquakulturtätigkeiten sowie der Verarbeitung und Vermarktung von Fischerei- und Aquakulturerzeugnissen als Beitrag zur Ernährungssicherheit in der Union",
+     "nazovEn": "2. Fostering sustainable aquaculture activities and processing and marketing of fishery and aquaculture products, thus contributing to food security in the Union",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536534
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536663
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1745,
+    "href": "/ukazovatelprojektovy/id/1745",
+    "kod": "PA1CR01",
+    "nazovSk": "Nová výrobná kapacita",
+    "mernaJednotka": {
+     "id": 200157,
+     "kod": "1053122",
+     "nazovSk": "tony/rok",
+     "popisSk": "tony/rok",
+     "platnostOd": 1733266800000
+    },
+    "definiciaSk": "<div><div><div><div style=\"margin-left:-3.8pt\">Zmena v objeme vlastnej produkcie akvakult&uacute;ry v podporenom subjekte v nadv&auml;znosti na realiz&aacute;ciu projektu.</div><div style=\"margin-left:-3.8pt\">Zmena je vyjadren&aacute; ako rozdiel predpokladanej vlastnej produkcie akvakult&uacute;ry, ktor&uacute; žiadateľ (podporen&yacute; subjekt) pl&aacute;nuje dosiahnuť po realiz&aacute;cii projektu&nbsp; a v&yacute;chodiskov&yacute;m stavom pred začiatkom realiz&aacute;cie projektu.</div><div style=\"margin-left:-3.8pt\"><u>Met&oacute;da v&yacute;počtu: </u></div><div style=\"margin-left:-3.8pt\">Do vlastnej produkcie akvakult&uacute;ry sa započ&iacute;tava v&yacute;lov nasledovn&yacute;ch produktov:</div><div style=\"margin-left:-3.8pt\">- ryby v trhovej veľkosti, určen&eacute; na predaj alebo spracovanie</div><div style=\"margin-left:-3.8pt\">- n&aacute;sady, určen&eacute; na ďal&scaron;&iacute; chov alebo na predaj (vr&aacute;tane zarybnenia)</div><div style=\"margin-left:-3.8pt\"><b>Vlastn&aacute; produkcia za pr&iacute;slu&scaron;n&yacute; rok sa vypoč&iacute;ta nasledovne:</b></div><div style=\"margin-left:-3.8pt\">stav k 31.12. + predaj (vr&aacute;tane spracovania a zarybnenia) &ndash; n&aacute;kup&nbsp; -&nbsp; stav k 1.1 podľa skladovej evidencie jednotliv&yacute;ch položiek (druh a veľkosť) produktov akvakult&uacute;ry podporen&eacute;ho subjektu.</div><div style=\"margin-left:-3.8pt\">V&yacute;sledok v&yacute;počtu ukazovateľa sa uvedie v ton&aacute;ch. Produkcia produktov akvakult&uacute;ry vykazovan&aacute; v kusoch sa pre potreby v&yacute;počtu ukazovateľa prepoč&iacute;ta na tony koeficientmi, ktor&eacute; si stanov&iacute; podporen&yacute; subjekt na z&aacute;klade zistenia hmotnosti produktov akvakult&uacute;ry, vyloven&yacute;ch v podporenom subjekte.</div><div style=\"margin-left:-3.8pt\"><b>Zmena v objeme produkcie akvakult&uacute;ry = A &ndash; B</b></div><div style=\"margin-left:-3.8pt\">A &ndash; je predpokladan&aacute; vlastn&aacute; produkcia akvakult&uacute;ry, ktor&uacute; chce žiadateľ dosiahnuť po realiz&aacute;cii projektu.</div><div style=\"margin-left:-3.8pt\">B &ndash; je v&yacute;chodiskov&yacute; stav pred začiatkom realiz&aacute;cie projektu, <b>ktor&yacute; je rovn&yacute; &bdquo;0&ldquo; ak je žiadateľom nov&yacute; subjekt</b>, resp. ktor&yacute; predstavuje priemern&uacute; vlastn&uacute; produkciu akvakult&uacute;ry ak je žiadateľom subjekt akvakult&uacute;ry.</div><div style=\"margin-left:-3.8pt\">&nbsp;</div><div style=\"margin-left:-3.8pt\">Priemern&aacute; vlastn&aacute; produkcia akvakult&uacute;ry sa vypoč&iacute;ta za 3 skončen&eacute; roky pred podan&iacute;m ŽoNFP. Ak žiadateľ podnikal krat&scaron;ie, berie sa objem produkcie akvakult&uacute;ry za 1 resp. priemer za 2 roky pred podan&iacute;m ŽoNFP.&nbsp;&nbsp;</div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 10,
+      "kod": "1032ENRAF",
+      "kodZdroj": "ENRAF",
+      "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1733013350837,
+    "updatedAt": 1734626184323
+   }
+  },
+  {
+   "id": 1028,
+   "specifickyCielProgramu": {
+    "id": 92,
+    "href": "/specifickycielprogramu/id/92",
+    "kod": "4022210021",
+    "nazovSk": "2.1 Podpora udržateľných akvakultúrnych činností, najmä posilnenie konkurencieschopnosti akvakultúrnej produkcie pri súčasnom zabezpečení dlhodobej environmentálnej udržateľnosti týchto činností",
+    "nazovDe": "2.1 Förderung nachhaltiger Aquakulturtätigkeiten, insbesondere Stärkung der Wettbewerbsfähigkeit der Aquakulturproduktion bei gleichzeitiger Sicherstellung der langfristigen Umweltverträglichkeit dieser Tätigkeiten",
+    "nazovEn": "2.1 Promoting sustainable aquaculture activities, especially strengthening the competitiveness of aquaculture production, while ensuring that the activities are environmentally sustainable in the long term",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 37,
+     "href": "/priorita/id/37",
+     "kod": "402221",
+     "nazovSk": "2. Podpora udržateľných akvakultúrnych činností a spracovania a uvádzania produktov rybolovu a akvakultúry na trh, čím sa prispeje k potravinovej bezpečnosti v Únii (ŠC 2.1)",
+     "nazovDe": "2. Förderung nachhaltiger Aquakulturtätigkeiten sowie der Verarbeitung und Vermarktung von Fischerei- und Aquakulturerzeugnissen als Beitrag zur Ernährungssicherheit in der Union",
+     "nazovEn": "2. Fostering sustainable aquaculture activities and processing and marketing of fishery and aquaculture products, thus contributing to food security in the Union",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536534
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536663
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1754,
+    "href": "/ukazovatelprojektovy/id/1754",
+    "kod": "PA1CR02",
+    "nazovSk": "Zachovaná akvakultúrna produkcia",
+    "mernaJednotka": {
+     "id": 200157,
+     "kod": "1053122",
+     "nazovSk": "tony/rok",
+     "popisSk": "tony/rok",
+     "platnostOd": 1733266800000
+    },
+    "definiciaSk": "<div><div><div><div style=\"margin-left:-3.8pt\">&nbsp;</div><div style=\"margin-left:-3.8pt\"><span style=\"color:#0000ff\"><b>Defin&iacute;cia MU pre &Scaron;C 2.1:</b></span></div><div style=\"margin-left:-3.8pt\">Objem existuj&uacute;cej vlastnej akvakult&uacute;rnej produkcie udržanej podporen&yacute;mi subjektmi v nadv&auml;znosti na zrealizovan&eacute; projekty.<br /><u>Met&oacute;da v&yacute;počtu:</u><br />Do vlastnej produkcie akvakult&uacute;ry sa započ&iacute;tava v&yacute;lov nasledovn&yacute;ch produktov:<br />- ryby v trhovej veľkosti, určen&eacute; na predaj alebo spracovanie<br />- n&aacute;sady, určen&eacute; na ďal&scaron;&iacute; chov alebo na predaj (vr&aacute;tane zarybnenia)</div><div style=\"margin-left:-3.8pt\"><b>Vlastn&aacute; produkcia za pr&iacute;slu&scaron;n&yacute; rok sa vypoč&iacute;ta nasledovne</b>:<br />stav k 31.12. + predaj (vr&aacute;tane spracovania a zarybnenia) - n&aacute;kup&nbsp; -&nbsp; stav k 1.1<br />podľa skladovej evidencie jednotliv&yacute;ch položiek (druh a veľkosť) produktov akvakult&uacute;ry podporen&eacute;ho subjektu. V&yacute;sledok v&yacute;počtu ukazovateľa sa uvedie v ton&aacute;ch. Produkcia produktov akvakult&uacute;ry vykazovan&aacute; v kusoch sa pre potreby v&yacute;počtu ukazovateľa prepoč&iacute;ta na tony koeficientmi, ktor&eacute; si stanov&iacute; podporen&yacute; subjekt na z&aacute;klade zistenia hmotnosti produktov akvakult&uacute;ry, vyloven&yacute;ch v podporenom subjekte.<br />Ako v&yacute;chodiskov&yacute; stav pre stanovenie cieľovej hodnoty tohto ukazovateľa sa berie priemern&aacute; vlastn&aacute; akvakult&uacute;rna produkcia,&nbsp; ktor&aacute;&nbsp; sa vypoč&iacute;ta za 3 skončen&eacute; roky pred podan&iacute;m ŽoNFP. Ak žiadateľ podnikal krat&scaron;ie, berie sa produkcia za 1 resp. priemer za 2 roky pred podan&iacute;m ŽoNFP.&nbsp;</div><div style=\"margin-left:-3.8pt\">&nbsp;</div><div style=\"margin-left:-3.8pt\"><b><span style=\"color:#0000ff\">Defin&iacute;cia MU pre &Scaron;C 2.2:</span></b></div><div style=\"margin-left:-3.8pt\">Zmena v objeme vlastnej produkcie a udržanej produkcie spracovania produktov morsk&eacute;ho rybolovu a akvakult&uacute;ry v podporenom subjekte v nadv&auml;znosti na realiz&aacute;ciu projektu.<br />Zmena je vyjadren&aacute; ako rozdiel predpokladanej vlastnej produkcie spracovan&yacute;ch produktov morsk&eacute;ho rybolovu a akvakult&uacute;ry, ktor&uacute; žiadateľ (podporen&yacute; subjekt) pl&aacute;nuje dosiahnuť a v&yacute;chodiskov&yacute;m stavom pred začiatkom realiz&aacute;cie projektu.<br />Do v&yacute;počtu vlastnej produkcie sa nezapoč&iacute;ta:<br />- produkcia akvakult&uacute;ry v živom stave,<br />- predaj nak&uacute;pen&yacute;ch produktov, ktor&eacute; neboli v podporovanej prev&aacute;dzke ďalej spracovan&eacute;.<br /><u>Met&oacute;da v&yacute;počtu:</u><br />Zmena v objeme produkcie spracovania produktov rybolov a akvakult&uacute;ry = A &ndash; B<br />A &ndash; je predpokladan&aacute; vlastn&aacute; produkcia spracovan&yacute;ch produktov morsk&eacute;ho rybolovu a akvakult&uacute;ry, ktor&uacute; žiadateľ chce dosiahnuť.<br />B &ndash; je v&yacute;chodiskov&yacute; stav pred začiatkom realiz&aacute;cie projektu, ktor&yacute; predstavuje priemern&yacute; objem vlastnej produkcie spracovania produktov morsk&eacute;ho rybolovu a akvakult&uacute;ry.<br />Priemern&aacute; vlastn&aacute; produkcia spracovan&yacute;ch produktov morsk&eacute;ho rybolovu a akvakult&uacute;ry sa vypoč&iacute;ta za 3 skončen&eacute; roky pred podan&iacute;m ŽoNFP.<br />Ak žiadateľ podnikal krat&scaron;ie, berie sa objem produkcie spracovania za 1, resp. priemer za 2 roky pred podan&iacute;m ŽoNFP.</div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 10,
+      "kod": "1032ENRAF",
+      "kodZdroj": "ENRAF",
+      "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1734626604791,
+    "updatedAt": 1761293757450
+   }
+  },
+  {
+   "id": 1029,
+   "specifickyCielProgramu": {
+    "id": 92,
+    "href": "/specifickycielprogramu/id/92",
+    "kod": "4022210021",
+    "nazovSk": "2.1 Podpora udržateľných akvakultúrnych činností, najmä posilnenie konkurencieschopnosti akvakultúrnej produkcie pri súčasnom zabezpečení dlhodobej environmentálnej udržateľnosti týchto činností",
+    "nazovDe": "2.1 Förderung nachhaltiger Aquakulturtätigkeiten, insbesondere Stärkung der Wettbewerbsfähigkeit der Aquakulturproduktion bei gleichzeitiger Sicherstellung der langfristigen Umweltverträglichkeit dieser Tätigkeiten",
+    "nazovEn": "2.1 Promoting sustainable aquaculture activities, especially strengthening the competitiveness of aquaculture production, while ensuring that the activities are environmentally sustainable in the long term",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 37,
+     "href": "/priorita/id/37",
+     "kod": "402221",
+     "nazovSk": "2. Podpora udržateľných akvakultúrnych činností a spracovania a uvádzania produktov rybolovu a akvakultúry na trh, čím sa prispeje k potravinovej bezpečnosti v Únii (ŠC 2.1)",
+     "nazovDe": "2. Förderung nachhaltiger Aquakulturtätigkeiten sowie der Verarbeitung und Vermarktung von Fischerei- und Aquakulturerzeugnissen als Beitrag zur Ernährungssicherheit in der Union",
+     "nazovEn": "2. Fostering sustainable aquaculture activities and processing and marketing of fishery and aquaculture products, thus contributing to food security in the Union",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536534
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536663
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1755,
+    "href": "/ukazovatelprojektovy/id/1755",
+    "kod": "PA1CR03",
+    "nazovSk": "Založené podniky",
+    "mernaJednotka": {
+     "id": 200118,
+     "kod": "1053119",
+     "nazovSk": "počet subjektov",
+     "popisSk": "počet subjektov",
+     "platnostOd": 1690927200000
+    },
+    "definiciaSk": "<div>Počet založen&yacute;ch podnikov t.j. rybochovn&yacute;ch zariaden&iacute; na hospod&aacute;rsky chov r&yacute;b vybudovan&yacute;ch podporen&yacute;m subjektom v nadv&auml;znosti na realiz&aacute;ciu projektu. <b>MU mus&iacute;&nbsp; byť naplnen&yacute; ku koncu realiz&aacute;cie projektu a&nbsp;z&aacute;roveň minim&aacute;lne počas cel&eacute;ho obdobia udržateľnosti projektu.</b></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     },
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 10,
+      "kod": "1032ENRAF",
+      "kodZdroj": "ENRAF",
+      "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1734626833121
+   }
+  },
+  {
+   "id": 1030,
+   "specifickyCielProgramu": {
+    "id": 92,
+    "href": "/specifickycielprogramu/id/92",
+    "kod": "4022210021",
+    "nazovSk": "2.1 Podpora udržateľných akvakultúrnych činností, najmä posilnenie konkurencieschopnosti akvakultúrnej produkcie pri súčasnom zabezpečení dlhodobej environmentálnej udržateľnosti týchto činností",
+    "nazovDe": "2.1 Förderung nachhaltiger Aquakulturtätigkeiten, insbesondere Stärkung der Wettbewerbsfähigkeit der Aquakulturproduktion bei gleichzeitiger Sicherstellung der langfristigen Umweltverträglichkeit dieser Tätigkeiten",
+    "nazovEn": "2.1 Promoting sustainable aquaculture activities, especially strengthening the competitiveness of aquaculture production, while ensuring that the activities are environmentally sustainable in the long term",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 37,
+     "href": "/priorita/id/37",
+     "kod": "402221",
+     "nazovSk": "2. Podpora udržateľných akvakultúrnych činností a spracovania a uvádzania produktov rybolovu a akvakultúry na trh, čím sa prispeje k potravinovej bezpečnosti v Únii (ŠC 2.1)",
+     "nazovDe": "2. Förderung nachhaltiger Aquakulturtätigkeiten sowie der Verarbeitung und Vermarktung von Fischerei- und Aquakulturerzeugnissen als Beitrag zur Ernährungssicherheit in der Union",
+     "nazovEn": "2. Fostering sustainable aquaculture activities and processing and marketing of fishery and aquaculture products, thus contributing to food security in the Union",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536534
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536663
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1756,
+    "href": "/ukazovatelprojektovy/id/1756",
+    "kod": "PA1CR06",
+    "nazovSk": "Vytvorené pracovné miesta",
+    "mernaJednotka": {
+     "id": 200158,
+     "kod": "1053123",
+     "nazovSk": "počet osôb",
+     "popisSk": "počet osôb",
+     "platnostOd": 1733266800000
+    },
+    "definiciaSk": "<div><div><div><div style=\"margin-left:-3.8pt\">Počet novovytvoren&yacute;ch pracovn&yacute;ch&nbsp; miest (muži + ženy) na pln&yacute; &uacute;v&auml;zok (t.j. min. 30 hod&iacute;n t&yacute;ždenne) v oblasti akvakult&uacute;ry v podporenom subjekte v nadv&auml;znosti na realiz&aacute;ciu projektu.</div></div></div><div style=\"clear:both\">&nbsp;</div>Za referenčn&yacute;, počiatočn&yacute; stav pracovn&yacute;ch miest sa berie ich stav v podporenom subjekte ku dňu predloženia ŽoNFP, deklarovan&yacute; v organizačnej sch&eacute;me pracovn&yacute;ch miest žiadateľa (podporen&eacute;ho subjektu). Zo sch&eacute;my mus&iacute; byť zrejm&yacute; vzťah pracovn&eacute;ho miesta k podporovanej prev&aacute;dzke. <b>Novovytvoren&eacute; pracovn&eacute; miesta musia byť obsaden&eacute; najnesk&ocirc;r do predloženia ŽoP s pr&iacute;znakom &bdquo;z&aacute;verečn&aacute;&ldquo;</b>, musia byť vytvoren&eacute; v počte uvedenom v ŽoNFP a obsaden&eacute; <b>minim&aacute;lne počas cel&eacute;ho obdobia udržateľnosti projektu</b>, pričom v&scaron;ak plat&iacute;, že sa udržiavaj&uacute; pracovn&eacute; miesta, nie konkr&eacute;tni pracovn&iacute;ci. Obdobie, počas ktor&eacute;ho podporovan&yacute; subjekt nedok&aacute;že znovu obsadiť&nbsp; pracovn&eacute; miesto po odchode zamestnanca, dolož&iacute; ozn&aacute;men&iacute;m pr&iacute;slu&scaron;n&eacute;mu &uacute;radu pr&aacute;ce, že je toto pracovn&eacute; miesto voľn&eacute; (s potvrden&iacute;m o doručen&iacute;) alebo preuk&aacute;že, že pracovn&eacute; miesto je rezervovan&eacute; (pracovn&eacute; miesto nie obsaden&eacute;, ale sa obsad&iacute; s &uacute;spe&scaron;n&yacute;m uch&aacute;dzačom v dohodnutom term&iacute;ne, najnesk&ocirc;r ku koncu sledovan&eacute;ho obdobia).</div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     },
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 10,
+      "kod": "1032ENRAF",
+      "kodZdroj": "ENRAF",
+      "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1734627066770
+   }
+  },
+  {
+   "id": 1031,
+   "specifickyCielProgramu": {
+    "id": 92,
+    "href": "/specifickycielprogramu/id/92",
+    "kod": "4022210021",
+    "nazovSk": "2.1 Podpora udržateľných akvakultúrnych činností, najmä posilnenie konkurencieschopnosti akvakultúrnej produkcie pri súčasnom zabezpečení dlhodobej environmentálnej udržateľnosti týchto činností",
+    "nazovDe": "2.1 Förderung nachhaltiger Aquakulturtätigkeiten, insbesondere Stärkung der Wettbewerbsfähigkeit der Aquakulturproduktion bei gleichzeitiger Sicherstellung der langfristigen Umweltverträglichkeit dieser Tätigkeiten",
+    "nazovEn": "2.1 Promoting sustainable aquaculture activities, especially strengthening the competitiveness of aquaculture production, while ensuring that the activities are environmentally sustainable in the long term",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 37,
+     "href": "/priorita/id/37",
+     "kod": "402221",
+     "nazovSk": "2. Podpora udržateľných akvakultúrnych činností a spracovania a uvádzania produktov rybolovu a akvakultúry na trh, čím sa prispeje k potravinovej bezpečnosti v Únii (ŠC 2.1)",
+     "nazovDe": "2. Förderung nachhaltiger Aquakulturtätigkeiten sowie der Verarbeitung und Vermarktung von Fischerei- und Aquakulturerzeugnissen als Beitrag zur Ernährungssicherheit in der Union",
+     "nazovEn": "2. Fostering sustainable aquaculture activities and processing and marketing of fishery and aquaculture products, thus contributing to food security in the Union",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536534
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536663
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1757,
+    "href": "/ukazovatelprojektovy/id/1757",
+    "kod": "PA1CR07",
+    "nazovSk": "Zachované pracovné miesta",
+    "mernaJednotka": {
+     "id": 200158,
+     "kod": "1053123",
+     "nazovSk": "počet osôb",
+     "popisSk": "počet osôb",
+     "platnostOd": 1733266800000
+    },
+    "definiciaSk": "<div><div><div><div style=\"margin-left:-3.8pt\">Počet pracovn&yacute;ch&nbsp; miest (muži + ženy) na pln&yacute; &uacute;v&auml;zok (t.j. min. 30 hod&iacute;n t&yacute;ždenne) v oblasti akvakult&uacute;ry v podporenom subjekte, ktor&eacute; existovali v podporenom subjekte pred začiatkom realiz&aacute;cie projektu a boli udržan&eacute;&nbsp; v nadv&auml;znosti na realiz&aacute;ciu projektu.</div></div></div><div style=\"clear:both\">&nbsp;</div>Za referenčn&yacute;, počiatočn&yacute; stav pracovn&yacute;ch miest sa berie ich stav v podporenom subjekte ku dňu predloženia ŽoNFP, deklarovan&yacute; v organizačnej sch&eacute;me pracovn&yacute;ch miest žiadateľa. Zo sch&eacute;my mus&iacute; byť zrejm&yacute; vzťah pracovn&eacute;ho miesta k podporovanej prev&aacute;dzke. <b>Existuj&uacute;ce pracovn&eacute; miesta musia byť obsaden&eacute; počas celej doby realiz&aacute;cie projektu a z&aacute;roveň</b><b> musia byť udržan&eacute; v počte uvedenom v ŽoNFP a obsaden&eacute; minim&aacute;lne počas cel&eacute;ho obdobia udržateľnosti projektu</b>, pričom v&scaron;ak plat&iacute;, že sa udržiavaj&uacute; pracovn&eacute; miesta, nie konkr&eacute;tni pracovn&iacute;ci. Obdobie, počas ktor&eacute;ho podporen&yacute; subjekt nedok&aacute;že znovu obsadiť pracovn&eacute; miesto po odchode zamestnanca nesmie prekročiť 3 kalend&aacute;rne mesiace (obdobie zač&iacute;na plyn&uacute;ť dňom nasleduj&uacute;cim po dni ukončenia pracovn&eacute;ho pomeru zamestnanca).</div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     },
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 10,
+      "kod": "1032ENRAF",
+      "kodZdroj": "ENRAF",
+      "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1734627251777
+   }
+  }
+ ],
+ "ukazovatelVystupovy": [
+  {
+   "id": 1032,
+   "specifickyCielProgramu": {
+    "id": 92,
+    "href": "/specifickycielprogramu/id/92",
+    "kod": "4022210021",
+    "nazovSk": "2.1 Podpora udržateľných akvakultúrnych činností, najmä posilnenie konkurencieschopnosti akvakultúrnej produkcie pri súčasnom zabezpečení dlhodobej environmentálnej udržateľnosti týchto činností",
+    "nazovDe": "2.1 Förderung nachhaltiger Aquakulturtätigkeiten, insbesondere Stärkung der Wettbewerbsfähigkeit der Aquakulturproduktion bei gleichzeitiger Sicherstellung der langfristigen Umweltverträglichkeit dieser Tätigkeiten",
+    "nazovEn": "2.1 Promoting sustainable aquaculture activities, especially strengthening the competitiveness of aquaculture production, while ensuring that the activities are environmentally sustainable in the long term",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 37,
+     "href": "/priorita/id/37",
+     "kod": "402221",
+     "nazovSk": "2. Podpora udržateľných akvakultúrnych činností a spracovania a uvádzania produktov rybolovu a akvakultúry na trh, čím sa prispeje k potravinovej bezpečnosti v Únii (ŠC 2.1)",
+     "nazovDe": "2. Förderung nachhaltiger Aquakulturtätigkeiten sowie der Verarbeitung und Vermarktung von Fischerei- und Aquakulturerzeugnissen als Beitrag zur Ernährungssicherheit in der Union",
+     "nazovEn": "2. Fostering sustainable aquaculture activities and processing and marketing of fishery and aquaculture products, thus contributing to food security in the Union",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536534
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536663
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1759,
+    "href": "/ukazovatelprojektovy/id/1759",
+    "kod": "PA1CO01",
+    "nazovSk": "Počet projektov",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div>Počet zrealizovan&yacute;ch oper&aacute;ci&iacute;/projektov.</div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     },
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 10,
+      "kod": "1032ENRAF",
+      "kodZdroj": "ENRAF",
+      "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1734630730852
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 1313,
+   "href": "/typakcieprogramu/id/1313",
+   "kod": "402221002100060",
+   "nazovSk": "Zlepšovanie pracovných podmienok zamestnancov a neproduktívne investície",
+   "specifickyCielProgramu": {
+    "id": 92,
+    "href": "/specifickycielprogramu/id/92",
+    "kod": "4022210021",
+    "nazovSk": "2.1 Podpora udržateľných akvakultúrnych činností, najmä posilnenie konkurencieschopnosti akvakultúrnej produkcie pri súčasnom zabezpečení dlhodobej environmentálnej udržateľnosti týchto činností",
+    "nazovDe": "2.1 Förderung nachhaltiger Aquakulturtätigkeiten, insbesondere Stärkung der Wettbewerbsfähigkeit der Aquakulturproduktion bei gleichzeitiger Sicherstellung der langfristigen Umweltverträglichkeit dieser Tätigkeiten",
+    "nazovEn": "2.1 Promoting sustainable aquaculture activities, especially strengthening the competitiveness of aquaculture production, while ensuring that the activities are environmentally sustainable in the long term",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 37,
+     "href": "/priorita/id/37",
+     "kod": "402221",
+     "nazovSk": "2. Podpora udržateľných akvakultúrnych činností a spracovania a uvádzania produktov rybolovu a akvakultúry na trh, čím sa prispeje k potravinovej bezpečnosti v Únii (ŠC 2.1)",
+     "nazovDe": "2. Förderung nachhaltiger Aquakulturtätigkeiten sowie der Verarbeitung und Vermarktung von Fischerei- und Aquakulturerzeugnissen als Beitrag zur Ernährungssicherheit in der Union",
+     "nazovEn": "2. Fostering sustainable aquaculture activities and processing and marketing of fishery and aquaculture products, thus contributing to food security in the Union",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536534
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536663
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1733414156777,
+   "updatedAt": 1759307969490
+  },
+  {
+   "id": 1332,
+   "href": "/typakcieprogramu/id/1332",
+   "kod": "4022210021000P0",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 92,
+    "href": "/specifickycielprogramu/id/92",
+    "kod": "4022210021",
+    "nazovSk": "2.1 Podpora udržateľných akvakultúrnych činností, najmä posilnenie konkurencieschopnosti akvakultúrnej produkcie pri súčasnom zabezpečení dlhodobej environmentálnej udržateľnosti týchto činností",
+    "nazovDe": "2.1 Förderung nachhaltiger Aquakulturtätigkeiten, insbesondere Stärkung der Wettbewerbsfähigkeit der Aquakulturproduktion bei gleichzeitiger Sicherstellung der langfristigen Umweltverträglichkeit dieser Tätigkeiten",
+    "nazovEn": "2.1 Promoting sustainable aquaculture activities, especially strengthening the competitiveness of aquaculture production, while ensuring that the activities are environmentally sustainable in the long term",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 37,
+     "href": "/priorita/id/37",
+     "kod": "402221",
+     "nazovSk": "2. Podpora udržateľných akvakultúrnych činností a spracovania a uvádzania produktov rybolovu a akvakultúry na trh, čím sa prispeje k potravinovej bezpečnosti v Únii (ŠC 2.1)",
+     "nazovDe": "2. Förderung nachhaltiger Aquakulturtätigkeiten sowie der Verarbeitung und Vermarktung von Fischerei- und Aquakulturerzeugnissen als Beitrag zur Ernährungssicherheit in der Union",
+     "nazovEn": "2. Fostering sustainable aquaculture activities and processing and marketing of fishery and aquaculture products, thus contributing to food security in the Union",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536534
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536663
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1733414157010,
+   "updatedAt": 1759307969490
+  }
+ ],
+ "oblastIntervencie": [],
+ "typIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 92,
+    "href": "/specifickycielprogramu/id/92",
+    "kod": "4022210021",
+    "nazovSk": "2.1 Podpora udržateľných akvakultúrnych činností, najmä posilnenie konkurencieschopnosti akvakultúrnej produkcie pri súčasnom zabezpečení dlhodobej environmentálnej udržateľnosti týchto činností",
+    "nazovDe": "2.1 Förderung nachhaltiger Aquakulturtätigkeiten, insbesondere Stärkung der Wettbewerbsfähigkeit der Aquakulturproduktion bei gleichzeitiger Sicherstellung der langfristigen Umweltverträglichkeit dieser Tätigkeiten",
+    "nazovEn": "2.1 Promoting sustainable aquaculture activities, especially strengthening the competitiveness of aquaculture production, while ensuring that the activities are environmentally sustainable in the long term",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 37,
+     "href": "/priorita/id/37",
+     "kod": "402221",
+     "nazovSk": "2. Podpora udržateľných akvakultúrnych činností a spracovania a uvádzania produktov rybolovu a akvakultúry na trh, čím sa prispeje k potravinovej bezpečnosti v Únii (ŠC 2.1)",
+     "nazovDe": "2. Förderung nachhaltiger Aquakulturtätigkeiten sowie der Verarbeitung und Vermarktung von Fischerei- und Aquakulturerzeugnissen als Beitrag zur Ernährungssicherheit in der Union",
+     "nazovEn": "2. Fostering sustainable aquaculture activities and processing and marketing of fishery and aquaculture products, thus contributing to food security in the Union",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536534
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536663
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "typIntervencie": {
+    "id": 200001,
+    "kod": "1210ENRAF02",
+    "kodZdroj": "02",
+    "nazovSk": "Presadzovanie podmienok pre hospodársky životaschopné, konkurencieschopné a atraktívne odvetvia rybolovu, akvakultúry a spracovateľského priemyslu",
+    "nazovEn": "Presadzovanie podmienok pre hospodársky životaschopné, konkurencieschopné a atraktívne odvetvia rybolovu, akvakultúry a spracovateľského priemyslu",
+    "popisSk": "Presadzovanie podmienok pre hospodársky životaschopné, konkurencieschopné a atraktívne odvetvia rybolovu, akvakultúry a spracovateľského priemyslu",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 92,
+    "href": "/specifickycielprogramu/id/92",
+    "kod": "4022210021",
+    "nazovSk": "2.1 Podpora udržateľných akvakultúrnych činností, najmä posilnenie konkurencieschopnosti akvakultúrnej produkcie pri súčasnom zabezpečení dlhodobej environmentálnej udržateľnosti týchto činností",
+    "nazovDe": "2.1 Förderung nachhaltiger Aquakulturtätigkeiten, insbesondere Stärkung der Wettbewerbsfähigkeit der Aquakulturproduktion bei gleichzeitiger Sicherstellung der langfristigen Umweltverträglichkeit dieser Tätigkeiten",
+    "nazovEn": "2.1 Promoting sustainable aquaculture activities, especially strengthening the competitiveness of aquaculture production, while ensuring that the activities are environmentally sustainable in the long term",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 37,
+     "href": "/priorita/id/37",
+     "kod": "402221",
+     "nazovSk": "2. Podpora udržateľných akvakultúrnych činností a spracovania a uvádzania produktov rybolovu a akvakultúry na trh, čím sa prispeje k potravinovej bezpečnosti v Únii (ŠC 2.1)",
+     "nazovDe": "2. Förderung nachhaltiger Aquakulturtätigkeiten sowie der Verarbeitung und Vermarktung von Fischerei- und Aquakulturerzeugnissen als Beitrag zur Ernährungssicherheit in der Union",
+     "nazovEn": "2. Fostering sustainable aquaculture activities and processing and marketing of fishery and aquaculture products, thus contributing to food security in the Union",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536534
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536663
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "typIntervencie": {
+    "id": 200000,
+    "kod": "1210ENRAF01",
+    "kodZdroj": "01",
+    "nazovSk": "Znižovanie negatívnych vplyvov a/alebo prispievanie k pozitívnym vplyvom na životné prostredie a prispievanie k dobrému environmentálnemu stavu",
+    "nazovEn": "Znižovanie negatívnych vplyvov a/alebo prispievanie k pozitívnym vplyvom na životné prostredie a prispievanie k dobrému environmentálnemu stavu",
+    "popisSk": "Znižovanie negatívnych vplyvov a/alebo prispievanie k pozitívnym vplyvom na životné prostredie a prispievanie k dobrému environmentálnemu stavu",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 92,
+    "href": "/specifickycielprogramu/id/92",
+    "kod": "4022210021",
+    "nazovSk": "2.1 Podpora udržateľných akvakultúrnych činností, najmä posilnenie konkurencieschopnosti akvakultúrnej produkcie pri súčasnom zabezpečení dlhodobej environmentálnej udržateľnosti týchto činností",
+    "nazovDe": "2.1 Förderung nachhaltiger Aquakulturtätigkeiten, insbesondere Stärkung der Wettbewerbsfähigkeit der Aquakulturproduktion bei gleichzeitiger Sicherstellung der langfristigen Umweltverträglichkeit dieser Tätigkeiten",
+    "nazovEn": "2.1 Promoting sustainable aquaculture activities, especially strengthening the competitiveness of aquaculture production, while ensuring that the activities are environmentally sustainable in the long term",
+    "program": {
+     "id": 7,
+     "href": "/program/id/7"
+    },
+    "priorita": {
+     "id": 37,
+     "href": "/priorita/id/37",
+     "kod": "402221",
+     "nazovSk": "2. Podpora udržateľných akvakultúrnych činností a spracovania a uvádzania produktov rybolovu a akvakultúry na trh, čím sa prispeje k potravinovej bezpečnosti v Únii (ŠC 2.1)",
+     "nazovDe": "2. Förderung nachhaltiger Aquakulturtätigkeiten sowie der Verarbeitung und Vermarktung von Fischerei- und Aquakulturerzeugnissen als Beitrag zur Ernährungssicherheit in der Union",
+     "nazovEn": "2. Fostering sustainable aquaculture activities and processing and marketing of fishery and aquaculture products, thus contributing to food security in the Union",
+     "program": {
+      "id": 7,
+      "href": "/program/id/7"
+     },
+     "createdAt": 1759305536534
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 10,
+     "kod": "1032ENRAF",
+     "kodZdroj": "ENRAF",
+     "nazovSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "nazovEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisSk": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "popisEn": "Európsky námorný, rybolovný a akvakultúrny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1759305536663
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [],
+ "hospodarskaCinnost": [],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 200000,
+   "kod": "1033N/A",
+   "kodZdroj": "N/A",
+   "nazovSk": "Bez kategórie regiónu",
+   "popisSk": "Bez kategórie regiónu",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [
+  {
+   "datumZverejnenia": 1763074800000,
+   "nazov": "Oznam pre žiadateľov k výzve PRH-MPRV-004-2025-DV-ENRAF (zdôvodnenie nedodržania, resp. predĺženia lehoty na vydanie rozhodnutia v konaní o ŽoNFP)",
+   "text": "<div><p>V&aacute;žen&iacute; žiadatelia,</p><p style=\"text-align: justify;\">Riadiaci org&aacute;n pre Program rybn&eacute;ho hospod&aacute;rstva 2021 &ndash; 2027 (PRH) oznamuje, že v s&uacute;vislosti so spracovan&iacute;m predložen&yacute;ch &nbsp;žiadost&iacute; o nen&aacute;vratn&yacute; finančn&yacute; pr&iacute;spevok (ŽoNFP), v r&aacute;mci v&yacute;zvy s&nbsp;k&oacute;dom: PRH-MPRV-004-2025-DV-ENRAF (V&yacute;zva) je nevyhnutn&eacute; prist&uacute;piť k predĺženiu lehoty&nbsp;<b>o&nbsp;45 pracovn&yacute;ch dn&iacute;</b>&nbsp;na vydanie rozhodnutia v&nbsp;konan&iacute; o&nbsp;ŽoNFP stanovej vo V&yacute;zve spravidla na 60 pracovn&yacute;ch dn&iacute; odo dňa doručenia ŽoNFP poskytovateľovi.</p><p style=\"text-align: justify;\"><b>Zd&ocirc;vodnenie nedodržania, resp. predĺženia lehoty na vydanie rozhodnutia v konan&iacute; o ŽoNFP:</b></p><p style=\"text-align: justify;\">Riadiaci org&aacute;n ďalej uv&aacute;dza, že posudzovanie a&nbsp;overovanie kvalitat&iacute;vne predložen&yacute;ch ŽoNFP si vyžadovalo vy&scaron;&scaron;iu mieru administrat&iacute;vnej n&aacute;ročnosti z&nbsp;form&aacute;lneho ako aj časov&eacute;ho hľadiska v&nbsp;procese konania o&nbsp;ŽoNFP.</p><p style=\"text-align: justify;\">Z&aacute;roveň si Riadiaci org&aacute;n dovoľuje informovať žiadateľov, že vynalož&iacute; maxim&aacute;lne &uacute;silie na minimaliz&aacute;ciu lehoty na ukončenia procesu konania o ŽoNFP a vydanie rozhodnut&iacute; k&nbsp;dotknut&yacute;m ŽoNFP.</p></div>",
+   "dokument": []
+  }
+ ],
+ "projektovyZamerIUS": []
+}

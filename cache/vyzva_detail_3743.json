@@ -1,0 +1,4575 @@
+{
+ "id": 3743,
+ "href": "/vyzva/id/3743",
+ "kod": "PSK-SIEA-012-2025-NP-EFRR",
+ "nazovSk": "Vytvorenie systému podpory domácností ohrozených energetickou chudobou",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 44,
+   "href": "/specifickycielprogramu/id/44",
+   "kod": "401201R203",
+   "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 3,
+    "href": "/priorita/id/3",
+    "kod": "401201",
+    "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867938
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540871418
+  }
+ ],
+ "opatrenie": [
+  {
+   "id": 45,
+   "href": "/opatrenie/id/45",
+   "kod": "401201R20301",
+   "nazovSk": "Podpora inteligentných energetických systémov vrátane uskladňovania energie",
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "createdAt": 1772540871442
+  }
+ ],
+ "miestoRealizacie": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 42,
+   "kod": "1009321",
+   "kodZdroj": "321",
+   "nazovSk": "Rozpočtová organizácia",
+   "nazovEn": "Budgetary organization",
+   "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+   "popisEn": "Budgetary organization Budgetary organization",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1765926000000,
+ "datumUkoncenia": 1782770400000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 377,
+  "kod": "21_SO_PSK_SIEA",
+  "nazov": "Sprostredkovateľský orgán PSK - Slovenská inovačná a energetická agentúra",
+  "subjekt": {
+   "id": 100005,
+   "href": "/subjekt/id/100005",
+   "nazov": "Slovenská inovačná a energetická agentúra",
+   "ico": "00002801",
+   "dic": "2020877749",
+   "icz": "1000106184",
+   "platitelDph": true,
+   "podlaParagrafu": "§4",
+   "icDph": "SK2020877749",
+   "pravnaForma": {
+    "id": 43,
+    "kod": "1009331",
+    "kodZdroj": "331",
+    "nazovSk": "Príspevková organizácia",
+    "nazovEn": "Organization based on state contributions",
+    "popisSk": "Príspevková organizácia Príspevková organizácia",
+    "popisEn": "Org.based on contrib. Organization based on state contributions",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Bajkalská",
+    "cislo": "1467/27",
+    "psc": "82799",
+    "obec": "Bratislava - mestská časť Ružinov",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "UZAVRETA",
+ "zameranieProjektu": "NP_21",
+ "createdAt": 1764833700242,
+ "updatedAt": 1772435572569,
+ "sumaEu": 13917200.84,
+ "sumaSr": 3717255.15,
+ "predvyber": false,
+ "posudzovaneObdobie": [],
+ "pocetPredlozenychZiadosti": 0,
+ "pocetSchvalenychZiadosti": 0,
+ "pocetZiadostiVKonani": 0,
+ "pocetNeschvalenychZiadosti": 0,
+ "pocetRealizovanychProjektov": 0,
+ "planovanaVyzva": [
+  {
+   "id": 77,
+   "href": "/planovanavyzva/id/77",
+   "kod": "2025/00032",
+   "nazovSk": "Vytvorenie systému podpory domácností ohrozených energetickou chudobou",
+   "programSkratka": "PSK",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 44,
+     "href": "/specifickycielprogramu/id/44"
+    }
+   ],
+   "opatrenie": [
+    {
+     "id": 45,
+     "href": "/opatrenie/id/45"
+    }
+   ],
+   "miestoRealizacie": [
+    {
+     "id": 9,
+     "kod": "1006SK010",
+     "kodZdroj": "SK010",
+     "nazovSk": "Bratislavský kraj",
+     "nazovEn": "Region of Bratislava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 10,
+     "kod": "1006SK021",
+     "kodZdroj": "SK021",
+     "nazovSk": "Trnavský kraj",
+     "nazovEn": "Region of Trnava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 11,
+     "kod": "1006SK022",
+     "kodZdroj": "SK022",
+     "nazovSk": "Trenčiansky kraj",
+     "nazovEn": "Region of Trenčín",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 12,
+     "kod": "1006SK023",
+     "kodZdroj": "SK023",
+     "nazovSk": "Nitriansky kraj",
+     "nazovEn": "Region of Nitra",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 13,
+     "kod": "1006SK031",
+     "kodZdroj": "SK031",
+     "nazovSk": "Žilinský kraj",
+     "nazovEn": "Region of Žilina",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 14,
+     "kod": "1006SK032",
+     "kodZdroj": "SK032",
+     "nazovSk": "Banskobystrický kraj",
+     "nazovEn": "Region of Banská Bystrica",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 15,
+     "kod": "1006SK041",
+     "kodZdroj": "SK041",
+     "nazovSk": "Prešovský kraj",
+     "nazovEn": "Region of Prešov",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 16,
+     "kod": "1006SK042",
+     "kodZdroj": "SK042",
+     "nazovSk": "Košický kraj",
+     "nazovEn": "Region of Košice",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [
+    {
+     "id": 42,
+     "kod": "1009321",
+     "kodZdroj": "321",
+     "nazovSk": "Rozpočtová organizácia",
+     "nazovEn": "Budgetary organization",
+     "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+     "popisEn": "Budgetary organization Budgetary organization",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 43,
+     "kod": "1009331",
+     "kodZdroj": "331",
+     "nazovSk": "Príspevková organizácia",
+     "nazovEn": "Organization based on state contributions",
+     "popisSk": "Príspevková organizácia Príspevková organizácia",
+     "popisEn": "Org.based on contrib. Organization based on state contributions",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 49,
+     "kod": "1009382",
+     "kodZdroj": "382",
+     "nazovSk": "Verejnoprávna inštitúcia",
+     "nazovEn": "Public legal institution",
+     "popisSk": "Verejnopráv.inštitúcia Verejnoprávna inštitúcia",
+     "popisEn": "Public legal institut. Public legal institution",
+     "platnostOd": 838850400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 50,
+     "kod": "1009383",
+     "kodZdroj": "383",
+     "nazovSk": "Iná organizácia verejnej správy",
+     "nazovEn": "Other organization of public administration",
+     "popisSk": "Iná org.verejnej správy Iná organizácia verejnej správy",
+     "popisEn": "Other org.of publ.admin. Other organization of public administration",
+     "platnostOd": 1336082400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 57,
+     "kod": "1009433",
+     "kodZdroj": "433",
+     "nazovSk": "Sociálna a zdravotné poisťovne",
+     "nazovEn": "National Insurance-Company",
+     "popisSk": "Sociál.,zdrav.poisťovňa Sociálna a zdravotné poisťovne",
+     "popisEn": "Nation.Insurance-Comp. National Insurance-Company",
+     "platnostOd": 725842800000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 92,
+     "kod": "1009801",
+     "kodZdroj": "801",
+     "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+     "nazovEn": "Municipality (municipal office)",
+     "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+     "popisEn": "Municipality Municipality (municipal office)",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 94,
+     "kod": "1009803",
+     "kodZdroj": "803",
+     "nazovSk": "Samosprávny kraj (úrad samosprávneho kraja)",
+     "nazovEn": "Office of local government (regional level)",
+     "popisSk": "Samosprávny kraj Samosprávny kraj (úrad samosprávneho kraja)",
+     "popisEn": "Office of local governm. Office of local government (regional level)",
+     "platnostOd": 1007161200000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 200412,
+     "kod": "1009333",
+     "kodZdroj": "333",
+     "nazovSk": "Verejná výskumná inštitúcia",
+     "nazovEn": "Public research institution",
+     "popisSk": "zák. 243/2017",
+     "platnostOd": 1514761200000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "datumVyhlasenia1Kolo": 1764543600000,
+   "sumaEu": 13917200.84,
+   "druh": "VYZVA_21",
+   "vyhlasena": true,
+   "zrusena": false,
+   "zameranieProjektu": "NP_21",
+   "vyhlasovatel": {
+    "id": 377
+   },
+   "poskytovatel": {
+    "id": 376
+   },
+   "createdAt": 1764577855229,
+   "updatedAt": 1764577855324
+  }
+ ],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 6,
+   "kod": "1032EFRR",
+   "kodZdroj": "EFRR",
+   "nazovSk": "Európsky fond regionálneho rozvoja",
+   "nazovEn": "European Regional Development Fund",
+   "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+   "popisSk": "Európsky fond regionálneho rozvoja",
+   "popisEn": "European Regional Development Fund",
+   "popisDe": "Europäischen Fonds für regionale Entwicklung",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "cielVyzvy": "<div><div>Cieľom v&yacute;zvy na pr&iacute;pravu a predloženie n&aacute;rodn&eacute;ho projektu je vytvorenie syst&eacute;mu dlhodobo udržateľnej adresnej energetickej pomoci, ktor&yacute; bude zabezpečovať elimin&aacute;ciu negat&iacute;vnych dopadov zvy&scaron;ovania cien energi&iacute; na zraniteľn&eacute; skupiny obyvateľstva.</div><div>N&aacute;rodn&yacute; projekt podpor&iacute; vznik syst&eacute;mov monitorovania, optimaliz&aacute;cie a&nbsp;riadenia spotreby energie, č&iacute;m prispeje k&nbsp;zavedeniu adresn&eacute;ho syst&eacute;mu finančnej podpory pre dom&aacute;cnosti ohrozen&eacute; energetickou chudobou.</div>Vznik digit&aacute;lneho syst&eacute;mu pre adresn&uacute; pomoc umožn&iacute;&nbsp; automatizovan&eacute; vyhodnocovanie n&aacute;roku na podporu na z&aacute;klade dostupn&yacute;ch d&aacute;t pri minimalizovan&iacute; administrat&iacute;vnej z&aacute;ťaže. Popri tom bude n&aacute;rodn&yacute; projekt zav&aacute;dzať osvetov&eacute; a&nbsp;poradensk&eacute; aktivity&nbsp; s&nbsp;cieľom optimalizovať spotrebu energi&iacute; a&nbsp;zn&iacute;žiť dlhodob&eacute; v&yacute;davky dom&aacute;cnost&iacute;. N&aacute;rodn&yacute; projekt zabezpeč&iacute; kapacity zapojen&yacute;ch in&scaron;tit&uacute;ci&iacute; na riadenie, implement&aacute;ciu a&nbsp;kontrolu adresnej pomoci.</div>",
+ "sposobFinancovania": [
+  "ZALOHA",
+  "PREDFINANCOVANIE",
+  "REFUNDACIA"
+ ],
+ "typPartnerstva": "EVIDENCIE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktNazov": "Slovenská inovačná a energetická agentúra",
+ "kontaktEmail": "metodikaesif@siea.gov.sk",
+ "kontaktTelefon": "+421 2 58 248 331",
+ "kontaktnaOsoba": [
+  {
+   "osoba": {
+    "titulPred": "Ing.",
+    "meno": "Martina",
+    "priezvisko": "Džuganová",
+    "titulZa": "",
+    "menoUplne": "Ing. Martina Džuganová"
+   },
+   "telefon": "+421 2 58 248 331",
+   "email": "martina.dzuganova@siea.gov.sk"
+  }
+ ],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "Konkrétny oprávnený žiadateľ",
+   "popisSk": "<div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Plnomocenstvo",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "Podmienka oprávnenosti partnera",
+   "popisSk": "<div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Plnomocenstvo (ak relevantné)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Dokumenty preukazujúce právnu subjektivitu žiadateľa",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Vyhlásenie o partnerstve (ak relevantné)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "Podmienka oprávnenosti aktivít",
+   "popisSk": "<div>&nbsp;<br />Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Rozpočet projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Vyhlásenie o partnerstve",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "Podmienka splnenia kritérií pre výber projektov",
+   "popisSk": "<div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 5,
+   "nazovSk": "Podmienka definovania merateľných ukazovateľov projektu",
+   "popisSk": "<div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 6,
+   "nazovSk": "Podmienka, že žiadateľ/partner nie je evidovaný v Systéme včasného odhaľovania rizika a vylúčenia (EDES) ako vylúčená osoba alebo subjekt (v zmysle článku 137 nariadenia č. 2024/2509",
+   "popisSk": "<div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 7,
+   "nazovSk": "Podmienka, že voči partnerovi nie je vyhlásený konkurz ani povolená reštrukturalizácia a nie je v likvidácii",
+   "popisSk": "<div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "INSOLVENCNY_REGISTER"
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 8,
+   "nazovSk": "Podmienka zákazu vedenia výkonu rozhodnutia voči partnerovi",
+   "popisSk": "<div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 9,
+   "nazovSk": "Podmienka, že partner, ktorým je právnická osoba, nemá právoplatným rozsudkom uložený trest zákazu prijímať dotácie alebo subvencie, trest zrušenia PO, trest zákazu prijímať pomoc a podporu poskytovanú z fondov EÚ ...",
+   "popisSk": "<div>Konkr&eacute;tny popis PPP je uveden&yacute; v dokumente v&yacute;zvy.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [
+  {
+   "id": 100009,
+   "href": "/subjekt/id/100009",
+   "nazov": "Ministerstvo hospodárstva Slovenskej republiky",
+   "ico": "00686832",
+   "dic": "2021056818",
+   "icz": "1000118581",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2021056818",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Mlynské nivy",
+    "cislo": "44/a",
+    "psc": "82715",
+    "obec": "Bratislava - mestská časť Ružinov",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ ],
+ "miestoRealizacieFull": [
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [
+  {
+   "id": 42,
+   "kod": "1009321",
+   "kodZdroj": "321",
+   "nazovSk": "Rozpočtová organizácia",
+   "nazovEn": "Budgetary organization",
+   "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+   "popisEn": "Budgetary organization Budgetary organization",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 43,
+   "kod": "1009331",
+   "kodZdroj": "331",
+   "nazovSk": "Príspevková organizácia",
+   "nazovEn": "Organization based on state contributions",
+   "popisSk": "Príspevková organizácia Príspevková organizácia",
+   "popisEn": "Org.based on contrib. Organization based on state contributions",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 49,
+   "kod": "1009382",
+   "kodZdroj": "382",
+   "nazovSk": "Verejnoprávna inštitúcia",
+   "nazovEn": "Public legal institution",
+   "popisSk": "Verejnopráv.inštitúcia Verejnoprávna inštitúcia",
+   "popisEn": "Public legal institut. Public legal institution",
+   "platnostOd": 838850400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 200412,
+   "kod": "1009333",
+   "kodZdroj": "333",
+   "nazovSk": "Verejná výskumná inštitúcia",
+   "nazovEn": "Public research institution",
+   "popisSk": "zák. 243/2017",
+   "platnostOd": 1514761200000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "opravneneVydavky": [
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 661,
+    "href": "/typakcieprogramu/id/661"
+   }
+  },
+  {
+   "kod": "1040014",
+   "nazovSk": "Oceniteľné práva",
+   "typAkcieProgramu": {
+    "id": 661,
+    "href": "/typakcieprogramu/id/661"
+   }
+  },
+  {
+   "kod": "1040551",
+   "nazovSk": "Odpisy",
+   "typAkcieProgramu": {
+    "id": 661,
+    "href": "/typakcieprogramu/id/661"
+   }
+  },
+  {
+   "kod": "1040019",
+   "nazovSk": "Ostatný dlhodobý nehmotný majetok",
+   "typAkcieProgramu": {
+    "id": 661,
+    "href": "/typakcieprogramu/id/661"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 661,
+    "href": "/typakcieprogramu/id/661"
+   }
+  },
+  {
+   "kod": "1040112",
+   "nazovSk": "Zásoby",
+   "typAkcieProgramu": {
+    "id": 661,
+    "href": "/typakcieprogramu/id/661"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 661,
+    "href": "/typakcieprogramu/id/661"
+   }
+  },
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 661,
+    "href": "/typakcieprogramu/id/661"
+   }
+  },
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 657,
+    "href": "/typakcieprogramu/id/657"
+   }
+  },
+  {
+   "kod": "1040014",
+   "nazovSk": "Oceniteľné práva",
+   "typAkcieProgramu": {
+    "id": 657,
+    "href": "/typakcieprogramu/id/657"
+   }
+  },
+  {
+   "kod": "1040551",
+   "nazovSk": "Odpisy",
+   "typAkcieProgramu": {
+    "id": 657,
+    "href": "/typakcieprogramu/id/657"
+   }
+  },
+  {
+   "kod": "1040019",
+   "nazovSk": "Ostatný dlhodobý nehmotný majetok",
+   "typAkcieProgramu": {
+    "id": 657,
+    "href": "/typakcieprogramu/id/657"
+   }
+  },
+  {
+   "kod": "1040112",
+   "nazovSk": "Zásoby",
+   "typAkcieProgramu": {
+    "id": 657,
+    "href": "/typakcieprogramu/id/657"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 657,
+    "href": "/typakcieprogramu/id/657"
+   }
+  },
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 657,
+    "href": "/typakcieprogramu/id/657"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 657,
+    "href": "/typakcieprogramu/id/657"
+   }
+  },
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 656,
+    "href": "/typakcieprogramu/id/656"
+   }
+  },
+  {
+   "kod": "1040014",
+   "nazovSk": "Oceniteľné práva",
+   "typAkcieProgramu": {
+    "id": 656,
+    "href": "/typakcieprogramu/id/656"
+   }
+  },
+  {
+   "kod": "1040551",
+   "nazovSk": "Odpisy",
+   "typAkcieProgramu": {
+    "id": 656,
+    "href": "/typakcieprogramu/id/656"
+   }
+  },
+  {
+   "kod": "1040019",
+   "nazovSk": "Ostatný dlhodobý nehmotný majetok",
+   "typAkcieProgramu": {
+    "id": 656,
+    "href": "/typakcieprogramu/id/656"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 656,
+    "href": "/typakcieprogramu/id/656"
+   }
+  },
+  {
+   "kod": "1040112",
+   "nazovSk": "Zásoby",
+   "typAkcieProgramu": {
+    "id": 656,
+    "href": "/typakcieprogramu/id/656"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 656,
+    "href": "/typakcieprogramu/id/656"
+   }
+  },
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 656,
+    "href": "/typakcieprogramu/id/656"
+   }
+  },
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 658,
+    "href": "/typakcieprogramu/id/658"
+   }
+  },
+  {
+   "kod": "1040551",
+   "nazovSk": "Odpisy",
+   "typAkcieProgramu": {
+    "id": 658,
+    "href": "/typakcieprogramu/id/658"
+   }
+  },
+  {
+   "kod": "1040019",
+   "nazovSk": "Ostatný dlhodobý nehmotný majetok",
+   "typAkcieProgramu": {
+    "id": 658,
+    "href": "/typakcieprogramu/id/658"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 658,
+    "href": "/typakcieprogramu/id/658"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 658,
+    "href": "/typakcieprogramu/id/658"
+   }
+  },
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 658,
+    "href": "/typakcieprogramu/id/658"
+   }
+  },
+  {
+   "kod": "1040014",
+   "nazovSk": "Oceniteľné práva",
+   "typAkcieProgramu": {
+    "id": 658,
+    "href": "/typakcieprogramu/id/658"
+   }
+  },
+  {
+   "kod": "1040112",
+   "nazovSk": "Zásoby",
+   "typAkcieProgramu": {
+    "id": 658,
+    "href": "/typakcieprogramu/id/658"
+   }
+  },
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 659,
+    "href": "/typakcieprogramu/id/659"
+   }
+  },
+  {
+   "kod": "1040014",
+   "nazovSk": "Oceniteľné práva",
+   "typAkcieProgramu": {
+    "id": 659,
+    "href": "/typakcieprogramu/id/659"
+   }
+  },
+  {
+   "kod": "1040551",
+   "nazovSk": "Odpisy",
+   "typAkcieProgramu": {
+    "id": 659,
+    "href": "/typakcieprogramu/id/659"
+   }
+  },
+  {
+   "kod": "1040019",
+   "nazovSk": "Ostatný dlhodobý nehmotný majetok",
+   "typAkcieProgramu": {
+    "id": 659,
+    "href": "/typakcieprogramu/id/659"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 659,
+    "href": "/typakcieprogramu/id/659"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 659,
+    "href": "/typakcieprogramu/id/659"
+   }
+  },
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 659,
+    "href": "/typakcieprogramu/id/659"
+   }
+  },
+  {
+   "kod": "1040112",
+   "nazovSk": "Zásoby",
+   "typAkcieProgramu": {
+    "id": 659,
+    "href": "/typakcieprogramu/id/659"
+   }
+  },
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 652,
+    "href": "/typakcieprogramu/id/652"
+   }
+  },
+  {
+   "kod": "1040014",
+   "nazovSk": "Oceniteľné práva",
+   "typAkcieProgramu": {
+    "id": 652,
+    "href": "/typakcieprogramu/id/652"
+   }
+  },
+  {
+   "kod": "1040551",
+   "nazovSk": "Odpisy",
+   "typAkcieProgramu": {
+    "id": 652,
+    "href": "/typakcieprogramu/id/652"
+   }
+  },
+  {
+   "kod": "1040019",
+   "nazovSk": "Ostatný dlhodobý nehmotný majetok",
+   "typAkcieProgramu": {
+    "id": 652,
+    "href": "/typakcieprogramu/id/652"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 652,
+    "href": "/typakcieprogramu/id/652"
+   }
+  },
+  {
+   "kod": "1040112",
+   "nazovSk": "Zásoby",
+   "typAkcieProgramu": {
+    "id": 652,
+    "href": "/typakcieprogramu/id/652"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 652,
+    "href": "/typakcieprogramu/id/652"
+   }
+  },
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 652,
+    "href": "/typakcieprogramu/id/652"
+   }
+  },
+  {
+   "kod": "1040907",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. a) NSU",
+   "typAkcieProgramu": {
+    "id": 1015,
+    "href": "/typakcieprogramu/id/1015"
+   }
+  },
+  {
+   "kod": "1040907",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. a) NSU",
+   "typAkcieProgramu": {
+    "id": 1014,
+    "href": "/typakcieprogramu/id/1014"
+   }
+  }
+ ],
+ "externyZdroj": [
+  {
+   "nazov": "Zverejnená výzva",
+   "url": "https://eurofondy.gov.sk/vyzvy/vyzvy-programu-slovensko/"
+  }
+ ],
+ "dokument": [],
+ "dovodVznikuVerzie": "<div><div>Presun skupiny v&yacute;davkov 907 na v&yacute;zve do <b><i>Podporn&yacute;ch aktiv&iacute;t</i></b>.</div></div>",
+ "dalsiaSkutocnost": [],
+ "dalsiaFormalnaNalezitost": [],
+ "verzia": [
+  {
+   "id": 7049,
+   "cislo": 2,
+   "datumVykonaniaZmeny": 1772406000000,
+   "dovodVznikuVerzie": "<div><div>Presun skupiny v&yacute;davkov 907 na v&yacute;zve do <b><i>Podporn&yacute;ch aktiv&iacute;t</i></b>.</div></div>"
+  },
+  {
+   "id": 6913,
+   "cislo": 1,
+   "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [
+  {
+   "id": 1210,
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1822,
+    "href": "/ukazovatelprojektovy/id/1822",
+    "kod": "PSKPSRI56",
+    "nazovSk": "Počet energetických domácností evidovaných v informačnom systéme",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Celkov&yacute; počet unik&aacute;tnych energetick&yacute;ch dom&aacute;cnost&iacute; evidovan&yacute;ch v&nbsp;informačnom syst&eacute;me pre potreby evidencie ich pr&iacute;jmu, n&aacute;kladov, spotreby, potenci&aacute;lu &uacute;spor energie a&nbsp;in&yacute;ch &uacute;dajov o&nbsp;energetick&yacute;ch dom&aacute;cnostiach.</div>Energetickou dom&aacute;cnosťou je jedna alebo viac fyzick&yacute;ch os&ocirc;b, ktor&eacute; maj&uacute; v registri fyzick&yacute;ch os&ocirc;b evidovan&yacute; druh pobytu ustanoven&yacute; nariaden&iacute;m vl&aacute;dy Slovenskej republiky na rovnakej adrese, ako je adresa odbern&eacute;ho miesta na odber elektriny, odber plynu alebo dod&aacute;vku tepla na ich vlastn&uacute; spotrebu (podľa &sect; 3 ods. 1 z&aacute;kona č. 260/2025 Z. z. o adresnej energopomoci a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov.)</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Informačn&yacute; syst&eacute;m, monitorovacia spr&aacute;va projektu.</div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1765878720723,
+    "updatedAt": 1765961333174
+   }
+  },
+  {
+   "id": 1211,
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1822,
+    "href": "/ukazovatelprojektovy/id/1822",
+    "kod": "PSKPSRI56",
+    "nazovSk": "Počet energetických domácností evidovaných v informačnom systéme",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Celkov&yacute; počet unik&aacute;tnych energetick&yacute;ch dom&aacute;cnost&iacute; evidovan&yacute;ch v&nbsp;informačnom syst&eacute;me pre potreby evidencie ich pr&iacute;jmu, n&aacute;kladov, spotreby, potenci&aacute;lu &uacute;spor energie a&nbsp;in&yacute;ch &uacute;dajov o&nbsp;energetick&yacute;ch dom&aacute;cnostiach.</div>Energetickou dom&aacute;cnosťou je jedna alebo viac fyzick&yacute;ch os&ocirc;b, ktor&eacute; maj&uacute; v registri fyzick&yacute;ch os&ocirc;b evidovan&yacute; druh pobytu ustanoven&yacute; nariaden&iacute;m vl&aacute;dy Slovenskej republiky na rovnakej adrese, ako je adresa odbern&eacute;ho miesta na odber elektriny, odber plynu alebo dod&aacute;vku tepla na ich vlastn&uacute; spotrebu (podľa &sect; 3 ods. 1 z&aacute;kona č. 260/2025 Z. z. o adresnej energopomoci a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov.)</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Informačn&yacute; syst&eacute;m, monitorovacia spr&aacute;va projektu.</div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1765878720723,
+    "updatedAt": 1765961333174
+   }
+  }
+ ],
+ "ukazovatelVystupovy": [
+  {
+   "id": 1212,
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1821,
+    "href": "/ukazovatelprojektovy/id/1821",
+    "kod": "PSKPSOI58",
+    "nazovSk": "Počet komponentov informačného systému pre monitorovanie energetických domácností",
+    "mernaJednotka": {
+     "id": 200081,
+     "kod": "105382",
+     "nazovSk": "komponenty systému",
+     "popisSk": "komponenty systému",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Počet komponentov informačn&eacute;ho syst&eacute;mu pre monitorovanie energetick&yacute;ch dom&aacute;cnost&iacute;.</div><div>Komponenty m&ocirc;žu zahŕňať v&yacute;voj, testovanie a&nbsp;nasadenie modelov, ktor&eacute; umožnia definovať a&nbsp;analyzovať soci&aacute;lno-ekonomick&eacute; a&nbsp;energetick&eacute; &uacute;daje potrebn&eacute; pre pos&uacute;denie a&nbsp;vyhodnotenie bonity a&nbsp;spotreby energie a m&eacute;di&iacute; energetick&yacute;ch dom&aacute;cnost&iacute;. Komponenty tiež m&ocirc;žu zahŕňať modely a&nbsp;n&aacute;stroje na optimaliz&aacute;ciu spotreby, podporu udržateľnosti, zvy&scaron;ovanie motiv&aacute;cie k&nbsp;&uacute;spor&aacute;m energie, n&aacute;stroje pre poradenstvo v&nbsp;oblasti hospod&aacute;rneho využ&iacute;vania energie.&nbsp; Ďalej komponenty m&ocirc;žu definovať najvhodnej&scaron;ie lokality a&nbsp;podmienky na vytv&aacute;ranie miestnych distribučn&yacute;ch siet&iacute;, vytypovať vhodn&eacute; lokality na podporu uskladňovania energie za &uacute;čelom efekt&iacute;vneho využ&iacute;vania zdrojov, vytypovať vhodn&eacute; lokality na podporu in&scaron;tal&aacute;cie inteligentn&yacute;ch prvkov v elektroenergetick&yacute;ch syst&eacute;moch na &uacute;čel rozvoja/budovania SMART syst&eacute;mov na podporu integr&aacute;cie nov&yacute;ch zariaden&iacute; na v&yacute;robu elektriny z OZE (napr. zariadenia na spracovanie d&aacute;t, regul&aacute;cia, diaľkovo ovl&aacute;dan&eacute; sp&iacute;nacie prvky), vytvorenie modelov bud&uacute;ceho v&yacute;voja na lok&aacute;lnej &uacute;rovni ohľadom pl&aacute;novania invest&iacute;cii do inteligentn&yacute;ch siet&iacute; na viacer&yacute;ch &uacute;rovniach a typoch energi&iacute;, či in&scaron;tal&aacute;ciu zariadenia na diaľkov&eacute; sn&iacute;manie a ovl&aacute;dac&iacute;ch prvkov do distribučn&yacute;ch uzlov, rozvodn&iacute;, syst&eacute;mov a &scaron;trukt&uacute;r na spr&aacute;vu &uacute;dajov (napr. d&aacute;tov&eacute; rozbočovače).</div><div>Energetick&aacute; dom&aacute;cnosť je zadefinovan&aacute; v&nbsp;r&aacute;mci merateľn&eacute;ho ukazovateľa <b>PSKPSRI56 - Počet energetick&yacute;ch dom&aacute;cnost&iacute; evidovan&yacute;ch v informačnom syst&eacute;me</b></div><div><b>Povinnosť plnenia:</b> &aacute;no</div></div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Technick&aacute; spr&aacute;va, preberac&iacute; protokol a pod.</div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1765878488548,
+    "updatedAt": 1765961359668
+   }
+  },
+  {
+   "id": 1213,
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1821,
+    "href": "/ukazovatelprojektovy/id/1821",
+    "kod": "PSKPSOI58",
+    "nazovSk": "Počet komponentov informačného systému pre monitorovanie energetických domácností",
+    "mernaJednotka": {
+     "id": 200081,
+     "kod": "105382",
+     "nazovSk": "komponenty systému",
+     "popisSk": "komponenty systému",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Počet komponentov informačn&eacute;ho syst&eacute;mu pre monitorovanie energetick&yacute;ch dom&aacute;cnost&iacute;.</div><div>Komponenty m&ocirc;žu zahŕňať v&yacute;voj, testovanie a&nbsp;nasadenie modelov, ktor&eacute; umožnia definovať a&nbsp;analyzovať soci&aacute;lno-ekonomick&eacute; a&nbsp;energetick&eacute; &uacute;daje potrebn&eacute; pre pos&uacute;denie a&nbsp;vyhodnotenie bonity a&nbsp;spotreby energie a m&eacute;di&iacute; energetick&yacute;ch dom&aacute;cnost&iacute;. Komponenty tiež m&ocirc;žu zahŕňať modely a&nbsp;n&aacute;stroje na optimaliz&aacute;ciu spotreby, podporu udržateľnosti, zvy&scaron;ovanie motiv&aacute;cie k&nbsp;&uacute;spor&aacute;m energie, n&aacute;stroje pre poradenstvo v&nbsp;oblasti hospod&aacute;rneho využ&iacute;vania energie.&nbsp; Ďalej komponenty m&ocirc;žu definovať najvhodnej&scaron;ie lokality a&nbsp;podmienky na vytv&aacute;ranie miestnych distribučn&yacute;ch siet&iacute;, vytypovať vhodn&eacute; lokality na podporu uskladňovania energie za &uacute;čelom efekt&iacute;vneho využ&iacute;vania zdrojov, vytypovať vhodn&eacute; lokality na podporu in&scaron;tal&aacute;cie inteligentn&yacute;ch prvkov v elektroenergetick&yacute;ch syst&eacute;moch na &uacute;čel rozvoja/budovania SMART syst&eacute;mov na podporu integr&aacute;cie nov&yacute;ch zariaden&iacute; na v&yacute;robu elektriny z OZE (napr. zariadenia na spracovanie d&aacute;t, regul&aacute;cia, diaľkovo ovl&aacute;dan&eacute; sp&iacute;nacie prvky), vytvorenie modelov bud&uacute;ceho v&yacute;voja na lok&aacute;lnej &uacute;rovni ohľadom pl&aacute;novania invest&iacute;cii do inteligentn&yacute;ch siet&iacute; na viacer&yacute;ch &uacute;rovniach a typoch energi&iacute;, či in&scaron;tal&aacute;ciu zariadenia na diaľkov&eacute; sn&iacute;manie a ovl&aacute;dac&iacute;ch prvkov do distribučn&yacute;ch uzlov, rozvodn&iacute;, syst&eacute;mov a &scaron;trukt&uacute;r na spr&aacute;vu &uacute;dajov (napr. d&aacute;tov&eacute; rozbočovače).</div><div>Energetick&aacute; dom&aacute;cnosť je zadefinovan&aacute; v&nbsp;r&aacute;mci merateľn&eacute;ho ukazovateľa <b>PSKPSRI56 - Počet energetick&yacute;ch dom&aacute;cnost&iacute; evidovan&yacute;ch v informačnom syst&eacute;me</b></div><div><b>Povinnosť plnenia:</b> &aacute;no</div></div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Technick&aacute; spr&aacute;va, preberac&iacute; protokol a pod.</div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1765878488548,
+    "updatedAt": 1765961359668
+   }
+  },
+  {
+   "id": 1214,
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1507,
+    "href": "/ukazovatelprojektovy/id/1507",
+    "kod": "PSKPO168",
+    "nazovSk": "Počet vypracovaných materiálov (hodnotení, analýz, štúdií, a pod.)",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><div>Definičn&aacute; matica<br />1.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet materi&aacute;lov (hodnoten&iacute;, anal&yacute;z, &scaron;t&uacute;di&iacute; a pod.) vypracovan&yacute;ch v s&uacute;vislosti s realiz&aacute;ciou projektu.<br /><b>Povinnosť plnenia:</b>&nbsp;&aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch&nbsp;prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Materi&aacute;l, hodnotenie, anal&yacute;za, &scaron;t&uacute;dia, pr&iacute;padne in&eacute; formy v&yacute;stupu, preukazuj&uacute;ce ich vypracovanie, ako napr. preberac&iacute; protokol, rozhodnutie o schv&aacute;len&iacute;, zverejnenie a pod.<br />&nbsp;</div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1698221362582,
+    "updatedAt": 1748265066683
+   }
+  },
+  {
+   "id": 1215,
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1507,
+    "href": "/ukazovatelprojektovy/id/1507",
+    "kod": "PSKPO168",
+    "nazovSk": "Počet vypracovaných materiálov (hodnotení, analýz, štúdií, a pod.)",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><div>Definičn&aacute; matica<br />1.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet materi&aacute;lov (hodnoten&iacute;, anal&yacute;z, &scaron;t&uacute;di&iacute; a pod.) vypracovan&yacute;ch v s&uacute;vislosti s realiz&aacute;ciou projektu.<br /><b>Povinnosť plnenia:</b>&nbsp;&aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch&nbsp;prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Materi&aacute;l, hodnotenie, anal&yacute;za, &scaron;t&uacute;dia, pr&iacute;padne in&eacute; formy v&yacute;stupu, preukazuj&uacute;ce ich vypracovanie, ako napr. preberac&iacute; protokol, rozhodnutie o schv&aacute;len&iacute;, zverejnenie a pod.<br />&nbsp;</div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1698221362582,
+    "updatedAt": 1748265066683
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 661,
+   "href": "/typakcieprogramu/id/661",
+   "kod": "401201R20301102",
+   "nazovSk": "Vytvorenie a implementácia centrálnej platformy pre výmenu dát",
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "opatrenie": {
+    "id": 45,
+    "href": "/opatrenie/id/45",
+    "kod": "401201R20301",
+    "nazovSk": "Podpora inteligentných energetických systémov vrátane uskladňovania energie",
+    "specifickyCielProgramu": {
+     "id": 44,
+     "href": "/specifickycielprogramu/id/44",
+     "kod": "401201R203",
+     "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 3,
+      "href": "/priorita/id/3",
+      "kod": "401201",
+      "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867938
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540871418
+    },
+    "createdAt": 1772540871442
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516232336,
+   "updatedAt": 1772541490848
+  },
+  {
+   "id": 657,
+   "href": "/typakcieprogramu/id/657",
+   "kod": "401201R20301021",
+   "nazovSk": "Uskladňovanie energie za účelom efektívneho využívania zdrojov, vytvorenia možností pre aktívne zapájanie koncových užívateľov do procesu optimalizácie a znižovania ich energetických nárokov a nákladov, ako aj zlepšenia energetickej efektívnosti a znižovania energetických strát",
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "opatrenie": {
+    "id": 45,
+    "href": "/opatrenie/id/45",
+    "kod": "401201R20301",
+    "nazovSk": "Podpora inteligentných energetických systémov vrátane uskladňovania energie",
+    "specifickyCielProgramu": {
+     "id": 44,
+     "href": "/specifickycielprogramu/id/44",
+     "kod": "401201R203",
+     "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 3,
+      "href": "/priorita/id/3",
+      "kod": "401201",
+      "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867938
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540871418
+    },
+    "createdAt": 1772540871442
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516232332,
+   "updatedAt": 1772541490848
+  },
+  {
+   "id": 656,
+   "href": "/typakcieprogramu/id/656",
+   "kod": "401201R20301082",
+   "nazovSk": "Uskladňovanie energie za účelom efektívneho využívania zdrojov, vytvorenia možností pre aktívne zapájanie koncových užívateľov do procesu optimalizácie a znižovania ich energetických nárokov a nákladov, ako aj zlepšenia energetickej efektívnosti a znižovania energetických strát",
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "opatrenie": {
+    "id": 45,
+    "href": "/opatrenie/id/45",
+    "kod": "401201R20301",
+    "nazovSk": "Podpora inteligentných energetických systémov vrátane uskladňovania energie",
+    "specifickyCielProgramu": {
+     "id": 44,
+     "href": "/specifickycielprogramu/id/44",
+     "kod": "401201R203",
+     "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 3,
+      "href": "/priorita/id/3",
+      "kod": "401201",
+      "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867938
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540871418
+    },
+    "createdAt": 1772540871442
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516232331,
+   "updatedAt": 1772541490848
+  },
+  {
+   "id": 658,
+   "href": "/typakcieprogramu/id/658",
+   "kod": "401201R20301031",
+   "nazovSk": "Zavádzanie inteligentných energetických systémov vrátane komponentov kybernetickej bezpečnosti",
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "opatrenie": {
+    "id": 45,
+    "href": "/opatrenie/id/45",
+    "kod": "401201R20301",
+    "nazovSk": "Podpora inteligentných energetických systémov vrátane uskladňovania energie",
+    "specifickyCielProgramu": {
+     "id": 44,
+     "href": "/specifickycielprogramu/id/44",
+     "kod": "401201R203",
+     "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 3,
+      "href": "/priorita/id/3",
+      "kod": "401201",
+      "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867938
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540871418
+    },
+    "createdAt": 1772540871442
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516232333,
+   "updatedAt": 1772541490848
+  },
+  {
+   "id": 659,
+   "href": "/typakcieprogramu/id/659",
+   "kod": "401201R20301041",
+   "nazovSk": "Vytvorenie a implementácia centrálnej platformy pre výmenu dát",
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "opatrenie": {
+    "id": 45,
+    "href": "/opatrenie/id/45",
+    "kod": "401201R20301",
+    "nazovSk": "Podpora inteligentných energetických systémov vrátane uskladňovania energie",
+    "specifickyCielProgramu": {
+     "id": 44,
+     "href": "/specifickycielprogramu/id/44",
+     "kod": "401201R203",
+     "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 3,
+      "href": "/priorita/id/3",
+      "kod": "401201",
+      "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867938
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540871418
+    },
+    "createdAt": 1772540871442
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516232334,
+   "updatedAt": 1772541490848
+  },
+  {
+   "id": 1015,
+   "href": "/typakcieprogramu/id/1015",
+   "kod": "401201R203010P2",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "opatrenie": {
+    "id": 45,
+    "href": "/opatrenie/id/45",
+    "kod": "401201R20301",
+    "nazovSk": "Podpora inteligentných energetických systémov vrátane uskladňovania energie",
+    "specifickyCielProgramu": {
+     "id": 44,
+     "href": "/specifickycielprogramu/id/44",
+     "kod": "401201R203",
+     "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 3,
+      "href": "/priorita/id/3",
+      "kod": "401201",
+      "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867938
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540871418
+    },
+    "createdAt": 1772540871442
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516245360,
+   "updatedAt": 1772541490848
+  },
+  {
+   "id": 1014,
+   "href": "/typakcieprogramu/id/1014",
+   "kod": "401201R203010P1",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "opatrenie": {
+    "id": 45,
+    "href": "/opatrenie/id/45",
+    "kod": "401201R20301",
+    "nazovSk": "Podpora inteligentných energetických systémov vrátane uskladňovania energie",
+    "specifickyCielProgramu": {
+     "id": 44,
+     "href": "/specifickycielprogramu/id/44",
+     "kod": "401201R203",
+     "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 3,
+      "href": "/priorita/id/3",
+      "kod": "401201",
+      "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867938
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540871418
+    },
+    "createdAt": 1772540871442
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516245296,
+   "updatedAt": 1772541490848
+  },
+  {
+   "id": 652,
+   "href": "/typakcieprogramu/id/652",
+   "kod": "401201R20301092",
+   "nazovSk": "Zavádzanie inteligentných energetických systémov vrátane komponentov kybernetickej bezpečnosti",
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "opatrenie": {
+    "id": 45,
+    "href": "/opatrenie/id/45",
+    "kod": "401201R20301",
+    "nazovSk": "Podpora inteligentných energetických systémov vrátane uskladňovania energie",
+    "specifickyCielProgramu": {
+     "id": 44,
+     "href": "/specifickycielprogramu/id/44",
+     "kod": "401201R203",
+     "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 3,
+      "href": "/priorita/id/3",
+      "kod": "401201",
+      "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867938
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540871418
+    },
+    "createdAt": 1772540871442
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516232328,
+   "updatedAt": 1772541490848
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200062,
+    "kod": "10364PO053",
+    "kodZdroj": "053",
+    "nazovSk": "Inteligentné energetické systémy (vrátane inteligentných sietí a systémov IKT) a s tým súvisiace uskladňovanie",
+    "nazovEn": "Inteligentné energetické systémy (vrátane inteligentných sietí a systémov IKT) a s tým súvisiace uskladňovanie",
+    "nazovDe": "Intelligente Energiesysteme (einschließlich intelligenter Netze und IKT-Systeme) und Speicherung",
+    "popisSk": "Inteligentné energetické systémy (vrátane inteligentných sietí a systémov IKT) a s tým súvisiace uskladňovanie",
+    "popisDe": "Intelligente Energiesysteme (einschließlich intelligenter Netze und IKT-Systeme) und Speicherung",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200062,
+    "kod": "10364PO053",
+    "kodZdroj": "053",
+    "nazovSk": "Inteligentné energetické systémy (vrátane inteligentných sietí a systémov IKT) a s tým súvisiace uskladňovanie",
+    "nazovEn": "Inteligentné energetické systémy (vrátane inteligentných sietí a systémov IKT) a s tým súvisiace uskladňovanie",
+    "nazovDe": "Intelligente Energiesysteme (einschließlich intelligenter Netze und IKT-Systeme) und Speicherung",
+    "popisSk": "Inteligentné energetické systémy (vrátane inteligentných sietí a systémov IKT) a s tým súvisiace uskladňovanie",
+    "popisDe": "Intelligente Energiesysteme (einschließlich intelligenter Netze und IKT-Systeme) und Speicherung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200024,
+    "kod": "10384PO24",
+    "kodZdroj": "24",
+    "nazovSk": "Činnosti súvisiace so životným prostredím",
+    "nazovEn": "Činnosti súvisiace so životným prostredím",
+    "nazovDe": "Wirtschaftstätigkeiten im Zusammenhang mit Umwelt",
+    "popisSk": "Činnosti súvisiace so životným prostredím",
+    "popisDe": "Wirtschaftstätigkeiten im Zusammenhang mit Umwelt",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200024,
+    "kod": "10384PO24",
+    "kodZdroj": "24",
+    "nazovSk": "Činnosti súvisiace so životným prostredím",
+    "nazovEn": "Činnosti súvisiace so životným prostredím",
+    "nazovDe": "Wirtschaftstätigkeiten im Zusammenhang mit Umwelt",
+    "popisSk": "Činnosti súvisiace so životným prostredím",
+    "popisDe": "Wirtschaftstätigkeiten im Zusammenhang mit Umwelt",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200003,
+    "kod": "12094PO04",
+    "kodZdroj": "04",
+    "nazovSk": "Stratégia pre región Dunaja",
+    "nazovEn": "Stratégia pre región Dunaja",
+    "nazovDe": "Strategie für den Donauraum",
+    "popisSk": "Stratégia pre región Dunaja",
+    "popisDe": "Strategie für den Donauraum",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 44,
+    "href": "/specifickycielprogramu/id/44",
+    "kod": "401201R203",
+    "nazovSk": "RSO2.3 Vývoj inteligentných energetických systémov, sietí a uskladnenia mimo Transeurópskej energetickej siete (TEN-E) (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 3,
+     "href": "/priorita/id/3",
+     "kod": "401201",
+     "nazovSk": "2P1 Energetická efektívnosť a dekarbonizácia",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867938
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871418
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200003,
+    "kod": "12094PO04",
+    "kodZdroj": "04",
+    "nazovSk": "Stratégia pre región Dunaja",
+    "nazovEn": "Stratégia pre región Dunaja",
+    "nazovDe": "Strategie für den Donauraum",
+    "popisSk": "Stratégia pre región Dunaja",
+    "popisDe": "Strategie für den Donauraum",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 1,
+   "kod": "1033MRR",
+   "kodZdroj": "MRR",
+   "nazovSk": "Menej rozvinutý región",
+   "nazovEn": "less-developed regions",
+   "popisSk": "Menej rozvinutý región",
+   "popisEn": "less-developed regions",
+   "platnostOd": 725842800000
+  },
+  {
+   "id": 2,
+   "kod": "1033VRR",
+   "kodZdroj": "VRR",
+   "nazovSk": "Viac rozvinutý región",
+   "nazovEn": "more-developed regions",
+   "popisSk": "Viac rozvinutý región",
+   "popisEn": "more-developed regions",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [
+  {
+   "datumZverejnenia": 1772406000000,
+   "nazov": "Zverejnenie verzie výzvy",
+   "text": "<div><div>Presun skupiny v&yacute;davkov 907 na v&yacute;zve do <b><i>Podporn&yacute;ch aktiv&iacute;t</i></b>.</div></div>",
+   "dokument": []
+  }
+ ],
+ "projektovyZamerIUS": []
+}

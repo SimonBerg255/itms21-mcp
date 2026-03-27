@@ -1,0 +1,3913 @@
+{
+ "id": 3211,
+ "href": "/vyzva/id/3211",
+ "kod": "PSK-MIRRI-923-2024-TP-EFRR",
+ "nazovSk": "Financovanie projektov technickej pomoci oprávnených prijímateľov – mestá území udržateľného mestského rozvoja",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 8,
+   "href": "/specifickycielprogramu/id/8",
+   "kod": "401701T701",
+   "nazovSk": "Technická pomoc EFRR",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 17,
+    "href": "/priorita/id/17",
+    "kod": "401701",
+    "nazovSk": "7P1 Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867963
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540868246
+  }
+ ],
+ "opatrenie": [
+  {
+   "id": 136,
+   "href": "/opatrenie/id/136",
+   "kod": "401701T70100",
+   "nazovSk": "401701T70100",
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "createdAt": 1772540868254
+  }
+ ],
+ "miestoRealizacie": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 92,
+   "kod": "1009801",
+   "kodZdroj": "801",
+   "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+   "nazovEn": "Municipality (municipal office)",
+   "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+   "popisEn": "Municipality Municipality (municipal office)",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1709161200000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "OTVORENA",
+ "zameranieProjektu": "TA_21",
+ "createdAt": 1709193781382,
+ "updatedAt": 1709193781623,
+ "sumaEu": 2938855.89,
+ "predvyber": false,
+ "posudzovaneObdobie": [],
+ "pocetPredlozenychZiadosti": 16,
+ "pocetSchvalenychZiadosti": 11,
+ "pocetZiadostiVKonani": 0,
+ "pocetNeschvalenychZiadosti": 5,
+ "pocetRealizovanychProjektov": 10,
+ "planovanaVyzva": [],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 6,
+   "kod": "1032EFRR",
+   "kodZdroj": "EFRR",
+   "nazovSk": "Európsky fond regionálneho rozvoja",
+   "nazovEn": "European Regional Development Fund",
+   "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+   "popisSk": "Európsky fond regionálneho rozvoja",
+   "popisEn": "European Regional Development Fund",
+   "popisDe": "Europäischen Fonds für regionale Entwicklung",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "sposobFinancovania": [
+  "ZALOHA",
+  "PREDFINANCOVANIE",
+  "REFUNDACIA"
+ ],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktNazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie SR , sekcia TP a iných finančných mechanizmov",
+ "kontaktEmail": "projektytp@mirri.gov.sk",
+ "kontaktTelefon": "00421 2 2092 8477",
+ "kontaktnaOsoba": [
+  {
+   "osoba": {
+    "titulPred": "Ing.",
+    "meno": "Jana",
+    "priezvisko": "Škulová",
+    "titulZa": "",
+    "menoUplne": "Ing. Jana Škulová"
+   },
+   "telefon": "02/2092 8483",
+   "email": "jana.skulova@mirri.gov.sk"
+  },
+  {
+   "osoba": {
+    "titulPred": "Ing.",
+    "meno": "Margita",
+    "priezvisko": "Hodáková",
+    "titulZa": "",
+    "menoUplne": "Ing. Margita Hodáková"
+   },
+   "telefon": "02/2092 8479",
+   "email": "margita.hodakova@mirri.gov.sk"
+  },
+  {
+   "osoba": {
+    "titulPred": "Mgr.",
+    "meno": "Dušana",
+    "priezvisko": "Zochová",
+    "titulZa": "",
+    "menoUplne": "Mgr. Dušana Zochová"
+   },
+   "telefon": "02/2092 8481",
+   "email": "dusana.zochova@mirri.gov.sk"
+  },
+  {
+   "osoba": {
+    "titulPred": "Ing.",
+    "meno": "Ivana",
+    "priezvisko": "Jačová",
+    "titulZa": "",
+    "menoUplne": "Ing. Ivana Jačová"
+   },
+   "telefon": "02/2092 8484",
+   "email": "ivana.jacova@mirri.gov.sk"
+  },
+  {
+   "osoba": {
+    "titulPred": "Mgr.",
+    "meno": "Ingrid",
+    "priezvisko": "Šrámková",
+    "titulZa": "",
+    "menoUplne": "Mgr. Ingrid Šrámková"
+   },
+   "telefon": "02/2092 8485",
+   "email": "ingrid.sramkova@mirri.gov.sk"
+  }
+ ],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "Právna forma/Oprávnenosť žiadateľa",
+   "popisSk": "<div><div><b>V r&aacute;mci tejto v&yacute;zvy je opr&aacute;vnen&yacute;m žiadateľom mesto ako pr&aacute;vnick&aacute; osoba podľa z&aacute;kona č. 369/1990 Zb. o obecnom zriaden&iacute; v znen&iacute; neskor&scaron;&iacute;ch predpisov. </b></div><div>&nbsp;</div><div><b>Opr&aacute;vnen&yacute;m žiadateľom s&uacute; nasleduj&uacute;ce mest&aacute; &uacute;zemia udržateľn&eacute;ho mestsk&eacute;ho rozvoja:</b></div><ul><li>Bansk&aacute; Bystrica</li><li>Bratislava</li><li>Ko&scaron;ice</li><li>Nitra</li><li>Poprad</li><li>Pre&scaron;ov</li><li>Prievidza</li><li>Rimavsk&aacute; Sobota</li><li>Trenč&iacute;n</li><li>Trnava</li><li>Zvolen</li><li>Žilina</li></ul><div><b>Forma preuk&aacute;zania PPP zo strany žiadateľa: </b>&Uacute;daje uveden&eacute; vo formul&aacute;ri ŽoNFP, časť 1. <i>Identifik&aacute;cia žiadateľa</i>.</div><div><b>Sp&ocirc;sob overenia PPP: </b>Na z&aacute;klade &uacute;dajov poskytnut&yacute;ch v r&aacute;mci dokument&aacute;cie ŽoNFP; ITMS.</div><b>Ukončenie uplatniteľnosti: </b>Do skončenia trvania zmluvy o poskytnut&iacute; NFP.<div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div>Slovn&eacute; spojenie &bdquo;skončenie trvania zmluvy o poskytnut&iacute; NFP&ldquo; nezahŕňa v&yacute;nimky podľa čl. 5 ods. 5.2 vzoru Zmluvy o poskytnut&iacute; NFP pre niektor&eacute; čl&aacute;nky Zmluvy, ktor&eacute; maj&uacute; osobitne stanoven&uacute; &uacute;činnosť. Uveden&eacute; sa uv&aacute;dza z d&ocirc;vodu, aby bola vyl&uacute;čen&aacute; nejednoznačnosť určenia, dokedy sa m&aacute; predmetn&aacute; podmienka poskytnutia pr&iacute;spevku uplatniť.</div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "Oprávnenosť aktivít projektu:",
+   "popisSk": "<div><div style=\"margin-left:1.5pt\">Hlavn&eacute; aktivity projektu musia byť vo vecnom s&uacute;lade s opr&aacute;vnen&yacute;mi akciami/aktivitami, na realiz&aacute;ciu ktor&yacute;ch je vyhl&aacute;sen&aacute; t&aacute;to v&yacute;zva. Opr&aacute;vnen&eacute; na poskytnutie pr&iacute;spevku s&uacute; v&yacute;lučne projekty, ktor&eacute; svojimi aktivitami spadaj&uacute; do opr&aacute;vnen&yacute;ch typov akci&iacute;/hlavn&yacute;ch aktiv&iacute;t v r&aacute;mci nasledovn&yacute;ch oblast&iacute; podpory:</div><div style=\"margin-left:9.05pt\"><b>1. Oblasť podpory</b>: Zabezpečenie kvalitn&yacute;ch AK na v&scaron;etk&yacute;ch &uacute;rovniach riadenia, implement&aacute;cie, kontroly, auditu, boja proti korupcii a&nbsp;podvodom, pri monitorovan&iacute; dodržiavania z&aacute;sady DNSH, vr&aacute;tane podpory AK na region&aacute;lnej &uacute;rovni a pri invest&iacute;ci&aacute;ch na podporu MRK, ktor&eacute; s&uacute; nevyhnutn&eacute; pre napĺňanie strat&eacute;gi&iacute;</div><div style=\"margin-left:9.05pt\"><b>Opr&aacute;vnen&eacute; aktivity:</b></div><ol><li>Financovanie AK &ndash; region&aacute;lna &uacute;roveň</li><li>Vzdel&aacute;vanie AK &ndash; region&aacute;lna &uacute;roveň</li></ol><div style=\"margin-left:9.05pt\"><b>2. Oblasť podpory: </b>Zabezpečenie nevyhnutn&yacute;ch odborn&yacute;ch poradensk&yacute;ch služieb, adekv&aacute;tneho materi&aacute;lno-technick&eacute;ho, prev&aacute;dzkov&eacute;ho vybavenia, režijn&yacute;ch v&yacute;davkov a&nbsp;mobility</div><div style=\"margin-left:9.05pt\"><b>Opr&aacute;vnen&eacute; aktivity:</b></div><ol><li>Financovanie materi&aacute;lno-technick&eacute;ho, prev&aacute;dzkov&eacute;ho vybavenia, režijn&yacute;ch v&yacute;davkov a&nbsp;mobility &ndash; region&aacute;lna &uacute;roveň</li></ol><div>Žiadosť o NFP m&ocirc;že byť predložen&aacute; na viacero opr&aacute;vnen&yacute;ch aktiv&iacute;t z&nbsp;viacer&yacute;ch oblast&iacute; podpory.</div><div><b>Časov&aacute; opr&aacute;vnenosť realiz&aacute;cie projektu</b>:<br />Hlavn&eacute; aktivity projektu je prij&iacute;mateľ povinn&yacute; začať realizovať najsk&ocirc;r od <b>01.01.2023</b> a ukončiť najnesk&ocirc;r do <b>31.12.2025</b>.</div><div>K realiz&aacute;cii hlavn&yacute;ch aktiv&iacute;t projektu doch&aacute;dza dňom začatia prvej hlavnej aktivity projektu, tento deň uvedie prij&iacute;mateľ v&nbsp;hl&aacute;sen&iacute; o&nbsp; realiz&aacute;cii aktiv&iacute;t projektu, ktor&eacute; zaeviduje do ITMS do&nbsp;<b>20 pracovn&yacute;ch dn&iacute;</b> od začatia tejto aktivity, resp. odo dňa nadobudnutia &uacute;činnosti zmluvy o&nbsp;poskytnut&iacute; NFP, ak prij&iacute;mateľ skutočne začal s realiz&aacute;ciou aktiv&iacute;t pred &uacute;činnosťou zmluvy o poskytnut&iacute; NFP.</div><div>Žiadateľ o NFP je opr&aacute;vnen&yacute; predložiť v r&aacute;mci v&yacute;zvy viacero žiadost&iacute; o&nbsp;NFP.</div><div>Podpora z TP sa neposkytne na projekty, ktor&eacute; sa fyzicky dokončili alebo plne realizovali e&scaron;te pred predložen&iacute;m žiadosti o financovanie v r&aacute;mci P SK, bez ohľadu na to, či boli vykonan&eacute; v&scaron;etky s&uacute;visiace platby.</div><div><b>Forma preuk&aacute;zania zo strany žiadateľa</b>: &Uacute;daje uveden&eacute; vo formul&aacute;ri ŽoNFP, časť 7<i>. Popis projektu, 9. Harmonogram realiz&aacute;cie aktiv&iacute;t, 10. Aktivity projektu a očak&aacute;van&eacute; merateľn&eacute; ukazovatele</i> a &uacute;daje poskytnut&eacute; v r&aacute;mci nasledovn&yacute;ch <i>pr&iacute;loh</i> ŽoNFP :</div><ul><li><i>Opis projektu</i> - vzor uveden&yacute; v pr&iacute;lohe č. 2 v&yacute;zvy;</li><li><i>Pracovn&aacute; zmluva </i>resp. in&yacute; dokument obsahuj&uacute;ci popis pracovn&yacute;ch činnost&iacute; zamestnanca, resp. pracovn&eacute;ho miesta ;</li><li>&nbsp;<i>Zoznam pracovn&yacute;ch poz&iacute;ci&iacute;</i> (ak relevantn&eacute;) &ndash; vzor uveden&yacute; v&nbsp;pr&iacute;lohe č. 3 <i>Usmernenia k realiz&aacute;cii projektov TP</i>.</li></ul><div><b>Sp&ocirc;sob overenia: </b>Na z&aacute;klade &uacute;dajov poskytnut&yacute;ch v r&aacute;mci dokument&aacute;cie ŽoNFP.</div><b>Ukončenie uplatniteľnosti: </b>Overuje sa v konan&iacute; o žiadosti, a&nbsp;je potrebn&eacute; ju plniť kontinu&aacute;lne počas realiz&aacute;cie projektu&nbsp; - v&nbsp;zmysle čl. 65 NSU.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Opis projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Prílohy definované RO/SO",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "Oprávnenosť výdavkov",
+   "popisSk": "<div><div style=\"margin-left:1.5pt\">V&yacute;davky projektu musia byť v s&uacute;lade s opr&aacute;vnen&yacute;mi v&yacute;davkami pre opr&aacute;vnen&eacute; akcie/hlavn&eacute; aktivity v r&aacute;mci tejto v&yacute;zvy. Pre t&uacute;to v&yacute;zvu s&uacute; opr&aacute;vnen&eacute; v&yacute;davky podľa opr&aacute;vnen&yacute;ch typov akci&iacute;/hlavn&yacute;ch aktiv&iacute;t v&nbsp;r&aacute;mci nasledovn&yacute;ch oblast&iacute; podpory:</div><div style=\"margin-left:9.05pt\"><b>1.</b> <b>Zabezpečenie kvalitn&yacute;ch AK na v&scaron;etk&yacute;ch &uacute;rovniach riadenia, implement&aacute;cie, kontroly, auditu, boja proti korupcii a podvodom, pri monitorovan&iacute; dodržiavania z&aacute;sady DNSH, vr&aacute;tane podpory AK na region&aacute;lnej &uacute;rovni a pri invest&iacute;ci&aacute;ch na podporu MRK, ktor&eacute; s&uacute; nevyhnutn&eacute; pre napĺňanie strat&eacute;gi&iacute;</b>:</div><div style=\"margin-left:9.05pt\"><b>a) Financovanie AK &ndash; region&aacute;lna &uacute;roveň:</b></div><div style=\"margin-left:9.05pt\">521 - Mzdov&eacute; v&yacute;davky</div><div style=\"margin-left:9.05pt\"><b>b) Vzdel&aacute;vanie AK &ndash; region&aacute;lna</b> <b>&uacute;roveň:</b></div><div style=\"margin-left:22.75pt\">112 - Z&aacute;soby</div><div style=\"margin-left:22.75pt\">502 - Spotreba energie</div><div style=\"margin-left:22.75pt\">512 -&nbsp; Cestovn&eacute; n&aacute;hrady</div><div style=\"margin-left:22.75pt\">518 -&nbsp; Ostatn&eacute; služby</div><div style=\"margin-left:22.75pt\">521 -&nbsp; Mzdov&eacute; v&yacute;davky</div><div style=\"margin-left:22.75pt\">548 -&nbsp; V&yacute;davky na prev&aacute;dzkov&uacute; činnosť</div><ol><li value=\"568\">-&nbsp; Ostatn&eacute; finančn&eacute; v&yacute;davky</li></ol><div style=\"margin-left:9.05pt\"><b>2. Zabezpečenie nevyhnutn&yacute;ch odborn&yacute;ch poradensk&yacute;ch služieb, adekv&aacute;tneho materi&aacute;lno-technick&eacute;ho, prev&aacute;dzkov&eacute;ho vybavenia, režijn&yacute;ch v&yacute;davkov a mobility</b>:</div><div style=\"margin-left:16.1pt\"><b>a) Financovanie materi&aacute;lno-technick&eacute;ho, prev&aacute;dzkov&eacute;ho vybavenia, režijn&yacute;ch v&yacute;davkov a mobility &ndash; region&aacute;lna &uacute;roveň:</b></div><div style=\"margin-left:29.85pt\">013 - Softv&eacute;r</div><div style=\"margin-left:29.85pt\">014 - Oceniteľn&eacute; pr&aacute;va</div><div style=\"margin-left:29.85pt\">019 - Ostatn&yacute; dlhodob&yacute; nehmotn&yacute; majetok</div><div style=\"margin-left:29.85pt\">022 - Samostatn&eacute; hnuteľn&eacute; veci a s&uacute;bory hnuteľn&yacute;ch vec&iacute;</div><div style=\"margin-left:29.85pt\">023 - Dopravn&eacute; prostriedky</div><div style=\"margin-left:29.85pt\">029 - Ostatn&yacute; dlhodob&yacute; hmotn&yacute; majetok</div><div style=\"margin-left:29.85pt\">112 - Z&aacute;soby</div><div style=\"margin-left:29.85pt\">502 - Spotreba energie</div><div style=\"margin-left:29.85pt\">503 - Spotreba ostatn&yacute;ch neskladovateľn&yacute;ch dod&aacute;vok</div><div style=\"margin-left:29.85pt\">511 - Opravy a udržiavanie</div><div style=\"margin-left:29.85pt\">512 - Cestovn&eacute; n&aacute;hrady</div><div style=\"margin-left:29.85pt\">518 - Ostatn&eacute; služby</div><div style=\"margin-left:29.85pt\">521 - Mzdov&eacute; v&yacute;davky</div><div style=\"margin-left:29.85pt\">548 - V&yacute;davky na prev&aacute;dzkov&uacute; činnosť</div><div style=\"margin-left:29.85pt\">568 - Ostatn&eacute; finančn&eacute; v&yacute;davky</div><div><b><u>Celkov&eacute; v&yacute;davky na jednotliv&yacute; projekt nesm&uacute; byť niž&scaron;ie ako 200&nbsp;001 EUR.</u></b></div><div>Maxim&aacute;lna v&yacute;&scaron;ka Celkov&yacute;ch v&yacute;davkov na v&scaron;etky projekty opr&aacute;vnen&eacute;ho prij&iacute;mateľa nesmie presiahnuť alok&aacute;ciu, ktor&aacute; mu bola ozn&aacute;men&aacute; listom ministra zo dňa 21. augusta 2023.</div><div>&nbsp;</div><div><div><div align=\"center\"><b>Žiadateľ</b></div><div align=\"center\"><b>Rozdelenie celkovej alok&aacute;cie v&yacute;zvy</b></div><div align=\"center\"><b>Alok&aacute;cia ozn&aacute;men&aacute; listom (bez vlastn&yacute;ch zdrojov žiadateľa)</b></div><div align=\"center\"><b>Zdroj E&Uacute; vo v&yacute;zve</b></div></div><div><div>Bansk&aacute; Bystrica</div><div align=\"right\">385 907,14</div><div align=\"right\">355 034,57</div><div align=\"right\">269 864,86</div></div><div><div>Bratislava</div><div align=\"right\">405 430,75</div><div align=\"right\">372 996,29</div><div align=\"right\">283 517,72</div></div><div><div>Ko&scaron;ice</div><div align=\"right\">476 644,14</div><div align=\"right\">438 512,61</div><div align=\"right\">333 317,25</div></div><div><div>Nitra</div><div align=\"right\">353 157,00</div><div align=\"right\">324 904,44</div><div align=\"right\">246 962,69</div></div><div><div>Poprad</div><div align=\"right\">304 274,98</div><div align=\"right\">279 932,98</div><div align=\"right\">212 779,49</div></div><div><div>Pre&scaron;ov</div><div align=\"right\">373 954,01</div><div align=\"right\">344 037,69</div><div align=\"right\">261 506,04</div></div><div><div>Prievidza</div><div align=\"right\">279 497,72</div><div align=\"right\">257 137,90</div><div align=\"right\">195 452,76</div></div><div><div>Rimavsk&aacute; Sobota</div><div align=\"right\">247 992,52</div><div align=\"right\">228 153,12</div><div align=\"right\">173 421,17</div></div><div><div>Trenč&iacute;n</div><div align=\"right\">344 462,76</div><div align=\"right\">316 905,74</div><div align=\"right\">240 882,81</div></div><div><div>Trnava</div><div align=\"right\">358 241,27</div><div align=\"right\">329 581,97</div><div align=\"right\">250 518,12</div></div><div><div>Zvolen</div><div align=\"right\">394 679,92</div><div align=\"right\">363 105,52</div><div align=\"right\">275 999,67</div></div><div><div>Žilina</div><div align=\"right\">278 325,91</div><div align=\"right\">256 059,84</div><div align=\"right\">194 633,31</div></div><div><div><b>Celkom</b></div><div align=\"right\"><b>4 202 568,12</b></div><div align=\"right\"><b>3 866 362,67</b></div><div align=\"right\"><b>2 938 855,89</b></div></div></div><div>&nbsp;</div><div>Žiadateľ sa pri pr&iacute;prave rozpočtu riadi <i>Pr&iacute;ručkou k opr&aacute;vnenosti v&yacute;davkov </i>(pr&iacute;loha č. 7 tejto v&yacute;zvy), kde n&aacute;jde podrobnej&scaron;ie rozp&iacute;san&eacute; opr&aacute;vnen&eacute; skupiny v&yacute;davkov zadefinovan&eacute; vo&nbsp;v&yacute;zve, ako aj v&scaron;eobecn&eacute; podmienky opr&aacute;vnenosti v&yacute;davkov.</div><div><b>Hospod&aacute;rnosť a&nbsp;efekt&iacute;vnosť v&yacute;davkov projektu</b></div><div>V&yacute;davky projektu musia spĺňať krit&eacute;ri&aacute; hospod&aacute;rnosti a efekt&iacute;vnosti. Uveden&eacute; krit&eacute;ri&aacute; patria k najd&ocirc;ležitej&scaron;&iacute;m krit&eacute;ri&aacute;m pri administrat&iacute;vnom overovan&iacute; ŽoNFP. Žiadateľ je povinn&yacute; venovať dostatočn&uacute; pozornosť pr&iacute;prave podkladov na preuk&aacute;zanie hospod&aacute;rnosti a efekt&iacute;vnosti v&yacute;davkov projektu. Žiadateľ využ&iacute;va na preuk&aacute;zanie hospod&aacute;rnosti a efekt&iacute;vnosti metodiku uveden&uacute; v <i>Opise projektu</i> (vzor v pr&iacute;lohe č. 2 v&yacute;zvy) a&nbsp;je povinn&yacute; predložiť dokument&aacute;ciu v dostatočnom rozsahu a kvalite. Opis projektu mus&iacute; obsahovať jasn&eacute; a&nbsp;stručn&eacute; inform&aacute;cie, ktor&eacute; preukazuj&uacute; hospod&aacute;rnosť a efekt&iacute;vnosť v&yacute;davkov projektu. Inform&aacute;cie, ktor&eacute; bezprostredne nepreukazuj&uacute; hospod&aacute;rnosť a efekt&iacute;vnosť v&yacute;davkov projektu s&uacute; nepr&iacute;pustn&eacute;.</div><div><b>Forma preuk&aacute;zania zo strany žiadateľa: </b>&Uacute;daje uveden&eacute; vo formul&aacute;ri ŽoNFP, časť <i>11.A Rozpočet žiadateľa; </i>pr&iacute;loha ŽoNFP<i> Opis projektu (</i>vzor uveden&yacute; v pr&iacute;lohe č. 2 v&yacute;zvy)<i>.</i></div><div><b>Sp&ocirc;sob overenia: </b>Na z&aacute;klade &uacute;dajov poskytnut&yacute;ch v r&aacute;mci dokument&aacute;cie ŽoNFP.</div><b>Ukončenie uplatniteľnosti: </b>Overuje sa v konan&iacute; o žiadosti, a&nbsp;je potrebn&eacute; ju plniť kontinu&aacute;lne počas realiz&aacute;cie projektu&nbsp; - v&nbsp;zmysle čl. 65 NSU.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Opis projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "Podmienka splnenia kritérií pre výber projektov",
+   "popisSk": "<div><div>Žiadateľ je povinn&yacute; preuk&aacute;zať splnenie relevantn&eacute;ho krit&eacute;ria pre v&yacute;ber projektov uveden&eacute;ho v pr&iacute;lohe č.&nbsp;3 v&yacute;zvy <i>Krit&eacute;ri&aacute; pre v&yacute;ber projektov. </i>&nbsp;</div><div>Doplňuj&uacute;ce inform&aacute;cie k zneniu vylučuj&uacute;ceho krit&eacute;ria HP :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div>Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach,&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;s prihliadnut&iacute;m na&nbsp; dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky.</div><div>V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a predch&aacute;dzať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby, ako aj sk&uacute;senosti rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť dostupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a verejn&yacute;ch služieb pre obyvateľov s obmedzenou mobilitou &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a senzorickou orient&aacute;ciou, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m. &nbsp;</div><div>&nbsp;</div><div><b>Forma preuk&aacute;zania zo strany žiadateľa: </b>Formul&aacute;r ŽoNFP a&nbsp;pr&iacute;lohy.</div><div><b>Sp&ocirc;sob overenia: </b>Administrat&iacute;vne overenie v r&aacute;mci schvaľovacieho procesu zo strany poskytovateľa.</div><b>Ukončenie uplatniteľnosti: </b>Overuje sa v konan&iacute; o&nbsp;žiadosti, a&nbsp;je potrebn&eacute; ju plniť kontinu&aacute;lne počas realiz&aacute;cie projektu - v zmysle čl. 65 NSU.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Formulár ŽoNFP vrátané príloh",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 5,
+   "nazovSk": "Oprávnenosť miesta realizácie projektu",
+   "popisSk": "<div><div>Prij&iacute;mateľ je povinn&yacute; realizovať projekt na opr&aacute;vnenom &uacute;zem&iacute;.</div><div>Pre t&uacute;to v&yacute;zvu je opr&aacute;vnen&yacute;m &uacute;zem&iacute;m cel&eacute; &uacute;zemie Slovenskej republiky.</div><div><b>Forma preuk&aacute;zania zo strany žiadateľa:</b> &Uacute;daje uveden&eacute; vo formul&aacute;ri ŽoNFP, časť <i>6.A Miesto realiz&aacute;cie projektu</i>.</div><div><b>Sp&ocirc;sob overenia:</b> Na z&aacute;klade &uacute;dajov poskytnut&yacute;ch v r&aacute;mci dokument&aacute;cie ŽoNFP.</div><b>Ukončenie uplatniteľnosti:</b> Overuje sa v konan&iacute; o žiadosti, a je potrebn&eacute; ju plniť kontinu&aacute;lne počas realiz&aacute;cie projektu - v zmysle čl. 65 NSU.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 6,
+   "nazovSk": "Podmienka povinného definovania merateľných ukazovateľov projektu",
+   "popisSk": "<div><div>V&yacute;stupy, ktor&eacute; maj&uacute; byť dosiahnut&eacute; realiz&aacute;ciou aktiv&iacute;t projektu musia byť kvantifikovan&eacute; prostredn&iacute;ctvom relevantn&yacute;ch merateľn&yacute;ch ukazovateľov a&nbsp;in&yacute;ch &uacute;dajov. <i>Zoznam merateľn&yacute;ch ukazovateľov projektu a in&yacute;ch &uacute;dajov</i> je&nbsp;uveden&yacute; v pr&iacute;lohe č. 4 v&yacute;zvy.</div><div><b>Forma preuk&aacute;zania zo strany žiadateľa:</b> &Uacute;daje uveden&eacute; vo formul&aacute;ri ŽoNFP, časť <i>10.2 Prehľad merateľn&yacute;ch ukazovateľov projektu.</i></div><div><b>Sp&ocirc;sob overenia:</b> Na z&aacute;klade &uacute;dajov poskytnut&yacute;ch v r&aacute;mci dokument&aacute;cie ŽoNFP; v&nbsp;ITMS.</div><b>Ukončenie uplatniteľnosti:</b> Overuje sa v konan&iacute; o žiadosti, a je potrebn&eacute; ju plniť kontinu&aacute;lne počas realiz&aacute;cie projektu&nbsp; - v zmysle čl. 65 NSU.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 7,
+   "nazovSk": "Podmienka, že žiadateľ nie je evidovaný v Systéme včasného odhaľovania rizika a vylúčenia (EDES) ako vylúčená osoba alebo subjekt (v zmysle článku 135 nariadenia č. 2018/1046)",
+   "popisSk": "<div><div>Žiadateľ nem&ocirc;že byť identifikovan&yacute; v&nbsp;syst&eacute;me včasn&eacute;ho odhaľovania rizika a&nbsp;vyl&uacute;čenia (EDES).</div><div><b>Sp&ocirc;sob overenia </b>v syst&eacute;me včasn&eacute;ho odhaľovania rizika a vyl&uacute;čen&yacute;ch subjektov, a to v jeho verejnej časti dostupnej na webovom s&iacute;dle <a href=\"https://ec.europa.eu/budget/edes/index_en.cfm\">https://ec.europa.eu/budget/edes/index_en.cfm</a>.</div><div><b>Ukončenie uplatniteľnosti:</b></div>Do skončenia konania o&nbsp;žiadosti a&nbsp;je potrebn&eacute; ju plniť kontinu&aacute;lne počas realiz&aacute;cie projektu.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [
+  {
+   "id": 100022,
+   "href": "/subjekt/id/100022",
+   "nazov": "Hlavné mesto Slovenskej republiky Bratislava",
+   "ico": "00603481",
+   "dic": "2020372596",
+   "platitelDph": true,
+   "podlaParagrafu": "§4",
+   "icDph": "SK2020372596",
+   "pravnaForma": {
+    "id": 92,
+    "kod": "1009801",
+    "kodZdroj": "801",
+    "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+    "nazovEn": "Municipality (municipal office)",
+    "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+    "popisEn": "Municipality Municipality (municipal office)",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Primaciálne námestie",
+    "cislo": "1",
+    "psc": "81499",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  },
+  {
+   "id": 100017,
+   "href": "/subjekt/id/100017",
+   "nazov": "Mesto Banská Bystrica",
+   "ico": "00313271",
+   "dic": "2020451587",
+   "platitelDph": false,
+   "icDph": "SK2020451587",
+   "pravnaForma": {
+    "id": 92,
+    "kod": "1009801",
+    "kodZdroj": "801",
+    "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+    "nazovEn": "Municipality (municipal office)",
+    "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+    "popisEn": "Municipality Municipality (municipal office)",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Československej armády",
+    "cislo": "26",
+    "psc": "97401",
+    "obec": "Banská Bystrica",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  },
+  {
+   "id": 100016,
+   "href": "/subjekt/id/100016",
+   "nazov": "Mesto Košice",
+   "ico": "00691135",
+   "dic": "2021186904",
+   "platitelDph": false,
+   "pravnaForma": {
+    "id": 92,
+    "kod": "1009801",
+    "kodZdroj": "801",
+    "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+    "nazovEn": "Municipality (municipal office)",
+    "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+    "popisEn": "Municipality Municipality (municipal office)",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Trieda SNP",
+    "cislo": "48/A",
+    "psc": "04011",
+    "obec": "Košice - mestská časť Západ",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  },
+  {
+   "id": 100019,
+   "href": "/subjekt/id/100019",
+   "nazov": "Mesto Nitra",
+   "ico": "00308307",
+   "dic": "2021102853",
+   "platitelDph": true,
+   "podlaParagrafu": "§4",
+   "icDph": "SK2021102853",
+   "pravnaForma": {
+    "id": 92,
+    "kod": "1009801",
+    "kodZdroj": "801",
+    "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+    "nazovEn": "Municipality (municipal office)",
+    "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+    "popisEn": "Municipality Municipality (municipal office)",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Štefánikova trieda",
+    "cislo": "80/60",
+    "psc": "95006",
+    "obec": "Nitra",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  },
+  {
+   "id": 100618,
+   "href": "/subjekt/id/100618",
+   "nazov": "Mesto Poprad",
+   "ico": "00326470",
+   "dic": "2021031144",
+   "icz": "1001854733",
+   "platitelDph": false,
+   "podlaParagrafu": "podľa §7",
+   "icDph": "SK2021031144",
+   "pravnaForma": {
+    "id": 92,
+    "kod": "1009801",
+    "kodZdroj": "801",
+    "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+    "nazovEn": "Municipality (municipal office)",
+    "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+    "popisEn": "Municipality Municipality (municipal office)",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Nábrežie Jána Pavla II.",
+    "cislo": "2802/3",
+    "psc": "05801",
+    "obec": "Poprad",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  },
+  {
+   "id": 100015,
+   "href": "/subjekt/id/100015",
+   "nazov": "Mesto Prešov",
+   "ico": "00327646",
+   "dic": "2021225679",
+   "icz": "1001116050",
+   "platitelDph": false,
+   "pravnaForma": {
+    "id": 92,
+    "kod": "1009801",
+    "kodZdroj": "801",
+    "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+    "nazovEn": "Municipality (municipal office)",
+    "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+    "popisEn": "Municipality Municipality (municipal office)",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Hlavná",
+    "cislo": "73",
+    "psc": "08001",
+    "obec": "Prešov",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  },
+  {
+   "id": 100929,
+   "href": "/subjekt/id/100929",
+   "nazov": "Mesto Prievidza",
+   "ico": "00318442",
+   "dic": "2021162814",
+   "icz": "1001852797",
+   "platitelDph": false,
+   "pravnaForma": {
+    "id": 92,
+    "kod": "1009801",
+    "kodZdroj": "801",
+    "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+    "nazovEn": "Municipality (municipal office)",
+    "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+    "popisEn": "Municipality Municipality (municipal office)",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Námestie slobody",
+    "cislo": "14",
+    "psc": "97101",
+    "obec": "Prievidza",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  },
+  {
+   "id": 100020,
+   "href": "/subjekt/id/100020",
+   "nazov": "Mesto Trnava",
+   "ico": "00313114",
+   "dic": "2021175728",
+   "icz": "1001447392",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2021175728",
+   "pravnaForma": {
+    "id": 92,
+    "kod": "1009801",
+    "kodZdroj": "801",
+    "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+    "nazovEn": "Municipality (municipal office)",
+    "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+    "popisEn": "Municipality Municipality (municipal office)",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Ulica Hlavná",
+    "cislo": "1/1",
+    "psc": "91771",
+    "obec": "Trnava",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  },
+  {
+   "id": 100018,
+   "href": "/subjekt/id/100018",
+   "nazov": "Mesto Žilina",
+   "ico": "00321796",
+   "dic": "2021339474",
+   "icz": "1001467995",
+   "platitelDph": true,
+   "podlaParagrafu": "§7a",
+   "icDph": "SK2021339474",
+   "pravnaForma": {
+    "id": 92,
+    "kod": "1009801",
+    "kodZdroj": "801",
+    "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+    "nazovEn": "Municipality (municipal office)",
+    "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+    "popisEn": "Municipality Municipality (municipal office)",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Námestie obetí komunizmu",
+    "cislo": "3350/1",
+    "psc": "01131",
+    "obec": "Žilina",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  },
+  {
+   "id": 100150,
+   "href": "/subjekt/id/100150",
+   "nazov": "Mesto Zvolen",
+   "ico": "00320439",
+   "dic": "2021339430",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2021339430",
+   "pravnaForma": {
+    "id": 92,
+    "kod": "1009801",
+    "kodZdroj": "801",
+    "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+    "nazovEn": "Municipality (municipal office)",
+    "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+    "popisEn": "Municipality Municipality (municipal office)",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Námestie Slobody",
+    "cislo": "2525/22",
+    "psc": "96001",
+    "obec": "Zvolen",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  },
+  {
+   "id": 101034,
+   "href": "/subjekt/id/101034",
+   "nazov": "Mesto Rimavská Sobota",
+   "ico": "00319031",
+   "dic": "2021230398",
+   "platitelDph": false,
+   "pravnaForma": {
+    "id": 92,
+    "kod": "1009801",
+    "kodZdroj": "801",
+    "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+    "nazovEn": "Municipality (municipal office)",
+    "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+    "popisEn": "Municipality Municipality (municipal office)",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Svätoplukova",
+    "cislo": "9",
+    "psc": "97901",
+    "obec": "Rimavská Sobota",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  },
+  {
+   "id": 100021,
+   "href": "/subjekt/id/100021",
+   "nazov": "Mesto Trenčín",
+   "ico": "00312037",
+   "dic": "2021079995",
+   "icz": "1001428835",
+   "platitelDph": false,
+   "pravnaForma": {
+    "id": 92,
+    "kod": "1009801",
+    "kodZdroj": "801",
+    "nazovSk": "Obec (obecný úrad), mesto (mestský úrad)",
+    "nazovEn": "Municipality (municipal office)",
+    "popisSk": "Obec, mesto (o.,m.úrad) Obec (obecný úrad), mesto (mestský úrad)",
+    "popisEn": "Municipality Municipality (municipal office)",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Mierové nám.",
+    "cislo": "1/2",
+    "psc": "91164",
+    "obec": "Trenčín",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ ],
+ "miestoRealizacieFull": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 144,
+    "href": "/typakcieprogramu/id/144"
+   }
+  },
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 160,
+    "href": "/typakcieprogramu/id/160"
+   }
+  },
+  {
+   "kod": "1040014",
+   "nazovSk": "Oceniteľné práva",
+   "typAkcieProgramu": {
+    "id": 160,
+    "href": "/typakcieprogramu/id/160"
+   }
+  },
+  {
+   "kod": "1040019",
+   "nazovSk": "Ostatný dlhodobý nehmotný majetok",
+   "typAkcieProgramu": {
+    "id": 160,
+    "href": "/typakcieprogramu/id/160"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 160,
+    "href": "/typakcieprogramu/id/160"
+   }
+  },
+  {
+   "kod": "1040023",
+   "nazovSk": "Dopravné prostriedky",
+   "typAkcieProgramu": {
+    "id": 160,
+    "href": "/typakcieprogramu/id/160"
+   }
+  },
+  {
+   "kod": "1040029",
+   "nazovSk": "Ostatný dlhodobý hmotný majetok",
+   "typAkcieProgramu": {
+    "id": 160,
+    "href": "/typakcieprogramu/id/160"
+   }
+  },
+  {
+   "kod": "1040112",
+   "nazovSk": "Zásoby",
+   "typAkcieProgramu": {
+    "id": 160,
+    "href": "/typakcieprogramu/id/160"
+   }
+  },
+  {
+   "kod": "1040502",
+   "nazovSk": "Spotreba energie",
+   "typAkcieProgramu": {
+    "id": 160,
+    "href": "/typakcieprogramu/id/160"
+   }
+  },
+  {
+   "kod": "1040503",
+   "nazovSk": "Spotreba ostatných neskladovateľných dodávok",
+   "typAkcieProgramu": {
+    "id": 160,
+    "href": "/typakcieprogramu/id/160"
+   }
+  },
+  {
+   "kod": "1040511",
+   "nazovSk": "Opravy a udržiavanie",
+   "typAkcieProgramu": {
+    "id": 160,
+    "href": "/typakcieprogramu/id/160"
+   }
+  },
+  {
+   "kod": "1040512",
+   "nazovSk": "Cestovné náhrady",
+   "typAkcieProgramu": {
+    "id": 160,
+    "href": "/typakcieprogramu/id/160"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 160,
+    "href": "/typakcieprogramu/id/160"
+   }
+  },
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 160,
+    "href": "/typakcieprogramu/id/160"
+   }
+  },
+  {
+   "kod": "1040548",
+   "nazovSk": "Výdavky na prevádzkovú činnosť",
+   "typAkcieProgramu": {
+    "id": 160,
+    "href": "/typakcieprogramu/id/160"
+   }
+  },
+  {
+   "kod": "1040568",
+   "nazovSk": "Ostatné finančné výdavky",
+   "typAkcieProgramu": {
+    "id": 160,
+    "href": "/typakcieprogramu/id/160"
+   }
+  },
+  {
+   "kod": "1040112",
+   "nazovSk": "Zásoby",
+   "typAkcieProgramu": {
+    "id": 146,
+    "href": "/typakcieprogramu/id/146"
+   }
+  },
+  {
+   "kod": "1040502",
+   "nazovSk": "Spotreba energie",
+   "typAkcieProgramu": {
+    "id": 146,
+    "href": "/typakcieprogramu/id/146"
+   }
+  },
+  {
+   "kod": "1040512",
+   "nazovSk": "Cestovné náhrady",
+   "typAkcieProgramu": {
+    "id": 146,
+    "href": "/typakcieprogramu/id/146"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 146,
+    "href": "/typakcieprogramu/id/146"
+   }
+  },
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 146,
+    "href": "/typakcieprogramu/id/146"
+   }
+  },
+  {
+   "kod": "1040548",
+   "nazovSk": "Výdavky na prevádzkovú činnosť",
+   "typAkcieProgramu": {
+    "id": 146,
+    "href": "/typakcieprogramu/id/146"
+   }
+  },
+  {
+   "kod": "1040568",
+   "nazovSk": "Ostatné finančné výdavky",
+   "typAkcieProgramu": {
+    "id": 146,
+    "href": "/typakcieprogramu/id/146"
+   }
+  }
+ ],
+ "externyZdroj": [
+  {
+   "nazov": "Zverejnená výzva na projekty technickej pomoci č. PSK-MIRRI-923-2024-TP-EFRR",
+   "url": "https://eurofondy.gov.sk/vyzvy/vyzvy-programu-slovensko/"
+  }
+ ],
+ "dokument": [
+  {
+   "nazov": "1.2 Prilohy vyzvy.zip",
+   "uuid": "9cb6e962-6556-4d19-8373-9b86c4e80d91"
+  },
+  {
+   "nazov": "PSK-MIRRI-923-2024-TP-EFRR__VYHLASENA.docx",
+   "uuid": "a77ac16b-f872-46ec-9ea2-7b516af1dadc"
+  },
+  {
+   "nazov": "Výzva PSK-MIRRI-923-2024-TP-EFRR",
+   "uuid": "435a145c-bd61-4071-84dc-2c4a2dad783f"
+  }
+ ],
+ "dalsiaSkutocnost": [],
+ "dalsiaFormalnaNalezitost": [],
+ "verzia": [
+  {
+   "id": 5398,
+   "cislo": 1
+  }
+ ],
+ "ukazovatelVysledkovy": [
+  {
+   "id": 421,
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1490,
+    "href": "/ukazovatelprojektovy/id/1490",
+    "kod": "PSKPR106",
+    "nazovSk": "Počet AK, ktorým bolo materiálno-technické zabezpečenie pridelené do používania",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Počet AK, ktor&yacute;m bolo materi&aacute;lno-technick&eacute; zabezpečenie pridelen&eacute; do použ&iacute;vania.</div><div>&nbsp;</div>Materi&aacute;lno-technick&yacute;m zabezpečen&iacute;m pracovn&iacute;ka&nbsp; sa rozumie jeho vybavenie v&yacute;počtovou technikou, softv&eacute;rom a pr&iacute;slu&scaron;enstvom (notebook, monitor, my&scaron;, kl&aacute;vesnica a pod.) ako aj vybaven&iacute;m pracovn&eacute;ho miesta (st&ocirc;l, stolička, kontajner a pod.).</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div>Majetkov&aacute; karta zamestnanca a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy a ITMS.</div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1695892829740,
+    "updatedAt": 1748269318523
+   }
+  },
+  {
+   "id": 423,
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1509,
+    "href": "/ukazovatelprojektovy/id/1509",
+    "kod": "PSKPR110",
+    "nazovSk": "Počet vyškolených AK v rámci vzdelávacích aktivít mimo CPV financovaných z TP",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet AK, ktor&iacute; absolvovali vzdel&aacute;vaciu aktivitu in&uacute;, ako vzdel&aacute;vaciu aktivitu zabezpečen&uacute; centr&aacute;lnym pl&aacute;nom vzdel&aacute;vania. Hodnota sa urč&iacute; ako celkov&yacute; kumulat&iacute;vny počet vy&scaron;kolen&yacute;ch AK, ktor&eacute; sa z&uacute;častnili &scaron;pecifick&yacute;ch &scaron;kolen&iacute; a kurzov financovan&yacute;ch z TP (najm&auml; &scaron;pecifick&eacute; &scaron;kolenia, kurzy, semin&aacute;re, workshopy, st&aacute;že, pracovn&eacute; cesty zameran&eacute; na z&iacute;skavanie a v&yacute;menu inform&aacute;cii a sk&uacute;senost&iacute; v SR a v zahranič&iacute;) a tieto &scaron;kolenia &uacute;spe&scaron;ne absolvovali.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Potvrdenie o &uacute;časti, certifik&aacute;t a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy a ITMS.</div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1698238791610,
+    "updatedAt": 1748269455720
+   }
+  }
+ ],
+ "ukazovatelVystupovy": [
+  {
+   "id": 385,
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1484,
+    "href": "/ukazovatelprojektovy/id/1484",
+    "kod": "PSKPO160",
+    "nazovSk": "Počet uzatvorených  dohôd o prácach vykonávaných mimo pracovného pomeru  financovaných z TP",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div style=\"text-align: justify;\"><div>Definičn&aacute; matica</div><div>1.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet doh&ocirc;d o pr&aacute;cach vykon&aacute;van&yacute;ch mimo pracovn&eacute;ho pomeru financovan&yacute;ch z TP uzatvoren&yacute;ch v s&uacute;vislosti s implement&aacute;ciou, riaden&iacute;m, kontrolou a auditom Programu Slovensko 2021 &ndash; 2027 (Z&aacute;kon 311/2001 Z. z. z&aacute;konn&iacute;k pr&aacute;ce, &sect;223 a nasl.).</div><div>Dohody o pr&aacute;cach vykon&aacute;van&yacute;ch mimo pracovn&eacute;ho pomeru financovan&eacute; z TP a&nbsp;sp&ocirc;sob v&yacute;počtu hodnoty merateľn&eacute;ho ukazovateľa:</div><div>a) Dohoda o vykonan&iacute; pr&aacute;ce (&sect; 226 Z&aacute;konn&iacute;ka pr&aacute;ce) &ndash; maxim&aacute;lny limit 350 hod&iacute;n v kalend&aacute;rnom roku.</div><div>b) Dohoda o brig&aacute;dnickej pr&aacute;ci &scaron;tudentov (&sect;&nbsp;227 Z&aacute;konn&iacute;ka pr&aacute;ce) &ndash; &nbsp;rozsah najviac 20 hod&iacute;n t&yacute;ždenne v&nbsp;priemere; priemer najviac pr&iacute;pustn&eacute;ho rozsahu pracovn&eacute;ho času sa posudzuje za cel&uacute; dobu, na ktor&uacute; bola dohoda uzatvoren&aacute;;</div><div>c) Dohoda o pracovnej činnosti (&sect; 228a Z&aacute;konn&iacute;ka pr&aacute;ce) &ndash; maxim&aacute;lny limit 10 hod&iacute;n t&yacute;ždenne, čo predstavuje maxim&aacute;lne 530 hod&iacute;n za kalend&aacute;rny rok.&nbsp;</div><div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div>Uzatvoren&eacute; dohody o vykonan&iacute; pr&aacute;ce, uzavret&eacute; dohody o brig&aacute;dnickej pr&aacute;ci &scaron;tudentov, uzatvoren&eacute; dohody o pracovnej činnosti, v&yacute;kazy pr&aacute;ce a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy a ITMS.<div>&nbsp;</div></div></div><div style=\"text-align: justify;\"><div>&nbsp;</div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1695890217851,
+    "updatedAt": 1732266113534
+   }
+  },
+  {
+   "id": 387,
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1508,
+    "href": "/ukazovatelprojektovy/id/1508",
+    "kod": "PSKPO169",
+    "nazovSk": "Počet vzdelávacích aktivít mimo CPV financovaných z TP",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Vzdel&aacute;vacia aktivita in&aacute;, ako vzdel&aacute;vacia aktivita zabezpečen&aacute; centr&aacute;lnym pl&aacute;nom vzdel&aacute;vania. Do MU sa napoč&iacute;tava počet v&scaron;etk&yacute;ch vzdel&aacute;vac&iacute;ch aktiv&iacute;t mimo CPV.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Fakt&uacute;ra, osvedčenie o &uacute;časti, pozv&aacute;nka, program a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy a ITMS.</div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1698238482087,
+    "updatedAt": 1748268252282
+   }
+  },
+  {
+   "id": 379,
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1483,
+    "href": "/ukazovatelprojektovy/id/1483",
+    "kod": "PSKPO155",
+    "nazovSk": "Priemerný počet podporného personálu financovaného z TP",
+    "mernaJednotka": {
+     "id": 200097,
+     "kod": "105398",
+     "nazovSk": "ročné FTE",
+     "popisSk": "ročné FTE",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><div><div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Priemern&yacute; ročn&yacute; počet podporn&eacute;ho person&aacute;lu financovan&eacute;ho z TP vyjadren&yacute; v ročn&yacute;ch ekvivalentoch pln&eacute;ho pracovn&eacute;ho &uacute;v&auml;zku (FTE). Voľn&eacute; neobsaden&eacute; pracovn&eacute; poz&iacute;cie sa nezapoč&iacute;tavaj&uacute;.</div><div>Pri prepočte podporn&eacute;ho person&aacute;lu na FTE sa okrem prepočtu na pln&yacute; pracovn&yacute; &uacute;v&auml;zok zohľadňuje aj miera refund&aacute;cie a obsadenosť pracovn&eacute;ho miesta za dan&uacute; jednotku času.</div><div>Postupuje sa podľa vzorca: FTE=a/100*b/100*c/n</div><div>&nbsp;</div><div>a &ndash; predstavuje percentu&aacute;lny podiel pracovn&eacute;ho &uacute;v&auml;zku zamestnanca,</div><div>b &ndash; miera refund&aacute;cie mzdy zamestnanca, t. j. percentu&aacute;lny podiel skutočn&eacute;ho pracovn&eacute;ho &uacute;v&auml;zku zamestnanca,</div><div>c &ndash; predstavuje počet mesiacov obsadenosti miesta,</div>n &ndash; predstavuje počet mesiacov vykazovan&eacute;ho&nbsp; obdobia monitorovacej spr&aacute;vy</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Sumarizačn&eacute; h&aacute;rky, prepočet FTE a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy a ITMS.</div><div><div><b>1.2</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Voľn&eacute; neobsaden&eacute; pracovn&eacute; poz&iacute;cie sa nezapoč&iacute;tavaj&uacute;.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Sumarizačn&eacute; h&aacute;rky, prepočet FTE a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy a ITMS.</div><div><div><b>1.3</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Podporn&yacute; person&aacute;l napr. zamestnanci osobn&eacute;ho &uacute;radu, rozpočtu, IT a pod.</div></div></div></div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Sumarizačn&eacute; h&aacute;rky, prepočet FTE a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy a ITMS.</div></div></div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1695890063293,
+    "updatedAt": 1748267360627
+   }
+  },
+  {
+   "id": 395,
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1312,
+    "href": "/ukazovatelprojektovy/id/1312",
+    "kod": "PSKPSOI09",
+    "nazovSk": "Priemerný ročný počet AK financovaných z TP",
+    "mernaJednotka": {
+     "id": 200097,
+     "kod": "105398",
+     "nazovSk": "ročné FTE",
+     "popisSk": "ročné FTE",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Priemern&yacute; ročn&yacute; počet AK financovan&yacute;ch z&nbsp;TP vyjadren&yacute; v ročn&yacute;ch ekvivalentoch pln&eacute;ho pracovn&eacute;ho &uacute;v&auml;zku (FTE).</div><div>Pri prepočte AK na FTE sa okrem prepočtu na pln&yacute; pracovn&yacute; &uacute;v&auml;zok zohľadňuje aj miera refund&aacute;cie a obsadenosť pracovn&eacute;ho miesta za dan&uacute; jednotku času.</div><div><div>&nbsp;</div><div>Postupuje sa podľa vzorca:&nbsp; &nbsp;FTE=a/100*b/100*c/n</div><div>&nbsp;</div><div>a &ndash; predstavuje percentu&aacute;lny podiel pracovn&eacute;ho &uacute;v&auml;zku zamestnanca,</div><div>b &ndash; miera refund&aacute;cie mzdy zamestnanca, t. j. percentu&aacute;lny podiel skutočn&eacute;ho pracovn&eacute;ho &uacute;v&auml;zku zamestnanca,</div><div>c &ndash; predstavuje počet mesiacov obsadenosti miesta,</div>n &ndash; predstavuje počet mesiacov vykazovan&eacute;ho obdobia monitorovacej spr&aacute;vy.</div><div>&nbsp;</div><div><b>Povinnosť plnenia:</b> &aacute;no</div></div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Sumarizačn&eacute; h&aacute;rky, prepočet FTE a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej&nbsp;spr&aacute;vy a ITMS.</div><div><b>2.1</b></div><div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Voľn&eacute; neobsaden&eacute; pracovn&eacute; poz&iacute;cie sa nezapoč&iacute;tavaj&uacute;.</div><div><b>Po</b><b>vinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Sumarizačn&eacute; h&aacute;rky, prepočet FTE a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy&nbsp;a ITMS.</div><div><b>3.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Administrat&iacute;vna kapacita (AK)</div>Je definovan&aacute; ako zamestnanec vo verejnej spr&aacute;ve (&uacute;strednej spr&aacute;ve a &uacute;zemnej samospr&aacute;ve), ktor&yacute; prispieva k &uacute;spe&scaron;nej implement&aacute;cii fondov E&Uacute; a vykon&aacute;va najm&auml; činnosti pre zabezpečenie koordin&aacute;cie, riadenia, implement&aacute;cie, monitorovania, hodnotenia, kontroly a auditu fondov E&Uacute; v&nbsp;PO 2021 &ndash; 2027 bez ohľadu na zdroj financovania. Počet AK sa uv&aacute;dza vo FTE (ekvivalent pln&eacute;ho pracovn&eacute;ho &uacute;v&auml;zku).</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Materi&aacute;l &ndash; &bdquo;Stanovenie počtu AK financovan&yacute;ch z TP fondov E&Uacute; v PO 2021 &ndash; 2027 a nastavenie syst&eacute;mu financovania AK PO 2021 &ndash; 2027&ldquo;.</div></div><div>&nbsp;<div>&nbsp;</div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "PRIEMER",
+    "platnost": true,
+    "createdAt": 1677658128697,
+    "updatedAt": 1769090525154
+   }
+  },
+  {
+   "id": 382,
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1486,
+    "href": "/ukazovatelprojektovy/id/1486",
+    "kod": "PSKPO157",
+    "nazovSk": "Počet zrealizovaných pracovných ciest AK financovaných z TP",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div>Celkov&yacute; počet zrealizovan&yacute;ch pracovn&yacute;ch ciest financovan&yacute;ch z TP.</div></div><div style=\"clear:both\"><b>Povinnosť plnenia:</b> &aacute;no</div></div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Pr&iacute;kaz na SC, spr&aacute;va zo SC, vy&uacute;čtovanie SC a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy a ITMS.</div><div>&nbsp;<div>&nbsp;</div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1695891888334,
+    "updatedAt": 1748267582006
+   }
+  },
+  {
+   "id": 389,
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1512,
+    "href": "/ukazovatelprojektovy/id/1512",
+    "kod": "PSKPO170",
+    "nazovSk": "Počet preložených dokumentov do cudzieho jazyka financovaných z TP",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet preložen&yacute;ch dokumentov do cudzieho jazyka v tlačenej alebo elektronickej forme, financovan&yacute;ch z TP. Minim&aacute;lny rozsah dokumentu predstavuje 10 normostr&aacute;n. Hodnota merateľn&eacute;ho ukazovateľa m&ocirc;že byť vypoč&iacute;tan&aacute; aj ako s&uacute;čet rozsahom men&scaron;&iacute;ch dokumentov (napr. materi&aacute;l s rozsahom 2 strany predstavuje - 0,2 dokumentu, 8 str&aacute;n predstavuje - 0,8 dokumentu).</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div><div>Fakt&uacute;ra, dokument a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy a ITMS.</div></div></div><div style=\"clear:both\">&nbsp;</div></div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1698242757603,
+    "updatedAt": 1748268412613
+   }
+  },
+  {
+   "id": 381,
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1485,
+    "href": "/ukazovatelprojektovy/id/1485",
+    "kod": "PSKPO156",
+    "nazovSk": "Počet AK, pre ktoré bolo zakúpené materiálno-technické zabezpečenie z prostriedkov TP",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Počet AK zapojen&yacute;ch do implement&aacute;cie, riadenia, kontroly a auditu Programu Slovensko 2021 &ndash; 2027, pre ktor&eacute; bolo zak&uacute;pen&eacute; materi&aacute;lno-technick&eacute; zabezpečenie z prostriedkov TP.</div></div></div></div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div><div>Fakt&uacute;ra, dodac&iacute; list a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy a ITMS.</div></div></div></div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1695890383189,
+    "updatedAt": 1748267197246
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 144,
+   "href": "/typakcieprogramu/id/144",
+   "kod": "401701T70100031",
+   "nazovSk": "Financovanie AK – regionálna úroveň",
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "opatrenie": {
+    "id": 136,
+    "href": "/opatrenie/id/136",
+    "kod": "401701T70100",
+    "nazovSk": "401701T70100",
+    "specifickyCielProgramu": {
+     "id": 8,
+     "href": "/specifickycielprogramu/id/8",
+     "kod": "401701T701",
+     "nazovSk": "Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 17,
+      "href": "/priorita/id/17",
+      "kod": "401701",
+      "nazovSk": "7P1 Technická pomoc EFRR",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867963
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868246
+    },
+    "createdAt": 1772540868254
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516228033,
+   "updatedAt": 1772541473141
+  },
+  {
+   "id": 160,
+   "href": "/typakcieprogramu/id/160",
+   "kod": "401701T70100181",
+   "nazovSk": "Financovanie materiálno-technického, prevádzkového vybavenia, režijných výdavkov a mobility – regionálna úroveň",
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "opatrenie": {
+    "id": 136,
+    "href": "/opatrenie/id/136",
+    "kod": "401701T70100",
+    "nazovSk": "401701T70100",
+    "specifickyCielProgramu": {
+     "id": 8,
+     "href": "/specifickycielprogramu/id/8",
+     "kod": "401701T701",
+     "nazovSk": "Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 17,
+      "href": "/priorita/id/17",
+      "kod": "401701",
+      "nazovSk": "7P1 Technická pomoc EFRR",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867963
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868246
+    },
+    "createdAt": 1772540868254
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516228047,
+   "updatedAt": 1772541473140
+  },
+  {
+   "id": 146,
+   "href": "/typakcieprogramu/id/146",
+   "kod": "401701T70100061",
+   "nazovSk": "Vzdelávanie AK – regionálna úroveň",
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "opatrenie": {
+    "id": 136,
+    "href": "/opatrenie/id/136",
+    "kod": "401701T70100",
+    "nazovSk": "401701T70100",
+    "specifickyCielProgramu": {
+     "id": 8,
+     "href": "/specifickycielprogramu/id/8",
+     "kod": "401701T701",
+     "nazovSk": "Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 17,
+      "href": "/priorita/id/17",
+      "kod": "401701",
+      "nazovSk": "7P1 Technická pomoc EFRR",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867963
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868246
+    },
+    "createdAt": 1772540868254
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516228035,
+   "updatedAt": 1772541473141
+  },
+  {
+   "id": 1209,
+   "href": "/typakcieprogramu/id/1209",
+   "kod": "401701T701000P1",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "opatrenie": {
+    "id": 136,
+    "href": "/opatrenie/id/136",
+    "kod": "401701T70100",
+    "nazovSk": "401701T70100",
+    "specifickyCielProgramu": {
+     "id": 8,
+     "href": "/specifickycielprogramu/id/8",
+     "kod": "401701T701",
+     "nazovSk": "Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 17,
+      "href": "/priorita/id/17",
+      "kod": "401701",
+      "nazovSk": "7P1 Technická pomoc EFRR",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867963
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540868246
+    },
+    "createdAt": 1772540868254
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717771660972,
+   "updatedAt": 1772541473140
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200189,
+    "kod": "10364PO180",
+    "kodZdroj": "180",
+    "nazovSk": "Príprava, implementácia, monitorovanie a kontrola",
+    "nazovEn": "Príprava, implementácia, monitorovanie a kontrola",
+    "nazovDe": "Vorbereitung, Durchführung, Überwachung und Kontrolle",
+    "popisSk": "Príprava, implementácia, monitorovanie a kontrola",
+    "popisDe": "Vorbereitung, Durchführung, Überwachung und Kontrolle",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200191,
+    "kod": "10364PO182",
+    "kodZdroj": "182",
+    "nazovSk": "Posilnenie kapacity orgánov členského štátu, prijímateľov a príslušných partnerov",
+    "nazovDe": "Stärkung der Kapazität der Behörden des Mitgliedstaats, der Begünstigten und von relevanten Partnern",
+    "popisSk": "Posilnenie kapacity orgánov členského štátu, prijímateľov a príslušných partnerov",
+    "popisDe": "Stärkung der Kapazität der Behörden des Mitgliedstaats, der Begünstigten und von relevanten Partnern",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200190,
+    "kod": "10364PO181",
+    "kodZdroj": "181",
+    "nazovSk": "Hodnotenie a štúdie, zber údajov",
+    "nazovEn": "Hodnotenie a štúdie, zber údajov",
+    "nazovDe": "Bewertung und Studien, Datenerhebung",
+    "popisSk": "Hodnotenie a štúdie, zber údajov",
+    "popisDe": "Bewertung und Studien, Datenerhebung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200020,
+    "kod": "10384PO20",
+    "kodZdroj": "20",
+    "nazovSk": "Verejná správa",
+    "nazovEn": "Verejná správa",
+    "nazovDe": "Öffentliche Verwaltung",
+    "popisSk": "Verejná správa",
+    "popisDe": "Öffentliche Verwaltung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 8,
+    "href": "/specifickycielprogramu/id/8",
+    "kod": "401701T701",
+    "nazovSk": "Technická pomoc EFRR",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 17,
+     "href": "/priorita/id/17",
+     "kod": "401701",
+     "nazovSk": "7P1 Technická pomoc EFRR",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867963
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540868246
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200010,
+    "kod": "12094PO11",
+    "kodZdroj": "11",
+    "nazovSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovEn": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "popisSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "popisDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 1,
+   "kod": "1033MRR",
+   "kodZdroj": "MRR",
+   "nazovSk": "Menej rozvinutý región",
+   "nazovEn": "less-developed regions",
+   "popisSk": "Menej rozvinutý región",
+   "popisEn": "less-developed regions",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [],
+ "projektovyZamerIUS": []
+}

@@ -1,0 +1,1373 @@
+{
+ "id": 3559,
+ "href": "/vyzva/id/3559",
+ "kod": "PSK-MD-007-2024-NP-KF",
+ "nazovSk": "Plnosplavnosť vodnej cesty Dunaj - štúdia realizovateľnosti",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 40,
+   "href": "/specifickycielprogramu/id/40",
+   "kod": "401301R31K",
+   "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 6,
+    "href": "/priorita/id/6",
+    "kod": "401301",
+    "nazovSk": "3P1 Doprava",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867951
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 8,
+    "kod": "1032KF",
+    "kodZdroj": "KF",
+    "nazovSk": "Kohézny fond",
+    "nazovEn": "Kohézny fond",
+    "popisSk": "Kohézny fond",
+    "popisEn": "Kohézny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540869148
+  }
+ ],
+ "opatrenie": [
+  {
+   "id": 33,
+   "href": "/opatrenie/id/33",
+   "kod": "401301R31K03",
+   "nazovSk": "Zlepšenie kvality služieb poskytovaných na dunajskej a vážskej vodnej ceste",
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "createdAt": 1772540869159
+  }
+ ],
+ "miestoRealizacie": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 42,
+   "kod": "1009321",
+   "kodZdroj": "321",
+   "nazovSk": "Rozpočtová organizácia",
+   "nazovEn": "Budgetary organization",
+   "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+   "popisEn": "Budgetary organization Budgetary organization",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1727042400000,
+ "datumUkoncenia": 1869688800000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 382,
+  "kod": "21_SO_PSK_MDSR",
+  "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo dopravy SR",
+  "subjekt": {
+   "id": 100008,
+   "href": "/subjekt/id/100008",
+   "nazov": "Ministerstvo dopravy Slovenskej republiky",
+   "ico": "30416094",
+   "dic": "2020799209",
+   "platitelDph": true,
+   "podlaParagrafu": "§7a",
+   "icDph": "SK2020799209",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Námestie slobody",
+    "cislo": "2902/6",
+    "psc": "81005",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "UZAVRETA",
+ "zameranieProjektu": "NP_21",
+ "createdAt": 1726649190754,
+ "updatedAt": 1726649190796,
+ "sumaEu": 1423175.4,
+ "sumaSr": 251148.6,
+ "predvyber": false,
+ "posudzovaneObdobie": [],
+ "pocetPredlozenychZiadosti": 0,
+ "pocetSchvalenychZiadosti": 0,
+ "pocetZiadostiVKonani": 0,
+ "pocetNeschvalenychZiadosti": 0,
+ "pocetRealizovanychProjektov": 0,
+ "planovanaVyzva": [
+  {
+   "id": 21,
+   "href": "/planovanavyzva/id/21",
+   "kod": "2024/00021",
+   "nazovSk": "Plnosplavnosť vodnej cesty Dunaj - štúdia realizovateľnosti",
+   "programSkratka": "PSK",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 40,
+     "href": "/specifickycielprogramu/id/40"
+    }
+   ],
+   "opatrenie": [
+    {
+     "id": 33,
+     "href": "/opatrenie/id/33"
+    }
+   ],
+   "miestoRealizacie": [],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [],
+   "datumVyhlasenia1Kolo": 1725141600000,
+   "sumaEu": 1423175.4,
+   "druh": "VYZVA_21",
+   "vyhlasena": true,
+   "zrusena": false,
+   "zameranieProjektu": "NP_21",
+   "vyhlasovatel": {
+    "id": 382
+   },
+   "poskytovatel": {
+    "id": 376
+   },
+   "createdAt": 1726745550357,
+   "updatedAt": 1727093696585
+  }
+ ],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 8,
+   "kod": "1032KF",
+   "kodZdroj": "KF",
+   "nazovSk": "Kohézny fond",
+   "nazovEn": "Kohézny fond",
+   "popisSk": "Kohézny fond",
+   "popisEn": "Kohézny fond",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "sposobFinancovania": [],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktnaOsoba": [
+  {
+   "osoba": {
+    "titulPred": "Ing.",
+    "meno": "Viera",
+    "priezvisko": "Józsová",
+    "titulZa": "",
+    "menoUplne": "Ing. Viera Józsová"
+   },
+   "telefon": "02/59494533",
+   "email": "viera.jozsova@mindop.sk"
+  }
+ ],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "Podmienka oprávnenosti žiadateľa",
+   "popisSk": "<div><div><div><div><div><div>V r&aacute;mci tejto v&yacute;zvy s&uacute; opr&aacute;vnen&yacute;mi žiadateľmi:</div><ul><li>pre n&aacute;rodn&yacute; projekt <i>&Scaron;t&uacute;dia realizovateľnosti &bdquo;N&aacute;vrh opatren&iacute; na zaistenie plnosplavnosti vodnej cesty Dunaj v &uacute;seku r. km 1880,26 &ndash; r. km 1853,10&ldquo; </i>je určen&yacute;</li><li>opr&aacute;vnen&yacute; žiadateľ:<b> Ministerstvo dopravy Slovenskej republiky </b>(sekcia vodnej dopravy)</li></ul><div style=\"margin-left:58.45pt\">&nbsp;</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div><b>Formul&aacute;r ŽoNFP </b>&ndash; časť 1. Identifik&aacute;cia žiadateľa</div><div><b>Pr&iacute;loha ŽoNFP </b>(ak relevantn&eacute;)<b>: Splnomocnenie osoby konaj&uacute;cej v&nbsp;mene žiadateľa</b> na zastupovanie žiadateľa v&nbsp;konan&iacute; o&nbsp;žiadosti<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><sup><sup>[1]</sup></sup></a></div><div>&nbsp;</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div><b>ITMS </b>(resp. &uacute;daje evidovan&eacute; v informačn&yacute;ch syst&eacute;moch verejnej spr&aacute;vy (<a href=\"https://rpo.statistics.sk/\">https://rpo.statistics.sk</a> /<a href=\"https://oversi.gov.sk/\">https://oversi.gov.sk</a>))</div><div>Integračn&aacute; akcia &bdquo;Z&iacute;skanie V&yacute;pisu z&nbsp;Obchodn&eacute;ho registra SR&ldquo;</div><div style=\"margin-left:-2.0pt\"><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div><div style=\"margin-left:-2.0pt\">Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne do skončenia doby udržateľnosti projektu.</div></div></div><div style=\"clear:both\">&nbsp;</div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Žiadateľ predklad&aacute; t&uacute;to pr&iacute;lohu iba v&nbsp;pr&iacute;pade, ak osoba konaj&uacute;ca v mene žiadateľa je odli&scaron;n&aacute; od &scaron;tatut&aacute;rneho org&aacute;nu žiadateľa. T&aacute;to osoba mus&iacute; byť riadne splnomocnen&aacute; na zastupovanie žiadateľa v&nbsp;konan&iacute; o&nbsp;žiadosti. T&uacute;to pr&iacute;lohu predklad&aacute; žiadateľ <u>vždy v&nbsp;každej ŽoNFP a</u> nie je možn&eacute; ju nahradiť čestn&yacute;m vyhl&aacute;sen&iacute;m o&nbsp;predložen&iacute; tejto pr&iacute;lohy v&nbsp;niektorej zo skor&scaron;&iacute;ch ŽoNFP.</div></div></div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Dokument definovaný RO/SO preukazujúci splnenie danej podmienky",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "UDAJE_Z_RPO"
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "Podmienka oprávnenosti aktivít projektu",
+   "popisSk": "<div><div><div><div>V r&aacute;mci opatrenia <b>3.1.3</b> s&uacute; v&nbsp;r&aacute;mci <b>k&oacute;du dimenzie: 114. Vn&uacute;trozemsk&eacute; vodn&eacute; cesty a pr&iacute;stavy (TEN-T)</b> pre t&uacute;to v&yacute;zvu opr&aacute;vnen&eacute; nasledovn&eacute; <b><u>typy akci&iacute;</u></b>:</div><div><b>&bdquo;</b>Predinvestičn&aacute; a projektov&aacute; pr&iacute;prava&ldquo;</div><div style=\"margin-left:27.45pt\"><b><u>Opr&aacute;vnen&eacute; hlavn&eacute; aktivity projektu</u></b>:</div><ul><li><b>&Scaron;t&uacute;dia uskutočniteľnosti</b> -&nbsp; opr&aacute;vnen&aacute; aktivita pre projekt <i>&Scaron;t&uacute;dia realizovateľnosti &bdquo;N&aacute;vrh opatren&iacute; na zaistenie plnosplavnosti vodnej cesty Dunaj v &uacute;seku r. km 1880,26 &ndash; r. km 1853,10&ldquo;</i></li></ul><div style=\"margin-left:27.45pt\">&nbsp;</div><div>V&yacute;stupy/v&yacute;sledky, ktor&eacute; maj&uacute; byť dosiahnut&eacute; realiz&aacute;ciou aktiv&iacute;t projektu, musia byť kvantifikovan&eacute; prostredn&iacute;ctvom merateľn&yacute;ch ukazovateľov definovan&yacute;ch v dokumente <b><i>Zoznam merateľn&yacute;ch ukazovateľov projektu a in&yacute;ch &uacute;dajov</i>,</b> ktor&yacute; tvor&iacute; <b>pr&iacute;lohu č. 4</b> v&yacute;zvy.</div><div><b>Žiadateľ nesmie ukončiť fyzick&uacute; realiz&aacute;ciu hlavnej aktivity projektu, t. j. plne zrealizovať hlavn&uacute; aktivitu projektu, pred predložen&iacute;m ŽoNFP poskytovateľovi.</b></div><div>Z&aacute;roveň s&uacute; pre žiadateľa opr&aacute;vnen&eacute; aj <b>podporn&eacute; aktivity projektu</b> (riadenie projektu, informovanie a&nbsp;publicita atď.), a&nbsp;to sp&ocirc;sobom určen&yacute;m <b>v&nbsp;pr&iacute;lohe č. 5a</b> v&yacute;zvy &ndash; Osobitn&eacute; podmienky opr&aacute;vnenosti v&yacute;davkov.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div><b>Formul&aacute;r ŽoNFP </b>&ndash; časť 7., 9., 11.</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div><b>Formul&aacute;r ŽoNFP </b></div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div><div>Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne do skončenia doby udržateľnosti projektu.</div></div></div><div style=\"clear:both\">&nbsp;</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Dokument definovaný RO/SO preukazujúci splnenie danej podmienky",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "Podmienka oprávnenosti výdavkov",
+   "popisSk": "<div><div>V&yacute;davky projektu musia byť v s&uacute;lade s jednotn&yacute;mi pravidlami opr&aacute;vnenosti v&yacute;davkov definovan&yacute;mi v <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/\"><b>Pr&iacute;ručke k opr&aacute;vnenosti v&yacute;davkov</b></a><a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><b><b>[1]</b></b></a> a z&aacute;roveň v s&uacute;lade s pravidlami vymedzen&yacute;mi v <b>pr&iacute;lohe č. 5a</b> v&yacute;zvy - <b>Osobitn&eacute; podmienky opr&aacute;vnenosti v&yacute;davkov</b>.</div><div>V&yacute;davky, ktor&eacute; s&uacute; predmetom projektu musia spĺňať z&aacute;sady hospod&aacute;rnosti, efekt&iacute;vnosti, &uacute;čelnosti a&nbsp;&uacute;činnosti.</div><div>Hospod&aacute;rnosť v&yacute;davkov bude žiadateľ preukazovať a poskytovateľ overovať počas implement&aacute;cie projektu.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>Formul&aacute;r ŽoNFP</div><div>Podporn&aacute; dokument&aacute;cia k opr&aacute;vnenosti v&yacute;davkov &ndash; pr&iacute;loha č. 5b v&yacute;zvy &ndash; <b>Rozpočet projektu </b></div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div>Formul&aacute;r ŽoNFP</div><div>Pr&iacute;loha č. 5b v&yacute;zvy &ndash; Rozpočet projektu</div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div>Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť do skončenia doby realiz&aacute;cie projektu.<div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Zverejnen&aacute; na <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/\">https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/</a> .</div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Dokument definovaný RO/SO preukazujúci splnenie danej podmienky",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "Podmienka miesta realizácie projektu",
+   "popisSk": "<div><div>Opr&aacute;vnen&yacute;m miestom realiz&aacute;cie projektu je kraj NUTS 3:</div><ul><li>Bratislavsk&yacute; kraj</li></ul><div>Pre pos&uacute;denie splnenia tejto podmienky je rozhoduj&uacute;ce <b>miesto realiz&aacute;cie projektu</b>, nie s&iacute;dlo žiadateľa.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>Formul&aacute;r ŽoNFP - časť 6. Miesto realiz&aacute;cie projektu</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div>Formul&aacute;r ŽoNFP - časť 6. Miesto realiz&aacute;cie projektu</div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div>Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne do skončenia doby udržateľnosti projektu.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Dokument definovaný RO/SO preukazujúci splnenie danej podmienky",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 5,
+   "nazovSk": "Podmienka splnenia kritérií pre výber projektov",
+   "popisSk": "<div><div><div><div>Žiadosť o NFP mus&iacute; spĺňať vylučuj&uacute;ce krit&eacute;ri&aacute; uveden&eacute; v&nbsp;<b>pr&iacute;lohe č. 2 </b>v&yacute;zvy - <b>Krit&eacute;ri&aacute; pre v&yacute;ber projektov</b>, inak SO rozhodne o neschv&aacute;len&iacute; ŽoNFP.</div><div><b>Doplňuj&uacute;ce inform&aacute;cie k zneniu vylučuj&uacute;ceho krit&eacute;ria HP:</b></div><div>Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach , s prihliadnut&iacute;m na&nbsp; dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky.</div><div>V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m .&nbsp;</div><div>Žiadateľ si pri pr&iacute;prave ŽoNFP verifikuje dosiahnutie s&uacute;ladu navrhovan&eacute;ho projektu s požiadavkami t&yacute;kaj&uacute;cimi sa plnenia HP, a to prostredn&iacute;ctvom check listov, ktor&eacute; s&uacute; dostupn&eacute; na webovom s&iacute;dle gestora HP <a href=\"https://www.horizontalneprincipy.gov.sk/hp-v-novom-po-2021-2027/index.html?csrt=13762856008428084435\">https://www.horizontalneprincipy.gov.sk/hp-v-novom-po-2021-2027/index.html?csrt=13762856008428084435</a> v časti Riadiaca dokument&aacute;cia.</div><div>Vyplnen&eacute; check listy sl&uacute;žia ako odborn&aacute; pom&ocirc;cka pre žiadateľa.</div><div><b>Forma preuk&aacute;zania zo strany žiadateľa:</b></div><div>Formul&aacute;r ŽoNFP časť 7.3. Sp&ocirc;sob realiz&aacute;cie aktiv&iacute;t projektu a časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa.</div><div><b>Sp&ocirc;sob overenia zo strany poskytovateľa:</b></div><div>Formul&aacute;r ŽoNFP časť 7.3. Sp&ocirc;sob realiz&aacute;cie aktiv&iacute;t projektu, časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa a z predložen&yacute;ch pr&iacute;loh (ak relevantn&eacute;).</div><div><b>Ukončenie uplatniteľnosti PPP: </b></div><div>Do skončenia konania o ŽoNFP.</div><div>Splnenie PPP poskytovateľ overuje v konan&iacute; o ŽoNFP v procese schvaľovania ŽoNFP&nbsp; v re&aacute;lnom čase ( v okamihu v&yacute;konu overenia ).&quot;</div></div></div><div style=\"clear:both\">&nbsp;</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Dokument definovaný RO/SO preukazujúci splnenie danej podmienky",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 6,
+   "nazovSk": "Podmienka, že žiadateľ nie je evidovaný v Systéme včasného odhaľovania rizika a vylúčenia (EDES) ako vylúčená osoba alebo subjekt (v zmysle článku 135 nariadenia č. 2018/1046).",
+   "popisSk": "<div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>Bez osobitnej pr&iacute;lohy</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div><b>Syst&eacute;m včasn&eacute;ho odhaľovania rizika&nbsp;a vyl&uacute;čen&yacute;ch subjektov </b>(<a href=\"https://ec.europa.eu/budget/edes/index_en.cfm\">https://ec.europa.eu/budget/edes/index_en.cfm</a>)</div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div>Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne do skončenia doby udržateľnosti projektu.</div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [
+  {
+   "id": 100008,
+   "href": "/subjekt/id/100008",
+   "nazov": "Ministerstvo dopravy Slovenskej republiky",
+   "ico": "30416094",
+   "dic": "2020799209",
+   "platitelDph": true,
+   "podlaParagrafu": "§7a",
+   "icDph": "SK2020799209",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Námestie slobody",
+    "cislo": "2902/6",
+    "psc": "81005",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ ],
+ "miestoRealizacieFull": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 601,
+    "href": "/typakcieprogramu/id/601"
+   }
+  },
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 601,
+    "href": "/typakcieprogramu/id/601"
+   }
+  },
+  {
+   "kod": "1040907",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. a) NSU",
+   "typAkcieProgramu": {
+    "id": 991,
+    "href": "/typakcieprogramu/id/991"
+   }
+  }
+ ],
+ "externyZdroj": [],
+ "dokument": [
+  {
+   "nazov": "Vyzva PSK-MD-007-2024-NP-KF.zip",
+   "uuid": "256164a4-3758-41ee-bf8e-cf6c355588a6"
+  }
+ ],
+ "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>",
+ "dalsiaSkutocnost": [
+  {
+   "kod": "DS001PSK-MD-007-2024-NP-KF",
+   "dalsiaSkutocnost": "<div><b>Dodržiavanie z&aacute;sady &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; (DNSH)</b></div><div>&nbsp;</div><div><div>Prij&iacute;mateľ je povinn&yacute; zabezpečiť, aby bola projektov&aacute; dokument&aacute;cia vzťahuj&uacute;ca sa k n&aacute;rodn&yacute;m projektom spracovan&aacute; v&nbsp;s&uacute;lade so z&aacute;sadou &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; a&nbsp;aby dod&aacute;vatelia - projektanti v nej zohľadnili podmienky DNSH stanoven&eacute; pre rozvoj vodnej dopravy v&nbsp;s&uacute;lade s&nbsp;<b>pr&iacute;lohou č. 3 v&yacute;zvy - DNSH.</b></div><div>Poskytovateľ upozorňuje žiadateľa, že preuk&aacute;zanie dodržiavania&nbsp; z&aacute;sady &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; sa bude vyžadovať pri žiadan&iacute; o NFP na investičn&eacute; &ndash; realizačn&eacute; f&aacute;zy n&aacute;rodn&yacute;ch projektov, resp. v&nbsp;obdob&iacute; realiz&aacute;cie/udržateľnosti investičn&yacute;ch f&aacute;z opr&aacute;vnen&yacute;ch n&aacute;rodn&yacute;ch projektov.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>Čestn&eacute; vyhl&aacute;senie žiadateľa o&nbsp;dodržan&iacute; z&aacute;sady DNSH pri projektoch podporen&yacute;ch v&nbsp;r&aacute;mci v&yacute;zvy.</div><div>&nbsp;</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div>Kontrola čestn&eacute;ho vyhl&aacute;senia žiadateľa o&nbsp;dodržan&iacute; z&aacute;sady DNSH pri projektoch podporen&yacute;ch v&nbsp;r&aacute;mci v&yacute;zvy.</div><div>&nbsp;</div><div><b><u>Čas overenia:</u></b></div><div>Pred &uacute;hradou z&aacute;verečnej ŽoP.</div></div>"
+  },
+  {
+   "kod": "DS003PSK-MD-007-2024-NP-KF",
+   "dalsiaSkutocnost": "<div><b>Pravidlo opr&aacute;vnenosti v&yacute;davkov projektu &ndash;hospod&aacute;rnosť v&yacute;davkov</b></div><div>&nbsp;</div><div><div>V&yacute;davky projektu musia byť <b>hospod&aacute;rne</b> a&nbsp;spĺňať podmienky v s&uacute;lade s jednotn&yacute;mi pravidlami opr&aacute;vnenosti v&yacute;davkov definovan&yacute;mi v <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/\"><b>Pr&iacute;ručke k opr&aacute;vnenosti v&yacute;davkov</b></a><a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><b><b>[1]</b></b></a> a z&aacute;roveň musia byť v s&uacute;lade s pravidlami vymedzen&yacute;mi v <b>pr&iacute;lohe č. 5a</b> v&yacute;zvy - <b>Osobitn&eacute; podmienky opr&aacute;vnenosti v&yacute;davkov</b>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>&nbsp;</div><div>Dokument&aacute;cia z verejn&eacute;ho obstar&aacute;vania</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div>Limity definovan&eacute; v pr&iacute;lohe č. 5a v&yacute;zvy - Osobitn&eacute; podmienky opr&aacute;vnenosti v&yacute;davkov.</div><div>Dokument&aacute;cia a&nbsp;z&aacute;very z&nbsp;kontroly verejn&eacute;ho obstar&aacute;vania, resp. in&aacute; relevantn&aacute; dokument&aacute;cia v&nbsp;pr&iacute;pade použitia in&yacute;ch n&aacute;strojov overenia hospod&aacute;rnosti v&nbsp;s&uacute;lade s&nbsp;Pr&iacute;lohou č. 3 Pr&iacute;ručky k opr&aacute;vnenosti v&yacute;davkov.</div><div><b><u>Čas overenia:</u></b></div>Pred &uacute;hradou relevantn&yacute;ch Žiadost&iacute; o&nbsp;platbu.<div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> zverejnen&aacute; na <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/\">https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/</a></div></div></div></div>"
+  },
+  {
+   "kod": "DS002PSK-MD-007-2024-NP-KF",
+   "dalsiaSkutocnost": "<div><b>S&uacute;lad s&nbsp;horizont&aacute;lnymi princ&iacute;pmi</b></div><div>&nbsp;</div><div><div>Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach , s prihliadnut&iacute;m na&nbsp; dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky.</div><div>V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a zabraňovať&nbsp; v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť&nbsp; pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m .</div><div>Gestor HP upozorňuje žiadateľa, že plnenie s&uacute;ladu projektu s HP m&ocirc;že byť predmetom finančnej kontroly v implement&aacute;cii projektu, ktorej pr&aacute;vny z&aacute;klad vych&aacute;dza z pr&aacute;voplatn&eacute;ho Rozhodnutia o&nbsp;schv&aacute;len&iacute; ŽoNFP.</div><div><b>Čas plnenia/overenia:</b></div>V čase realiz&aacute;cie projektu na z&aacute;klade &nbsp;Rozhodnutia o&nbsp;schv&aacute;len&iacute; ŽoNFP až do skončenia doby udržateľnosti projektu (ak relevantn&eacute;) v zmysle čl. 65 nariadenia o spoločn&yacute;ch ustanoveniach.</div>"
+  }
+ ],
+ "dalsiaFormalnaNalezitost": [
+  {
+   "kod": "DFN001PSK-MD-007-2024-NP-KF",
+   "dalsiaFormalnaNalezitost": "<div><b>Vydanie Rozhodnutia o&nbsp;schv&aacute;len&iacute; ŽoNFP</b></div><div>&nbsp;</div><div>Ak je prij&iacute;mateľ a poskytovateľ t&aacute; ist&aacute; osoba, pr&iacute;spevok sa poskytuje na z&aacute;klade rozhodnutia o schv&aacute;len&iacute; žiadosti, ktor&eacute; vyd&aacute;va poskytovateľ; zmluva o&nbsp;poskytnut&iacute; NFP sa v tomto pr&iacute;pade neuzatv&aacute;ra.</div>"
+  },
+  {
+   "kod": "DFN003PSK-MD-007-2024-NP-KF",
+   "dalsiaFormalnaNalezitost": "<div><b>Relevantn&yacute; sp&ocirc;sob financovania</b></div><div>&nbsp;</div><div><div>Pri realiz&aacute;cii projektu m&ocirc;žu byť&nbsp; uplatnen&eacute; nasledovn&eacute; sp&ocirc;soby financovania projektov: <b>predfinancovanie, z&aacute;lohov&eacute; platby alebo refund&aacute;cia alebo kombin&aacute;cia uveden&yacute;ch syst&eacute;mov</b></div>Forma poskytovan&eacute;ho pr&iacute;spevku: <b>nen&aacute;vratn&yacute; finančn&yacute; pr&iacute;spevok</b>.</div>"
+  },
+  {
+   "kod": "DFN002PSK-MD-007-2024-NP-KF",
+   "dalsiaFormalnaNalezitost": "<div><b>Duplicita financovania</b></div><div>&nbsp;</div><div>Žiadateľ na opr&aacute;vnen&eacute; v&yacute;davky uveden&eacute; v projekte nem&ocirc;že s&uacute;časne žiadať ich financovanie z in&yacute;ch verejn&yacute;ch zdrojov.&nbsp;</div>"
+  },
+  {
+   "kod": "DFN004PSK-MD-007-2024-NP-KF",
+   "dalsiaFormalnaNalezitost": "<div><b>Časov&aacute; opr&aacute;vnenosť realiz&aacute;cie projektu</b></div><div>&nbsp;</div><div><div>V r&aacute;mci v&yacute;zvy nie je stanoven&aacute; maxim&aacute;lna ani minim&aacute;lna dĺžka realiz&aacute;cie projektu, pri dodržan&iacute; časovej opr&aacute;vnenosti v&yacute;davkov projektu, ktor&aacute; je uveden&aacute; v <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/\">Pr&iacute;ručke pre opr&aacute;vnenosť v&yacute;davkov</a>. Opr&aacute;vnen&eacute; obdobie realiz&aacute;cie aktiv&iacute;t projektu bude konkr&eacute;tne obsiahnut&eacute; v Rozhodnut&iacute; o&nbsp;schv&aacute;len&iacute; ŽoNFP. Obdobie opr&aacute;vnenosti realiz&aacute;cie aktiv&iacute;t projektu je stanoven&eacute; <b>od 01.01.2021</b>.</div>Podpora z fondov E&Uacute; <b>sa</b> <b>nepridel&iacute; na projekty, ktor&eacute; boli fyzicky ukončen&eacute; alebo sa plne realizovali e&scaron;te pred predložen&iacute;m ŽoNFP</b> <b>prij&iacute;mateľom</b> bez ohľadu na to, či prij&iacute;mateľ uhradil v&scaron;etky s&uacute;visiace platby.</div>"
+  }
+ ],
+ "verzia": [
+  {
+   "id": 5876,
+   "cislo": 1,
+   "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [],
+ "ukazovatelVystupovy": [
+  {
+   "id": 925,
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1298,
+    "href": "/ukazovatelprojektovy/id/1298",
+    "kod": "PSKPSOI02",
+    "nazovSk": "Počet vytvorených dokumentácií, analýz, štúdií a správ v súvislosti s prípravou, implementáciou, monitorovaním a hodnotením",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><div><div><div>Definičn&aacute; matica</div><div>1.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Celkov&yacute; počet vytvoren&yacute;ch dokument&aacute;ci&iacute;, anal&yacute;z a &scaron;t&uacute;di&iacute; vypracovan&yacute;ch v tlačenej alebo elektronickej forme, financovan&yacute;ch z prostriedkov projektu.</div><div>Materi&aacute;l predstavuje 100 normostr&aacute;n.</div><div>Hodnota merateľn&eacute;ho ukazovateľa m&ocirc;že byť vypoč&iacute;tan&aacute; aj ako s&uacute;čet rozsahom men&scaron;&iacute;ch dokumentov (napr. materi&aacute;l s rozsahom 20 str&aacute;n predstavuje &ndash; 0,2 dokumentu, 80 str&aacute;n predstavuje &ndash; 0,8 dokumentu).</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Dodac&iacute; list, preberac&iacute; protokol, v&yacute;stup (dokument, spr&aacute;va, ....) a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy&nbsp; a ITMS.</div><div>1.2</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><b>Pre projekty poskytovateľa MD SR plat&iacute;:</b></div><div>Celkov&yacute; počet vytvoren&yacute;ch dokument&aacute;ci&iacute;, anal&yacute;z a &scaron;t&uacute;di&iacute; vypracovan&yacute;ch v tlačenej alebo elektronickej forme, financovan&yacute;ch z prostriedkov projektu. &nbsp;</div><div>V&nbsp;pr&iacute;pade, keď bolo vypracovan&yacute;ch viacero stupňov projektovej dokument&aacute;cie, tak do hodnoty merateľn&eacute;ho ukazovateľa, bez ohľadu na počet str&aacute;n, sa mus&iacute; započ&iacute;tať každ&yacute; stupeň projektovej dokument&aacute;cie osobitne.</div><div>Pr&iacute;klad: ak je predmetom projektu dodanie projektovej dokument&aacute;cie v t&yacute;chto stupňoch: DSZ, DUR, DSP a&nbsp;DRS, uv&aacute;dza sa hodnota &bdquo;4&ldquo;.</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Dodac&iacute; list, preberac&iacute; protokol, v&yacute;stup (dokument, spr&aacute;va, ....) a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy&nbsp; a ITMS.</div><div>1.3</div><div><b>Pre NP Monitorovanie a hodnotenie inkluz&iacute;vnych polit&iacute;k zameran&yacute;ch na r&oacute;msku popul&aacute;ciu, predov&scaron;etk&yacute;m marginalizovan&eacute; r&oacute;mske komunity poskytovateľa &Uacute;V SR plat&iacute;:</b></div><div>&ldquo;Počet vytvoren&yacute;ch dokument&aacute;ci&iacute;, anal&yacute;z, &scaron;t&uacute;di&iacute; a spr&aacute;v v s&uacute;vislosti s pr&iacute;pravou, implement&aacute;ciou, monitorovan&iacute;m a&nbsp;hodnoten&iacute;m&ldquo;.</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Hl&aacute;senie o dosiahnut&iacute; hodnoty ukazovateľa prostredn&iacute;ctvom ITMS. Podporen&eacute; projekty. Zmluvy o poskytnut&iacute; NFP, Preberac&iacute; protokol.</div><div>&nbsp;</div></div></div><div>&nbsp;</div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1675344795460,
+    "updatedAt": 1746522621103
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 991,
+   "href": "/typakcieprogramu/id/991",
+   "kod": "401301R31K030P0",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "opatrenie": {
+    "id": 33,
+    "href": "/opatrenie/id/33",
+    "kod": "401301R31K03",
+    "nazovSk": "Zlepšenie kvality služieb poskytovaných na dunajskej a vážskej vodnej ceste",
+    "specifickyCielProgramu": {
+     "id": 40,
+     "href": "/specifickycielprogramu/id/40",
+     "kod": "401301R31K",
+     "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 6,
+      "href": "/priorita/id/6",
+      "kod": "401301",
+      "nazovSk": "3P1 Doprava",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867951
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 200000,
+       "kod": "1033N/A",
+       "kodZdroj": "N/A",
+       "nazovSk": "Bez kategórie regiónu",
+       "popisSk": "Bez kategórie regiónu",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869148
+    },
+    "createdAt": 1772540869159
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516243597,
+   "updatedAt": 1772541490806
+  },
+  {
+   "id": 601,
+   "href": "/typakcieprogramu/id/601",
+   "kod": "401301R31K03050",
+   "nazovSk": "Predinvestičná a projektová príprava",
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "opatrenie": {
+    "id": 33,
+    "href": "/opatrenie/id/33",
+    "kod": "401301R31K03",
+    "nazovSk": "Zlepšenie kvality služieb poskytovaných na dunajskej a vážskej vodnej ceste",
+    "specifickyCielProgramu": {
+     "id": 40,
+     "href": "/specifickycielprogramu/id/40",
+     "kod": "401301R31K",
+     "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 6,
+      "href": "/priorita/id/6",
+      "kod": "401301",
+      "nazovSk": "3P1 Doprava",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867951
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 200000,
+       "kod": "1033N/A",
+       "kodZdroj": "N/A",
+       "nazovSk": "Bez kategórie regiónu",
+       "popisSk": "Bez kategórie regiónu",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540869148
+    },
+    "createdAt": 1772540869159
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516231857,
+   "updatedAt": 1772541490806
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200123,
+    "kod": "10364PO114",
+    "kodZdroj": "114",
+    "nazovSk": "Vnútrozemské vodné cesty a prístavy (TEN-T)",
+    "nazovEn": "Vnútrozemské vodné cesty a prístavy (TEN-T)",
+    "nazovDe": "Binnenwasserstraßen und -häfen (TEN-V)",
+    "popisSk": "Vnútrozemské vodné cesty a prístavy (TEN-T)",
+    "popisDe": "Binnenwasserstraßen und -häfen (TEN-V)",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200014,
+    "kod": "10384PO14",
+    "kodZdroj": "14",
+    "nazovSk": "Doprava a skladovanie",
+    "nazovEn": "Doprava a skladovanie",
+    "nazovDe": "Verkehr und Lagerei",
+    "popisSk": "Doprava a skladovanie",
+    "popisDe": "Verkehr und Lagerei",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 40,
+    "href": "/specifickycielprogramu/id/40",
+    "kod": "401301R31K",
+    "nazovSk": "RSO3.1 Rozvoj udržateľnej, inteligentnej, bezpečnej a intermodálnej siete TEN-T odolnej proti zmene klímy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540869148
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200010,
+    "kod": "12094PO11",
+    "kodZdroj": "11",
+    "nazovSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovEn": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "popisSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "popisDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 200000,
+   "kod": "1033N/A",
+   "kodZdroj": "N/A",
+   "nazovSk": "Bez kategórie regiónu",
+   "popisSk": "Bez kategórie regiónu",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [],
+ "projektovyZamerIUS": []
+}

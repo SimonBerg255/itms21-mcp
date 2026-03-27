@@ -1,0 +1,3403 @@
+{
+ "id": 3705,
+ "href": "/vyzva/id/3705",
+ "kod": "PSK-MSVVM-043-2025-DV-EFRR",
+ "nazovSk": "Vytvorenie vhodných podmienok a bezpečného prostredia pre reintegráciu detí z reedukačných centier",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 12,
+   "href": "/specifickycielprogramu/id/12",
+   "kod": "401402R402",
+   "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 8,
+    "href": "/priorita/id/8",
+    "kod": "401402",
+    "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867946
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870707
+  }
+ ],
+ "opatrenie": [
+  {
+   "id": 137,
+   "href": "/opatrenie/id/137",
+   "kod": "401402R40200",
+   "nazovSk": "401402R40200",
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "createdAt": 1772540870726
+  }
+ ],
+ "miestoRealizacie": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 42,
+   "kod": "1009321",
+   "kodZdroj": "321",
+   "nazovSk": "Rozpočtová organizácia",
+   "nazovEn": "Budgetary organization",
+   "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+   "popisEn": "Budgetary organization Budgetary organization",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1752703200000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 385,
+  "kod": "21_SO_PSK_MSVVaMSR",
+  "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo školstva, výskumu, vývoja a mládeže SR",
+  "subjekt": {
+   "id": 100007,
+   "href": "/subjekt/id/100007",
+   "nazov": "Ministerstvo školstva, výskumu, vývoja a mládeže Slovenskej republiky",
+   "ico": "00164381",
+   "dic": "2020798725",
+   "icz": "1000107988",
+   "platitelDph": false,
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Černyševského",
+    "cislo": "3760/50",
+    "psc": "85101",
+    "obec": "Bratislava - mestská časť Petržalka",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "OTVORENA",
+ "zameranieProjektu": "DOPYT_21",
+ "createdAt": 1752160800297,
+ "updatedAt": 1752160800346,
+ "sumaEu": 1520000.0,
+ "predvyber": false,
+ "posudzovaneObdobie": [
+  {
+   "poradoveCislo": 1,
+   "datumUzavierky": 1769382000000
+  },
+  {
+   "poradoveCislo": 2,
+   "datumUzavierky": 1774821600000
+  }
+ ],
+ "pocetPredlozenychZiadosti": 5,
+ "pocetSchvalenychZiadosti": 0,
+ "pocetZiadostiVKonani": 5,
+ "pocetNeschvalenychZiadosti": 0,
+ "pocetRealizovanychProjektov": 0,
+ "planovanaVyzva": [
+  {
+   "id": 69,
+   "href": "/planovanavyzva/id/69",
+   "kod": "2025/00024",
+   "nazovSk": "Vytvorenie vhodných podmienok a bezpečného prostredia pre reintegráciu detí z reedukačných centier",
+   "programSkratka": "PSK",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 12,
+     "href": "/specifickycielprogramu/id/12"
+    }
+   ],
+   "opatrenie": [
+    {
+     "id": 137,
+     "href": "/opatrenie/id/137"
+    }
+   ],
+   "miestoRealizacie": [
+    {
+     "id": 9,
+     "kod": "1006SK010",
+     "kodZdroj": "SK010",
+     "nazovSk": "Bratislavský kraj",
+     "nazovEn": "Region of Bratislava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 10,
+     "kod": "1006SK021",
+     "kodZdroj": "SK021",
+     "nazovSk": "Trnavský kraj",
+     "nazovEn": "Region of Trnava",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 11,
+     "kod": "1006SK022",
+     "kodZdroj": "SK022",
+     "nazovSk": "Trenčiansky kraj",
+     "nazovEn": "Region of Trenčín",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 12,
+     "kod": "1006SK023",
+     "kodZdroj": "SK023",
+     "nazovSk": "Nitriansky kraj",
+     "nazovEn": "Region of Nitra",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 13,
+     "kod": "1006SK031",
+     "kodZdroj": "SK031",
+     "nazovSk": "Žilinský kraj",
+     "nazovEn": "Region of Žilina",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 14,
+     "kod": "1006SK032",
+     "kodZdroj": "SK032",
+     "nazovSk": "Banskobystrický kraj",
+     "nazovEn": "Region of Banská Bystrica",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 15,
+     "kod": "1006SK041",
+     "kodZdroj": "SK041",
+     "nazovSk": "Prešovský kraj",
+     "nazovEn": "Region of Prešov",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    },
+    {
+     "id": 16,
+     "kod": "1006SK042",
+     "kodZdroj": "SK042",
+     "nazovSk": "Košický kraj",
+     "nazovEn": "Region of Košice",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [
+    {
+     "id": 42,
+     "kod": "1009321",
+     "kodZdroj": "321",
+     "nazovSk": "Rozpočtová organizácia",
+     "nazovEn": "Budgetary organization",
+     "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+     "popisEn": "Budgetary organization Budgetary organization",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "datumVyhlasenia1Kolo": 1751320800000,
+   "sumaEu": 1520000.0,
+   "druh": "VYZVA_21",
+   "vyhlasena": true,
+   "zrusena": false,
+   "zameranieProjektu": "DOPYT_21",
+   "vyhlasovatel": {
+    "id": 385
+   },
+   "poskytovatel": {
+    "id": 376
+   },
+   "createdAt": 1752158095772,
+   "updatedAt": 1752158095840
+  }
+ ],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 6,
+   "kod": "1032EFRR",
+   "kodZdroj": "EFRR",
+   "nazovSk": "Európsky fond regionálneho rozvoja",
+   "nazovEn": "European Regional Development Fund",
+   "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+   "popisSk": "Európsky fond regionálneho rozvoja",
+   "popisEn": "European Regional Development Fund",
+   "popisDe": "Europäischen Fonds für regionale Entwicklung",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "cielVyzvy": "<p style=\"text-align: justify;\"><i>Cieľom v&yacute;zvy je vytvoriť bezpečn&eacute; a podporuj&uacute;ce prostredie, ktor&eacute; umožn&iacute; deťom z reedukačn&yacute;ch centier &uacute;spe&scaron;n&uacute; reintegr&aacute;ciu do spoločnosti.</i></p><p style=\"text-align: justify;\"><i><span>Podporovan&yacute;m typom akcie v s&uacute;lade s Programom Slovensko v r&aacute;mci v&yacute;zvy</span><span> je</span><span> </span><span>podpora kvality a dostupnosti poskytovanej starostlivosti v syst&eacute;me poradenstva a prevencie.</span></i></p>",
+ "sposobFinancovania": [],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktEmail": "eufondy@minedu.sk",
+ "kontaktnaOsoba": [],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "Podmienka oprávnenosti žiadateľa",
+   "popisSk": "<p><i>Opr&aacute;vnen&yacute;mi žiadateľmi s&uacute;:</i></p><ul><li><p><i><b><span>reedukačn&eacute; centr&aacute;</span></b><span> </span></i><i><span>(ďalej len &bdquo;</span><span>RC</span><span>&ldquo;) </span><span>v zmysle &sect;</span><span> </span><span>1</span><span>2</span><span>0</span><span> p&iacute;sm. b)</span><span> z&aacute;kona č. 245/2008 Z.</span><span> </span><span>z. </span><span>o v&yacute;chove a vzdel&aacute;van&iacute; (&scaron;kolsk&yacute; z&aacute;kon) a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov</span><span>.</span></i></p></li></ul><p><i><span>Opr&aacute;vnen&yacute;m </span><span>žiadateľom </span><span>je </span><span>RC</span><span> zaraden&eacute; </span><span>do Siete &scaron;k&ocirc;l a &scaron;kolsk&yacute;ch zariaden&iacute; SR</span><span>, zriaden&eacute; Region&aacute;lnym &uacute;radom &scaron;kolskej spr&aacute;vy ako org&aacute;nom miestnej &scaron;t&aacute;tnej &scaron;kolskej spr&aacute;vy v zmysle &sect; 10 z&aacute;kona č. 596/2003 Z. z. </span><span>o &scaron;t&aacute;tnej spr&aacute;ve v &scaron;kolstve a &scaron;kolskej samospr&aacute;ve a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov</span><span> a financovan&eacute; v zmysle &sect; 5 ods. 4 z&aacute;kona č. 597/2003 Z. z. </span><span>o financovan&iacute; z&aacute;kladn&yacute;ch &scaron;k&ocirc;l, stredn&yacute;ch &scaron;k&ocirc;l a &scaron;kolsk&yacute;ch zariaden&iacute;</span><span>.</span></i></p><p><b><i><span>Forma preuk&aacute;zania zo strany žiadateľa</span><span>:</span></i></b></p><ul><li><p><i>inform&aacute;cie v časti 1 žiadosti o NFP, bez osobitnej pr&iacute;lohy</i></p></li></ul><ul><li><p><i><span>pr&iacute;loha č. 1-2 - Plnomocenstvo - ak relevantn&eacute; (osoba konaj&uacute;ca v mene opr&aacute;vnen&eacute;ho žiadateľa, ak je odli&scaron;n&aacute; od &scaron;tatut&aacute;rneho org&aacute;nu, mus&iacute; byť riadne splnomocnen&aacute; plnomocenstvom na v&yacute;kon &uacute;konov viažucich sa ku konaniu o žiadosti; žiadateľ pr&iacute;lohu vklad&aacute; do ITMS21+ vo forme </span><span>skenu</span><span> podp&iacute;san&eacute;ho &uacute;radne overen&eacute;ho listinn&eacute;ho origin&aacute;lu (vo form&aacute;te .</span><span>pdf</span><span>))</span></i></p></li></ul><p><b><i>Sp&ocirc;sob overenia:</i></b></p><ul><li><p><i>ITMS21+ (resp. &uacute;daje evidovan&eacute; v informačn&yacute;ch syst&eacute;moch verejnej spr&aacute;vy) a &uacute;daje a inform&aacute;cie v Sieti &scaron;k&ocirc;l a &scaron;kolsk&yacute;ch zariaden&iacute; SR dostupn&eacute; na webovom s&iacute;dle </i><a href=\"http://www.minedu.sk/\" rel=\"nofollow\"><i><span>www.minedu.sk</span></i></a><span> </span><i><span>a pr&iacute;loha </span><span>č. </span><span>1-2</span><span>.</span></i></p></li></ul><p><b><i>Ukončenie uplatniteľnosti:</i></b></p><p><i>Až do skončenia doby udržateľnosti projektu &ndash; v&nbsp;zmysle čl. 65 NSU<sup><a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><b>[1]</b></a></sup>.</i></p><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> NSU - Nariadenie Eur&oacute;pskeho parlamentu a Rady (E&Uacute;) 2021/1060 z 24. j&uacute;na 2021, ktor&yacute;m sa stanovuj&uacute; spoločn&eacute; ustanovenia o Eur&oacute;pskom fonde region&aacute;lneho rozvoja, Eur&oacute;pskom soci&aacute;lnom fonde plus, Koh&eacute;znom fonde, Fonde na spravodliv&uacute; transform&aacute;ciu a Eur&oacute;pskom n&aacute;mornom, rybolovnom a akvakult&uacute;rnom fonde a rozpočtov&eacute; pravidl&aacute; pre uveden&eacute; fondy, ako aj pre Fond pre azyl, migr&aacute;ciu a integr&aacute;ciu, Fond pre vn&uacute;torn&uacute; bezpečnosť a N&aacute;stroj finančnej podpory na riadenie hran&iacute;c a v&iacute;zov&uacute; politiku</div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Plnomocenstvo",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "UDAJE_Z_RPO"
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Prílohy definované RO/SO",
+     "sposobPredlozenia": "DODATOCNE",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "Podmienka splnenia kritérií pre výber projektov",
+   "popisSk": "<p><i><span>Žiadosť o NFP mus&iacute; splniť krit&eacute;ri&aacute; pre v&yacute;ber projektov, ktor&eacute; s&uacute; uveden&eacute; v pr&iacute;lohe č. </span><span>4</span><span> v&yacute;zvy.</span></i></p><p><i><span>Pre v&yacute;zvu sa bud&uacute; uplatňovať vylučuj&uacute;ce krit&eacute;ri&aacute; podľa čl. 73 NSU</span><span>,</span><span> vecn&eacute; hodnotiace krit&eacute;ri&aacute; a v&yacute;berov&eacute; krit&eacute;ri&aacute;.</span></i></p><p><i>Doplňuj&uacute;ce inform&aacute;cie k zneniu vylučuj&uacute;ceho krit&eacute;ria HP:</i></p><div><i>Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v&nbsp;čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach<sup><a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\">[<b>1]</b></a></sup>, s prihliadnut&iacute;m na dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky.</i></div><div><i>V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m<b><sup><a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\">[2]</a></sup></b>.</i></div><div><i>Za &uacute;čelom overenia</i><i> zabezpečenia s&uacute;ladu projektu s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m s&uacute; ako odborn&aacute; pom&ocirc;cka<a href=\"#_ftn3\" name=\"_ftnref3\" title=\"\"><sup><b><sup>[3]</sup></b></sup></a> pre žiadateľov pri pr&iacute;prave žiadosti o NFP<a href=\"#_ftn4\" name=\"_ftnref4\" title=\"\"><sup><b><sup>[4]</sup></b></sup></a> k dispoz&iacute;cii nasledovn&eacute; Checklisty &ndash; Vyhl&aacute;senie o bezba</i><i>ri&eacute;rovej pr&iacute;stupnosti, spracovan&eacute; gestorom HP, na z&aacute;klade ktor&yacute;ch je žiadateľ schopn&yacute; pre svoje vlastn&eacute; potreby pred vydan&iacute;m čestn&eacute;ho vyhl&aacute;senia kvalifikovane verifikovať dosiahnutie s&uacute;ladu n&iacute;m navrhovan&eacute;ho projektu s požiadavkami t&yacute;kaj&uacute;cimi sa plnenia HP:</i></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> <a href=\"https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060\">https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060</a></div></div><div id=\"ftn2\"><div><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> <a href=\"https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf\">https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf</a></div></div><div id=\"ftn3\"><div><a href=\"#_ftnref3\" name=\"_ftn3\" title=\"\">[3]</a> Metodick&yacute; v&yacute;klad k implement&aacute;ci&iacute; a uplatňovaniu Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m (UNCRPD) v s&uacute;lade s rozhodnut&iacute;m Rady 2010/48/ES</div></div><div id=\"ftn4\"><div><a href=\"#_ftnref4\" name=\"_ftn4\" title=\"\">[4]</a> Ak to situ&aacute;cia v čase predloženia ŽoNFP s ohľadom na stav projektu umožňuje.</div></div></div><ul><li><p><i><span>6. CHECK LIST </span><span>-</span><span> VYHL&Aacute;SENIE O BEZBARI&Eacute;ROVEJ PR&Iacute;STUPNOSTI &ndash; DEBARI&Eacute;RIZ&Aacute;CIA &Scaron;KOLSKEJ STAVBY</span></i></p></li></ul><p><i><span>Tieto </span><span>Checklisty</span><span> s&uacute; dostupn&eacute; na webovom s&iacute;dle gestora HP </span></i><a href=\"https://www.horizontalneprincipy.gov.sk/hp-v-novom-po-2021-2027/index.html?csrt=9030693687906462384\" rel=\"nofollow\"><i><span>https://www.horizontalneprincipy.gov.sk/hp-v-novom-po-2021-2027/index.html?csrt=9030693687906462384</span></i></a><i>.</i></p><p><b><i>Forma preuk&aacute;zania zo strany žiadateľa:</i></b></p><ul><li><p><i><span>inform&aacute;cie v časti 7</span><span>, 9, 10, 11 a 15 </span><span>žiadosti o NFP</span></i></p></li></ul><p><b><i>Sp&ocirc;sob overenia:</i></b></p><ul><li><p><i><span>&uacute;</span><span>daje v časti 7</span><span>, 9, 10, 11</span><span> </span><span>a </span><span>1</span><span>5</span><span> žiadosti o NFP</span></i></p></li></ul><p><b><i>Ukončenie uplatniteľnosti:</i></b></p><p><i><span>Skončen&iacute;m</span><span> konan</span><span>ia</span><span> o žiadosti s v&yacute;nimkou t&yacute;ch krit&eacute;ri&iacute;, ktor&eacute; je podľa obsahu v&yacute;zvy alebo v nadv&auml;znosti na čl. 65 NSU potrebn&eacute; plniť kontinu&aacute;lne počas realiz&aacute;cie projektu a/alebo obdobia jeho udržateľnosti.</span></i></p><p><i><span>V pr&iacute;pade vylučuj&uacute;ceho krit&eacute;ria HP podľa čl&aacute;nku 73 NSU je obdobie ukončenia uplatniteľnosti do skončenia konania o</span><span> žiadosti </span><span>o</span><span> </span><span>NFP.</span></i></p>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "Podmienka, že žiadateľ nie je evidovaný v Systéme včasného odhaľovania rizika a vylúčenia (EDES) ako vylúčená osoba alebo subjekt",
+   "popisSk": "<div><i>Žiadateľ nesmie byť evidovan&yacute; v&nbsp;Syst&eacute;me včasn&eacute;ho odhaľovania rizika a&nbsp;vyl&uacute;čenia (EDES)</i> <i>ako vyl&uacute;čen&aacute; osoba alebo subjekt (v zmysle čl. 137 nariadenia č. 2024/2509<sup><a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><b>[1]</b></a>)</sup>.</i></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> &nbsp;Nariadenie Eur&oacute;pskeho parlamentu a Rady (E&Uacute;,&nbsp;Euratom) 2024/2509 z 23. septembra 2024 o rozpočtov&yacute;ch pravidl&aacute;ch, ktor&eacute; sa vzťahuj&uacute; na v&scaron;eobecn&yacute; rozpočet &Uacute;nie.</div></div></div><div><div id=\"ftn1\"><div>&nbsp;</div></div></div><p><b><i>Forma preuk&aacute;zania zo strany žiadateľa:</i></b></p><ul><li><p><i>bez osobitnej pr&iacute;lohy.</i></p></li></ul><p><b><i>Sp&ocirc;sob overenia:</i></b></p><ul><li><p><i><span>&uacute;</span><span>daje v Syst&eacute;me včasn&eacute;ho odhaľovania rizika a vyl&uacute;čenia (EDES) a to v jeho neverejnej časti dostupnej na webovom s&iacute;dle </span></i><a href=\"https://ec.europa.eu/budget/edes/index_en.cfm\" rel=\"nofollow\"><i><span>https://ec.europa.eu/budget/edes/index_en.cfm</span></i></a><i>.</i></p></li></ul><p><b><i>Ukončenie uplatniteľnosti:</i></b></p><p><i><span>Až </span><span>d</span><span>o skončenia </span><span>doby udržateľnosti projektu &ndash; v zmysle čl. 65 NSU</span><span>.</span></i></p>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "Podmienka zákazu vedenia výkonu rozhodnutia voči žiadateľovi",
+   "popisSk": "<div><i>Voči žiadateľovi nesmie byť vykon&aacute;van&aacute; exek&uacute;cia podľa Exekučn&eacute;ho poriadku<sup><a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><b>[1]</b></a></sup>, ani veden&yacute; in&yacute; v&yacute;kon rozhodnutia podľa osobitn&yacute;ch predpisov, predmetom ktor&eacute;ho je n&uacute;ten&yacute; v&yacute;kon povinnosti zaplatiť peňažn&uacute; sumu vo v&yacute;&scaron;ke vym&aacute;han&eacute;ho n&aacute;roku, vr&aacute;tane v&scaron;etk&yacute;ch trov s&uacute;visiacich s v&yacute;konom rozhodnutia za v&scaron;etky takto vykon&aacute;van&eacute; exek&uacute;cie alebo in&eacute; v&yacute;kony rozhodnutia vy&scaron;&scaron;ej ako 2 000 EUR.</i></div><div><i>Voči žiadateľovi tiež nesmie byť veden&yacute; v&yacute;kon rozhodnutia na plnenie inej povinnosti, ktor&aacute; nespoč&iacute;va v zaplaten&iacute; peňažnej sumy, pokiaľ t&aacute;to nepeňažn&aacute; povinnosť akokoľvek priamo alebo nepriamo s&uacute;vis&iacute; s projektom, ktor&yacute; je predmetom podanej žiadosti o NFP.</i></div><div><i>V&nbsp;pr&iacute;pade, ak celkov&aacute; s&uacute;hrnn&aacute; v&yacute;&scaron;ka vym&aacute;han&eacute;ho n&aacute;roku za v&scaron;etky exek&uacute;cie<sup><a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\"><b>[2]</b></a></sup> alebo in&eacute; v&yacute;kony rozhodnutia presiahla sumu 2 000 EUR, je pre &uacute;čely pos&uacute;denia tejto podmienky rozhoduj&uacute;ca skutočnosť, či dlžn&aacute; suma a&nbsp;v&scaron;etky trovy s&uacute;visiace s&nbsp;v&yacute;konom rozhodnutia boli uhraden&eacute;<sup><a href=\"#_ftn3\" name=\"_ftnref3\" title=\"\"><b>[3]</b></a></sup>, resp. bola dlžn&aacute; suma a&nbsp;v&yacute;&scaron;ka v&scaron;etk&yacute;ch trov exek&uacute;cie zložen&eacute; do z&aacute;bezpeky v&nbsp;celkovej v&yacute;&scaron;ke vym&aacute;han&eacute;ho n&aacute;roku, na osobitn&yacute; &uacute;čet exek&uacute;tora, zriaden&yacute; na tento &uacute;čel podľa Exekučn&eacute;ho poriadku.</i></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Z&aacute;kon č. 233/1995 Z. z. o s&uacute;dnych exek&uacute;toroch a exekučnej činnosti (Exekučn&yacute; poriadok) a o zmene a doplnen&iacute; ďal&scaron;&iacute;ch z&aacute;konov</div></div><div id=\"ftn2\"><div><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> Veden&eacute; podľa z&aacute;kona č. 233/1995 Z. z. o s&uacute;dnych exek&uacute;toroch a exekučnej činnosti (Exekučn&yacute; poriadok) a o zmene a doplnen&iacute; ďal&scaron;&iacute;ch z&aacute;konov v znen&iacute; neskor&scaron;&iacute;ch predpisov.</div></div><div id=\"ftn3\"><div><a href=\"#_ftnref3\" name=\"_ftn3\" title=\"\">[3]</a> V pr&iacute;pade, ak ide o exekučn&eacute; konania začat&eacute; pred 01.04.2017, podmienka &uacute;hrady trov s&uacute;visiacich s v&yacute;konom rozhodnutia nie je relevantn&aacute; v pr&iacute;pade, ak ide o exek&uacute;cie, od vykonania ktor&yacute;ch sa up&uacute;&scaron;ťa.</div></div></div><p><i>Uveden&aacute; podmienka sa net&yacute;ka rozhodnutia voči členom riadiacich a dozorn&yacute;ch org&aacute;nov žiadateľa, ale je relevantn&aacute; vo vzťahu k subjektu žiadateľa.</i></p><p><b><i>Forma preuk&aacute;zania zo strany žiadateľa:</i></b></p><ul><li><p><i>bez osobitnej pr&iacute;lohy.</i></p></li></ul><p><b><i>Sp&ocirc;sob overenia:</i></b></p><ul><li><p><i><span>w</span><span>ebov&eacute; s&iacute;dlo Centr&aacute;lneho registra exek&uacute;ci&iacute; </span></i><a href=\"http://www.cre.sk/\" rel=\"nofollow\"><i><span>www.cre.sk</span></i></a><i>.</i></p></li></ul><p><b><i>Ukončenie uplatniteľnosti:</i></b></p><p><i><span>Až do skončenia doby udržateľnosti projektu </span><span>&ndash;</span><span> v zmysle čl. 65 NSU. V čase implement&aacute;cie projektu je možn&eacute; uplatniť preru&scaron;enie plnenia danej podmienky s t&yacute;m, že prij&iacute;mateľ je povinn&yacute; podmienku op&auml;ť začať plniť v term&iacute;ne stanovenom poskytovateľom &ndash; ak k op&auml;tovn&eacute;mu plneniu podmienky d&ocirc;jde tak, že dočasn&eacute; neplnenie nesp&ocirc;sob&iacute; ohrozenie cieľov projektu, podmienka sa nepovažuje za poru&scaron;en&uacute; (t. j. nie je potrebn&eacute; postupovať v zmysle čl. 65 NSU).</span></i></p>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false,
+     "integracie": "INSOLVENCNY_REGISTER"
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 5,
+   "nazovSk": "Podmienka oprávnenosti aktivít projektu",
+   "popisSk": "<p><i>Opr&aacute;vnen&yacute; typ akcie v s&uacute;lade s Programom Slovensko je:</i></p><ul><li><p><b><i><span>podpora kvality a dostupnosti poskytovanej starostlivosti v syst&eacute;me poradenstva a</span><span> </span><span>prevencie</span><span>.</span></i></b></p></li></ul><p><i>Pod uveden&yacute;m typom akcie sa v tejto v&yacute;zve rozumie realiz&aacute;cia hlavnej aktivity, ktor&uacute; žiadateľ uvedie v žiadosti o NFP:</i></p><p><i><span>V</span><span>ytvorenie vhodn&yacute;ch podmienok </span><span>a bezpečn&eacute;ho prostredia </span><span>pre </span><span>reintegr&aacute;ciu</span><span> det&iacute; </span><span>z</span><span> reedukačn&yacute;ch cent</span><span>ie</span><span>r do p&ocirc;vodn&eacute;ho soci&aacute;lneho prostredia</span><span>.</span></i></p><p><i>V r&aacute;mc</i><i><span>i tejto hlavnej aktivity je opr&aacute;vnen&eacute; zabezpečenie materi&aacute;lno-technick&eacute;ho vybavenia </span><span>RC</span><span>. S&uacute;časťou projektu m&ocirc;žu byť aj nevyhnutn&eacute; stavebn&eacute; &uacute;pravy s&uacute;visiace s jeho in&scaron;tal&aacute;ciou, už&iacute;van&iacute;m a spr&iacute;stupnen&iacute;m</span><span>, ako aj ďal&scaron;ie činnosti</span><span>, </span><span>ktor&eacute; maj&uacute; priamu v&auml;zbu na vecn&eacute; zameranie hlavnej aktivity</span><span>.</span></i></p><p><b><i><span>Opr&aacute;vnen&eacute; obdobie realiz&aacute;cie hlavnej aktivity je od </span><span>&uacute;činnosti zmluvy o poskytnut&iacute; NFP do 31.12.2029</span><span>.</span></i></b></p><p><b><i>Forma preuk&aacute;zania zo strany žiadateľa:</i></b></p><ul><li><p><i><span>inform&aacute;cie v časti 7</span><span>.3</span><span>, 9, 10</span><span> a </span><span>11</span><span> </span><span>žiadosti o</span><span> </span><span>NFP</span></i></p></li></ul><p><b><i>Sp&ocirc;sob overenia:</i></b></p><ul><li><p><i><span>&uacute;</span><span>daje v časti 7</span><span>.3</span><span>, 9, 10</span><span> a</span><span> 11 žiadosti o</span><span> </span><span>NFP</span></i></p></li></ul><p><b><i>Ukončenie uplatniteľnosti:</i></b></p><p><i><span>Až do skončenia doby udržateľnosti projektu </span><span>&ndash;</span><span> v zmysle čl. 65 NSU.</span></i></p>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 6,
+   "nazovSk": "Minimálna a maximálna výška celkových oprávnených výdavkov (COV) na projekt",
+   "popisSk": "<div><i>Minim&aacute;lna v&yacute;&scaron;ka COV</i><sup><a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a></sup><i> na projekt sa nestanovuje. </i></div><div><i>Maxim&aacute;lna v&yacute;&scaron;ka COV vo VRR - 128&nbsp;000,00 EUR.</i></div><div><i>Maxim&aacute;lna v&yacute;&scaron;ka COV v MRR &ndash; 173&nbsp;000,00 EUR. </i></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> COV - zdroje financovania: E&Uacute; + &Scaron;R + vlastn&eacute; zdroje</div><div>&nbsp;</div></div></div><p><b><i>Forma preuk&aacute;zania zo strany žiadateľa:</i></b></p><ul><li><p><i>inform&aacute;cie v časti 11 žiadosti o NFP</i></p></li></ul><ul><li><p><i><span>pr&iacute;loha č. </span><span>1</span><span>-</span><span>1</span><span> - Rozpočet projektu, žiadateľ pr&iacute;lohu vklad&aacute; do ITMS21+ vo form&aacute;te .</span><span>xlsx</span><span> ako pr&iacute;lohu žiadosti o NFP</span></i></p></li></ul><p><b><i>Sp&ocirc;sob overenia:</i></b></p><ul><li><p><i><span>&uacute;</span><span>daje v časti 11 žiadosti o NFP a</span><span> </span><span>pr&iacute;lohe</span><span> č. 1-1 žiadosti o NFP</span><span>.</span></i></p></li></ul><p><b><i>Ukončenie uplatniteľnosti:</i></b></p><p><i><span>Až do skončenia doby udržateľnosti projektu </span><span>&ndash;</span><span> v zmysle čl. 65 NSU.</span></i></p>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Rozpočet projektu",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": true
+    },
+    {
+     "poradoveCislo": 3,
+     "nazovSk": "Prílohy definované RO/SO",
+     "sposobPredlozenia": "DODATOCNE",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 7,
+   "nazovSk": "Súlad projektu s princípmi desegregácie, degetoizácie a destigmatizácie",
+   "popisSk": "<p><i>V pr&iacute;pade, ak je miestom realiz&aacute;cie hlavnej aktivity obec s pr&iacute;tomnosťou MRK podľa </i><a href=\"https://www.romovia.vlada.gov.sk/atlas-romskych-komunit/atlas-romskych-komunit-2019/\" rel=\"nofollow\"><i><span>Atlasu r&oacute;mskych komun&iacute;t 2019</span></i></a><i><span> (alebo aktualiz&aacute;ci&iacute;), projekt mus&iacute; byť v s&uacute;lade s princ&iacute;pmi </span><span>desegreg&aacute;cie</span><span>, </span><span>degetoiz&aacute;cie</span><span> a </span><span>destigmatiz&aacute;cie</span><span>.</span></i></p><p><i><span>S&uacute;časťou procesu administrat&iacute;vneho overovania žiadosti o NFP je povinn&eacute; posudzovanie krit&eacute;ri&iacute; </span><span>desegreg&aacute;cie</span><span>, </span><span>degetoiz&aacute;cie</span><span> a </span><span>destigmatiz&aacute;cie</span><span> overovan&eacute; prostredn&iacute;ctvom samostatnej uzavretej ot&aacute;zky v kontrolnom zozname, ktor&aacute; overuje, či je projekt v s&uacute;lade s princ&iacute;pmi </span><span>desegreg&aacute;cie</span><span>, </span><span>degetoiz&aacute;cie</span><span> a </span><span>destigmatiz&aacute;cie</span><span>. Mechanizmus vylučovacieho krit&eacute;ria v danom pr&iacute;pade znamen&aacute;, že v pr&iacute;pade negat&iacute;vnej odpovede je žiadosť o NFP zamietnut&aacute;.</span></i></p><p><b><i>Forma preuk&aacute;zania zo strany žiadateľa:</i></b></p><ul><li><p><i>inform&aacute;cie v časti 7.3 žiadosti o NFP, bez osobitnej pr&iacute;lohy</i></p></li></ul><p><i><span>Žiadateľ za &uacute;čelom pos&uacute;denia splnenie tejto podmienky v časti 7.3 </span><span>žiadosti o NFP </span><span>uvedie s&uacute;lad projektu s princ&iacute;pmi </span><span>desegreg&aacute;cie</span><span>, </span><span>degetoiz&aacute;cie</span><span> a </span><span>destigmatiz&aacute;cie</span><span> v zmysle Metodick&eacute;ho v&yacute;kladu pre efekt&iacute;vne uplatňovanie princ&iacute;pov </span><span>desegreg&aacute;cie</span><span>, </span><span>degetoiz&aacute;cie</span><span> a </span><span>destigmatiz&aacute;cie</span><span> dostupn&eacute;ho na webovom s&iacute;dle </span></i><a href=\"https://romovia.vlada.gov.sk/sekcia-europskych-programov/metodicky-vyklad-pre-efektivne-uplatnovanie-uplatnovanie-3d-v-psk/\" rel=\"nofollow\"><i><span>www.romovia.vlada.gov.sk</span></i></a><i>.</i></p><p><b><i>Sp&ocirc;sob overenia:</i></b></p><ul><li><p><i><span>&uacute;</span><span>daje v časti 7.3 žiadosti o NFP</span></i></p></li></ul><p><b><i>Ukončenie uplatniteľnosti:</i></b></p><p><i>Až do skončenia doby udržateľnosti projektu &ndash; v zmysle čl. 65 NSU.</i></p>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 8,
+   "nazovSk": "Podmienka definovania merateľných ukazovateľov a iných údajov",
+   "popisSk": "<p><i><span>V&yacute;stupy, ktor&eacute; maj&uacute; byť dosiahnut&eacute; realiz&aacute;ciou projektu, musia byť kvantifikovateľn&eacute; prostredn&iacute;ctvom relevantn&yacute;ch merateľn&yacute;ch ukazovateľov (MU) definovan&yacute;ch v pr&iacute;lohe č. </span><span>3</span><span> v&yacute;zvy.</span></i></p><p><i><span>V&scaron;etky MU v pr&iacute;lohe s&uacute; definovan&eacute; ako povinn&eacute;. Žiadateľ je povinn&yacute; v žiadosti o NFP voliť v&scaron;etky povinn&eacute; MU v s&uacute;lade s pr&iacute;lohou v&yacute;zvy</span><span> vr&aacute;tane nastavenia cieľovej hodnoty MU, pričom cieľov&eacute; hodnoty nesm&uacute; byť </span><span>nulov&eacute; (hodnota MU mus&iacute; byť vy&scaron;&scaron;ia ako 0).</span></i></p><p><i>MU predstavuj&uacute; kvantifik&aacute;ciu toho, čo sa realiz&aacute;ciou aktivity za požadovan&eacute; v&yacute;davky dosiahne.</i></p><p><b><i>Forma preuk&aacute;zania zo strany žiadateľa:</i></b></p><ul><li><p><i>inform&aacute;cie v časti 10 žiadosti o NFP, bez osobitnej pr&iacute;lohy.</i></p></li></ul><p><b><i>Sp&ocirc;sob overenia:</i></b></p><ul><li><p><i><span>&uacute;</span><span>daje v časti 10 žiadosti o NFP.</span></i></p></li></ul><p><b><i>Ukončenie uplatniteľnosti:</i></b></p><p><i>Až do skončenia doby udržateľnosti projektu &ndash; v zmysle čl. 65 NSU.</i></p>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy (Formulár ŽoNFP)",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [],
+ "maxVyska": "173000.00",
+ "maxZiadanaVyskaNfp": "173000.00",
+ "maxMiera": "100.00",
+ "miestoRealizacieFull": [
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 215,
+    "href": "/typakcieprogramu/id/215"
+   }
+  },
+  {
+   "kod": "1040014",
+   "nazovSk": "Oceniteľné práva",
+   "typAkcieProgramu": {
+    "id": 215,
+    "href": "/typakcieprogramu/id/215"
+   }
+  },
+  {
+   "kod": "1040019",
+   "nazovSk": "Ostatný dlhodobý nehmotný majetok",
+   "typAkcieProgramu": {
+    "id": 215,
+    "href": "/typakcieprogramu/id/215"
+   }
+  },
+  {
+   "kod": "1040021",
+   "nazovSk": "Stavby",
+   "typAkcieProgramu": {
+    "id": 215,
+    "href": "/typakcieprogramu/id/215"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 215,
+    "href": "/typakcieprogramu/id/215"
+   }
+  },
+  {
+   "kod": "1040029",
+   "nazovSk": "Ostatný dlhodobý hmotný majetok",
+   "typAkcieProgramu": {
+    "id": 215,
+    "href": "/typakcieprogramu/id/215"
+   }
+  },
+  {
+   "kod": "1040112",
+   "nazovSk": "Zásoby",
+   "typAkcieProgramu": {
+    "id": 215,
+    "href": "/typakcieprogramu/id/215"
+   }
+  },
+  {
+   "kod": "1040907",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. a) NSU",
+   "typAkcieProgramu": {
+    "id": 215,
+    "href": "/typakcieprogramu/id/215"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 215,
+    "href": "/typakcieprogramu/id/215"
+   }
+  },
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 1211,
+    "href": "/typakcieprogramu/id/1211"
+   }
+  },
+  {
+   "kod": "1040014",
+   "nazovSk": "Oceniteľné práva",
+   "typAkcieProgramu": {
+    "id": 1211,
+    "href": "/typakcieprogramu/id/1211"
+   }
+  },
+  {
+   "kod": "1040019",
+   "nazovSk": "Ostatný dlhodobý nehmotný majetok",
+   "typAkcieProgramu": {
+    "id": 1211,
+    "href": "/typakcieprogramu/id/1211"
+   }
+  },
+  {
+   "kod": "1040021",
+   "nazovSk": "Stavby",
+   "typAkcieProgramu": {
+    "id": 1211,
+    "href": "/typakcieprogramu/id/1211"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 1211,
+    "href": "/typakcieprogramu/id/1211"
+   }
+  },
+  {
+   "kod": "1040029",
+   "nazovSk": "Ostatný dlhodobý hmotný majetok",
+   "typAkcieProgramu": {
+    "id": 1211,
+    "href": "/typakcieprogramu/id/1211"
+   }
+  },
+  {
+   "kod": "1040112",
+   "nazovSk": "Zásoby",
+   "typAkcieProgramu": {
+    "id": 1211,
+    "href": "/typakcieprogramu/id/1211"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 1211,
+    "href": "/typakcieprogramu/id/1211"
+   }
+  },
+  {
+   "kod": "1040907",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. a) NSU",
+   "typAkcieProgramu": {
+    "id": 1211,
+    "href": "/typakcieprogramu/id/1211"
+   }
+  },
+  {
+   "kod": "1040000",
+   "nazovSk": "Bez výdavkov",
+   "typAkcieProgramu": {
+    "id": 1211,
+    "href": "/typakcieprogramu/id/1211"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 1210,
+    "href": "/typakcieprogramu/id/1210"
+   }
+  },
+  {
+   "kod": "1040907",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. a) NSU",
+   "typAkcieProgramu": {
+    "id": 1210,
+    "href": "/typakcieprogramu/id/1210"
+   }
+  },
+  {
+   "kod": "1040000",
+   "nazovSk": "Bez výdavkov",
+   "typAkcieProgramu": {
+    "id": 1210,
+    "href": "/typakcieprogramu/id/1210"
+   }
+  },
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 1210,
+    "href": "/typakcieprogramu/id/1210"
+   }
+  },
+  {
+   "kod": "1040014",
+   "nazovSk": "Oceniteľné práva",
+   "typAkcieProgramu": {
+    "id": 1210,
+    "href": "/typakcieprogramu/id/1210"
+   }
+  },
+  {
+   "kod": "1040019",
+   "nazovSk": "Ostatný dlhodobý nehmotný majetok",
+   "typAkcieProgramu": {
+    "id": 1210,
+    "href": "/typakcieprogramu/id/1210"
+   }
+  },
+  {
+   "kod": "1040021",
+   "nazovSk": "Stavby",
+   "typAkcieProgramu": {
+    "id": 1210,
+    "href": "/typakcieprogramu/id/1210"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 1210,
+    "href": "/typakcieprogramu/id/1210"
+   }
+  },
+  {
+   "kod": "1040029",
+   "nazovSk": "Ostatný dlhodobý hmotný majetok",
+   "typAkcieProgramu": {
+    "id": 1210,
+    "href": "/typakcieprogramu/id/1210"
+   }
+  },
+  {
+   "kod": "1040112",
+   "nazovSk": "Zásoby",
+   "typAkcieProgramu": {
+    "id": 1210,
+    "href": "/typakcieprogramu/id/1210"
+   }
+  },
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 220,
+    "href": "/typakcieprogramu/id/220"
+   }
+  },
+  {
+   "kod": "1040014",
+   "nazovSk": "Oceniteľné práva",
+   "typAkcieProgramu": {
+    "id": 220,
+    "href": "/typakcieprogramu/id/220"
+   }
+  },
+  {
+   "kod": "1040019",
+   "nazovSk": "Ostatný dlhodobý nehmotný majetok",
+   "typAkcieProgramu": {
+    "id": 220,
+    "href": "/typakcieprogramu/id/220"
+   }
+  },
+  {
+   "kod": "1040021",
+   "nazovSk": "Stavby",
+   "typAkcieProgramu": {
+    "id": 220,
+    "href": "/typakcieprogramu/id/220"
+   }
+  },
+  {
+   "kod": "1040022",
+   "nazovSk": "Samostatné hnuteľné veci a súbory hnuteľných vecí",
+   "typAkcieProgramu": {
+    "id": 220,
+    "href": "/typakcieprogramu/id/220"
+   }
+  },
+  {
+   "kod": "1040029",
+   "nazovSk": "Ostatný dlhodobý hmotný majetok",
+   "typAkcieProgramu": {
+    "id": 220,
+    "href": "/typakcieprogramu/id/220"
+   }
+  },
+  {
+   "kod": "1040112",
+   "nazovSk": "Zásoby",
+   "typAkcieProgramu": {
+    "id": 220,
+    "href": "/typakcieprogramu/id/220"
+   }
+  },
+  {
+   "kod": "1040907",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. a) NSU",
+   "typAkcieProgramu": {
+    "id": 220,
+    "href": "/typakcieprogramu/id/220"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 220,
+    "href": "/typakcieprogramu/id/220"
+   }
+  }
+ ],
+ "externyZdroj": [
+  {
+   "nazov": "webové sídlo MŠVVaŠ SR - PSK 2021 - 2027",
+   "url": "https://www.minedu.sk/program-slovensko-2021-2027/"
+  },
+  {
+   "nazov": "Zverejnená výzva",
+   "url": "https://www.eurofondy.gov.sk/vyzvy/vyzvy-programu-slovensko/"
+  }
+ ],
+ "dokument": [
+  {
+   "nazov": "infoseminar_prezentacia_RC.pptx",
+   "uuid": "496f46d0-0ceb-4474-8c83-2bb44477fbb5"
+  },
+  {
+   "nazov": "Pozvanka_infoWebinar_vyzva_PSK-MSVVM-043-2025-DV-EFRR_ReedukacneCentra.pdf",
+   "uuid": "314a66b5-747f-45d5-8a65-41d1576d129e"
+  },
+  {
+   "nazov": "vyzva_PSK-MSVVM-043-2025-DV-EFRR.zip",
+   "uuid": "ce65d507-816e-4414-bc03-4f8b350d5e7f"
+  }
+ ],
+ "inaSkutocnostUzatvorenieVyzvy": "<p style=\"text-align: justify;\"><i>Term&iacute;ny uzavretia jednotliv&yacute;ch k&ocirc;l s&uacute; stanoven&eacute; nasledovne:</i><br /><i><span>Term&iacute;n uzavretia 1. kola &ndash; 26.01.202</span><span>6</span></i><br /><i><span>Term&iacute;n uzavretia 2. kola &ndash; 30.03.202</span><span>6</span></i></p><p style=\"text-align: justify;\"><i>V pr&iacute;pade nevyčerpania finančn&yacute;ch prostriedkov m&ocirc;že poskytovateľ pridať ďal&scaron;ie kol&aacute;.</i></p><p style=\"text-align: justify;\"><i>Poskytovateľ je opr&aacute;vnen&yacute; uzavrieť v&yacute;zvu na predkladanie žiadost&iacute; o&nbsp;poskytnutie nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku (ďalej len &bdquo;v&yacute;zva&ldquo;) v&nbsp;pr&iacute;pade vyčerpania finančn&yacute;ch prostriedkov alokovan&yacute;ch na v&yacute;zvu, z&nbsp;d&ocirc;vodu nedostatočn&eacute;ho dopytu zo strany potenci&aacute;lnych žiadateľov<sup><a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><b>[1]</b></a>,</sup> alebo z&nbsp;d&ocirc;vodu zabezpečenia riadnej a/alebo finančnej implement&aacute;cie Programu Slovensko<sup><a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\"><b>[2]</b></a>.</sup> Inform&aacute;cia o&nbsp;uzavret&iacute; v&yacute;zvy bude zverejnen&aacute; prostredn&iacute;ctvom ITMS21+ na webovej str&aacute;nke </i><a href=\"https://portal.itms21.sk/\"><i>www.itms21.sk</i></a><i> a&nbsp;na webovej str&aacute;nke </i><a href=\"https://eurofondy.gov.sk/\"><i>www. eurofondy.gov.sk</i></a><i> a </i><a href=\"https://www.minedu.sk/\"><i>www.minedu.sk</i></a><i>.</i></p><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> R&aacute;mec implement&aacute;cie fondov, kapitola 4.1.</div></div><div id=\"ftn2\"><div><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> Za uveden&yacute; d&ocirc;vod sa považuje situ&aacute;cia, keď d&ocirc;jde k zmene Programu Slovensko (jeho vecn&yacute;ch alebo finančn&yacute;ch prvkov), alebo keď je na z&aacute;klade aktu&aacute;lneho stavu implement&aacute;cie Programu Slovensko (v&yacute;sledkov monitorovania alebo hodnotenia) potrebn&eacute; presmerovať podporu na aktivity in&eacute;ho charakteru (vyznačuj&uacute;ce sa r&yacute;chlej&scaron;ou finančnou implement&aacute;ciou alebo aktivity lep&scaron;ie cielen&eacute; z hľadiska aktu&aacute;lnych potrieb vecnej implement&aacute;cie Programu Slovensko).</div></div></div>",
+ "mieraSpolufinancovania": "<p><i>Zdroje podľa kateg&oacute;rie regi&oacute;nu</i></p><p>&nbsp;</p>",
+ "sposobPodaniaZoNFP": "<p style=\"text-align: justify;\"><i>Žiadateľ je povinn&yacute; v zmysle &sect; 16 ods. 4 z&aacute;kona o pr&iacute;spevkoch z fondov predložiť žiadosť o NFP riadne a včas.</i></p><p style=\"text-align: justify;\"><i><span>Podmienky, ktor&eacute; mus&iacute; žiadateľ splniť na to, aby bola žiadosť o NFP predložen&aacute; riadne a včas vr&aacute;tane presn&eacute;ho procesn&eacute;ho postupu a technicko-organizačn&yacute;ch n&aacute;ležitost&iacute; pri predkladan&iacute; žiadosti o NFP, ako aj postup pri z&iacute;skavan&iacute; pr&iacute;stupu žiadateľa do verejnej časti ITMS21+, s&uacute; bliž&scaron;ie &scaron;pecifikovan&eacute; v pr&iacute;lohe č. </span><span>2</span><span> v&yacute;zvy. </span><span>Pokyny a usmernenia</span><span> pre vyplnenie formul&aacute;ra žiadosti o NFP z</span><span> </span><span>hľadiska</span><span> požadovan&yacute;ch obsahov&yacute;ch n&aacute;ležitost&iacute; s&uacute; uveden&eacute; v pr&iacute;lohe č. </span><span>1</span><span> v&yacute;zvy.</span></i></p><p style=\"text-align: justify;\"><i>Žiadateľ predklad&aacute; poskytovateľovi:</i></p><ol><li><p style=\"text-align: justify;\"><b><i>vyplnen&yacute; formul&aacute;r žiadosti o NFP vr&aacute;tane v&scaron;etk&yacute;ch pr&iacute;loh elektronicky</i></b><i> prostredn&iacute;ctvom verejnej časti ITMS21+ a z&aacute;roveň</i></p></li></ol><ol start=\"2\"><li><p style=\"text-align: justify;\"><b><i>vyplnen&yacute; formul&aacute;r žiadosti o NFP bez pr&iacute;loh v p&iacute;somnej forme</i></b><i>, a to:</i></p></li></ol><ul><li><p style=\"text-align: justify;\"><b><i>v elektronickej podobe</i></b><i><b> </b>prostredn&iacute;ctvom elektronickej schr&aacute;nky poskytovateľa zriadenej v r&aacute;mci &Uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy, podp&iacute;san&yacute; kvalifikovan&yacute;m elektronick&yacute;m podpisom alebo kvalifikovan&yacute;m elektronick&yacute;m podpisom s mand&aacute;tnym certifik&aacute;tom</i></p></li></ul><p style=\"text-align: justify;\"><i>alebo</i></p><ul><li><p style=\"text-align: justify;\"><b><i>v listinnej podobe</i></b><i> v origin&aacute;li, opečiatkovan&yacute; (v pr&iacute;pade, že žiadateľ m&aacute; povinnosť použ&iacute;vať pečiatku) a podp&iacute;san&yacute; (osobou opr&aacute;vnenou konať v mene žiadateľa) na adresu poskytovateľa uveden&uacute; niž&scaron;ie v pr&iacute;pade technick&eacute;ho obmedzenia predloženia žiadosti o NFP prostredn&iacute;ctvom elektronickej schr&aacute;nky poskytovateľa.</i></p></li></ul><p style=\"text-align: justify;\"><i><span>Pre subjekty, ktor&eacute; s&uacute; povinn&eacute; postupovať v zmysle &sect; 17 ods. 1 a 3 z&aacute;kona č. 305/2013 Z. z. o </span><span>elektronickej podobe v&yacute;konu p&ocirc;sobnosti org&aacute;nov verejnej moci a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov (z&aacute;kon o e-</span><span>Governmente</span><span>), </span></i><b><i>je predkladanie žiadosti o NFP v elektronickej podobe</i></b><i> prostredn&iacute;ctvom elektronickej schr&aacute;nky poskytovateľa </i><i><b>povinn&eacute;</b>.</i><i> Listinn&eacute; predloženie je pre tieto subjekty možn&eacute; len z technick&yacute;ch, resp. prev&aacute;dzkov&yacute;ch d&ocirc;vodov, ktor&eacute; je žiadateľ povinn&yacute; preuk&aacute;zať pri predložen&iacute; žiadosti o NFP.</i></p><p style=\"text-align: justify;\"><i><span>V pr&iacute;pade, ak žiadateľ nedoručil žiadosť o NFP riadne alebo včas, ani na z&aacute;klade žiadosti poskytovateľa, aby odstr&aacute;nil pochybnosti t&yacute;kaj&uacute;ce sa </span><span>doručenia žiadosti o NFP, poskytovateľ zastav&iacute; konanie o žiadosti podľa &sect; 17 ods. 1 p&iacute;sm. c)</span><span> z&aacute;kona o pr&iacute;spevkoch z fondov vydan&iacute;m rozhodnutia o zastaven&iacute; konania, ktor&eacute; doruč&iacute; žiadateľovi.</span></i></p>",
+ "miestoPrePodanieZoNFP": "<p style=\"text-align: justify;\"><i>Doručovacia adresa poskytovateľa v pr&iacute;pade predloženia žiadosti o NFP bez pr&iacute;loh v listinnej podobe:</i></p><p style=\"text-align: justify;\"><i>Ministerstvo &scaron;kolstva, v&yacute;skumu, v&yacute;voja a ml&aacute;deže Slovenskej republiky</i><br /><i><span>Černy&scaron;evsk&eacute;ho</span><span> 50</span></i><br /><i><span>8</span><span>51</span><span> 01</span><span> Bratislava</span></i></p><p style=\"text-align: justify;\"><i>&Uacute;radn&eacute; hodiny podateľne s&uacute; zverejnen&eacute; na webovom s&iacute;dle poskytovateľa </i><a href=\"https://www.minedu.sk/kontakty/\" rel=\"nofollow\"><i><span>www.minedu.sk</span></i></a><i>.</i></p><p style=\"text-align: justify;\"><i><span>Forma predloženia dokumentov v listinnej podobe je bliž&scaron;ie &scaron;pecifikovan</span><span>&aacute;</span><span> v pr&iacute;lohe č. </span><span>2</span><span> v&yacute;zvy. Poskytovateľ nezodpoved&aacute; za manipul&aacute;ciu so žiadosťou o NFP, ktor&uacute; žiadateľ za&scaron;le po&scaron;tou alebo kuri&eacute;rskou službou, ak bude po&scaron;koden&aacute;, pr&iacute;padne nebude doručen&aacute;.</span></i></p>",
+ "predpokladanaLehotaNaRozhodnutie": "<p style=\"text-align: justify;\"><i>Indikat&iacute;vne časov&eacute; obdobie, v r&aacute;mci ktor&eacute;ho bude rozhodnut&eacute; o žiadosti o NFP, je do 70 pracovn&yacute;ch dn&iacute; od term&iacute;nu uz&aacute;vierky pr&iacute;slu&scaron;n&eacute;ho hodnotiaceho kola.</i></p><p style=\"text-align: justify;\"><i>Do lehoty sa nezapoč&iacute;tava doba potrebn&aacute; na odstr&aacute;nenie identifikovan&yacute;ch nedostatkov žiadosti o NFP zo strany žiadateľa na z&aacute;klade v&yacute;zvy zaslanej poskytovateľom &ndash; t. j. preru&scaron;uje sa v momente zaslania v&yacute;zvy na doplnenie žiadosti o NFP a zač&iacute;na plyn&uacute;ť momentom doručenia n&aacute;ležitost&iacute; poskytovateľovi). V pr&iacute;pade nepredv&iacute;dateľn&yacute;ch okolnost&iacute; na strane poskytovateľa, pr&iacute;padne in&yacute;ch okolnost&iacute; ovplyvnen&yacute;ch extern&yacute;mi faktormi, na z&aacute;klade ktor&yacute;ch nie je možn&eacute; ukončiť schvaľovanie žiadosti o NFP v predpokladanej lehote na vydanie rozhodnutia o žiadosti o NFP stanovenej poskytovateľom vo v&yacute;zve, si poskytovateľ m&ocirc;že predĺžiť lehotu na vydanie rozhodnutia o žiadosti o NFP.</i></p><p style=\"text-align: justify;\"><i><span>Inform&aacute;cie o procese schvaľovania žiadosti o NFP, postupe poskytovateľa po schv&aacute;len&iacute; žiadosti o NFP a o procese uzavretia zmluvy o poskytnut&iacute; NFP s&uacute; uveden&eacute; v pr&iacute;lohe č. </span><span>2</span><span> v&yacute;zvy.</span></i></p>",
+ "zmenaAZrusenieVyzvy": "<div><i>V nevyhnutn&yacute;ch pr&iacute;padoch, kedy nie je možn&eacute; konať o žiadosti o NFP predloženej na z&aacute;klade p&ocirc;vodne vyhl&aacute;senej v&yacute;zvy, alebo je zmena potrebn&aacute; za &uacute;čelom jej optimaliz&aacute;cie, resp. vhodnej&scaron;ieho nastavenia, je poskytovateľ opr&aacute;vnen&yacute; v s&uacute;lade s &sect; 14 ods. 4 až 7 z&aacute;kona o pr&iacute;spevkoch z fondov v&yacute;zvu zmeniť alebo zru&scaron;iť.</i></div><div><i>Poskytovateľ m&ocirc;že v&yacute;zvu po zverejnen&iacute; zmeniť v celom rozsahu<sup><b><a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a> </b></sup>do vydania prv&eacute;ho rozhodnutia<a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\"><b>[<sup>2]</sup></b></a><sup>.</sup> Po vydan&iacute; prv&eacute;ho rozhodnutia m&ocirc;že meniť form&aacute;lne n&aacute;ležitosti v&yacute;zvy (vr&aacute;tane pr&iacute;loh) a ďal&scaron;ie skutočnosti t&yacute;kaj&uacute;ce sa poskytovania pr&iacute;spevku, ktor&eacute; nemaj&uacute; charakter podmienky poskytnutia pr&iacute;spevku, v s&uacute;lade s &sect; 14 ods. 6 z&aacute;kona o&nbsp;pr&iacute;spevkoch z fondov.</i></div><div><i>Pri otvorenej v&yacute;zve sa možnosť zmeny v&yacute;zvy vzťahuje na aktu&aacute;lne posudzovan&eacute; hodnotiace kolo, t. j. do vydania rozhodnutia v r&aacute;mci dan&eacute;ho hodnotiaceho kola, v ktorom doch&aacute;dza k zmene v&yacute;zvy. Tak&aacute;to zmena sa vzťahuje aj na v&scaron;etky nasleduj&uacute;ce hodnotiace kol&aacute;, pričom vo vzťahu k predch&aacute;dzaj&uacute;cim hodnotiacim kol&aacute;m zost&aacute;va v&yacute;zva nedotknut&aacute; a net&yacute;ka sa ani rozhodnut&iacute;, ktor&eacute; už boli vydan&eacute; pred zmenou v&yacute;zvy.</i></div><div><i>Poskytovateľ m&ocirc;že v&yacute;zvu zru&scaron;iť. Žiadosti o NFP, o ktor&yacute;ch nebolo do zru&scaron;enia v&yacute;zvy rozhodnut&eacute;, bud&uacute; vr&aacute;ten&eacute; žiadateľom. Rozhodnutie, ktor&eacute; bolo vydan&eacute; na z&aacute;klade v&yacute;zvy do jej zru&scaron;enia, je zru&scaron;en&iacute;m v&yacute;zvy nedotknut&eacute;.</i></div><div><i>Inform&aacute;cia o zmene alebo zru&scaron;en&iacute; v&yacute;zvy, vr&aacute;tane ich od&ocirc;vodnenia, bude zverejnen&aacute; prostredn&iacute;ctvom ITMS21+ na webovom s&iacute;dle </i><a href=\"https://portal.itms21.sk/\"><i>www.itms21.sk</i></a><i>,</i> <a href=\"http://www.eurofondy.gov.sk/\"><i>www.eurofondy.gov.sk</i></a><i> a </i><a href=\"https://www.minedu.sk/\"><i>www.minedu.sk</i></a><i>.</i><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> &sect; 14 ods. 4 z&aacute;kona o pr&iacute;spevkoch z fondov</div></div><div id=\"ftn2\"><div><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> Za prv&eacute; rozhodnutie sa nepovažuje rozhodnutie o zastaven&iacute; konania podľa &sect; 17 ods. 1 z&aacute;kona o pr&iacute;spevkoch z fondov</div></div></div></div>",
+ "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>",
+ "dalsiaSkutocnost": [
+  {
+   "kod": "DS004PSK-MSVVM-043-2025-DV-EFRR",
+   "dalsiaSkutocnost": "<div style=\"text-align: justify;\"><b>S&uacute;lad s horizont&aacute;lnymi princ&iacute;pmi</b></div><div style=\"text-align: justify;\">&nbsp;</div><div style=\"text-align: justify;\"><div><i>Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><b>[1]</b></a>, s prihliadnut&iacute;m na dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky. </i></div><div>&nbsp;</div><div><i>V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m <a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\"><b>[2]</b></a>.</i></div><div>&nbsp;</div><div><i>Gestor HP upozorňuje žiadateľa, že plnenie s&uacute;ladu projektu s HP m&ocirc;že byť predmetom finančnej kontroly v implement&aacute;cii projektu, ktorej pr&aacute;vny z&aacute;klad vych&aacute;dza z platnej a &uacute;činnej zmluvy o poskytnut&iacute; NFP.</i></div><div>&nbsp;</div><i>Čas plnenia/overenia: V čase realiz&aacute;cie projektu na z&aacute;klade zmluvy o poskytnut&iacute; NFP až do skončenia doby udržateľnosti projektu (ak relevantn&eacute;) v zmysle čl. 65 nariadenia o spoločn&yacute;ch ustanoveniach.</i><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div style=\"text-align: left;\"><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a>https://www.eurofondy.gov.sk/wp-content/uploads/2022/06/Nariadenie-2021-1060-CELEX_32021R1060_SK_TXT.pdf&nbsp;&nbsp;</div></div><div id=\"ftn2\"><div style=\"text-align: left;\"><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> <a href=\"https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf\">https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf</a></div></div></div></div>"
+  },
+  {
+   "kod": "DS001PSK-MSVVM-043-2025-DV-EFRR",
+   "dalsiaSkutocnost": "<div><div style=\"text-align: justify;\"><b>Podmienka dodržiavania z&aacute;sady &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; (DNSH)</b></div><p style=\"text-align: justify;\"><i><span>Projekt, ktor&yacute; je predmetom žiadosti o NFP, v s&uacute;lade s </span><span>čl. 9 ods. 4 </span><span>NSU</span><span> a v spojitosti s &sect; 17 Nariadenia Eur&oacute;pskeho parlamentu a Rady (E&Uacute;) 2020/852 z 18. j&uacute;na 2020 o vytvoren&iacute; r&aacute;mca na uľahčenie udržateľn&yacute;ch invest&iacute;ci&iacute; a o zmene nariadenia (E&Uacute;) 2019/2088</span><span> mus&iacute; spĺňať z&aacute;sadu &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo;.</span></i></p><p style=\"text-align: justify;\"><i><span>Žiadateľ pri tvorbe a realiz&aacute;ci&iacute; projektu mus&iacute; spĺňať požiadavky definovan&eacute; v pr&iacute;lohe č. </span><span>8</span><span> v&yacute;zvy</span><span> </span><span>ako ďal&scaron;ie skutočnosti,</span><span> </span><span>ktor&eacute; sa overuj&uacute; v čase stanovenom v r&aacute;mci pr&iacute;lohy č. 8 v&yacute;zvy</span><span>.</span></i></p></div>"
+  },
+  {
+   "kod": "DS003PSK-MSVVM-043-2025-DV-EFRR",
+   "dalsiaSkutocnost": "<div><div style=\"text-align: justify;\"><b>Podmienka opr&aacute;vnenosti v&yacute;davkov</b></div><p style=\"text-align: justify;\"><i>Kateg&oacute;rie opr&aacute;vnen&yacute;ch v&yacute;davkov s&uacute; &scaron;pecifikovan&eacute; v pr&iacute;lohe č. 7 v&yacute;zvy.</i></p><p style=\"text-align: justify;\"><i>V&yacute;davky projektu musia byť preuk&aacute;zateľne opr&aacute;vnen&eacute; na financovanie z Programu Slovensko, to znamen&aacute;, že musia byť v s&uacute;lade s podmienkami opr&aacute;vnenosti definovan&yacute;mi v Pr&iacute;ručke k opr&aacute;vnenosti v&yacute;davkov v aktu&aacute;lne platnom znen&iacute; (pr&iacute;loha č. 6 v&yacute;zvy) a v s&uacute;lade s podmienkami opr&aacute;vnenosti uveden&yacute;mi v pr&iacute;lohe č. 7 v&yacute;zvy.</i></p><p style=\"text-align: justify;\"><i>Za opr&aacute;vnen&eacute; v&yacute;davky sa považuj&uacute; v&yacute;davky, ktor&eacute; vznikli a boli uhraden&eacute; pri vykon&aacute;van&iacute; projektu </i><b><i>od d&aacute;tumu &uacute;činnosti zmluvy o poskytnut&iacute; NFP do 31.12.2029</i></b><i><b> </b>a s&uacute; v s&uacute;lade s v&yacute;zvou, vr&aacute;tane pr&iacute;loh, resp. so zmluvou o poskytnut&iacute; NFP.</i></p><p style=\"text-align: justify;\"><i>Overenie sa vykon&aacute;va pred podpisom zmluvy o poskytnut&iacute; NFP a počas realiz&aacute;cie projektu najnesk&ocirc;r pred &uacute;hradou žiadosti o platbu.</i></p></div>"
+  },
+  {
+   "kod": "DS002PSK-MSVVM-043-2025-DV-EFRR",
+   "dalsiaSkutocnost": "<div><div style=\"text-align: justify;\"><b>Podmienka vysporiadania majetkovo-pr&aacute;vnych vzťahov</b></div><div style=\"text-align: justify;\"><div><i>Žiadateľ mus&iacute; mať vysporiadan&eacute; majetkovo-pr&aacute;vne vzťahy a povolenia na realiz&aacute;ciu aktiv&iacute;t projektu najnesk&ocirc;r pred zaslan&iacute;m p&iacute;somn&eacute;ho n&aacute;vrhu na uzavretie zmluvy o&nbsp;poskytnut&iacute; NFP podľa &sect; 22 ods. 4 z&aacute;kona o pr&iacute;spevkoch z fondov</i><sup><a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><i><b>[1]</b></i></a></sup><i>.</i></div><div>&nbsp;</div><div><i>Podmienky, ktor&eacute; mus&iacute; žiadateľ splniť pri preuk&aacute;zan&iacute; vysporiadania majetkovo-pr&aacute;vnych vzťahov a povolen&iacute; na realiz&aacute;ciu aktiv&iacute;t projektu, s&uacute; uveden&eacute; v pr&iacute;lohe č. 9 v&yacute;zvy.</i></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Z&aacute;kon č. 121/2022 Z. z. o pr&iacute;spevkoch z fondov Eur&oacute;pskej &uacute;nie a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov</div></div></div></div><div>&nbsp;</div></div>"
+  }
+ ],
+ "dalsiaFormalnaNalezitost": [
+  {
+   "kod": "DFN002PSK-MSVVM-043-2025-DV-EFRR",
+   "dalsiaFormalnaNalezitost": "<div><div style=\"text-align: justify;\"><b>Uzavretie Zmluvy o poskytnut&iacute; NFP</b></div><p style=\"text-align: justify;\"><i><span>Bliž&scaron;ie podrobnosti a procesn&yacute; postup pri uzatv&aacute;ran&iacute; Zmluvy o poskytnut&iacute; NFP je uveden&yacute; v pr&iacute;lohe č. </span><span>2</span><span> v&yacute;zvy, kapitola 5.</span></i></p><p style=\"text-align: justify;\"><i>Vzor Zmluvy o poskytnut&iacute; NFP je zverejnen&yacute; na webovej str&aacute;nke </i><a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/\" rel=\"nofollow\"><i><span>www.eurofondy.gov.sk</span></i></a><i>.</i></p></div>"
+  },
+  {
+   "kod": "DFN003PSK-MSVVM-043-2025-DV-EFRR",
+   "dalsiaFormalnaNalezitost": "<div><div style=\"text-align: justify;\"><b>Z&aacute;sobn&iacute;k projektov</b></div><p style=\"text-align: justify;\"><i>V r&aacute;mci tejto v&yacute;zvy poskytovateľ m&ocirc;že zmeniť pr&aacute;voplatn&eacute; rozhodnutie o neschv&aacute;len&iacute; žiadosti o NFP a rozhodn&uacute;ť o schv&aacute;len&iacute; žiadosti o NFP (v konan&iacute; podľa &sect; 18 z&aacute;kona o pr&iacute;spevkoch z fondov, tzv. Z&aacute;sobn&iacute;k projektov) za predpokladu, že bud&uacute; splnen&eacute; v&scaron;etky podmienky definovan&eacute; v &sect; 18 z&aacute;kona o pr&iacute;spevkoch z fondov.</i></p><p style=\"text-align: justify;\"><i>Využitie z&aacute;sobn&iacute;ka projektov je na v&yacute;lučnom rozhodnut&iacute; poskytovateľa a aj v pr&iacute;pade z&iacute;skania dodatočn&yacute;ch finančn&yacute;ch prostriedkov nie je poskytovateľ povinn&yacute; zmeniť rozhodnutie podľa predch&aacute;dzaj&uacute;ceho odseku a m&ocirc;že rozhodn&uacute;ť o alokovan&iacute; dodatočn&yacute;ch finančn&yacute;ch prostriedkov na relevantn&eacute; projekty in&yacute;m sp&ocirc;sobom (napr. vyhl&aacute;siť nov&uacute; v&yacute;zvu).</i></p></div>"
+  },
+  {
+   "kod": "DFN001PSK-MSVVM-043-2025-DV-EFRR",
+   "dalsiaFormalnaNalezitost": "<div style=\"text-align: justify;\"><b class=\"BCX8 SCXW222341387 TextRun\" data-contrast=\"auto\" lang=\"SK-SK\" xml:lang=\"SK-SK\">Zverejňovanie inform&aacute;ci&iacute;</b><span class=\"BCX8 EOP SCXW222341387\" data-ccp-props=\"{&quot;469777462&quot;:[1695],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\" style=\"-webkit-tap-highlight-color:transparent; -webkit-user-drag:none; color:rgb(0, 0, 0); line-height:18.3458px; margin:0px; padding:0px; user-select:text; white-space-collapse:preserve\">&nbsp;</span></div><div style=\"text-align: justify;\">&nbsp;</div><div style=\"text-align: justify;\"><i class=\"BCX8 SCXW255454074 TextRun\" data-contrast=\"auto\" lang=\"SK-SK\" xml:lang=\"SK-SK\">Poskytovateľ zverejn&iacute; na webovej str&aacute;nke </i><a class=\"Hyperlink SCXW255454074 BCX8\" href=\"https://eurofondy.gov.sk/\" rel=\"noreferrer noopener\" target=\"_blank\"><i class=\"BCX8 SCXW255454074 TextRun Underlined\" data-contrast=\"none\" lang=\"SK-SK\" xml:lang=\"SK-SK\"><span class=\"BCX8 NormalTextRun SCXW255454074\" data-ccp-charstyle=\"Hyperlink\" style=\"-webkit-tap-highlight-color:transparent; -webkit-user-drag:none; margin:0px; padding:0px; user-select:text\">www.eurofondy.gov.sk</span></i></a><i class=\"BCX8 SCXW255454074 TextRun\" data-contrast=\"auto\" lang=\"SK-SK\" xml:lang=\"SK-SK\"> a </i><a class=\"Hyperlink SCXW255454074 BCX8\" href=\"https://www.minedu.sk/\" rel=\"noreferrer noopener\" target=\"_blank\"><i class=\"BCX8 SCXW255454074 TextRun Underlined\" data-contrast=\"none\" lang=\"SK-SK\" xml:lang=\"SK-SK\"><span class=\"BCX8 NormalTextRun SCXW255454074\" data-ccp-charstyle=\"Hyperlink\" style=\"-webkit-tap-highlight-color:transparent; -webkit-user-drag:none; margin:0px; padding:0px; user-select:text\">www.minedu.sk</span></i></a><i class=\"BCX8 SCXW255454074 TextRun\" data-contrast=\"auto\" lang=\"SK-SK\" xml:lang=\"SK-SK\"> zoznam schv&aacute;len&yacute;ch žiadost&iacute; o NFP a najmenej každ&eacute; 4 mesiace ho bude aktualizovať v zmysle čl. 49 ods. 3 NSU. Žiadateľ berie na vedomie, že zverejňovan&eacute; inform&aacute;cie, ktor&eacute; s&uacute; považovan&eacute; za osobn&eacute; &uacute;daje, je poskytovateľ opr&aacute;vnen&yacute; zverejniť bez osobitn&eacute;ho s&uacute;hlasu žiadateľa v s&uacute;lade s &sect; 46 ods. 6 z&aacute;kona o pr&iacute;spevkoch z fondov.</i><span class=\"BCX8 EOP SCXW255454074\" data-ccp-props=\"{&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;469777462&quot;:[1695],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}\" style=\"-webkit-tap-highlight-color:transparent; -webkit-user-drag:none; color:rgb(0, 0, 0); line-height:18.3458px; margin:0px; padding:0px; text-align:justify; user-select:text; white-space-collapse:preserve\">&nbsp;</span></div>"
+  }
+ ],
+ "verzia": [
+  {
+   "id": 6560,
+   "cislo": 1,
+   "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [
+  {
+   "id": 1129,
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1791,
+    "href": "/ukazovatelprojektovy/id/1791",
+    "kod": "PSKPR039",
+    "nazovSk": "Používatelia modernizovaných špeciálnych výchovných zariadení za rok",
+    "mernaJednotka": {
+     "id": 200093,
+     "kod": "105394",
+     "nazovSk": "používatelia / rok",
+     "popisSk": "používatelia / rok",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Podporen&yacute; počet jedinečn&yacute;ch klientov využ&iacute;vaj&uacute;cich modernizovan&eacute; &scaron;peci&aacute;lne v&yacute;chovn&eacute; zariadenie za rok.</div><div>Pre dosiahnut&eacute; hodnoty by sa mal v&yacute;počet vykonať ex post na z&aacute;klade klientov, ktor&iacute; použ&iacute;vaj&uacute; zariadenie najmenej raz za rok po dokončen&iacute; intervencie.</div><div>Ukazovateľ sa vzťahuje aj na použ&iacute;vateľov modernizovan&yacute;ch &scaron;peci&aacute;lnych v&yacute;chovn&yacute;ch zariaden&iacute;, pre ktor&eacute; bolo zak&uacute;pen&eacute; nov&eacute; zariadenie alebo materi&aacute;lne vybavenie</div>Ukazovateľ sa nevzťahuje na zamestnancov, z&aacute;konn&yacute;ch z&aacute;stupcov, pomocn&yacute; person&aacute;l ani na in&eacute; osoby, ktor&eacute; tiež m&ocirc;žu použ&iacute;vať toto zariadenie.&nbsp;</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Najm&auml;: Intern&yacute; register zap&iacute;san&yacute;ch klientov v danom zariaden&iacute;.</div>Spr&aacute;va rok po dokončen&iacute; v&yacute;stupu.</div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1751459259065,
+    "updatedAt": 1752150971722
+   }
+  },
+  {
+   "id": 1130,
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1791,
+    "href": "/ukazovatelprojektovy/id/1791",
+    "kod": "PSKPR039",
+    "nazovSk": "Používatelia modernizovaných špeciálnych výchovných zariadení za rok",
+    "mernaJednotka": {
+     "id": 200093,
+     "kod": "105394",
+     "nazovSk": "používatelia / rok",
+     "popisSk": "používatelia / rok",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Podporen&yacute; počet jedinečn&yacute;ch klientov využ&iacute;vaj&uacute;cich modernizovan&eacute; &scaron;peci&aacute;lne v&yacute;chovn&eacute; zariadenie za rok.</div><div>Pre dosiahnut&eacute; hodnoty by sa mal v&yacute;počet vykonať ex post na z&aacute;klade klientov, ktor&iacute; použ&iacute;vaj&uacute; zariadenie najmenej raz za rok po dokončen&iacute; intervencie.</div><div>Ukazovateľ sa vzťahuje aj na použ&iacute;vateľov modernizovan&yacute;ch &scaron;peci&aacute;lnych v&yacute;chovn&yacute;ch zariaden&iacute;, pre ktor&eacute; bolo zak&uacute;pen&eacute; nov&eacute; zariadenie alebo materi&aacute;lne vybavenie</div>Ukazovateľ sa nevzťahuje na zamestnancov, z&aacute;konn&yacute;ch z&aacute;stupcov, pomocn&yacute; person&aacute;l ani na in&eacute; osoby, ktor&eacute; tiež m&ocirc;žu použ&iacute;vať toto zariadenie.&nbsp;</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Najm&auml;: Intern&yacute; register zap&iacute;san&yacute;ch klientov v danom zariaden&iacute;.</div>Spr&aacute;va rok po dokončen&iacute; v&yacute;stupu.</div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1751459259065,
+    "updatedAt": 1752150971722
+   }
+  }
+ ],
+ "ukazovatelVystupovy": [
+  {
+   "id": 1131,
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1792,
+    "href": "/ukazovatelprojektovy/id/1792",
+    "kod": "PSKPO062",
+    "nazovSk": "Kapacita modernizovaných špeciálnych výchovných zariadení",
+    "mernaJednotka": {
+     "id": 12,
+     "kod": "105312",
+     "nazovSk": "osoby",
+     "nazovEn": "osoby",
+     "popisSk": "osoby",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Kapacita modernizovan&yacute;ch &scaron;peci&aacute;lnych v&yacute;chovn&yacute;ch zariaden&iacute; predstavuje maxim&aacute;lny počet klientov, ktor&iacute; ju m&ocirc;žu v jednom momente využ&iacute;vať.</div>Do merateľn&eacute;ho ukazovateľa projektu sa započ&iacute;tavaj&uacute; aj kapacity priestorov &scaron;peci&aacute;lneho v&yacute;chovn&eacute;ho zariadenia pre ktor&eacute; bolo zak&uacute;pen&eacute; nov&eacute; technick&eacute; alebo materi&aacute;lne vybavenie.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Spr&aacute;va o dokončen&iacute; v&yacute;stupu s pr&iacute;slu&scaron;n&yacute;mi technick&yacute;mi protokolmi, technick&yacute; protokol, technick&aacute; dokument&aacute;cia, fotodokument&aacute;cia.&nbsp;</div><div><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Započ&iacute;tavaj&uacute; sa nov&eacute;, alebo zmodernizovan&eacute; &scaron;peci&aacute;lne v&yacute;chovn&eacute; zariadenia. Ak sa realizovala moderniz&aacute;cia &scaron;peci&aacute;lneho v&yacute;chovn&eacute;ho zariadenia, t&aacute;to nezahŕňa v&yacute;hradne energetick&uacute; obnovu ani &uacute;držbu alebo opravy.&nbsp;</div></div></div><div style=\"clear:both\"><b>Povinnosť plnenia:</b> &aacute;no</div></div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Spr&aacute;va o dokončen&iacute; v&yacute;stupu s pr&iacute;slu&scaron;n&yacute;mi technick&yacute;mi protokolmi, technick&yacute; protokol, technick&aacute; dokument&aacute;cia, fotodokument&aacute;cia.</div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1751459461837,
+    "updatedAt": 1752150757372
+   }
+  },
+  {
+   "id": 1132,
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1792,
+    "href": "/ukazovatelprojektovy/id/1792",
+    "kod": "PSKPO062",
+    "nazovSk": "Kapacita modernizovaných špeciálnych výchovných zariadení",
+    "mernaJednotka": {
+     "id": 12,
+     "kod": "105312",
+     "nazovSk": "osoby",
+     "nazovEn": "osoby",
+     "popisSk": "osoby",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div>Kapacita modernizovan&yacute;ch &scaron;peci&aacute;lnych v&yacute;chovn&yacute;ch zariaden&iacute; predstavuje maxim&aacute;lny počet klientov, ktor&iacute; ju m&ocirc;žu v jednom momente využ&iacute;vať.</div>Do merateľn&eacute;ho ukazovateľa projektu sa započ&iacute;tavaj&uacute; aj kapacity priestorov &scaron;peci&aacute;lneho v&yacute;chovn&eacute;ho zariadenia pre ktor&eacute; bolo zak&uacute;pen&eacute; nov&eacute; technick&eacute; alebo materi&aacute;lne vybavenie.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Spr&aacute;va o dokončen&iacute; v&yacute;stupu s pr&iacute;slu&scaron;n&yacute;mi technick&yacute;mi protokolmi, technick&yacute; protokol, technick&aacute; dokument&aacute;cia, fotodokument&aacute;cia.&nbsp;</div><div><div><b>2.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Započ&iacute;tavaj&uacute; sa nov&eacute;, alebo zmodernizovan&eacute; &scaron;peci&aacute;lne v&yacute;chovn&eacute; zariadenia. Ak sa realizovala moderniz&aacute;cia &scaron;peci&aacute;lneho v&yacute;chovn&eacute;ho zariadenia, t&aacute;to nezahŕňa v&yacute;hradne energetick&uacute; obnovu ani &uacute;držbu alebo opravy.&nbsp;</div></div></div><div style=\"clear:both\"><b>Povinnosť plnenia:</b> &aacute;no</div></div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Spr&aacute;va o dokončen&iacute; v&yacute;stupu s pr&iacute;slu&scaron;n&yacute;mi technick&yacute;mi protokolmi, technick&yacute; protokol, technick&aacute; dokument&aacute;cia, fotodokument&aacute;cia.</div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1751459461837,
+    "updatedAt": 1752150757372
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 215,
+   "href": "/typakcieprogramu/id/215",
+   "kod": "401402R40200051",
+   "nazovSk": "Podpora kvality a dostupnosti poskytovanej starostlivosti v systéme poradenstva a prevencie",
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "opatrenie": {
+    "id": 137,
+    "href": "/opatrenie/id/137",
+    "kod": "401402R40200",
+    "nazovSk": "401402R40200",
+    "specifickyCielProgramu": {
+     "id": 12,
+     "href": "/specifickycielprogramu/id/12",
+     "kod": "401402R402",
+     "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 8,
+      "href": "/priorita/id/8",
+      "kod": "401402",
+      "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867946
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540870707
+    },
+    "createdAt": 1772540870726
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516228363,
+   "updatedAt": 1772541490835
+  },
+  {
+   "id": 1211,
+   "href": "/typakcieprogramu/id/1211",
+   "kod": "401402R402000P2",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "opatrenie": {
+    "id": 137,
+    "href": "/opatrenie/id/137",
+    "kod": "401402R40200",
+    "nazovSk": "401402R40200",
+    "specifickyCielProgramu": {
+     "id": 12,
+     "href": "/specifickycielprogramu/id/12",
+     "kod": "401402R402",
+     "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 8,
+      "href": "/priorita/id/8",
+      "kod": "401402",
+      "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867946
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540870707
+    },
+    "createdAt": 1772540870726
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717771662459,
+   "updatedAt": 1772541490835
+  },
+  {
+   "id": 1210,
+   "href": "/typakcieprogramu/id/1210",
+   "kod": "401402R402000P1",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "opatrenie": {
+    "id": 137,
+    "href": "/opatrenie/id/137",
+    "kod": "401402R40200",
+    "nazovSk": "401402R40200",
+    "specifickyCielProgramu": {
+     "id": 12,
+     "href": "/specifickycielprogramu/id/12",
+     "kod": "401402R402",
+     "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 8,
+      "href": "/priorita/id/8",
+      "kod": "401402",
+      "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867946
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540870707
+    },
+    "createdAt": 1772540870726
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717771662366,
+   "updatedAt": 1772541490835
+  },
+  {
+   "id": 220,
+   "href": "/typakcieprogramu/id/220",
+   "kod": "401402R40200112",
+   "nazovSk": "Podpora kvality a dostupnosti poskytovanej starostlivosti v systéme poradenstva a prevencie",
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "opatrenie": {
+    "id": 137,
+    "href": "/opatrenie/id/137",
+    "kod": "401402R40200",
+    "nazovSk": "401402R40200",
+    "specifickyCielProgramu": {
+     "id": 12,
+     "href": "/specifickycielprogramu/id/12",
+     "kod": "401402R402",
+     "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 8,
+      "href": "/priorita/id/8",
+      "kod": "401402",
+      "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867946
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540870707
+    },
+    "createdAt": 1772540870726
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516228367,
+   "updatedAt": 1772541490835
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200136,
+    "kod": "10364PO127",
+    "kodZdroj": "127",
+    "nazovSk": "Iná sociálna infraštruktúra, ktorá prispieva k sociálnemu začleneniu do komunity",
+    "nazovEn": "Iná sociálna infraštruktúra, ktorá prispieva k sociálnemu začleneniu do komunity",
+    "nazovDe": "Andere soziale Einrichtungen, die zur sozialen Inklusion vor Ort beitragen",
+    "popisSk": "Iná sociálna infraštruktúra, ktorá prispieva k sociálnemu začleneniu do komunity",
+    "popisDe": "Andere soziale Einrichtungen, die zur sozialen Inklusion vor Ort beitragen",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200136,
+    "kod": "10364PO127",
+    "kodZdroj": "127",
+    "nazovSk": "Iná sociálna infraštruktúra, ktorá prispieva k sociálnemu začleneniu do komunity",
+    "nazovEn": "Iná sociálna infraštruktúra, ktorá prispieva k sociálnemu začleneniu do komunity",
+    "nazovDe": "Andere soziale Einrichtungen, die zur sozialen Inklusion vor Ort beitragen",
+    "popisSk": "Iná sociálna infraštruktúra, ktorá prispieva k sociálnemu začleneniu do komunity",
+    "popisDe": "Andere soziale Einrichtungen, die zur sozialen Inklusion vor Ort beitragen",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200021,
+    "kod": "10384PO21",
+    "kodZdroj": "21",
+    "nazovSk": "Vzdelávanie",
+    "nazovEn": "Vzdelávanie",
+    "nazovDe": "Bildung",
+    "popisSk": "Vzdelávanie",
+    "popisDe": "Bildung",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200021,
+    "kod": "10384PO21",
+    "kodZdroj": "21",
+    "nazovSk": "Vzdelávanie",
+    "nazovEn": "Vzdelávanie",
+    "nazovDe": "Bildung",
+    "popisSk": "Vzdelávanie",
+    "popisDe": "Bildung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200010,
+    "kod": "12094PO11",
+    "kodZdroj": "11",
+    "nazovSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovEn": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "popisSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "popisDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "platnostOd": 1668121200000
+   }
+  },
+  {
+   "specifickyCielProgramu": {
+    "id": 12,
+    "href": "/specifickycielprogramu/id/12",
+    "kod": "401402R402",
+    "nazovSk": "RSO4.2 Zlepšenie rovného prístupu k inkluzívnym a kvalitným službám v oblasti vzdelávania, odbornej prípravy a celoživotného vzdelávania rozvíjaním dostupnej infraštruktúry vrátane posilňovania odolnosti pre dištančné a online vzdelávanie a odbornú prípravu (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 8,
+     "href": "/priorita/id/8",
+     "kod": "401402",
+     "nazovSk": "4P2 Kvalitné a inkluzívne vzdelávanie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867946
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870707
+   },
+   "kategoriaRegionov": {
+    "id": 2,
+    "kod": "1033VRR",
+    "kodZdroj": "VRR",
+    "nazovSk": "Viac rozvinutý región",
+    "nazovEn": "more-developed regions",
+    "popisSk": "Viac rozvinutý región",
+    "popisEn": "more-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200010,
+    "kod": "12094PO11",
+    "kodZdroj": "11",
+    "nazovSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovEn": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "popisSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "popisDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 1,
+   "kod": "1033MRR",
+   "kodZdroj": "MRR",
+   "nazovSk": "Menej rozvinutý región",
+   "nazovEn": "less-developed regions",
+   "popisSk": "Menej rozvinutý región",
+   "popisEn": "less-developed regions",
+   "platnostOd": 725842800000
+  },
+  {
+   "id": 2,
+   "kod": "1033VRR",
+   "kodZdroj": "VRR",
+   "nazovSk": "Viac rozvinutý región",
+   "nazovEn": "more-developed regions",
+   "popisSk": "Viac rozvinutý región",
+   "popisEn": "more-developed regions",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [],
+ "projektovyZamerIUS": []
+}

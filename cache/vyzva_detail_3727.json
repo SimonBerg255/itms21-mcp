@@ -1,0 +1,1852 @@
+{
+ "id": 3727,
+ "href": "/vyzva/id/3727",
+ "kod": "PSK-MZP-040-2025-NP-KF",
+ "nazovSk": "Hodnotenie a manažment povodňového rizika – aktualizácia III",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 49,
+   "href": "/specifickycielprogramu/id/49",
+   "kod": "401202R24K",
+   "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 4,
+    "href": "/priorita/id/4",
+    "kod": "401202",
+    "nazovSk": "2P2 Životné prostredie",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867941
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 200000,
+     "kod": "1033N/A",
+     "kodZdroj": "N/A",
+     "nazovSk": "Bez kategórie regiónu",
+     "popisSk": "Bez kategórie regiónu",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 8,
+    "kod": "1032KF",
+    "kodZdroj": "KF",
+    "nazovSk": "Kohézny fond",
+    "nazovEn": "Kohézny fond",
+    "popisSk": "Kohézny fond",
+    "popisEn": "Kohézny fond",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540871655
+  }
+ ],
+ "opatrenie": [
+  {
+   "id": 70,
+   "href": "/opatrenie/id/70",
+   "kod": "401202R24K05",
+   "nazovSk": "Vytváranie koncepčných východísk pre realizáciu adaptačných opatrení na národnej, regionálnej a miestnej úrovni",
+   "specifickyCielProgramu": {
+    "id": 49,
+    "href": "/specifickycielprogramu/id/49",
+    "kod": "401202R24K",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871655
+   },
+   "createdAt": 1772540871684
+  }
+ ],
+ "miestoRealizacie": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 39,
+   "kod": "1009301",
+   "kodZdroj": "301",
+   "nazovSk": "Štátny podnik",
+   "nazovEn": "State enterprise",
+   "popisSk": "Štátny podnik Štátny podnik",
+   "popisEn": "State enterprise State enterprise",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1760565600000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 384,
+  "kod": "21_SO_PSK_MZPSR",
+  "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo životného prostredia SR",
+  "subjekt": {
+   "id": 100002,
+   "href": "/subjekt/id/100002",
+   "nazov": "Ministerstvo životného prostredia Slovenskej republiky",
+   "ico": "42181810",
+   "dic": "2023106679",
+   "icz": "1002832237",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2023106679",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Námestie Ľudovíta Štúra",
+    "cislo": "1",
+    "psc": "81235",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "OTVORENA",
+ "zameranieProjektu": "NP_21",
+ "createdAt": 1760426886173,
+ "updatedAt": 1760426886235,
+ "sumaEu": 3004535.0,
+ "predvyber": false,
+ "posudzovaneObdobie": [],
+ "pocetPredlozenychZiadosti": 0,
+ "pocetSchvalenychZiadosti": 0,
+ "pocetZiadostiVKonani": 0,
+ "pocetNeschvalenychZiadosti": 0,
+ "pocetRealizovanychProjektov": 0,
+ "planovanaVyzva": [],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 8,
+   "kod": "1032KF",
+   "kodZdroj": "KF",
+   "nazovSk": "Kohézny fond",
+   "nazovEn": "Kohézny fond",
+   "popisSk": "Kohézny fond",
+   "popisEn": "Kohézny fond",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "cielVyzvy": "<div><div><div><div style=\"margin-left:1.7pt\">Cieľom v&yacute;zvy na pr&iacute;pravu a predloženie n&aacute;rodn&eacute;ho projektu je prehodnotenie a aktualiz&aacute;cia pl&aacute;nov manažmentu povodňov&eacute;ho rizika, ktor&eacute; s&uacute; koordinovan&eacute; na &uacute;rovni spr&aacute;vneho &uacute;zemia povodia Dunaja a spr&aacute;vneho &uacute;zemia povodia Visly vych&aacute;dzaj&uacute;c z v&yacute;sledkov predbežn&eacute;ho hodnotenia povodňov&eacute;ho rizika, m&aacute;p povodňov&eacute;ho ohrozenia a m&aacute;p povodňov&eacute;ho rizika.</div><div style=\"margin-left:1.7pt\">Hlavn&aacute; aktivita projektu:</div><div style=\"margin-left:12.6pt\">-&nbsp;&nbsp;&nbsp; Vypracovanie pl&aacute;nu manažmentu povodňov&eacute;ho rizika, vr&aacute;tane vypracovania podkladov potrebn&yacute;ch k jeho aktualiz&aacute;cii.</div><div>Opr&aacute;vnen&eacute; aktivity tak, ako s&uacute; stanoven&eacute; touto v&yacute;zvou, nie s&uacute; poskytovan&iacute;m &scaron;t&aacute;tnej pomoci (ani pomoci de minimis), a teda vo vzťahu k opr&aacute;vnen&yacute;m aktivit&aacute;m sa neuplatňuj&uacute; pravidl&aacute; &scaron;t&aacute;tnej pomoci.</div></div></div></div>",
+ "sposobFinancovania": [
+  "ZALOHA",
+  "PREDFINANCOVANIE",
+  "REFUNDACIA"
+ ],
+ "typPartnerstva": "EVIDENCIE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktEmail": "vyzvy.psk@enviro.gov.sk",
+ "kontaktTelefon": "+421 906 314 282",
+ "kontaktneUdajePoskytovatela": "<div><div><b><u>Hromadn&eacute; poskytovanie &uacute;dajov k&nbsp;v&yacute;zve</u></b></div><div>Inform&aacute;cie t&yacute;kaj&uacute;ce sa tejto v&yacute;zvy je možn&eacute; z&iacute;skať prostredn&iacute;ctvom ITMS a na webovom s&iacute;dle <a href=\"http://www.eurofondy.gov.sk/\">www.eurofondy.gov.sk</a>.</div><div><b><u>Individu&aacute;lne poskytovanie &uacute;dajov k&nbsp;v&yacute;zve</u></b></div><div>Žiadateľ je opr&aacute;vnen&yacute; predložiť poskytovateľovi individu&aacute;lne ot&aacute;zky s&uacute;visiace s&nbsp;v&yacute;zvou, resp. vypracovan&iacute;m a&nbsp;predkladan&iacute;m ŽoNFP jednou z&nbsp;nasledovn&yacute;ch foriem:</div><div><b>Telefonicky na č&iacute;sle</b> +421&nbsp;906 314&nbsp;282 v&nbsp;nasleduj&uacute;cich dňoch:</div><div><b>pondelok, streda, piatok</b> v&nbsp;čase od 9:00 &ndash; 11:00,</div><div><b>utorok, &scaron;tvrtok</b> v&nbsp;čase od 13:00 &ndash; 15:00.</div><div>&nbsp;</div><div><b>V elektronickej podobe na e-mailovej adrese:</b> <a href=\"mailto:vyzvy.psk@enviro.gov.sk\">vyzvy.psk@enviro.gov.sk</a></div><div>&nbsp;</div><div><b>V&nbsp;elektronickej podobe prostredn&iacute;ctvom elektronickej schr&aacute;nky</b> <b>cez službu v&scaron;eobecn&aacute; agenda.</b></div><div>&nbsp;</div><div><b>V listinnej podobe na adrese poskytovateľa:</b></div><div><i>Ministerstvo životn&eacute;ho prostredia Slovenskej republiky</i></div><div><i>Sekcia environment&aacute;lnych programov a&nbsp;projektov </i></div><div><i>Karlovesk&aacute; 2</i></div><div><i>841 04 Bratislava</i></div><div>&nbsp;</div><div>Ot&aacute;zky predložen&eacute; p&iacute;somne je potrebn&eacute; označiť odkazom na t&uacute;to v&yacute;zvu (k&oacute;dom v&yacute;zvy PSK-MZP-040-2025-NP-KF), pričom ot&aacute;zka mus&iacute; byť formulovan&aacute; jasne a zrozumiteľne.</div><div>&nbsp;</div><div><b><u>Z&aacute;v&auml;znosť</u></b></div><div>Z&aacute;v&auml;zn&yacute; charakter maj&uacute; inform&aacute;cie zverejnen&eacute; na webovom s&iacute;dle <a href=\"http://www.eurofondy.gov.sk/\">www.eurofondy.gov.sk</a>, ako aj inform&aacute;cie poskytnut&eacute; poskytovateľom p&iacute;somnou formou (elektronicky alebo&nbsp;listinne). Inform&aacute;cie poskytnut&eacute; poskytovateľom verb&aacute;lnym sp&ocirc;sobom (telefonicky alebo osobne) nie je možn&eacute; považovať za z&aacute;v&auml;zn&eacute; a&nbsp;odvol&aacute;vať sa na ne.</div><div>&nbsp;</div>Poskytovanie inform&aacute;ci&iacute; a&nbsp;komunik&aacute;cia s&nbsp;poskytovateľom je ďalej upraven&aacute; v&nbsp;kapitole 6 <a href=\"https://www.eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/index.html\"><i>V&scaron;eobecnej inform&aacute;cie k&nbsp;ŽoNFP</i></a><i>.</i></div>",
+ "kontaktnaOsoba": [],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "1. Podmienka oprávnenosti žiadateľa / partnera",
+   "popisSk": "<div><div><div><div><b>Popis PPP</b></div></div><div><div>Opr&aacute;vnen&yacute;m žiadateľom je <b>Slovensk&yacute; vodohospod&aacute;rsky podnik, &scaron;t&aacute;tny podnik (ďalej aj &bdquo;SVP, &scaron;.p.&ldquo;)</b> a&nbsp;jeho partnermi s&uacute;:</div><div>Slovensk&yacute; hydrometeorologick&yacute; &uacute;stav, pr&iacute;spevkov&aacute; organiz&aacute;cia Ministerstva životn&eacute;ho prostredia Slovenskej republiky</div><div>V&yacute;skumn&yacute; &uacute;stav vodn&eacute;ho hospod&aacute;rstva, pr&iacute;spevkov&aacute; organiz&aacute;cia Ministerstva životn&eacute;ho prostredia Slovenskej republiky</div><div>Slovensk&aacute; agent&uacute;ra životn&eacute;ho prostredia, pr&iacute;spevkov&aacute; organiz&aacute;cia Ministerstva životn&eacute;ho prostredia Slovenskej republiky</div><div>Slovensk&aacute; technick&aacute; univerzita v&nbsp;Bratislave, verejnopr&aacute;vna a samospr&aacute;vna in&scaron;tit&uacute;cia</div><div>Ak je osoba konaj&uacute;ca v mene opr&aacute;vnen&eacute;ho žiadateľa odli&scaron;n&aacute; od &scaron;tatut&aacute;rneho org&aacute;nu žiadateľa, mus&iacute; byť riadne splnomocnen&aacute; na v&yacute;kon &uacute;konov, ktor&eacute; m&aacute; vo vzťahu ku&nbsp;konaniu o ŽoNFP vykonať, resp. mus&iacute; jej opr&aacute;vnenie v&yacute;konu t&yacute;chto &uacute;konov vypl&yacute;vať z&nbsp;intern&yacute;ch predpisov.</div></div><div><div>&nbsp;</div><div><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</b></div></div><div><div style=\"margin-left:1.7pt\">Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom:</div><ul><li><b>formul&aacute;ra ŽoNFP, tabuľka č. 1 Identifik&aacute;cia žiadateľa </b>&ndash; žiadateľ preuk&aacute;že, že patr&iacute; medzi opr&aacute;vnen&yacute;ch žiadateľov vyplnen&iacute;m relevantn&yacute;ch &uacute;dajov;</li><li><b>formul&aacute;ra ŽoNFP, tabuľka č. 2 Identifik&aacute;cia partnera </b>&ndash; partner preuk&aacute;že, že patr&iacute; medzi opr&aacute;vnen&yacute;ch partnerov vyplnen&iacute;m relevantn&yacute;ch &uacute;dajov;</li></ul><ul><li><b>pr&iacute;lohy č. 1 ŽoNFP</b> <b>&ndash;</b><b> P</b><b>lnomocenstvo </b>- v pr&iacute;pade, ak osoba konaj&uacute;ca v&nbsp;mene žiadateľa nie je &scaron;tatut&aacute;rnym org&aacute;nom žiadateľa.</li></ul><div><b>Bliž&scaron;ie inform&aacute;cie k pr&iacute;loh&aacute;m ŽoNFP s&uacute; uveden&eacute; v pr&iacute;lohe č. 5 v&yacute;zvy - <i>In&scaron;trukcie k&nbsp;obsahu povinn&yacute;ch pr&iacute;loh ŽoNFP.</i></b></div></div><div><div>&nbsp;</div><div><b>Sp&ocirc;sob overovania PPP zo strany poskytovateľa</b></div></div><div><div>Poskytovateľ na overenie splnenia PPP využ&iacute;va:</div><ul><li><b>v&scaron;etky žiadateľom poskytnut&eacute; inform&aacute;cie vo formul&aacute;ri ŽoNFP a pr&iacute;lohy uveden&eacute; vy&scaron;&scaron;ie v&nbsp;r&aacute;mci formy preuk&aacute;zania splnenia PPP zo strany žiadateľa</b>.</li></ul><div style=\"margin-left:-.85pt\">Splnenie PPP poskytovateľ overuje v konan&iacute; o&nbsp;ŽoNFP v re&aacute;lnom čase (v okamihu v&yacute;konu overenia).</div></div><div><div>&nbsp;</div><div><b>Ukončenie uplatniteľnosti PPP</b></div></div><div><div>PPP mus&iacute; trvať (byť naplnen&aacute;) kontinu&aacute;lne od jej prv&eacute;ho overenia (splnenia) až do skončenia &uacute;činnosti zmluvy o&nbsp;NFP<sup>3</sup>.</div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Príloha č. 1 ŽoNFP – Plnomocenstvo",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "2. Podmienka zákazu vedenia výkonu rozhodnutia voči žiadateľovi / partnerovi",
+   "popisSk": "<div><div><div><div><b>Popis PPP</b></div></div><div><div>Voči žiadateľovi / partnerovi nesmie byť vykon&aacute;van&aacute; exek&uacute;cia podľa Exekučn&eacute;ho poriadku<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><sup><sup>[1]</sup></sup></a> (s v&yacute;nimkou exek&uacute;cie, ktorej v&yacute;kon je odložen&yacute; zložen&iacute;m z&aacute;bezpeky podľa Exekučn&eacute;ho poriadku), ani veden&yacute; in&yacute; v&yacute;kon rozhodnutia podľa osobitn&yacute;ch predpisov, ktor&eacute;ho predmetom je n&uacute;ten&yacute; v&yacute;kon povinnosti zaplatiť peňažn&uacute; sumu v s&uacute;hrnnej v&yacute;&scaron;ke vym&aacute;han&eacute;ho n&aacute;roku, vr&aacute;tane v&scaron;etk&yacute;ch trov s&uacute;visiacich s&nbsp;v&yacute;konom rozhodnutia za v&scaron;etky takto vykon&aacute;van&eacute; exek&uacute;cie alebo in&eacute; v&yacute;kony rozhodnutia vy&scaron;&scaron;ej ako 1 % NFP požadovan&eacute;ho žiadateľom / partnerom v podanej ŽoNFP.</div><div>Voči žiadateľovi / partnerovi tiež nesmie byť veden&yacute; v&yacute;kon rozhodnutia na plnenie inej povinnosti, ktor&aacute; nespoč&iacute;va v zaplaten&iacute; peňažnej sumy, pokiaľ t&aacute;to nepeňažn&aacute; povinnosť akokoľvek priamo alebo nepriamo s&uacute;vis&iacute; s projektom, ktor&yacute; je predmetom podanej ŽoNFP žiadateľa.</div><div>V pr&iacute;pade, ak celkov&aacute; s&uacute;hrnn&aacute; v&yacute;&scaron;ka vym&aacute;han&eacute;ho n&aacute;roku, vr&aacute;tane trov s&uacute;visiacich s&nbsp;v&yacute;konom rozhodnutia za v&scaron;etky exek&uacute;cie alebo in&eacute; v&yacute;kony rozhodnutia presiahla 1 % NFP požadovan&eacute;ho žiadateľom / partnerom v podanej ŽoNFP, je pre &uacute;čely pos&uacute;denia tejto podmienky rozhoduj&uacute;ca skutočnosť, či dlžn&aacute; suma a v&scaron;etky trovy s&uacute;visiace s v&yacute;konom rozhodnutia:</div><ol><li>boli uhraden&eacute;<a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\"><sup><sup>[2]</sup></sup></a> alebo</li><li>boli zložen&eacute; do z&aacute;bezpeky na osobitn&yacute; &uacute;čet exek&uacute;tora, zriaden&yacute; na tento &uacute;čel podľa Exekučn&eacute;ho poriadku.</li></ol><div>V&yacute;&scaron;ka n&aacute;roku uhradenej exek&uacute;cie alebo odložen&eacute;ho v&yacute;konu exek&uacute;cie sa nezapoč&iacute;tava do celkovej v&yacute;&scaron;ky vym&aacute;han&eacute;ho n&aacute;roku 1 % zo žiadan&eacute;ho NFP.</div><div>Na &uacute;čely tejto PPP sa za začatie vedenia v&yacute;konu rozhodnutia považuje doručenie poverenia na vykonanie exek&uacute;cie exek&uacute;torovi, resp. in&aacute; skutočnosť určuj&uacute;ca začiatok v&yacute;konu rozhodnutia podľa osobitn&eacute;ho predpisu (napr. vydanie rozhodnutia o začat&iacute; daňov&eacute;ho alebo coln&eacute;ho exekučn&eacute;ho konania.</div><div>Upozornenie: V pr&iacute;pade exek&uacute;cie, ktorej v&yacute;kon je odložen&yacute; zložen&iacute;m z&aacute;bezpeky v&nbsp;hodnote s&uacute;hrnn&eacute;ho vym&aacute;han&eacute;ho n&aacute;roku na osobitn&yacute; &uacute;čet exek&uacute;tora zriaden&yacute; na tento &uacute;čel podľa Exekučn&eacute;ho poriadku, je poskytovateľ v&nbsp;pr&iacute;pade pochybnost&iacute; opr&aacute;vnen&yacute; vyžiadať si od žiadateľa / partnera aj doklad (najm&auml; &uacute;radn&yacute; z&aacute;znam) o zložen&iacute; z&aacute;bezpeky v hodnote s&uacute;hrnn&eacute;ho vym&aacute;han&eacute;ho n&aacute;roku na osobitn&yacute; &uacute;čet exek&uacute;tora, ktor&eacute; obsahuje v&yacute;&scaron;ku z&aacute;bezpeky a dĺžku jej trvania.</div><div>PPP sa net&yacute;ka v&yacute;konu rozhodnutia voči členom riadiacich a dozorn&yacute;ch org&aacute;nov žiadateľa / partnera, ale je relevantn&aacute; vo vzťahu k subjektu žiadateľa / partnera.</div></div><div><div>&nbsp;</div><div><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</b></div></div><div><div style=\"margin-left:1.7pt\">Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom:</div><ul><li><b>formul&aacute;ra ŽoNFP, tabuľka </b><b>č. 15.</b> <b>Čestn&eacute; vyhl&aacute;senie žiadateľa</b> - žiadateľ predklad&aacute; čestn&eacute; vyhl&aacute;senie v znen&iacute;:<ul><li><i>&bdquo;voči mne nie je veden&yacute; v&yacute;kon rozhodnutia, ktor&eacute;ho predmetom je n&uacute;ten&yacute; v&yacute;kon povinnosti zaplatiť peňažn&uacute; sumu, a to v celkovej s&uacute;hrnnej v&yacute;&scaron;ke </i><i>vym&aacute;han&eacute;ho n&aacute;roku</i><i> za v&scaron;etky takto vykon&aacute;van&eacute; exek&uacute;cie alebo in&eacute; v&yacute;kony rozhodnutia vy&scaron;&scaron;ej ako 1 % NFP požadovan&eacute;ho žiadateľom v podanej ŽoNFP&ldquo;</i> a</li><li><i>&bdquo;voči mne nie je veden&yacute; v&yacute;kon rozhodnutia na plnenie inej povinnosti, ktor&aacute; nespoč&iacute;va v&nbsp;zaplaten&iacute; peňažnej sumy, pokiaľ t&aacute;to nepeňažn&aacute; povinnosť akokoľvek priamo alebo nepriamo s&uacute;vis&iacute; s&nbsp;predložen&yacute;m projektom&ldquo;</i>;</li></ul></li><li><b>pr&iacute;lohy č. 2 ŽoNFP - </b><b>Upovedomenie o odklade exek&uacute;cie</b><a href=\"#_ftn3\" name=\"_ftnref3\" title=\"\"><sup><sup>[3]</sup></sup></a> (ak relevantn&eacute;),</li><li><b>pr&iacute;lohy č. 3 ŽoNFP - </b><b>S&uacute;hrnn&eacute; čestn&eacute; vyhl&aacute;senie partnera žiadateľa </b>(ak relevantn&eacute;)</li></ul><div>Bliž&scaron;ie inform&aacute;cie k pr&iacute;loh&aacute;m ŽoNFP s&uacute; uveden&eacute; v pr&iacute;lohe č. 5 v&yacute;zvy - In&scaron;trukcie k&nbsp;obsahu povinn&yacute;ch pr&iacute;loh ŽoNFP.</div></div><div><div>&nbsp;</div><div><b>Sp&ocirc;sob overovania PPP zo strany poskytovateľa</b></div></div><div><div>Poskytovateľ na overenie splnenia PPP využ&iacute;va:</div><ul><li><b>Centr&aacute;lny</b><b> register exek&uacute;ci&iacute;</b> (<a href=\"https://cre.sk/\">https://cre.sk</a>);</li><li>v&scaron;etky žiadateľom poskytnut&eacute; pr&iacute;lohy a&nbsp;inform&aacute;cie uveden&eacute; vy&scaron;&scaron;ie v&nbsp;r&aacute;mci formy preuk&aacute;zania splnenia PPP.</li></ul><div>Splnenie PPP poskytovateľ overuje v&nbsp;konan&iacute; o&nbsp;ŽoNFP v&nbsp;re&aacute;lnom čase (v okamihu v&yacute;konu overenia).</div></div><div><div>&nbsp;</div><div><b>Ukončenie uplatniteľnosti PPP</b></div></div><div><div>PPP mus&iacute; trvať (byť naplnen&aacute;) kontinu&aacute;lne od jej prv&eacute;ho overenia (splnenia) až do skončenia &uacute;činnosti zmluvy o NFP.</div><div>V pr&iacute;pade, že preru&scaron;enie plnenia danej podmienky v čase implement&aacute;cie projektu nesp&ocirc;sob&iacute; ohrozenie cieľov projektu a prij&iacute;mateľ v term&iacute;ne stanovenom poskytovateľom začne dan&uacute; podmienku op&auml;tovne plniť, t&aacute;to skutočnosť sa nemus&iacute; považovať za nesplnenie PPP.</div></div></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div style=\"margin-left:14.2pt\"><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Z&aacute;kon č. 233/1995 Z. z. o s&uacute;dnych exek&uacute;toroch a exekučnej činnosti (Exekučn&yacute; poriadok) a o zmene a doplnen&iacute; ďal&scaron;&iacute;ch z&aacute;konov v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov.</div></div><div id=\"ftn2\"><div style=\"margin-left:14.2pt\"><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a>&nbsp;&nbsp;&nbsp;&nbsp; V pr&iacute;pade, ak ide o exekučn&eacute; konania začat&eacute; pred 01.04.2017, podmienka &uacute;hrady trov s&uacute;visiacich s v&yacute;konom rozhodnutia nie je relevantn&aacute; v pr&iacute;pade, ak ide o exek&uacute;cie, od vykonania ktor&yacute;ch sa up&uacute;&scaron;ťa.</div></div><div id=\"ftn3\"><div style=\"margin-left:14.2pt\"><a href=\"#_ftnref3\" name=\"_ftn3\" title=\"\">[3]</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Relevantn&eacute; v&nbsp;pr&iacute;pade, ak je v&yacute;kon exek&uacute;cie odložen&yacute; zložen&iacute;m z&aacute;bezpeky v&nbsp;celkovej v&yacute;&scaron;ke vym&aacute;han&eacute;ho n&aacute;roku na osobitn&yacute; &uacute;čet exek&uacute;tora (vydan&yacute; exek&uacute;torom).</div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Príloha č. 2 ŽoNFP – Upovedomenie o odklade exekúcie",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    },
+    {
+     "poradoveCislo": 2,
+     "nazovSk": "Príloha č. 3 ŽoNFP – Súhrnné čestné vyhlásenie partnera žiadateľa",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "3. Podmienka, že žiadateľ / partner nie je evidovaný v Systéme včasného odhaľovania rizika a vylúčenia (EDES) ako vylúčená osoba alebo subjekt",
+   "popisSk": "<div><div><div><div><b>Popis PPP</b></div></div><div><div>Žiadateľ / partner nesmie byť evidovan&yacute; v Syst&eacute;me včasn&eacute;ho odhaľovania rizika a&nbsp;vyl&uacute;čenia (EDES) ako vyl&uacute;čen&aacute; osoba alebo subjekt v&nbsp;zmysle čl&aacute;nku 137 nariadenia o rozpočtov&yacute;ch pravidl&aacute;ch<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a>.</div></div><div><div>&nbsp;</div><div><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</b></div></div><div><div>Žiadateľ nepreukazuje splnenie tejto PPP osobitnou pr&iacute;lohou ŽoNFP.</div></div><div><div>&nbsp;</div><div><b>Sp&ocirc;sob overovania PPP zo strany poskytovateľa</b></div></div><div><div>Poskytovateľ overuje splnenie tejto PPP priamo prostredn&iacute;ctvom inform&aacute;ci&iacute; evidovan&yacute;ch v&nbsp;Syst&eacute;me včasn&eacute;ho odhaľovania rizika a vyl&uacute;čenia (EDES) a to v jeho neverejnej časti, ktor&aacute; je dostupn&aacute; na <a href=\"https://ec.europa.eu/budget/edes/index_en.cfm\">https://ec.europa.eu/budget/edes/index_en.cfm</a>.</div></div><div><div>&nbsp;</div><div><b>Ukončenie uplatniteľnosti PPP</b></div></div><div><div>PPP mus&iacute; trvať (byť naplnen&aacute;) kontinu&aacute;lne od jej prv&eacute;ho overenia (splnenia) až do skončenia &uacute;činnosti zmluvy o NFP.</div></div></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div style=\"margin-left:14.2pt\"><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\"><sup><sup>[1]</sup></sup></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nariadenie Eur&oacute;pskeho parlamentu a&nbsp;Rady (E&Uacute;, Euratom) 2024/2509 z 23. septembra 2024 o rozpočtov&yacute;ch pravidl&aacute;ch, ktor&eacute; sa vzťahuj&uacute; na v&scaron;eobecn&yacute; rozpočet &Uacute;nie.</div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "4. Podmienka oprávnenosti aktivít projektu",
+   "popisSk": "<div><div><div><div><b>Popis PPP</b></div></div><div><div>Hlavn&aacute; aktivita projektu (ďalej aj &bdquo;HAP&ldquo;), tak ako je definovan&aacute; v tejto v&yacute;zve, je vo vecnom s&uacute;lade s&nbsp;opr&aacute;vnen&yacute;m typom akcie (Vypracovanie a prehodnocovanie PMPR vr&aacute;tane potrebn&yacute;ch podkladov) opatrenia 2.4.5 Vytv&aacute;ranie koncepčn&yacute;ch v&yacute;chod&iacute;sk pre realiz&aacute;ciu adaptačn&yacute;ch opatren&iacute; na n&aacute;rodnej, region&aacute;lnej a miestnej &uacute;rovni &nbsp;P SK, ako aj schv&aacute;len&yacute;m z&aacute;merom n&aacute;rodn&eacute;ho projektu <a href=\"https://eurofondy.gov.sk/program-slovensko/monitorovaci-vybor/schvalene-zamery/\"><b>Hodnotenie a manažment povodňov&eacute;ho rizika &ndash; aktualiz&aacute;cia III</b></a>.</div><div style=\"margin-left:1.7pt\">V&nbsp;s&uacute;lade s&nbsp;cieľom v&yacute;zvy je definovan&aacute; HAP:</div><div><b>Vypracovanie pl&aacute;nu manažmentu povodňov&eacute;ho rizika, vr&aacute;tane vypracovania&nbsp; podkladov potrebn&yacute;ch k jeho&nbsp;aktualiz&aacute;cii </b></div><div>Vzhľadom na vecn&yacute; charakter projektu je priamo zabezpečen&yacute; s&uacute;lad so:</div><ul><li><b>smernicou Eur&oacute;pskeho parlamentu a Rady 2007/60/ES z 23. okt&oacute;bra 2007 o hodnoten&iacute; a manažmente povodňov&yacute;ch riz&iacute;k</b> (ďalej len &bdquo;smernica 2007/60/ES&ldquo;),</li><li><b>z&aacute;konom č. 7/2010 Z.z. </b><b>o ochrane pred povodňami, </b></li><li><a href=\"https://www.minzp.sk/klima/adaptacia-zmenu-klimy/\"><b>Akčn&yacute;m pl&aacute;nom pre implement&aacute;ciu Strat&eacute;gie adapt&aacute;cie SR na zmenu kl&iacute;my</b> (2021)</a>, a&nbsp;to konkr&eacute;tne &scaron;pecifick&eacute;mu opatreniu 1.4 Adapt&aacute;cia v strategick&yacute;ch dokumentoch integrovan&eacute;ho manažmentu povod&iacute;,</li><li>koncepčn&yacute;m dokumentom <a href=\"https://www.minzp.sk/voda/koncepcne-dokumenty/koncepcia-vodnej-politiky-roky-2021-2030-vyhladom-do-roku-2050.html\"><b>Koncepciou vodnej politiky Slovenskej republiky do roku 2030 s&nbsp;v&yacute;hľadom do roku 2050</b></a><b>,</b></li><li>Pl&aacute;nom manažmentu spr&aacute;vneho &uacute;zemia povodia Dunaja a Pl&aacute;nom manažmentu spr&aacute;vneho &uacute;zemia povodia Visly, ktor&eacute; s&uacute; s&uacute;časťou <a href=\"https://www.minzp.sk/voda/vodny-plan-slovenska/\"><b>Vodn&eacute;ho pl&aacute;nu Slovenskej republiky</b></a> &ndash; aktualiz&aacute;cia 2021,</li><li><a href=\"https://rokovania.gov.sk/RVL/Material/26865/1\"><b>N&aacute;rodnou strat&eacute;giou riadenia riz&iacute;k bezpečnostn&yacute;ch hrozieb Slovenskej republiky</b></a>, v r&aacute;mci ktor&eacute;ho boli povodne identifikovan&eacute; ako dlhodob&eacute; hrozby a rizik&aacute; na &uacute;zem&iacute; Slovenska.</li></ul><div>---------------------------------------------------------------------------------------------------------------</div><div>V&yacute;stupy/v&yacute;sledky, ktor&eacute; maj&uacute; byť dosiahnut&eacute; realiz&aacute;ciou aktiv&iacute;t projektu, musia byť kvantifikovan&eacute; prostredn&iacute;ctvom merateľn&yacute;ch ukazovateľov definovan&yacute;ch v&nbsp;dokumente <b><i>Zoznam merateľn&yacute;ch ukazovateľov projektu a in&yacute;ch &uacute;dajov</i></b>, ktor&yacute; tvor&iacute; pr&iacute;lohu č. 3 v&yacute;zvy.</div><div>Podmienkou poskytnutia pr&iacute;spevku je stanovenie nenulov&yacute;ch cieľov&yacute;ch hodn&ocirc;t relevantn&yacute;ch merateľn&yacute;ch ukazovateľov.</div><div>&nbsp;</div><div>--------------------------------------------------------------------------------------------------------------</div><div>Žiadateľ nesmie v s&uacute;lade s čl. 63 ods. 6 NSU<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a> ukončiť fyzick&uacute; realiz&aacute;ciu HAP, t.&nbsp;j. plne zrealizovať HAP pred predložen&iacute;m ŽoNFP poskytovateľovi.</div><div>Realiz&aacute;cia HAP sa považuje za ukončen&uacute; v kalend&aacute;rny deň, kedy žiadateľ kumulat&iacute;vne spln&iacute; niž&scaron;ie uveden&eacute; podmienky:</div><ol><li>fyzicky zrealizoval HAP,</li><li>predmet projektu bol riadne dodan&yacute; a prij&iacute;mateľ ho prevzal, a ak to vypl&yacute;va z&nbsp;charakteru plnenia, aj ho uviedol do už&iacute;vania.&nbsp;</li></ol></div><div><div><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</b></div></div><div><div style=\"margin-left:1.7pt\">Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom:</div><ul><li><b>formul&aacute;ra ŽoNFP, tabuľka č. 7. Popis projektu</b></li><li><b>formul&aacute;ra ŽoNFP, tabuľka č. 7.2. Popis v&yacute;chodiskovej situ&aacute;cie</b></li><li><b>formul&aacute;ra ŽoNFP, tabuľka č. 7.3. Sp&ocirc;sob realiz&aacute;cie aktiv&iacute;t projektu</b></li><li><b>formul&aacute;ra ŽoNFP, tabuľka č. 9. Harmonogram realiz&aacute;cie aktiv&iacute;t</b></li><li><b>formul&aacute;ra ŽoNFP, tabuľka č. 10. Merateľn&eacute; ukazovatele projektu</b></li></ul><ul><li><b>pr&iacute;lohy č. 4 ŽoNFP</b> &ndash; <b>Podporn&aacute; dokument&aacute;cia k opr&aacute;vnenosti v&yacute;davkov</b></li><li><b>pr&iacute;lohy č.&nbsp;8 v&yacute;zvy - Z&aacute;mer n&aacute;rodn&eacute;ho projektu: Hodnotenie a&nbsp;manažment povodňov&eacute;ho rizika &ndash; aktualiz&aacute;cia III </b></li></ul><div>Bliž&scaron;ie inform&aacute;cie k pr&iacute;loh&aacute;m ŽoNFP s&uacute; uveden&eacute; v pr&iacute;lohe č. 5 v&yacute;zvy - In&scaron;trukcie k&nbsp;obsahu povinn&yacute;ch pr&iacute;loh ŽoNFP.</div></div><div><div>&nbsp;</div><div><b>Sp&ocirc;sob overovania PPP zo strany poskytovateľa</b></div></div><div><div>Poskytovateľ na overenie splnenia PPP využ&iacute;va:</div><ul><li>v&scaron;etky žiadateľom poskytnut&eacute; pr&iacute;lohy a&nbsp;inform&aacute;cie uveden&eacute; vy&scaron;&scaron;ie v&nbsp;r&aacute;mci formy preuk&aacute;zania splnenia PPP.</li></ul><div>Splnenie PPP poskytovateľ overuje v&nbsp;konan&iacute; o&nbsp;ŽoNFP v&nbsp;re&aacute;lnom čase (v okamihu v&yacute;konu overenia).</div></div><div><div>&nbsp;</div><div><b>Ukončenie uplatniteľnosti PPP</b></div></div><div><div>PPP mus&iacute; trvať (byť naplnen&aacute;) kontinu&aacute;lne od jej prv&eacute;ho overenia (splnenia) až do skončenia &uacute;činnosti zmluvy o NFP.</div><div>Plnenie podmienky fyzick&eacute;ho neukončenia realiz&aacute;ciu v&scaron;etk&yacute;ch HAP sa viaže k momentu predloženia ŽoNFP. Vzhľadom na skutočnosť, že&nbsp;poskytovateľ overuje splnenie tejto podmienky v konan&iacute; o ŽoNFP na z&aacute;klade inform&aacute;ci&iacute; predkladan&yacute;ch žiadateľom v ŽoNFP (harmonogram realiz&aacute;cie aktiv&iacute;t projektu), m&ocirc;že poskytovateľ po nadobudnut&iacute; &uacute;činnosti zmluvy o NFP (v pr&iacute;pade pochybnost&iacute;) overiť, či t&aacute;to podmienka bola skutočne ku dňu predloženia ŽoNFP splnen&aacute;, a&nbsp;teda či poskytovateľ neschv&aacute;lil ŽoNFP na z&aacute;klade nepravdiv&yacute;ch inform&aacute;ci&iacute;.</div></div></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div style=\"margin-left:14.2pt\"><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> &nbsp;&nbsp;&nbsp; NARIADENIE EUR&Oacute;PSKEHO PARLAMENTU A RADY (E&Uacute;) 2021/1060 z 24. j&uacute;na 2021, ktor&yacute;m sa stanovuj&uacute; spoločn&eacute; ustanovenia o Eur&oacute;pskom fonde region&aacute;lneho rozvoja, Eur&oacute;pskom soci&aacute;lnom fonde plus, Koh&eacute;znom fonde, Fonde na spravodliv&uacute; transform&aacute;ciu a Eur&oacute;pskom n&aacute;mornom, rybolovnom a akvakult&uacute;rnom fonde a rozpočtov&eacute; pravidl&aacute; pre uveden&eacute; fondy, ako aj pre Fond pre azyl, migr&aacute;ciu a integr&aacute;ciu, Fond pre vn&uacute;torn&uacute; bezpečnosť a N&aacute;stroj finančnej podpory na riadenie hran&iacute;c a v&iacute;zov&uacute; politiku</div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Príloha č. 4 ŽoNFP – Podporná dokumentácia k oprávnenosti výdavkov",
+     "nazovDe": "Ergänzende Dokumentation zur Förderfähigkeit der Kosten",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 5,
+   "nazovSk": "5. Podmienka, že výdavky projektu sú oprávnené",
+   "popisSk": "<div><div><div><div><b>&nbsp;Popis PPP</b></div></div><div><div>V&yacute;davky projektu musia byť preuk&aacute;zateľne opr&aacute;vnen&eacute; na financovanie z P SK, čo znamen&aacute;, že s&uacute; v s&uacute;lade s jednotn&yacute;mi pravidlami opr&aacute;vnenosti v&yacute;davkov definovan&yacute;mi v platnej verzii dokumentu <a href=\"https://www.eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/index.html\"><b><i>Pr&iacute;ručka k&nbsp;opr&aacute;vnenosti v&yacute;davkov</i></b></a> (ďalej aj &bdquo;<i>Pr&iacute;ručka k&nbsp;OV&ldquo;</i>) <u>a&nbsp;z&aacute;roveň</u> s&uacute; v&nbsp;s&uacute;lade s&nbsp;pravidlami vymedzen&yacute;mi v&nbsp;<b>pr&iacute;lohe č.&nbsp;4 v&yacute;zvy -</b> <b><i>Opr&aacute;vnenosť v&yacute;davkov</i></b>.</div><div>V tejto v&yacute;zve sa aplikuje <b>re&aacute;lne vykazovanie priamych v&yacute;davkov</b> a <b>zjednodu&scaron;en&eacute; vykazovanie nepriamych v&yacute;davkov</b> formou <u>pau&scaron;&aacute;lnej sadzby na nepriame v&yacute;davky</u> (čl.&nbsp;54 p&iacute;sm. a) NSU). Pau&scaron;&aacute;lna sadzba na nepriame v&yacute;davky je stanoven&aacute; vo v&yacute;&scaron;ke 7&nbsp;% opr&aacute;vnen&yacute;ch priamych v&yacute;davkov.</div><div>V r&aacute;mci v&yacute;zvy nie je stanoven&aacute; minim&aacute;lna ani maxim&aacute;lna dĺžka realiz&aacute;cie projektu. Časov&aacute; opr&aacute;vnenosť v&yacute;davkov, ktor&aacute; je uveden&aacute; v <i>Pr&iacute;ručke k OV</i>, v&scaron;ak mus&iacute; byť dodržan&aacute;.</div></div><div><div>&nbsp;</div><div><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</b></div></div><div><div style=\"margin-left:1.7pt\">Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom:</div><ul><li><b>formul&aacute;ra ŽoNFP, tabuľka č. 11. Rozpočet projektu</b>;</li><li><b>pr&iacute;lohy č. 4</b> <b>ŽoNFP</b> - <b>Podporn&aacute; dokument&aacute;cia k&nbsp;opr&aacute;vnenosti v&yacute;davkov </b></li></ul><div>Bliž&scaron;ie inform&aacute;cie k pr&iacute;loh&aacute;m ŽoNFP s&uacute; uveden&eacute; v pr&iacute;lohe č. 5 v&yacute;zvy - In&scaron;trukcie k&nbsp;obsahu povinn&yacute;ch pr&iacute;loh ŽoNFP.</div></div><div><div>&nbsp;</div><div><b>Sp&ocirc;sob overovania PPP zo strany poskytovateľa</b></div></div><div><div>Poskytovateľ na overenie splnenia PPP využ&iacute;va v&scaron;etky žiadateľom poskytnut&eacute; pr&iacute;lohy a&nbsp;inform&aacute;cie uveden&eacute; vy&scaron;&scaron;ie v&nbsp;r&aacute;mci formy preuk&aacute;zania splnenia PPP.</div><div>Splnenie PPP poskytovateľ overuje v konan&iacute; o&nbsp;ŽoNFP v re&aacute;lnom čase (v okamihu v&yacute;konu overenia).</div></div><div><div>&nbsp;</div><div><b>Ukončenie uplatniteľnosti PPP</b></div></div><div><div>PPP mus&iacute; trvať (byť naplnen&aacute;) kontinu&aacute;lne od jej prv&eacute;ho overenia (splnenia) až do momentu finančn&eacute;ho ukončenia projektu.</div><div>T&yacute;mto nie je dotknut&eacute; pr&aacute;vo poskytovateľa vykonať kontrolu opr&aacute;vnenosti v&yacute;davkov aj po stanovenej dobe a v pr&iacute;pade identifik&aacute;cie neopr&aacute;vnen&yacute;ch v&yacute;davkov uplatniť postupy v s&uacute;lade so zmluvou o NFP.</div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Príloha č. 4 ŽoNFP – Podporná dokumentácia k oprávnenosti výdavkov",
+     "nazovDe": "Ergänzende Dokumentation zur Förderfähigkeit der Kosten",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 6,
+   "nazovSk": "6. Podmienka splnenia kritérií pre výber projektov",
+   "popisSk": "<div><div><div><div><b>Popis PPP</b></div></div><div><div>ŽoNFP mus&iacute; splniť krit&eacute;ria v&yacute;beru projektov.</div><div>Krit&eacute;ri&aacute; pre v&yacute;ber projektov pozost&aacute;vaj&uacute; z&nbsp;<b>vylučuj&uacute;cich krit&eacute;ri&iacute; podľa čl.&nbsp;9 a&nbsp;čl.&nbsp;73 NSU</b>.</div><div><b>Vylučuj&uacute;ce krit&eacute;ri&aacute; podľa čl&aacute;nku 73 NSU</b> &ndash; ide o&nbsp;vylučuj&uacute;ce krit&eacute;ri&aacute;, ktor&yacute;mi sa zabezpečuje pos&uacute;denie požiadaviek podľa čl&aacute;nku 73 NSU a&nbsp;ktor&yacute;ch požiadavky na&nbsp;v&yacute;ber projektov nie s&uacute; zabezpečen&eacute; nastaven&iacute;m v&yacute;zvy alebo nastaven&iacute;m jednej alebo viacer&yacute;ch PPP.</div><div>Aplik&aacute;cia krit&eacute;ri&iacute; pre v&yacute;ber projektov je bliž&scaron;ie uveden&aacute; <b>v&nbsp;pr&iacute;lohe č. 6 v&yacute;zvy - Krit&eacute;ri&aacute; pre v&yacute;ber projektov.</b></div><div><b>Doplňuj&uacute;ce inform&aacute;cie k&nbsp;zneniu vylučuj&uacute;ceho krit&eacute;ria HP<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><b>[1]</b></a>:</b></div><div>Projekt mus&iacute; byť v s&uacute;lade s&nbsp;horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach<a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\"><sup><sup>[2]</sup></sup></a>, s&nbsp;prihliadnut&iacute;m na&nbsp;dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a&nbsp;akt&iacute;vneho podporovania mužov a&nbsp;žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a&nbsp;činnostiach, najm&auml; ak ide o&nbsp;pr&iacute;stup k&nbsp;zamestnaniu, odmeňovanie a&nbsp;pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a&nbsp;pracovn&eacute; podmienky.</div><div>V&nbsp;projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a&nbsp;zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a&nbsp;zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a&nbsp;verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v&nbsp;s&uacute;lade s&nbsp;čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so&nbsp;zdravotn&yacute;m postihnut&iacute;m<a href=\"#_ftn3\" name=\"_ftnref3\" title=\"\"><sup><sup>[3]</sup></sup></a>.</div></div><div><div>&nbsp;</div><div><b>Forma preuk&aacute;zania splnenia PPP zo strany žiadateľa</b></div></div><div><div>Žiadateľ preukazuje splnenie PPP prostredn&iacute;ctvom:</div><ul><li><b>formul&aacute;r žiadosti o NFP časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa.</b></li></ul></div><div><div><b>Sp&ocirc;sob overovania PPP zo strany poskytovateľa</b></div></div><div><div>Poskytovateľ overuje splnenie PPP prostredn&iacute;ctvom:</div><div style=\"margin-left:15.8pt\">-<b> &nbsp;&nbsp;&nbsp; formul&aacute;r žiadosti o NFP časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa</b>.</div></div><div><div>&nbsp;</div><div><b>Ukončenie uplatniteľnosti PPP</b></div></div><div><div>PPP mus&iacute; trvať (byť naplnen&aacute;) kontinu&aacute;lne od jej prv&eacute;ho overenia (splnenia) do skončenia konania o ŽoNFP.</div></div></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div style=\"margin-left:14.2pt\"><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> &nbsp;&nbsp;&nbsp; horizont&aacute;lne princ&iacute;py</div></div><div id=\"ftn2\"><div style=\"margin-left:14.2pt\"><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a>&nbsp; &nbsp;&nbsp;&nbsp; <a href=\"https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060\">https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060</a></div></div><div id=\"ftn3\"><div style=\"margin-left:14.2pt\"><a href=\"#_ftnref3\" name=\"_ftn3\" title=\"\">[3]</a> &nbsp;&nbsp;&nbsp; <a href=\"https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf\">https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf</a></div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [
+  {
+   "id": 100557,
+   "href": "/subjekt/id/100557",
+   "nazov": "SLOVENSKÝ VODOHOSPODÁRSKY PODNIK, štátny podnik",
+   "ico": "36022047",
+   "dic": "2020066213",
+   "platitelDph": true,
+   "podlaParagrafu": "podľa §4",
+   "icDph": "SK2020066213",
+   "pravnaForma": {
+    "id": 39,
+    "kod": "1009301",
+    "kodZdroj": "301",
+    "nazovSk": "Štátny podnik",
+    "nazovEn": "State enterprise",
+    "popisSk": "Štátny podnik Štátny podnik",
+    "popisEn": "State enterprise State enterprise",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Karloveská",
+    "cislo": "2",
+    "psc": "84104",
+    "obec": "Bratislava - mestská časť Karlova Ves",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ ],
+ "miestoRealizacieFull": [
+  {
+   "id": 9,
+   "kod": "1006SK010",
+   "kodZdroj": "SK010",
+   "nazovSk": "Bratislavský kraj",
+   "nazovEn": "Region of Bratislava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 10,
+   "kod": "1006SK021",
+   "kodZdroj": "SK021",
+   "nazovSk": "Trnavský kraj",
+   "nazovEn": "Region of Trnava",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 12,
+   "kod": "1006SK023",
+   "kodZdroj": "SK023",
+   "nazovSk": "Nitriansky kraj",
+   "nazovEn": "Region of Nitra",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 13,
+   "kod": "1006SK031",
+   "kodZdroj": "SK031",
+   "nazovSk": "Žilinský kraj",
+   "nazovEn": "Region of Žilina",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 14,
+   "kod": "1006SK032",
+   "kodZdroj": "SK032",
+   "nazovSk": "Banskobystrický kraj",
+   "nazovEn": "Region of Banská Bystrica",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 15,
+   "kod": "1006SK041",
+   "kodZdroj": "SK041",
+   "nazovSk": "Prešovský kraj",
+   "nazovEn": "Region of Prešov",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 16,
+   "kod": "1006SK042",
+   "kodZdroj": "SK042",
+   "nazovSk": "Košický kraj",
+   "nazovEn": "Region of Košice",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [
+  {
+   "id": 43,
+   "kod": "1009331",
+   "kodZdroj": "331",
+   "nazovSk": "Príspevková organizácia",
+   "nazovEn": "Organization based on state contributions",
+   "popisSk": "Príspevková organizácia Príspevková organizácia",
+   "popisEn": "Org.based on contrib. Organization based on state contributions",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  },
+  {
+   "id": 49,
+   "kod": "1009382",
+   "kodZdroj": "382",
+   "nazovSk": "Verejnoprávna inštitúcia",
+   "nazovEn": "Public legal institution",
+   "popisSk": "Verejnopráv.inštitúcia Verejnoprávna inštitúcia",
+   "popisEn": "Public legal institut. Public legal institution",
+   "platnostOd": 838850400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "opravneneVydavky": [
+  {
+   "kod": "1040907",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. a) NSU",
+   "typAkcieProgramu": {
+    "id": 1059,
+    "href": "/typakcieprogramu/id/1059"
+   }
+  },
+  {
+   "kod": "1040013",
+   "nazovSk": "Softvér",
+   "typAkcieProgramu": {
+    "id": 752,
+    "href": "/typakcieprogramu/id/752"
+   }
+  },
+  {
+   "kod": "1040014",
+   "nazovSk": "Oceniteľné práva",
+   "typAkcieProgramu": {
+    "id": 752,
+    "href": "/typakcieprogramu/id/752"
+   }
+  },
+  {
+   "kod": "1040112",
+   "nazovSk": "Zásoby",
+   "typAkcieProgramu": {
+    "id": 752,
+    "href": "/typakcieprogramu/id/752"
+   }
+  },
+  {
+   "kod": "1040512",
+   "nazovSk": "Cestovné náhrady",
+   "typAkcieProgramu": {
+    "id": 752,
+    "href": "/typakcieprogramu/id/752"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 752,
+    "href": "/typakcieprogramu/id/752"
+   }
+  },
+  {
+   "kod": "1040521",
+   "nazovSk": "Mzdové výdavky",
+   "typAkcieProgramu": {
+    "id": 752,
+    "href": "/typakcieprogramu/id/752"
+   }
+  }
+ ],
+ "externyZdroj": [],
+ "dokument": [
+  {
+   "nazov": "Výzva PSK-MZP-040-2025-NP-KF_pdf.7z",
+   "uuid": "d455e668-1c38-4403-984c-2cae06100ef9"
+  }
+ ],
+ "inaSkutocnostUzatvorenieVyzvy": "<div><div><div><div>Poskytovateľ uzavrie v&yacute;zvu na pr&iacute;pravu a predloženie n&aacute;rodn&eacute;ho projektu &bdquo;Hodnotenie a manažment povodňov&eacute;ho rizika &ndash; aktualiz&aacute;cia III&ldquo; na z&aacute;klade schv&aacute;lenia ŽoNFP, resp. vydania Rozhodnutia o ŽoNFP.</div><div>Poskytovateľ zverejn&iacute; inform&aacute;ciu o uzavret&iacute; v&yacute;zvy spolu s d&ocirc;vodom uzavretia vo verejnej časti ITMS a na <a href=\"http://www.eurofondy.gov.sk/\">www.eurofondy.gov.sk</a>.</div></div></div></div>",
+ "mieraSpolufinancovania": "<div>Financovanie celkov&yacute;ch opr&aacute;vnen&yacute;ch v&yacute;davkov projektu bude v r&aacute;mci tejto v&yacute;zvy realizovan&eacute; v s&uacute;lade s pravidlami stanoven&yacute;mi v platnej <a href=\"https://www.mfsr.sk/sk/financne-vztahy-eu/povstupove-fondy-eu/programove-obdobie-2021-2027/strategia-financovania-efrr-esf-kf-fst-enraf-2021-2027/\"><b><i>Strat&eacute;gii financovania</i></b></a>.</div><div><img alt=\"\" src=\"data:image/png;base64,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\" /></div>",
+ "sposobPodaniaZoNFP": "<div><div><div><div>Žiadateľ predklad&aacute; poskytovateľovi:</div><ol><li>vyplnen&yacute; formul&aacute;r ŽoNFP, vr&aacute;tane v&scaron;etk&yacute;ch pr&iacute;loh, elektronicky prostredn&iacute;ctvom verejnej časti ITMS</li></ol><div style=\"margin-left:17.85pt\"><b>a&nbsp;z&aacute;roveň</b></div><ol><li value=\"2\">formul&aacute;r ŽoNFP bez pr&iacute;loh v&nbsp;p&iacute;somnej forme, a&nbsp;to v&nbsp;elektronickej podobe <b>prostredn&iacute;ctvom e-schr&aacute;nky</b><a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><sup><sup>[1]</sup></sup></a><b>,</b> zriadenej cez&nbsp;&uacute;stredn&yacute; port&aacute;l verejnej spr&aacute;vy <a href=\"http://www.slovensko.sk/\">www.slovensko.sk</a> alebo priamo z&nbsp;prostredia ITMS, pričom formul&aacute;r ŽoNFP mus&iacute; byť podp&iacute;san&yacute; kvalifikovan&yacute;m elektronick&yacute;m podpisom alebo kvalifikovan&yacute;m elektronick&yacute;m podpisom s&nbsp;mand&aacute;tnym certifik&aacute;tom<a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\"><sup><sup>[2]</sup></sup></a>.</li></ol><div>V&nbsp;pr&iacute;pade, ak z&nbsp;technick&yacute;ch alebo prev&aacute;dzkov&yacute;ch pr&iacute;čin nie je možn&eacute; predložiť niektor&uacute; z&nbsp;pr&iacute;loh elektronicky prostredn&iacute;ctvom ITMS, žiadateľ predlož&iacute; t&uacute;to pr&iacute;lohu <b>v&nbsp;listinnej podobe na </b><b>po&scaron;tov&uacute; adresu poskytovateľa</b><b> alebo v elektronickej podobe do&nbsp;e-&nbsp;schr&aacute;nky poskytovateľa </b>tak, aby bolo zrejm&eacute;, že ide o&nbsp;pr&iacute;lohu formul&aacute;ra ŽoNFP.</div><div>Poskytovateľ akceptuje listinn&eacute; predloženie pr&iacute;loh formul&aacute;ra ŽoNFP z d&ocirc;vodu obmedzen&iacute;, ktor&eacute; s&uacute;visia s&nbsp;rozsahom predkladan&yacute;ch pr&iacute;loh ŽoNFP a/alebo zachovan&iacute;m ich zrozumiteľnosti a&nbsp;presnosti (napr&iacute;klad rozsiahla projektov&aacute; a&nbsp;technick&aacute; dokument&aacute;cia alebo dokument&aacute;cia vytvoren&aacute; v&nbsp;osobitn&yacute;ch softv&eacute;roch).</div><div>Dokument&aacute;cia predkladan&aacute; v&nbsp;listinnej podobe sa predklad&aacute; v&nbsp;<b>jednom </b><b>origin&aacute;lnom vyhotoven&iacute;</b> a&nbsp;<b>jednej k&oacute;pii.</b></div><div><b><i>V pr&iacute;pade, ak žiadateľ predklad&aacute; určit&uacute; pr&iacute;lohu v listinnej podobe žiadateľ v časti 7.2 formul&aacute;ra ŽoNFP identifikuje dan&uacute; pr&iacute;lohu.</i></b></div><div>Postup pri&nbsp;z&iacute;skavan&iacute; pr&iacute;stupu žiadateľa do ITMS, pr&iacute;stupu, resp. pr&aacute;ce v r&aacute;mci elektronickej schr&aacute;nky, procesn&yacute; postup a&nbsp;technicko-organizačn&eacute; n&aacute;ležitosti pri predkladan&iacute; ŽoNFP a&nbsp;podmienky, ktor&eacute; mus&iacute; žiadateľ splniť na to, aby bola ŽoNFP predložen&aacute; riadne a včas s&uacute; bliž&scaron;ie &scaron;pecifikovan&eacute; v&nbsp;kapitole 2 a&nbsp;3 <a href=\"https://www.eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/index.html\"><b><i>V&scaron;eobecnej inform&aacute;cie k&nbsp;predkladaniu a&nbsp;schvaľovaniu žiadosti o&nbsp;poskytnutie nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku</i></b></a> (ďalej aj &bdquo;<i>V&scaron;eobecn&aacute; inform&aacute;cia k&nbsp;ŽoNFP</i>&ldquo;).</div></div></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div style=\"margin-left:14.2pt\"><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Elektronick&eacute; &uacute;ložisko podľa z&aacute;kona č. 305/2013 Z. z. o elektronickej podobe v&yacute;konu p&ocirc;sobnosti org&aacute;nov verejnej moci a o zmene a&nbsp;doplnen&iacute; niektor&yacute;ch z&aacute;konov (z&aacute;kon o e-Governmente) v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov (ďalej len &bdquo;z&aacute;kon o e-Governmente&ldquo;).</div></div><div id=\"ftn2\"><div style=\"margin-left:14.2pt\"><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> &nbsp;&nbsp;&nbsp; Upozorňujeme na skutočnosť, že opr&aacute;vnen&iacute; žiadatelia v zmysle tejto v&yacute;zvy s&uacute; v nadv&auml;znosti na &sect; 23 v spojen&iacute; s &sect; 17 ods. 3, druh&aacute; veta z&aacute;kona o e-Governmente povinn&eacute; zasielať formul&aacute;r ŽoNFP v elektronickej podobe prostredn&iacute;ctvom e-schr&aacute;nky. Listinn&eacute; doručenie formul&aacute;ra ŽoNFP je pre&nbsp;žiadateľov možn&eacute; len&nbsp;z d&ocirc;vodu technick&yacute;ch, resp. prev&aacute;dzkov&yacute;ch d&ocirc;vodov, ktor&eacute; je žiadateľ povinn&yacute; preuk&aacute;zať pri predložen&iacute; ŽoNFP a/alebo v&nbsp;r&aacute;mci doplnenia ch&yacute;baj&uacute;cich n&aacute;ležitost&iacute; ŽoNFP na z&aacute;klade v&yacute;zvy podľa &sect; 23 v spojen&iacute; s &sect; 16 ods. 5 z&aacute;kona o pr&iacute;spevkoch z&nbsp;fondov.</div></div></div></div>",
+ "miestoPrePodanieZoNFP": "<div><div><div><div><b>Elektronick&eacute; podanie sa vykon&aacute; do:</b></div><div><b>Elektronickej schr&aacute;nky</b> Ministerstva životn&eacute;ho prostredia Slovenskej republiky &ndash; v&scaron;eobecn&aacute; agenda</div><div>&nbsp;</div><div><b>Listinn&eacute; podanie sa vykon&aacute; na adresu:</b></div><div>Ministerstvo životn&eacute;ho prostredia Slovenskej republiky</div><div>Sekcia environment&aacute;lnych programov a&nbsp;projektov</div><div>Odbor posudzovania projektov</div><div>Karlovesk&aacute; 2</div><div>841 04 Bratislava</div><div>&nbsp;</div><div>Dokumenty predkladan&eacute; v&nbsp;listinnej podobe je možn&eacute; predložiť na vy&scaron;&scaron;ie uveden&uacute; adresu jedn&yacute;m z&nbsp;nasledovn&yacute;ch sp&ocirc;sobov:</div><ul><li>osobne v&nbsp;pracovn&eacute; dni v&nbsp;čase 8:00 - 11:00 a&nbsp;12:00 - 15:00,</li><li>doporučenou po&scaron;tou,</li><li>kuri&eacute;rskou službou.</li></ul><div>Žiadateľ je v&nbsp;zmysle &sect; 23 v&nbsp;spojen&iacute; s &sect; 16 ods. 4 z&aacute;kona o&nbsp;pr&iacute;spevkoch z fondov povinn&yacute; predložiť <b>ŽoNFP riadne a včas</b>.</div><div><b>V&nbsp;pr&iacute;pade, ak žiadateľ nepredlož&iacute; ŽoNFP riadne a&nbsp;včas, resp. ak pretrv&aacute;vaj&uacute; pochybnosti o&nbsp;predložen&iacute; ŽoNFP riadne a včas poskytovateľ zastav&iacute; konanie o&nbsp;ŽoNFP.</b></div></div></div></div>",
+ "predpokladanaLehotaNaRozhodnutie": "<div><div><div><div>Konanie o&nbsp;ŽoNFP sa zač&iacute;na doručen&iacute;m p&iacute;somnej ŽoNFP poskytovateľovi.</div><div>Lehota na vydanie rozhodnutia je 70 pracovn&yacute;ch dn&iacute; od doručenia ŽoNFP poskytovateľovi. Lehota zač&iacute;na plyn&uacute;ť pracovn&yacute;m dňom nasleduj&uacute;cim po term&iacute;ne doručenia ŽoNFP. Do lehoty na vydanie rozhodnutia sa nezapoč&iacute;tava doba potrebn&aacute; na&nbsp;predloženie ch&yacute;baj&uacute;cich n&aacute;ležitost&iacute; zo strany žiadateľa.</div><div>Lehota na vydanie rozhodnutia m&ocirc;že byť poskytovateľom predĺžen&aacute;.</div><div>Podrobnosti o&nbsp;plynut&iacute; lehoty, jej pozastaven&iacute;, resp. predĺžen&iacute; s&uacute; uveden&eacute; v&nbsp;kapitole 4 <a href=\"https://www.eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/index.html\"><i>V&scaron;eobecnej inform&aacute;cie k&nbsp;ŽoNFP</i></a>.</div></div></div></div>",
+ "zmenaAZrusenieVyzvy": "<div><div><div><div>Poskytovateľ je primerane (vzhľadom na osobitosť n&aacute;rodn&eacute;ho projektu) a v&nbsp;s&uacute;lade s&nbsp;&sect; 14 ods. 4 až&nbsp;7 z&aacute;kona o&nbsp;pr&iacute;spevkoch z&nbsp;fondov opr&aacute;vnen&yacute; v&yacute;zvu zmeniť alebo zru&scaron;iť, a&nbsp;to najm&auml; v&nbsp;pr&iacute;padoch, kedy je zmena v&yacute;zvy potrebn&aacute; za &uacute;čelom jej optimaliz&aacute;cie, resp.&nbsp;vhodnej&scaron;ieho nastavenia vzhľadom na charakter n&aacute;rodn&eacute;ho projektu.</div><div>&nbsp;</div><div><u>Pos&uacute;denie potreby zmeny/zru&scaron;enia v&yacute;zvy</u></div><div>V&nbsp;pr&iacute;pade legislat&iacute;vnych zmien (noveliz&aacute;cia existuj&uacute;ceho v&scaron;eobecne z&aacute;v&auml;zn&eacute;ho pr&aacute;vneho predpisu alebo vydanie nov&eacute;ho v&scaron;eobecne z&aacute;v&auml;zn&eacute;ho pr&aacute;vneho predpisu), ktor&eacute; maj&uacute; alebo m&ocirc;žu mať vplyv na zmenu PPP, tak&eacute;to zmeny <b>nepredstavuj&uacute; zmenu v&yacute;zvy</b> za predpokladu, že v&nbsp;d&ocirc;sledku legislat&iacute;vnych zmien ned&ocirc;jde k&nbsp;zmene vecnej podstaty PPP. Poskytovateľ v&nbsp;pr&iacute;pade legislat&iacute;vnych zmien v&nbsp;takom pr&iacute;pade posudzuje ŽoNFP podľa aktu&aacute;lne platn&eacute;ho pr&aacute;vneho predpisu, re&scaron;pektuj&uacute;c prechodn&eacute; ustanovenia v&scaron;eobecne z&aacute;v&auml;zn&eacute;ho pr&aacute;vneho predpisu. V&nbsp;pr&iacute;pade, ak legislat&iacute;vne zmeny vyvolaj&uacute; potrebu zmeny v&nbsp;PPP, poskytovateľ v&nbsp;nadv&auml;znosti na ich pos&uacute;denie rozhodne o&nbsp;potrebe zmeny alebo zru&scaron;enia v&yacute;zvy.</div><div>V&nbsp;pr&iacute;pade zmien spojen&yacute;ch s&nbsp;predkladan&iacute;m ŽoNFP prostredn&iacute;ctvom ITMS (napr. zmeny v&nbsp;technickom sp&ocirc;sobe vypĺňania jednotliv&yacute;ch čast&iacute; ŽoNFP), tak&eacute;to zmeny <b>nepredstavuj&uacute; zmenu v&yacute;zvy</b> a&nbsp;o&nbsp;relevantn&yacute;ch technick&yacute;ch postupoch bude poskytovateľ žiadateľov informovať.</div><div>V&nbsp;pr&iacute;pade identifik&aacute;cie ch&yacute;b v&nbsp;p&iacute;san&iacute;, v počtoch alebo in&yacute;ch zrejm&yacute;ch nespr&aacute;vnost&iacute; (napr. vypl&yacute;vaj&uacute;ce z&nbsp;potreby &uacute;pravy technick&yacute;ch n&aacute;ležitost&iacute; vybran&yacute;ch vzorov&yacute;ch formul&aacute;rov pr&iacute;loh ŽoNFP alebo in&yacute;ch čast&iacute; v&yacute;zvy alebo dokumentov t&yacute;kaj&uacute;cich sa v&yacute;zvy) tak&eacute;to zmeny <b>nepredstavuj&uacute; zmenu v&yacute;zvy</b> a&nbsp;o&nbsp;vykonan&yacute;ch oprav&aacute;ch/&uacute;prav&aacute;ch bude poskytovateľ žiadateľov informovať.</div><div>Informovanie žiadateľov poskytovateľ realizuje prostredn&iacute;ctvom ITMS.</div><div>&nbsp;</div><div><u>Zmena v&yacute;zvy</u></div><div>Poskytovateľ je opr&aacute;vnen&yacute; v&yacute;zvu zmeniť v celom jej rozsahu v s&uacute;lade s &sect; 23 v spojen&iacute; s &sect; 14 ods. 4 z&aacute;kona o pr&iacute;spevkoch z&nbsp;fondov.</div><div>Poskytovateľ je opr&aacute;vnen&yacute; v&nbsp;s&uacute;lade s &sect; 23 v spojen&iacute; s &sect; 14 ods. 6 z&aacute;kona o&nbsp;pr&iacute;spevkoch z fondov zmeniť v&yacute;zvu kedykoľvek, ak s&uacute; predmetom zmeny:</div><ul><li>form&aacute;lne n&aacute;ležitosti v&yacute;zvy (napr. v&yacute;&scaron;ka finančn&yacute;ch prostriedkov vyčlenen&yacute;ch na v&yacute;zvu),</li><li>ďal&scaron;ie skutočnosti t&yacute;kaj&uacute;ce sa poskytovania pr&iacute;spevku, ktor&eacute; nemaj&uacute; charakter PPP,</li><li>pr&iacute;lohy v&yacute;zvy.</li></ul><div>&nbsp;</div><div><b>Poskytovateľ je opr&aacute;vnen&yacute; zmeniť v&yacute;zvu aj viackr&aacute;t. Pri zmene v&yacute;zvy musia byť dodržan&eacute; princ&iacute;py podľa &sect; 2 ods. 2 z&aacute;kona o&nbsp;pr&iacute;spevkoch z&nbsp;fondov</b>.</div><div>&nbsp;</div><div><u>Zru&scaron;enie v&yacute;zvy</u></div><div>Poskytovateľ <b>zru&scaron;&iacute;</b> v&yacute;zvu, ak z objekt&iacute;vnych d&ocirc;vodov nie je možn&eacute; financovať projekty na z&aacute;klade v&yacute;zvy.</div><div><b>V&yacute;zvu je možn&eacute; zmeniť alebo zru&scaron;iť aj po jej uzavret&iacute;.</b></div><div>&nbsp;</div><div><u>Postup vo vzťahu k&nbsp;žiadateľovi</u></div><div>&nbsp;</div><div><u>Zmena v&yacute;zvy</u></div><div>Poskytovateľ umožn&iacute; žiadateľom v primeranej lehote (nie krat&scaron;ej ako 10 pracovn&yacute;ch dn&iacute;) doplniť alebo zmeniť ŽoNFP predložen&eacute; do term&iacute;nu zmeny v&yacute;zvy, o&nbsp;ktor&yacute;ch e&scaron;te nerozhodol, ak ide o tak&uacute; zmenu, ktorou m&ocirc;žu byť sk&ocirc;r predložen&eacute; ŽoNFP dotknut&eacute; a&nbsp;z&aacute;roveň sa zmena v&yacute;zvy t&yacute;ka aj ŽoNFP, ktor&eacute; boli predložen&eacute; pred vykonan&iacute;m zmeny. Poskytovateľ za t&yacute;mto &uacute;čelom p&iacute;somne informuje žiadateľa.</div><div>&nbsp;</div><div><u>Zru&scaron;enie v&yacute;zvy</u></div><div>ŽoNFP predložen&eacute; do d&aacute;tumu zru&scaron;enia v&yacute;zvy, o ktor&yacute;ch poskytovateľ nerozhodol, vr&aacute;ti žiadateľom.</div><div>&nbsp;</div><div><u>Sp&ocirc;sob vykonania zmeny/zru&scaron;enia v&yacute;zvy</u></div><div>Zmena v&yacute;zvy je realizovan&aacute; <b>formou inform&aacute;cie o zmene&nbsp;v&yacute;zvy</b>.</div><div>Zru&scaron;enie v&yacute;zvy je realizovan&eacute; <b>formou inform&aacute;cie o&nbsp;zru&scaron;en&iacute; v&yacute;zvy.</b></div><div><b>Každ&aacute; inform&aacute;cia o&nbsp;zmene v&yacute;zvy</b> jasn&yacute;m sp&ocirc;sobom identifikuje zmeny v&yacute;zvy, vr&aacute;tane zd&ocirc;vodnenia ich vykonania, ďalej dokument&aacute;ciu v&yacute;zvy, ktor&aacute; je zmenou v&yacute;zvy dotknut&aacute; a&nbsp;ŽoNFP, ktor&yacute;ch sa zmena/zru&scaron;enie v&yacute;zvy t&yacute;ka. Poskytovateľ zverejňuje spolu s&nbsp;inform&aacute;ciou o&nbsp;zmene v&yacute;zvy aj zmenou dotknut&eacute; pr&iacute;slu&scaron;n&eacute; dokumenty v&yacute;zvy, v&nbsp;ktor&yacute;ch s&uacute; zmeny zobrazen&eacute; formou sledovania zmien.</div><div><b>Každ&aacute; inform&aacute;cia o&nbsp;zru&scaron;en&iacute;</b> v&yacute;zvy obsahuje zd&ocirc;vodnenie zru&scaron;enia v&yacute;zvy.</div><div>Zmena v&yacute;zvy, resp. zru&scaron;enie v&yacute;zvy, je &uacute;činn&eacute; dňom zverejnenia.</div><div>Pravidl&aacute; pre zmenu/zru&scaron;enie v&yacute;zvy sa rovnako aplikuj&uacute; na pr&iacute;pad zmien v&nbsp;dokumentoch, na ktor&eacute; sa v&yacute;zva odvol&aacute;va a&nbsp;tak&eacute;to zmeny maj&uacute; vplyv na zmenu PPP.</div><div>Inform&aacute;ciu o&nbsp;zmene/zru&scaron;en&iacute; v&yacute;zvy zverejňuje poskytovateľ prostredn&iacute;ctvom ITMS a&nbsp;webov&eacute;ho s&iacute;dla <a href=\"http://www.eurofondy.gov.sk/\">www.eurofondy.gov.sk</a>.</div></div></div></div>",
+ "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>",
+ "doplnujuceInformacie": "<div><div>V&yacute;&scaron;ka finančn&yacute;ch prostriedkov určen&yacute;ch na vyčerpanie vo v&yacute;zve zo zdrojov E&Uacute; predstavuje<b> 3&nbsp;004&nbsp;535,00 EUR.</b></div><div>K&nbsp;v&yacute;&scaron;ke zdrojov Eur&oacute;pskej &uacute;nie (ďalej len &bdquo;E&Uacute;&ldquo;) je vyčlenen&aacute; pr&iacute;slu&scaron;n&aacute; v&yacute;&scaron;ka finančn&yacute;ch prostriedkov &scaron;t&aacute;tneho rozpočtu Slovenskej republiky (ďalej len &bdquo;SR&ldquo;) v&nbsp;s&uacute;lade so <a href=\"https://www.mfsr.sk/sk/financne-vztahy-eu/povstupove-fondy-eu/programove-obdobie-2021-2027/strategia-financovania-efrr-esf-kf-fst-enraf-2021-2027/\">Strat&eacute;giou financovania Eur&oacute;pskeho fondu region&aacute;lneho rozvoja, Eur&oacute;pskeho soci&aacute;lneho fondu plus, Koh&eacute;zneho fondu, Fondu na spravodliv&uacute; transform&aacute;ciu a Eur&oacute;pskeho n&aacute;morn&eacute;ho, rybolovn&eacute;ho a akvakult&uacute;rneho fondu na programov&eacute; obdobie 2021 &ndash; 2027</a>.</div>V&yacute;&scaron;ka zdrojov &scaron;t&aacute;tneho rozpočtu SR pripojen&yacute;ch k&nbsp;zdrojom E&Uacute; z&aacute;vis&iacute; od skladby zdrojov financovania nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku projektov (pozri časť Miera&nbsp;spolufinancovania (intenzita pomoci)).</div>",
+ "dalsiaSkutocnost": [
+  {
+   "kod": "DS004PSK-MZP-040-2025-NP-KF",
+   "dalsiaSkutocnost": "<div>4.&nbsp;<b>Zmluva o partnerstve</b></div><div><div><div><div>Žiadateľ / prij&iacute;mateľ je povinn&yacute; predložiť zmluvu o partnerstve uzavret&uacute; medzi žiadateľom a&nbsp;v&scaron;etk&yacute;mi partnermi podieľaj&uacute;cimi sa na realiz&aacute;cii aktiv&iacute;t projektu.</div><div>Vzor zmluvy o&nbsp;partnerstve je dostupn&yacute; na webovom s&iacute;dle <a href=\"https://www.minzp.sk/program-slovensko/zmluva-partnerstve.html\">https://www.minzp.sk/program-slovensko/zmluva-partnerstve.html</a>.</div><div>Uzatvorenie zmluvy o&nbsp;partnerstve žiadateľ/prij&iacute;mateľ/partner preukazuje v r&aacute;mci poskytnutia s&uacute;činnosti pri uzatv&aacute;ran&iacute; zmluvy o&nbsp;NFP, v&nbsp;osobitn&yacute;ch pr&iacute;padoch (ak bola zmluva o&nbsp;partnerstve uzatvoren&aacute; po nadobudnut&iacute; &uacute;činnosti zmluvy o&nbsp;NFP) najnesk&ocirc;r do predloženia prvej žiadosti o&nbsp;platbu.</div><div>Z&aacute;roveň poskytovateľ upozorňuje &nbsp;žiadateľa/prij&iacute;mateľa/partnera na skutočnosť, že v&nbsp;pr&iacute;pade, ak zmluvnou stranou je povinn&aacute; osoba podľa z&aacute;kona č. 211/2000 Z. z. v znen&iacute; neskor&scaron;&iacute;ch predpisov, zmluvu o&nbsp;partnerstve je potrebn&eacute; zverejniť v&nbsp;Centr&aacute;lnom registri zml&uacute;v. Pravidl&aacute; &uacute;činnosti zmluvy o&nbsp;partnerstve s&uacute; bliž&scaron;ie uveden&eacute; v&nbsp;r&aacute;mci koment&aacute;ra k čl. XX ods. 1 vzoru zmluvy o&nbsp;partnerstve.</div></div></div></div>"
+  },
+  {
+   "kod": "DS002PSK-MZP-040-2025-NP-KF",
+   "dalsiaSkutocnost": "<div><div><div><div><b>2. S&uacute;lad s&nbsp;horizont&aacute;lnymi princ&iacute;pmi</b></div><div><div><div><div>Projekt mus&iacute; byť v s&uacute;lade s&nbsp;horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><sup><sup>[1]</sup></sup></a>, s&nbsp;prihliadnut&iacute;m na&nbsp;dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a&nbsp;akt&iacute;vneho podporovania mužov a&nbsp;žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a&nbsp;činnostiach, najm&auml; ak ide o&nbsp;pr&iacute;stup k&nbsp;zamestnaniu, odmeňovanie a&nbsp;pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a&nbsp;pracovn&eacute; podmienky.</div><div>V&nbsp;projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a&nbsp;zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a&nbsp;zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a&nbsp;verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v&nbsp;s&uacute;lade s&nbsp;čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so&nbsp;zdravotn&yacute;m postihnut&iacute;m<a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\"><sup><sup>[2]</sup></sup></a>.</div><div>Gestor HP upozorňuje žiadateľa, že plnenie s&uacute;ladu projektu s HP m&ocirc;že byť predmetom finančnej kontroly v implement&aacute;cii projektu, ktorej pr&aacute;vny z&aacute;klad vych&aacute;dza z platnej a &uacute;činnej zmluvy o&nbsp;poskytnut&iacute;&nbsp;NFP.</div><div>Čas plnenia/overenia:</div><div>V čase realiz&aacute;cie projektu na z&aacute;klade zmluvy o&nbsp;poskytnut&iacute; NFP až do skončenia doby udržateľnosti projektu (ak relevantn&eacute;) v zmysle čl. 65 nariadenia o spoločn&yacute;ch ustanoveniach.</div></div></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div style=\"margin-left:14.2pt\"><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a>&nbsp; &nbsp;&nbsp;&nbsp; <a href=\"https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060\">https://www.eurofondy.gov.sk/wp-content/uploads/2022/06/Nariadenie-2021-1060-CELEX_32021R1060_SK_TXT.pdf </a></div></div><div id=\"ftn2\"><div style=\"margin-left:14.2pt\"><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> &nbsp;&nbsp;&nbsp; <a href=\"https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf\">https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf</a></div></div></div></div></div></div></div>"
+  },
+  {
+   "kod": "DS003PSK-MZP-040-2025-NP-KF",
+   "dalsiaSkutocnost": "<div><div><div><div><b>3. Podmienka, že prij&iacute;mateľ / partner nie je podnikom v ťažkostiach</b></div><div><div><div><div>Prij&iacute;mateľmi / partnermi nem&ocirc;žu byť v&nbsp;s&uacute;lade s&nbsp;čl. 7 ods. 1 p&iacute;sm. d) nariadenia o EFRR a&nbsp;KF<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\"><sup><sup>[1]</sup></sup></a> podniky v&nbsp;ťažkostiach <i>&bdquo;podľa vymedzenia v&nbsp;čl&aacute;nku&nbsp;2 bode 18 nariadenia (E&Uacute;) č.&nbsp;651/2014&ldquo;</i>.</div><div>Podnik v&nbsp;ťažkostiach je definovan&yacute; v dokumente <a href=\"https://minzp.sk/program-slovensko/metodicke-dokumenty.html\"><b><i>In&scaron;trukcia k&nbsp;určeniu podniku v&nbsp;ťažkostiach</i></b></a><b><i><u>, v&nbsp;platnom znen&iacute;</u></i></b>.</div><div>Podmienka sa bude overovať dvojf&aacute;zovo, a&nbsp;to:</div><ol><li>v&nbsp;r&aacute;mci poskytnutia s&uacute;činnosti pri uzatv&aacute;ran&iacute; zmluvy o&nbsp;NFP pred zaslan&iacute;m p&iacute;somn&eacute;ho n&aacute;vrhu zmluvy o&nbsp;NFP, a to prostredn&iacute;ctvom čestn&eacute;ho vyhl&aacute;senia žiadateľa / partnera (na z&aacute;klade &bdquo;samooverenia&ldquo; žiadateľa v&nbsp;s&uacute;lade s&nbsp;aktu&aacute;lne platnou a &uacute;činnou (k&nbsp;rozhodn&eacute;mu momentu) <i>In&scaron;trukciou k&nbsp;určeniu podniku v&nbsp;ťažkostiach</i> a&nbsp;z&aacute;roveň</li><li>po nadobudnut&iacute; &uacute;činnosti zmluvy o&nbsp;NFP, a&nbsp;to k&nbsp;d&aacute;tumu samotnej &uacute;činnosti zmluvy o&nbsp;NFP, na z&aacute;klade testu podniku v&nbsp;ťažkostiach, ktor&yacute; tvor&iacute; pr&iacute;lohu dokumentu <i>In&scaron;trukcia k&nbsp;určeniu podniku v&nbsp;ťažkostiach</i>. Prij&iacute;mateľ predklad&aacute; test podniku v&nbsp;ťažkostiach poskytovateľovi do 10 pracovn&yacute;ch dn&iacute; od nadobudnutia &uacute;činnosti&nbsp; zmluvy o&nbsp;NFP, a to v&nbsp;s&uacute;lade s&nbsp;aktu&aacute;lne platnou a&nbsp;&uacute;činnou (k rozhodn&eacute;mu momentu) <i>In&scaron;trukciou k&nbsp;určeniu podniku v&nbsp;ťažkostiach</i>.</li></ol><div style=\"margin-left:17.85pt\">Nesplnenie tejto podmienky/skutočnosti m&ocirc;že viesť k neuzavretiu zmluvy o NFP (v r&aacute;mci s&uacute;činnosti) alebo k automatick&eacute;mu z&aacute;niku zmluvy (rozv&auml;zovacia podmienka uveden&aacute; v zmluve o NFP, t&yacute;kaj&uacute;ca sa identifik&aacute;cie nesplnenia tejto podmienky/skutočnosti).</div></div></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div style=\"margin-left:14.2pt\"><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> &nbsp;&nbsp;&nbsp; Nariadenie Eur&oacute;pskeho parlamentu a Rady (E&Uacute;) 2021/1058 z 24. j&uacute;na 2021 o&nbsp;Eur&oacute;pskom fonde region&aacute;lneho rozvoja a Koh&eacute;znom fonde.</div></div></div></div></div></div></div>"
+  },
+  {
+   "kod": "DS001PSK-MZP-040-2025-NP-KF",
+   "dalsiaSkutocnost": "<div><div><div><div><b>1. Realiz&aacute;cia verejn&eacute;ho obstar&aacute;vania</b></div><div><div><div><div>Žiadateľ/prij&iacute;mateľ je povinn&yacute; <b>zrealizovať verejn&eacute; obstar&aacute;vanie/-a / obstar&aacute;vanie/-a </b>(ďalej aj &bdquo;VO&ldquo;) <b>na v&scaron;etky z&aacute;kazky projektu</b> v&nbsp;s&uacute;lade s/so:</div><ul><li>z&aacute;konom o&nbsp;VO<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a> a</li><li><a href=\"https://www.eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/index.html\"><i>Pr&iacute;ručkou k&nbsp;procesu a&nbsp;kontrole verejn&eacute;ho obstar&aacute;vania/obstar&aacute;vania</i></a>.</li></ul><div>Žiadateľ/prij&iacute;mateľ je povinn&yacute; začať s realiz&aacute;ciou VO najnesk&ocirc;r do 3 mesiacov od nadobudnutia &uacute;činnosti zmluvy o NFP, resp. v term&iacute;noch vypl&yacute;vaj&uacute;cich z čl&aacute;nku 17 pr&iacute;lohy č. 1 zmluvy o NFP V&scaron;eobecn&eacute; zmluvn&eacute; podmienky (ďalej len &bdquo;VZP&ldquo;).</div><div>Poru&scaron;enie postupov VO a&nbsp;povinnosti začať s&nbsp;VO v&nbsp;lehote stanovenej v&nbsp;zmluve o&nbsp;NFP m&ocirc;že byť postihovan&eacute; v&nbsp;s&uacute;lade s&nbsp;ustanoveniami zmluvy o&nbsp;NFP.</div></div></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div style=\"margin-left:15.4pt\"><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Z&aacute;kon č. 343/2015 Z. z. o&nbsp;verejnom obstar&aacute;van&iacute; a&nbsp;o&nbsp;zmene a&nbsp;doplnen&iacute; niektor&yacute;ch z&aacute;konov v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov (ďalej len &bdquo;z&aacute;kon o VO&ldquo;).</div></div></div></div></div></div></div>"
+  }
+ ],
+ "dalsiaFormalnaNalezitost": [
+  {
+   "kod": "DFN002PSK-MZP-040-2025-NP-KF",
+   "dalsiaFormalnaNalezitost": "<div><div><div><div><b>Sp&ocirc;sob financovania projektu</b></div><div><div><div><div>V r&aacute;mci poskytnutia s&uacute;činnosti pri pr&iacute;prave zmluvy o NFP m&aacute; žiadateľ, ktor&eacute;ho ŽoNFP bola schv&aacute;len&aacute; v konan&iacute; o&nbsp;ŽoNFP, možnosť zvoliť si jeden z nasledovn&yacute;ch sp&ocirc;sobov financovania - predfinancovanie, z&aacute;lohov&eacute; platby, refund&aacute;cia alebo ich kombin&aacute;cia v s&uacute;lade s&nbsp;aktu&aacute;lne platnou verziu <a href=\"https://www.mfsr.sk/sk/financne-vztahy-eu/povstupove-fondy-eu/programove-obdobie-2021-2027/prirucka-k-financnemu-riadeniu-fondov-eu-programove-obdobie-2021-2027/\"><i>Pr&iacute;ručky k finančn&eacute;mu riadeniu fondov E&Uacute; na programov&eacute; obdobie 2021 - 2027</i></a>.</div></div></div></div></div></div></div>"
+  },
+  {
+   "kod": "DFN001PSK-MZP-040-2025-NP-KF",
+   "dalsiaFormalnaNalezitost": "<div><div><div><div><b>Uzavretie zmluvy o NFP</b></div><div><div><div><div>Poskytovateľ za&scaron;le p&iacute;somn&yacute; n&aacute;vrh na uzavretie zmluvy a urč&iacute; lehotu na prijatie n&aacute;vrhu žiadateľovi:</div><ol><li>ktor&eacute;ho rozhodnutie o&nbsp;schv&aacute;len&iacute; ŽoNFP nadobudlo pr&aacute;voplatnosť a</li><li>ktor&yacute; poskytol potrebn&uacute; s&uacute;činnosť a</li><li>ktor&yacute; splnil z&aacute;konn&eacute; predpoklady pre uzavretie zmluvy o&nbsp;NFP.</li></ol><div>Z&aacute;konn&yacute;m predpokladom pre uzavretie zmluvy o&nbsp;NFP je:</div><ul><li>podmienka, že žiadateľ ani člen jeho &scaron;tatut&aacute;rneho alebo dozorn&eacute;ho org&aacute;nu <b>nebol</b> pr&aacute;voplatne ods&uacute;den&yacute; za trestn&yacute; čin subvenčn&eacute;ho podvodu, trestn&yacute; čin po&scaron;kodzovania finančn&yacute;ch z&aacute;ujmov Eur&oacute;pskej &uacute;nie, trestn&yacute; čin machin&aacute;ci&iacute; pri VO a verejnej dražbe, trestn&yacute; čin prij&iacute;mania &uacute;platku, trestn&yacute; čin podpl&aacute;cania, trestn&yacute; čin nepriamej korupcie alebo trestn&yacute; čin prijatia a poskytnutia nen&aacute;ležitej v&yacute;hody,</li></ul><div style=\"margin-left:14.2pt\"><u>Sp&ocirc;sob overenia:</u></div><div style=\"margin-left:14.2pt\">Poskytovateľ v&nbsp;r&aacute;mci poskytnutia s&uacute;činnosti pri uzatv&aacute;ran&iacute; zmluvy o&nbsp;NFP vyzve žiadateľa na preuk&aacute;zanie splnenia tejto podmienky. Žiadateľ za t&yacute;mto &uacute;čelom predlož&iacute;:</div><ol><li>Čestn&eacute; vyhl&aacute;senie o&nbsp;bez&uacute;honnosti (relevantn&eacute; pre &scaron;tatut&aacute;rny org&aacute;n subjektu &nbsp;&uacute;zemnej samospr&aacute;vy, pri ktorom pr&aacute;va a povinnosti zmluvn&yacute;ch vzťahov &scaron;tatut&aacute;rnych org&aacute;nov k organiz&aacute;cii, resp. sp&ocirc;sob vymenovania &scaron;tatut&aacute;rneho org&aacute;nu upravuje osobitn&yacute; predpis<a href=\"#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a>) alebo</li><li>&Uacute;daje potrebn&eacute; na vyžiadanie v&yacute;pisu z registra trestov a/alebo</li><li>V&yacute;pis z registra trestov fyzickej osoby, nie star&scaron;&iacute; ako 3 mesiace.</li></ol><div style=\"margin-left:15.9pt\">Každ&aacute; fyzick&aacute; osoba v&nbsp;postaven&iacute; &scaron;tatut&aacute;rneho org&aacute;nu predlož&iacute; pre ňu relevantn&yacute; doklad podľa bodu i. až iii. tejto časti v&yacute;zvy a každ&aacute; fyzick&aacute; osoba v postaven&iacute; člena dozornej rady predlož&iacute; doklad podľa bodu ii. alebo iii.</div><div style=\"margin-left:15.9pt\">Ak žiadateľ predlož&iacute; &Uacute;daje na z&iacute;skanie v&yacute;pisu z&nbsp;registra trestov, poskytovateľ over&iacute; splnenie podmienky priamo, prostredn&iacute;ctvom integračnej funkcie ITMS<a href=\"#_ftn2\" name=\"_ftnref2\" title=\"\"><sup><sup>[2]</sup></sup></a>, resp. prostredn&iacute;ctvom <a href=\"https://oversi.gov.sk/\">https://oversi.gov.sk</a>.</div><div>&nbsp;</div><div>V&nbsp;pr&iacute;pade, ak žiadateľ v&nbsp;primeranej lehote nespln&iacute; z&aacute;konn&eacute; predpoklady na&nbsp;uzavretie zmluvy o&nbsp;NFP, poskytovateľ žiadateľovi p&iacute;somne ozn&aacute;mi, že nesplnil z&aacute;konn&eacute; predpoklady pre uzavretie zmluvy o&nbsp;NFP a&nbsp;vzhľadom na uveden&eacute; mu&nbsp;neza&scaron;le n&aacute;vrh na uzavretie zmluvy o&nbsp;NFP.</div><div>Procesn&yacute; postup pri uzatv&aacute;ran&iacute; zmluvy o&nbsp;NFP, ktorej vzor je zverejnen&yacute; spolu s&nbsp;v&yacute;zvou, je uveden&yacute; v&nbsp;kapitole 5 <a href=\"https://www.eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/index.html\"><i>V&scaron;eobecnej inform&aacute;cie k&nbsp;ŽoNFP</i>.</a></div></div></div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div style=\"margin-left:14.2pt\"><a href=\"#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a>&nbsp;&nbsp;&nbsp;&nbsp; Napr. z&aacute;kon č. 55/2017 Z. z. o &scaron;t&aacute;tnej službe a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov, z&aacute;kon č. 552/2003 Z. z. o v&yacute;kone pr&aacute;ce vo verejnom z&aacute;ujme v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov, &sect; 4 a &sect; 22 z&aacute;kona č. 575/2001 Z. z. o organiz&aacute;cii činnosti vl&aacute;dy a organiz&aacute;cii &uacute;strednej &scaron;t&aacute;tnej spr&aacute;vy v&nbsp;znen&iacute; neskor&scaron;&iacute;ch predpisov, z&aacute;kon č. 180/2014 Z. z. o podmienkach v&yacute;konu volebn&eacute;ho pr&aacute;va a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov v znen&iacute; neskor&scaron;&iacute;ch predpisov.</div></div><div id=\"ftn2\"><div style=\"margin-left:14.2pt\"><a href=\"#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> &nbsp;&nbsp;&nbsp; Pre overenie bez&uacute;honnosti fyzickej osoby&nbsp; je (okrem poskytnutia &uacute;dajov na z&iacute;skanie v&yacute;pisu z&nbsp;registra trestov) potrebn&eacute;, aby t&aacute;to osoba bola zaraden&aacute; v&nbsp;ŽoNFP ako &scaron;tatut&aacute;rny org&aacute;n. V&nbsp;pr&iacute;pade, že žiadateľ m&aacute; fyzick&uacute; osobu v&nbsp;ITMS zaevidovan&uacute; ale nie je priraden&aacute; k&nbsp;&scaron;tatut&aacute;rnemu org&aacute;nu, je potrebn&eacute; v&nbsp;&bdquo;Spr&aacute;ve subjektu&ldquo; v&nbsp;časti &bdquo;Osoby subjektu&ldquo; evidenciu tejto osoby editovať a&nbsp;pri &bdquo;Z&aacute;kladn&yacute;ch &uacute;dajoch&ldquo; v&nbsp;poli &bdquo;Zaradenie v&nbsp;subjekte&ldquo; doplniť &bdquo;&Scaron;tatut&aacute;rny org&aacute;n. V&nbsp;pr&iacute;pade, že fyzick&aacute; osoba v&nbsp;Spr&aacute;ve subjektu evidovan&aacute; nie je, je potrebn&eacute; t&uacute;to osobu zaevidovať a&nbsp;priradiť ju ako &bdquo;&Scaron;tatut&aacute;rny org&aacute;n&ldquo;.</div></div></div></div></div></div></div>"
+  }
+ ],
+ "verzia": [
+  {
+   "id": 6770,
+   "cislo": 1,
+   "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [
+  {
+   "id": 1164,
+   "specifickyCielProgramu": {
+    "id": 49,
+    "href": "/specifickycielprogramu/id/49",
+    "kod": "401202R24K",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871655
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1806,
+    "href": "/ukazovatelprojektovy/id/1806",
+    "kod": "PSKPR045",
+    "nazovSk": "Počet čiastkových povodí, v ktorých bolo prehodnotené povodňové riziko",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Čiastkov&eacute; povodia na &uacute;zem&iacute; SR, pre ktor&eacute; bolo vypracovan&eacute; &nbsp;prehodnotenie povodňov&eacute;ho rizika&nbsp;</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div><div>Najm&auml;:&nbsp;</div><div>vypracovan&eacute; prehodnotenie povodňov&eacute;ho rizika na &uacute;rovni jednotliv&yacute;ch čiastkov&yacute;ch povod&iacute;,&nbsp; prijat&eacute; strat&eacute;gie, napr. zverejnen&iacute;m na&nbsp;webovej str&aacute;nke, v&nbsp;elektronickej alebo tlačenej forme.</div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1758269534514
+   }
+  }
+ ],
+ "ukazovatelVystupovy": [
+  {
+   "id": 1165,
+   "specifickyCielProgramu": {
+    "id": 49,
+    "href": "/specifickycielprogramu/id/49",
+    "kod": "401202R24K",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871655
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1263,
+    "href": "/ukazovatelprojektovy/id/1263",
+    "kod": "PSKPRCO27",
+    "nazovSk": "Národné stratégie a stratégie na nižšej úrovni na adaptáciu na zmenu klímy",
+    "mernaJednotka": {
+     "id": 200098,
+     "kod": "105399",
+     "nazovSk": "stratégie",
+     "popisSk": "stratégie",
+     "platnostOd": 1670454000000
+    },
+    "definiciaSk": "<div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><div><div><div>Počet n&aacute;rodn&yacute;ch strat&eacute;gi&iacute;, strat&eacute;gi&iacute; na niž&scaron;ej &uacute;rovni na adapt&aacute;ciu na zmenu kl&iacute;my (napr. na &uacute;rovni čiastkov&yacute;ch povod&iacute;), vr&aacute;tane strat&eacute;gi&iacute; vodn&eacute;ho hospod&aacute;rstva, kde existuje prepojenie na projekty financovan&eacute; P SK.</div></div></div><div style=\"clear:both\"><b>Povinnosť plnenia:</b> &aacute;no</div></div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Akčn&yacute; pl&aacute;n, Prijat&eacute; strat&eacute;gie pr&iacute;slu&scaron;n&yacute;mi org&aacute;nmi, napr. zverejnen&iacute;m na&nbsp;webov&yacute;ch str&aacute;nkach.</div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1675335882452,
+    "updatedAt": 1746005805954
+   }
+  },
+  {
+   "id": 1166,
+   "specifickyCielProgramu": {
+    "id": 49,
+    "href": "/specifickycielprogramu/id/49",
+    "kod": "401202R24K",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871655
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1805,
+    "href": "/ukazovatelprojektovy/id/1805",
+    "kod": "PSKPO067",
+    "nazovSk": "Počet vypracovaných podkladových materiálov potrebných na aktualizáciu/prehodnotenie plánu manažmentu povodňového rizika",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Vypracovan&eacute; podkladov&eacute; materi&aacute;ly, dokumenty, met&oacute;dy a&nbsp;pod., ktor&eacute; s&uacute; potrebn&eacute; na prehodnotenie a aktualiz&aacute;ciu pl&aacute;nu manažmentu povodňov&eacute;ho rizika čiastkov&yacute;ch povod&iacute; a&nbsp;jeho pr&iacute;loh.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;:&nbsp; podklady prij&iacute;mateľa dokumentuj&uacute;ce počet vypracovan&yacute;ch podporn&yacute;ch dokumentov v&nbsp;elektronickej alebo tlačenej forme.</div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1758269355854
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 1059,
+   "href": "/typakcieprogramu/id/1059",
+   "kod": "401202R24K050P0",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 49,
+    "href": "/specifickycielprogramu/id/49",
+    "kod": "401202R24K",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871655
+   },
+   "opatrenie": {
+    "id": 70,
+    "href": "/opatrenie/id/70",
+    "kod": "401202R24K05",
+    "nazovSk": "Vytváranie koncepčných východísk pre realizáciu adaptačných opatrení na národnej, regionálnej a miestnej úrovni",
+    "specifickyCielProgramu": {
+     "id": 49,
+     "href": "/specifickycielprogramu/id/49",
+     "kod": "401202R24K",
+     "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 4,
+      "href": "/priorita/id/4",
+      "kod": "401202",
+      "nazovSk": "2P2 Životné prostredie",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867941
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 200000,
+       "kod": "1033N/A",
+       "kodZdroj": "N/A",
+       "nazovSk": "Bez kategórie regiónu",
+       "popisSk": "Bez kategórie regiónu",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540871655
+    },
+    "createdAt": 1772540871684
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516248421,
+   "updatedAt": 1772541490852
+  },
+  {
+   "id": 752,
+   "href": "/typakcieprogramu/id/752",
+   "kod": "401202R24K05010",
+   "nazovSk": "Vypracovanie a prehodnocovanie PMPR vrátane potrebných podkladov",
+   "specifickyCielProgramu": {
+    "id": 49,
+    "href": "/specifickycielprogramu/id/49",
+    "kod": "401202R24K",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871655
+   },
+   "opatrenie": {
+    "id": 70,
+    "href": "/opatrenie/id/70",
+    "kod": "401202R24K05",
+    "nazovSk": "Vytváranie koncepčných východísk pre realizáciu adaptačných opatrení na národnej, regionálnej a miestnej úrovni",
+    "specifickyCielProgramu": {
+     "id": 49,
+     "href": "/specifickycielprogramu/id/49",
+     "kod": "401202R24K",
+     "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 4,
+      "href": "/priorita/id/4",
+      "kod": "401202",
+      "nazovSk": "2P2 Životné prostredie",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867941
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 200000,
+       "kod": "1033N/A",
+       "kodZdroj": "N/A",
+       "nazovSk": "Bez kategórie regiónu",
+       "popisSk": "Bez kategórie regiónu",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540871655
+    },
+    "createdAt": 1772540871684
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516233382,
+   "updatedAt": 1772541490852
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 49,
+    "href": "/specifickycielprogramu/id/49",
+    "kod": "401202R24K",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871655
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200067,
+    "kod": "10364PO058",
+    "kodZdroj": "058",
+    "nazovSk": "Opatrenia v oblasti adaptácie na zmenu klímy a predchádzanie rizikám súvisiacim s klímou a ich riadenie: povodne a zosuvy pôdy (vrátane zvyšovania povedomia, civilnej ochrany a systémov na zvládanie katastrof, infraštruktúry a ekosystémových prístupov)",
+    "nazovDe": "Maßnahmen zur Anpassung an den Klimawandel und Vorbeugung und Bewältigung klimabezogener Risiken: Hochwasser und Erdrutsche (wie etwa Sensibilisierungsmaßnahmen, Einrichtungen im Bereich Katastrophenschutz und -bewältigung, Infrastrukturanlagen sowie ökosystembasierte Ansätze)",
+    "popisSk": "Opatrenia v oblasti adaptácie na zmenu klímy a predchádzanie rizikám súvisiacim s klímou a ich riadenie: povodne a zosuvy pôdy (vrátane zvyšovania povedomia, civilnej ochrany a systémov na zvládanie katastrof, infraštruktúry a ekosystémových prístupov)",
+    "popisDe": "Maßnahmen zur Anpassung an den Klimawandel und Vorbeugung und Bewältigung klimabezogener Risiken: Hochwasser und Erdrutsche (wie etwa Sensibilisierungsmaßnahmen, Einrichtungen im Bereich Katastrophenschutz und -bewältigung, Infrastrukturanlagen sowie ökosystembasierte Ansätze)",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 49,
+    "href": "/specifickycielprogramu/id/49",
+    "kod": "401202R24K",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871655
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 49,
+    "href": "/specifickycielprogramu/id/49",
+    "kod": "401202R24K",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871655
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 49,
+    "href": "/specifickycielprogramu/id/49",
+    "kod": "401202R24K",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871655
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200024,
+    "kod": "10384PO24",
+    "kodZdroj": "24",
+    "nazovSk": "Činnosti súvisiace so životným prostredím",
+    "nazovEn": "Činnosti súvisiace so životným prostredím",
+    "nazovDe": "Wirtschaftstätigkeiten im Zusammenhang mit Umwelt",
+    "popisSk": "Činnosti súvisiace so životným prostredím",
+    "popisDe": "Wirtschaftstätigkeiten im Zusammenhang mit Umwelt",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 49,
+    "href": "/specifickycielprogramu/id/49",
+    "kod": "401202R24K",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871655
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 49,
+    "href": "/specifickycielprogramu/id/49",
+    "kod": "401202R24K",
+    "nazovSk": "RSO2.4 Podpora adaptácie na zmenu klímy a prevencie rizika katastrof a odolnosti s prihliadnutím na ekosystémové prístupy (KF)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 4,
+     "href": "/priorita/id/4",
+     "kod": "401202",
+     "nazovSk": "2P2 Životné prostredie",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867941
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 200000,
+      "kod": "1033N/A",
+      "kodZdroj": "N/A",
+      "nazovSk": "Bez kategórie regiónu",
+      "popisSk": "Bez kategórie regiónu",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 8,
+     "kod": "1032KF",
+     "kodZdroj": "KF",
+     "nazovSk": "Kohézny fond",
+     "nazovEn": "Kohézny fond",
+     "popisSk": "Kohézny fond",
+     "popisEn": "Kohézny fond",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540871655
+   },
+   "kategoriaRegionov": {
+    "id": 200000,
+    "kod": "1033N/A",
+    "kodZdroj": "N/A",
+    "nazovSk": "Bez kategórie regiónu",
+    "popisSk": "Bez kategórie regiónu",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200003,
+    "kod": "12094PO04",
+    "kodZdroj": "04",
+    "nazovSk": "Stratégia pre región Dunaja",
+    "nazovEn": "Stratégia pre región Dunaja",
+    "nazovDe": "Strategie für den Donauraum",
+    "popisSk": "Stratégia pre región Dunaja",
+    "popisDe": "Strategie für den Donauraum",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 200000,
+   "kod": "1033N/A",
+   "kodZdroj": "N/A",
+   "nazovSk": "Bez kategórie regiónu",
+   "popisSk": "Bez kategórie regiónu",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [],
+ "projektovyZamerIUS": []
+}

@@ -1,0 +1,1749 @@
+{
+ "id": 3738,
+ "href": "/vyzva/id/3738",
+ "kod": "PSK-MD-027-2025-NP-EFRR",
+ "nazovSk": "I/64 Prievidza – obchvat, II. etapa (štúdia realizovateľnosti)",
+ "program": {
+  "id": 1,
+  "href": "/program/id/1",
+  "kod": "401000",
+  "nazovSk": "Program Slovensko - SK - EFRR/KF/FST/ESF+",
+  "nazovEn": "Programme Slovakia - SK - ERDF/CF/JTF/ESF+",
+  "skratka": "PSK",
+  "sumaEu": 12593734933.0,
+  "sumaSr": 3570958668.0,
+  "sumaSpolu": 16164693601.0,
+  "typProgramu": {
+   "typ": "PSK",
+   "jedenFond": false,
+   "maKategoriuReg": true,
+   "maPriority": true,
+   "maOpatrenia": true
+  },
+  "kodCCI": "2021SK16FFPR001",
+  "riadiaciOrgan": {
+   "id": 376
+  },
+  "createdAt": 1772540867859,
+  "updatedAt": 1772540867892
+ },
+ "specifickyCielProgramu": [
+  {
+   "id": 41,
+   "href": "/specifickycielprogramu/id/41",
+   "kod": "401301R302",
+   "nazovSk": "RSO3.2 Rozvoj a posilňovanie udržateľnej, inteligentnej a intermodálnej vnútroštátnej, regionálnej a miestnej mobility odolnej proti  zmene klímy vrátane zlepšeného prístupu k TEN-T a cezhraničnej mobility (EFRR)",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "priorita": {
+    "id": 6,
+    "href": "/priorita/id/6",
+    "kod": "401301",
+    "nazovSk": "3P1 Doprava",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "createdAt": 1772540867951
+   },
+   "kategoriaRegionov": [
+    {
+     "id": 1,
+     "kod": "1033MRR",
+     "kodZdroj": "MRR",
+     "nazovSk": "Menej rozvinutý región",
+     "nazovEn": "less-developed regions",
+     "popisSk": "Menej rozvinutý región",
+     "popisEn": "less-developed regions",
+     "platnostOd": 725842800000
+    },
+    {
+     "id": 2,
+     "kod": "1033VRR",
+     "kodZdroj": "VRR",
+     "nazovSk": "Viac rozvinutý región",
+     "nazovEn": "more-developed regions",
+     "popisSk": "Viac rozvinutý región",
+     "popisEn": "more-developed regions",
+     "platnostOd": 725842800000
+    }
+   ],
+   "fond": {
+    "id": 6,
+    "kod": "1032EFRR",
+    "kodZdroj": "EFRR",
+    "nazovSk": "Európsky fond regionálneho rozvoja",
+    "nazovEn": "European Regional Development Fund",
+    "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+    "popisSk": "Európsky fond regionálneho rozvoja",
+    "popisEn": "European Regional Development Fund",
+    "popisDe": "Europäischen Fonds für regionale Entwicklung",
+    "platnostOd": 1668121200000
+   },
+   "technickaAsistencia": false,
+   "createdAt": 1772540870536
+  }
+ ],
+ "opatrenie": [
+  {
+   "id": 36,
+   "href": "/opatrenie/id/36",
+   "kod": "401301R30202",
+   "nazovSk": "Odstránenie kľúčových úzkych miest na cestnej infraštruktúre a zlepšenie regionálnej mobility prostredníctvom modernizácie a výstavby ciest I. triedy",
+   "specifickyCielProgramu": {
+    "id": 41,
+    "href": "/specifickycielprogramu/id/41",
+    "kod": "401301R302",
+    "nazovSk": "RSO3.2 Rozvoj a posilňovanie udržateľnej, inteligentnej a intermodálnej vnútroštátnej, regionálnej a miestnej mobility odolnej proti  zmene klímy vrátane zlepšeného prístupu k TEN-T a cezhraničnej mobility (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870536
+   },
+   "createdAt": 1772540870560
+  }
+ ],
+ "miestoRealizacie": [
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "obsahujeMiestoRealizacieZahranicie": false,
+ "ziadatel": [
+  {
+   "id": 42,
+   "kod": "1009321",
+   "kodZdroj": "321",
+   "nazovSk": "Rozpočtová organizácia",
+   "nazovEn": "Budgetary organization",
+   "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+   "popisEn": "Budgetary organization Budgetary organization",
+   "platnostOd": 662684400000,
+   "statPlatnosti": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "datumVyhlasenia": 1765407600000,
+ "uzavreta": false,
+ "druh": "VYZVA_21",
+ "vyhlasovatel": {
+  "id": 382,
+  "kod": "21_SO_PSK_MDSR",
+  "nazov": "Sprostredkovateľský orgán PSK - Ministerstvo dopravy SR",
+  "subjekt": {
+   "id": 100008,
+   "href": "/subjekt/id/100008",
+   "nazov": "Ministerstvo dopravy Slovenskej republiky",
+   "ico": "30416094",
+   "dic": "2020799209",
+   "platitelDph": true,
+   "podlaParagrafu": "§7a",
+   "icDph": "SK2020799209",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Námestie slobody",
+    "cislo": "2902/6",
+    "psc": "81005",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "poskytovatel": {
+  "id": 376,
+  "kod": "21_RO_PSK_MIRRISR",
+  "nazov": "Riadiaci orgán PSK - Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",
+  "subjekt": {
+   "id": 102012,
+   "href": "/subjekt/id/102012",
+   "nazov": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "ico": "50349287",
+   "dic": "2120287004",
+   "platitelDph": true,
+   "podlaParagrafu": "§7",
+   "icDph": "SK2120287004",
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Pribinova",
+    "cislo": "4195/25",
+    "psc": "81109",
+    "obec": "Bratislava - mestská časť Staré Mesto",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ },
+ "pozastavenePredkladanieZonfp": false,
+ "vyhlasena": true,
+ "zrusena": false,
+ "vylucenaZFinacovania": false,
+ "typ": "UZAVRETA",
+ "zameranieProjektu": "NP_21",
+ "createdAt": 1764237837713,
+ "updatedAt": 1764237874750,
+ "sumaEu": 415776.79,
+ "sumaSr": 73372.38,
+ "predvyber": false,
+ "posudzovaneObdobie": [],
+ "pocetPredlozenychZiadosti": 1,
+ "pocetSchvalenychZiadosti": 0,
+ "pocetZiadostiVKonani": 1,
+ "pocetNeschvalenychZiadosti": 0,
+ "pocetRealizovanychProjektov": 0,
+ "planovanaVyzva": [
+  {
+   "id": 74,
+   "href": "/planovanavyzva/id/74",
+   "kod": "2025/00029",
+   "nazovSk": "I/64 Prievidza – obchvat, II. etapa (štúdia realizovateľnosti)",
+   "programSkratka": "PSK",
+   "program": {
+    "id": 1,
+    "href": "/program/id/1"
+   },
+   "specifickyCielProgramu": [
+    {
+     "id": 41,
+     "href": "/specifickycielprogramu/id/41"
+    }
+   ],
+   "opatrenie": [
+    {
+     "id": 36,
+     "href": "/opatrenie/id/36"
+    }
+   ],
+   "miestoRealizacie": [
+    {
+     "id": 11,
+     "kod": "1006SK022",
+     "kodZdroj": "SK022",
+     "nazovSk": "Trenčiansky kraj",
+     "nazovEn": "Region of Trenčín",
+     "platnostOd": 1091311200000,
+     "stat": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "obsahujeMiestoRealizacieZahranicie": false,
+   "ziadatel": [
+    {
+     "id": 42,
+     "kod": "1009321",
+     "kodZdroj": "321",
+     "nazovSk": "Rozpočtová organizácia",
+     "nazovEn": "Budgetary organization",
+     "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+     "popisEn": "Budgetary organization Budgetary organization",
+     "platnostOd": 662684400000,
+     "statPlatnosti": {
+      "id": 210,
+      "kod": "1012SK",
+      "kodZdroj": "703",
+      "nazovSk": "Slovensko",
+      "nazovEn": "Slovakia",
+      "popisSk": "Slovenská republika",
+      "popisEn": "Slovak Republic",
+      "platnostOd": 725842800000,
+      "lokalizacia": "SLOVENSKA_REPUBLIKA"
+     }
+    }
+   ],
+   "datumUzavretia1Kolo": 1869688800000,
+   "datumVyhlasenia1Kolo": 1761951600000,
+   "sumaEu": 415776.79,
+   "sumaSr": 73372.38,
+   "druh": "VYZVA_21",
+   "vyhlasena": true,
+   "zrusena": false,
+   "zameranieProjektu": "NP_21",
+   "vyhlasovatel": {
+    "id": 382
+   },
+   "poskytovatel": {
+    "id": 376
+   },
+   "createdAt": 1764237479417,
+   "updatedAt": 1764237479484
+  }
+ ],
+ "programoveObdobie": "2021-2027",
+ "mrk": "NIE",
+ "fond": [
+  {
+   "id": 6,
+   "kod": "1032EFRR",
+   "kodZdroj": "EFRR",
+   "nazovSk": "Európsky fond regionálneho rozvoja",
+   "nazovEn": "European Regional Development Fund",
+   "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+   "popisSk": "Európsky fond regionálneho rozvoja",
+   "popisEn": "European Regional Development Fund",
+   "popisDe": "Europäischen Fonds für regionale Entwicklung",
+   "platnostOd": 1668121200000
+  }
+ ],
+ "sposobFinancovania": [
+  "ZALOHA",
+  "PREDFINANCOVANIE",
+  "REFUNDACIA"
+ ],
+ "typPartnerstva": "ZIADNE",
+ "povinnostVo": false,
+ "zamerPredlozeny": false,
+ "percentoZaPolozku": false,
+ "kontaktnaOsoba": [
+  {
+   "osoba": {
+    "titulPred": "Ing.",
+    "meno": "Peter",
+    "priezvisko": "Hruška",
+    "titulZa": "",
+    "menoUplne": "Ing. Peter Hruška"
+   },
+   "telefon": "0259494349",
+   "email": "peter.hruska2@mindop.sk"
+  }
+ ],
+ "podmienkaPoskytnutiaPrispevku": [
+  {
+   "poradoveCislo": 1,
+   "nazovSk": "Podmienka oprávnenosti žiadateľa",
+   "popisSk": "<div><div><div><div>V r&aacute;mci tejto v&yacute;zvy je opr&aacute;vnen&yacute;m žiadateľom:</div><div><b>Slovensk&aacute; spr&aacute;va ciest</b></div><div>Z&aacute;roveň osoba konaj&uacute;ca v&nbsp;mene opr&aacute;vnen&eacute;ho žiadateľa, ak je odli&scaron;n&aacute; od &scaron;tatut&aacute;rneho org&aacute;nu žiadateľa, mus&iacute; byť riadne splnomocnen&aacute; na v&yacute;kon predmetn&yacute;ch &uacute;konov.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div><b>Formul&aacute;r ŽoNFP </b>&ndash; časť 1. Identifik&aacute;cia žiadateľa</div><div><b>Pr&iacute;loha ŽoNFP<a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftn1\" name=\"_ftnref1\" title=\"\"><b>[1]</b></a> </b>(ak relevantn&eacute;):</div><div><b>Splnomocnenie osoby konaj&uacute;cej v&nbsp;mene žiadateľa</b> na zastupovanie žiadateľa v&nbsp;konan&iacute; o&nbsp;žiadosti<a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftn2\" name=\"_ftnref2\" title=\"\"><sup><sup>[2]</sup></sup></a> (ak relevantn&eacute;)</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div><b>ITMS </b>(resp. &uacute;daje evidovan&eacute; v informačn&yacute;ch syst&eacute;moch verejnej spr&aacute;vy (<a href=\"https://rpo.statistics.sk/\">https://rpo.statistics.sk</a> /<a href=\"https://oversi.gov.sk/\">https://oversi.gov.sk</a>))</div><div><b>Integračn&aacute; akcia &bdquo;Z&iacute;skanie V&yacute;pisu z&nbsp;Obchodn&eacute;ho registra SR&ldquo;</b></div><div><b>Splnomocnenie osoby konaj&uacute;cej v&nbsp;mene žiadateľa</b> na zastupovanie žiadateľa v&nbsp;konan&iacute; o&nbsp;žiadosti (ak relevantn&eacute;)</div><div style=\"margin-left:-2.0pt\"><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div><div style=\"margin-left:-2.0pt\">Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne do skončenia doby udržateľnosti projektu - v&nbsp;zmysle čl. 65 NSU<a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftn3\" name=\"_ftnref3\" title=\"\"><sup><sup>[3]</sup></sup></a>.</div></div></div><div style=\"clear:both\">&nbsp;</div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Pr&iacute;loha č. 1 Formul&aacute;r ŽoNFP popis.</div></div><div id=\"ftn2\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> Žiadateľ predklad&aacute; t&uacute;to pr&iacute;lohu iba v&nbsp;pr&iacute;pade, ak osoba konaj&uacute;ca v mene žiadateľa je odli&scaron;n&aacute; od &scaron;tatut&aacute;rneho org&aacute;nu žiadateľa. T&aacute;to osoba mus&iacute; byť riadne splnomocnen&aacute; na zastupovanie žiadateľa v&nbsp;konan&iacute; o&nbsp;žiadosti. T&uacute;to pr&iacute;lohu predklad&aacute; žiadateľ <u>vždy v&nbsp;každej ŽoNFP a</u> nie je možn&eacute; ju nahradiť čestn&yacute;m vyhl&aacute;sen&iacute;m o&nbsp;predložen&iacute; tejto pr&iacute;lohy v&nbsp;niektorej zo skor&scaron;&iacute;ch ŽoNFP.</div></div><div id=\"ftn3\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftnref3\" name=\"_ftn3\" title=\"\">[3]</a> NSU - Nariadenie Eur&oacute;pskeho parlamentu a&nbsp;Rady (E&Uacute;) 2021/1060 z 24. j&uacute;na 2021, ktor&yacute;m sa stanovuj&uacute; spoločn&eacute; ustanovenia o Eur&oacute;pskom fonde region&aacute;lneho rozvoja, Eur&oacute;pskom soci&aacute;lnom fonde plus, Koh&eacute;znom fonde, Fonde na spravodliv&uacute; transform&aacute;ciu a Eur&oacute;pskom n&aacute;mornom, rybolovnom a akvakult&uacute;rnom fonde a rozpočtov&eacute; pravidl&aacute; pre uveden&eacute; fondy, ako aj pre Fond pre azyl, migr&aacute;ciu a integr&aacute;ciu, Fond pre vn&uacute;torn&uacute; bezpečnosť a N&aacute;stroj finančnej podpory na riadenie hran&iacute;c a v&iacute;zov&uacute; politiku v&nbsp;platnom znen&iacute;.</div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Dokument definovaný RO/SO preukazujúci splnenie danej podmienky",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 2,
+   "nazovSk": "Podmienka oprávnenosti aktivít projektu",
+   "popisSk": "<div><div><div><div>Pre t&uacute;to v&yacute;zvu je opr&aacute;vnen&yacute;m <b><u>typom akcie</u></b>:</div><ul><li><b>Predinvestičn&aacute; a&nbsp;projektov&aacute; pr&iacute;prava</b></li></ul><div><u>Opr&aacute;vnen&eacute; hlavn&eacute; aktivity projektu</u>:</div><ul><li><b>I/64 Prievidza &ndash; obchvat, II. etapa (&scaron;t&uacute;dia realizovateľnosti)</b></li></ul><div>V&yacute;stupy/v&yacute;sledky, ktor&eacute; maj&uacute; byť dosiahnut&eacute; realiz&aacute;ciou aktiv&iacute;t projektu, musia byť kvantifikovan&eacute; prostredn&iacute;ctvom merateľn&yacute;ch ukazovateľov definovan&yacute;ch v dokumente <i>Zoznam merateľn&yacute;ch ukazovateľov projektu a in&yacute;ch &uacute;dajov</i>, ktor&yacute; tvor&iacute; <b>pr&iacute;lohu č. 4</b> v&yacute;zvy.</div><div><b>Žiadateľ nesmie ukončiť fyzick&uacute; realiz&aacute;ciu hlavnej aktivity projektu, t. j. plne zrealizovať hlavn&uacute; aktivitu projektu, pred predložen&iacute;m ŽoNFP poskytovateľovi.</b></div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div><b>Formul&aacute;r ŽoNFP </b>- časť 7, 9, 10, 11</div><div><b>Pr&iacute;loha č. 5b v&yacute;zvy &ndash; Rozpočet projektu</b></div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div><b>Formul&aacute;r ŽoNFP </b>- časť 7, 9, 10, 11</div><div><b>Pr&iacute;loha č. 5b v&yacute;zvy &ndash; Rozpočet projektu</b></div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div><div>Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť kontinu&aacute;lne do skončenia doby udržateľnosti projektu - v&nbsp;zmysle čl. 65 NSU.</div></div></div><div style=\"clear:both\">&nbsp;</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Dokument definovaný RO/SO preukazujúci splnenie danej podmienky",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 3,
+   "nazovSk": "Podmienka miesta realizácie projektu",
+   "popisSk": "<div><div><div><div>Opr&aacute;vnen&yacute;m miestom realiz&aacute;cie projektu (v r&aacute;mci NUTS 3):</div><ul><li>Trenčiansky kraj</li></ul><div>Pre pos&uacute;denie splnenia tejto podmienky je rozhoduj&uacute;ce <b>miesto realiz&aacute;cie projektu</b>, nie s&iacute;dlo žiadateľa.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>Formul&aacute;r ŽoNFP - časť 6</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div>Formul&aacute;r ŽoNFP - časť 6</div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div><div>Do skončenia doby udržateľnosti projektu v zmysle čl. 65 NSU.</div></div></div><div style=\"clear:both\">&nbsp;</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 4,
+   "nazovSk": "Podmienka splnenia kritérií pre výber projektov",
+   "popisSk": "<div><div><div><div>Žiadosť o NFP mus&iacute; spĺňať krit&eacute;ri&aacute; pre v&yacute;ber projektov uveden&eacute; <b>v pr&iacute;lohe č. 2 v&yacute;zvy</b>, inak SO rozhodne o neschv&aacute;len&iacute; ŽoNFP.</div><div>&nbsp;</div><div>Doplňuj&uacute;ce inform&aacute;cie k zneniu vylučuj&uacute;ceho krit&eacute;ria HP:</div><div>Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach<a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a>, s prihliadnut&iacute;m na dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky.</div><div>V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby, ako aj sk&uacute;senosti rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m<a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftn2\" name=\"_ftnref2\" title=\"\">[2]</a>.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div><b>Formul&aacute;r ŽoNFP</b> - časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa</div><div><b>Kladn&eacute; stanovisko gestora Horizont&aacute;lnych princ&iacute;pov</b> z predbežn&eacute;ho odborn&eacute;ho pos&uacute;denia projektovej dokument&aacute;cie n&aacute;rodn&eacute;ho projektu</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div><b>Formul&aacute;r ŽoNFP</b> - časť 15. Čestn&eacute; vyhl&aacute;senie žiadateľa</div><div><b>Kladn&eacute; stanovisko gestora Horizont&aacute;lnych princ&iacute;pov</b> z predbežn&eacute;ho odborn&eacute;ho pos&uacute;denia projektovej dokument&aacute;cie n&aacute;rodn&eacute;ho projektu</div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div><div>Do skončenia konania o žiadosti o&nbsp;NFP.</div></div></div><div style=\"clear:both\">&nbsp;</div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> <a href=\"https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060\">https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060</a></div></div><div id=\"ftn2\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> <a href=\"https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf\">https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf </a>&nbsp;</div></div></div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Dokument definovaný RO/SO preukazujúci splnenie danej podmienky",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  },
+  {
+   "poradoveCislo": 5,
+   "nazovSk": "Podmienka, že žiadateľ nie je evidovaný v Systéme včasného odhaľovania rizika a vylúčenia (EDES) ako vylúčená osoba alebo subjekt (v zmysle článku 137 nariadenia č. 2024/2509).",
+   "popisSk": "<div><div><div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>Nevyžaduje sa</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div>V&nbsp;neverejnej časti<b> Syst&eacute;mu včasn&eacute;ho odhaľovania rizika&nbsp;a vyl&uacute;čen&yacute;ch subjektov </b>na webovom s&iacute;dle: <a href=\"https://ec.europa.eu/budget/edes/index_en.cfm\">https://ec.europa.eu/budget/edes/index_en.cfm</a></div><div><b><u>Ukončenie uplatniteľnosti PPP:</u></b></div><div>Podmienka sa bude overovať v konan&iacute; o&nbsp;žiadosti a je potrebn&eacute; ju plniť do skončenia konania o&nbsp;žiadosti.</div></div></div><div style=\"clear:both\">&nbsp;</div></div>",
+   "priloha": [
+    {
+     "poradoveCislo": 1,
+     "nazovSk": "Bez osobitnej prílohy",
+     "nazovDe": "Keine Beilagen",
+     "sposobPredlozenia": "SO_ZONFP",
+     "prilohaPovinna": false
+    }
+   ]
+  }
+ ],
+ "subjekt": [
+  {
+   "id": 100223,
+   "href": "/subjekt/id/100223",
+   "nazov": "Slovenská správa ciest",
+   "ico": "00003328",
+   "dic": "2021067785",
+   "platitelDph": false,
+   "pravnaForma": {
+    "id": 42,
+    "kod": "1009321",
+    "kodZdroj": "321",
+    "nazovSk": "Rozpočtová organizácia",
+    "nazovEn": "Budgetary organization",
+    "popisSk": "Rozpočtová organizácia Rozpočtová organizácia",
+    "popisEn": "Budgetary organization Budgetary organization",
+    "platnostOd": 662684400000,
+    "statPlatnosti": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   },
+   "adresa": {
+    "ulica": "Dúbravská cesta",
+    "cislo": "1152/3",
+    "psc": "84104",
+    "obec": "Bratislava - mestská časť Karlova Ves",
+    "stat": {
+     "id": 210,
+     "kod": "1012SK",
+     "kodZdroj": "703",
+     "nazovSk": "Slovensko",
+     "nazovEn": "Slovakia",
+     "popisSk": "Slovenská republika",
+     "popisEn": "Slovak Republic",
+     "platnostOd": 725842800000,
+     "lokalizacia": "SLOVENSKA_REPUBLIKA"
+    }
+   }
+  }
+ ],
+ "miestoRealizacieFull": [
+  {
+   "id": 11,
+   "kod": "1006SK022",
+   "kodZdroj": "SK022",
+   "nazovSk": "Trenčiansky kraj",
+   "nazovEn": "Region of Trenčín",
+   "platnostOd": 1091311200000,
+   "stat": {
+    "id": 210,
+    "kod": "1012SK",
+    "kodZdroj": "703",
+    "nazovSk": "Slovensko",
+    "nazovEn": "Slovakia",
+    "popisSk": "Slovenská republika",
+    "popisEn": "Slovak Republic",
+    "platnostOd": 725842800000,
+    "lokalizacia": "SLOVENSKA_REPUBLIKA"
+   }
+  }
+ ],
+ "miestoRealizacieStat": [],
+ "cielovaSkupina": [],
+ "partner": [],
+ "opravneneVydavky": [
+  {
+   "kod": "1040907",
+   "nazovSk": "Paušálna sadzba na nepriame výdavky podľa článku 54 písm. a) NSU",
+   "typAkcieProgramu": {
+    "id": 996,
+    "href": "/typakcieprogramu/id/996"
+   }
+  },
+  {
+   "kod": "1040518",
+   "nazovSk": "Ostatné služby",
+   "typAkcieProgramu": {
+    "id": 609,
+    "href": "/typakcieprogramu/id/609"
+   }
+  }
+ ],
+ "externyZdroj": [],
+ "dokument": [
+  {
+   "nazov": "PSK-MD-027-2025-NP-EFRR_PDF.zip",
+   "uuid": "95ea41fc-1b93-4f90-9c7b-2b7ad52e7f28"
+  }
+ ],
+ "mieraSpolufinancovania": "<div><div>Financovanie celkov&yacute;ch opr&aacute;vnen&yacute;ch v&yacute;davkov projektu v r&aacute;mci v&yacute;zvy pre akciu: &bdquo;<b>Predinvestičn&aacute; a&nbsp;projektov&aacute; pr&iacute;prava</b>&ldquo;,</div><ul><li>k&oacute;d dimenzie: <b>090. Novovybudovan&eacute; alebo vylep&scaron;en&eacute; in&eacute; n&aacute;rodn&eacute;, region&aacute;lne a miestne pr&iacute;stupov&eacute; cesty</b></li></ul><div>bude realizovan&eacute; v s&uacute;lade s pravidlami stanoven&yacute;mi v platnej <a href=\"https://www.mfsr.sk/sk/financne-vztahy-eu/povstupove-fondy-eu/programove-obdobie-2021-2027/strategia-financovania-efrr-esf-kf-fst-enraf-2021-2027/\"><b>Strat&eacute;gii financovania EFRR, ESF+, KF, FST a ENRAF na programov&eacute; obdobie 2021 &ndash; 2027</b></a><b>,</b> a&nbsp;to nasledovne:</div><div><div><div>&nbsp;<b>Žiadateľ</b><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftn1\" name=\"_ftnref1\" title=\"\"><b><b>[1]</b></b></a></div><div align=\"center\"><b>% financovania celkov&yacute;ch opr&aacute;vnen&yacute;ch v&yacute;davkov na realiz&aacute;ciu aktiv&iacute;t projektu</b></div></div><div><div align=\"center\"><b>E&Uacute;</b></div><div align=\"center\"><b>&Scaron;R</b></div><div align=\"center\"><b>P</b></div></div><div><div><b>Slovensk&aacute; spr&aacute;va ciest</b></div><div>Pr&aacute;vna forma: rozpočtov&aacute; organiz&aacute;cia</div><div align=\"center\">85 %</div><div align=\"center\">15 %</div><div align=\"center\">0 %</div></div></div><div>E&Uacute; = zdroj EFRR, &Scaron;R = zdroje &scaron;t&aacute;tneho rozpočtu SR, P = vlastn&eacute; zdroje prij&iacute;mateľa</div><b>Zdroje E&Uacute; a&nbsp;zdroje &scaron;t&aacute;tneho rozpočtu</b> tvoria spolu <b>nen&aacute;vratn&yacute; finančn&yacute; pr&iacute;spevok</b> (ďalej&nbsp;len&nbsp;&bdquo;NFP&ldquo;).<div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Pomery financovania nastaven&eacute; v&nbsp;s&uacute;lade so Z&aacute;kladn&yacute;mi pravidlami financovania pre EFRR, ESF+ a FST (Tabuľka č. 1, 1 a) vybran&eacute; subjekty &scaron;t&aacute;tnej spr&aacute;vy)</div></div></div></div>",
+ "sposobPodaniaZoNFP": "<div><div><div><div>Žiadateľ je povinn&yacute; predložiť ŽoNFP <b>riadne a včas</b>. Podrobnosti o&nbsp;sp&ocirc;sobe predkladania ŽoNFP s&uacute; uveden&eacute; v dokumente: &bdquo;<a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/\"><i>V&scaron;eobecn&aacute; inform&aacute;cia k predkladaniu a schvaľovaniu žiadost&iacute; o poskytnutie nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku - Programov&eacute; obdobie 2021 &ndash; 2027</i></a>&ldquo; (ďalej len &bdquo;V&scaron;eobecn&aacute; inform&aacute;cia&ldquo;), kapitola 3.2. Predloženie žiadosti o&nbsp;poskytnutie NFP a&nbsp;jej pr&iacute;loh a kapitola 3.3. Podmienky doručenia ŽoNFP.</div><div>Žiadateľ predklad&aacute; poskytovateľovi:</div><ol><li><b>vyplnen&yacute; formul&aacute;r ŽoNFP vr&aacute;tane v&scaron;etk&yacute;ch pr&iacute;loh elektronicky</b> <b>prostredn&iacute;ctvom verejnej časti ITMS<a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftn1\" name=\"_ftnref1\" title=\"\"><b>[1]</b></a></b></li></ol><div><b>a&nbsp;z&aacute;roveň</b></div><ol><li value=\"2\"><b>formul&aacute;r ŽoNFP bez pr&iacute;loh v&nbsp;p&iacute;somnej forme, a&nbsp;to:</b></li></ol><ul><li><b>elektronickej podobe</b> <b>prostredn&iacute;ctvom elektronickej schr&aacute;nky poskytovateľa</b> zriadenej v&nbsp;r&aacute;mci &Uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy, podp&iacute;san&yacute; kvalifikovan&yacute;m elektronick&yacute;m podpisom alebo kvalifikovan&yacute;m elektronick&yacute;m podpisom s&nbsp;mand&aacute;tnym certifik&aacute;tom</li></ul><div style=\"margin-left:21.25pt\"><b>alebo</b></div><div><b>v</b> <b>osobit&yacute;ch pr&iacute;padoch </b>(ak nie je možn&eacute; podať ŽoNFP elektronicky prostredn&iacute;ctvom elektronickej schr&aacute;nky poskytovateľa alebo nie je možn&eacute; pr&iacute;lohy ŽoNFP nahrať do ITMS a pod.)<b> v listinnej podobe </b>v origin&aacute;li, opečiatkovan&yacute; (v pr&iacute;pade, že žiadateľ m&aacute; povinnosť použ&iacute;vať pečiatku) a podp&iacute;san&yacute; (osobou opr&aacute;vnenou konať v mene žiadateľa) na adresu poskytovateľa uveden&uacute; niž&scaron;ie.</div><div>Pre subjekty, ktor&eacute; s&uacute; povinn&eacute; postupovať v zmysle &sect; 17 ods. 1 a 3 z&aacute;kona č. 305/2013 o elektronickej podobe v&yacute;konu p&ocirc;sobnosti org&aacute;nov verejnej moci a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov (z&aacute;kon o e-Governmente), je predkladanie ŽoNFP v elektronickej podobe prostredn&iacute;ctvom elektronickej schr&aacute;nky poskytovateľa <b>povinn&eacute;</b>.&nbsp;Listinn&eacute; predloženie je pre tieto subjekty možn&eacute; <b>len z technick&yacute;ch, resp. prev&aacute;dzkov&yacute;ch d&ocirc;vodov</b>, ktor&eacute; je žiadateľ povinn&yacute; preuk&aacute;zať pri predložen&iacute; žiadosti o&nbsp;NFP.</div></div></div><div style=\"clear:both\">&nbsp;</div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Žiadateľ vypracuje ŽoNFP &nbsp;v&nbsp;ITMS21+,&nbsp; po&nbsp; obsahovej str&aacute;nke postupuje v&nbsp;s&uacute;lade s&nbsp;v&yacute;zvou a&nbsp;v&nbsp;s&uacute;lade s <b>Pr&iacute;lohou č. 1 v&yacute;zvy &ndash; Formul&aacute;r ŽoNFP</b> - <b>In&scaron;trukcia k&nbsp;vyplneniu ŽoNFP</b>, z&aacute;roveň pri administr&aacute;ci&iacute; ŽoNFP postupuje v&nbsp;s&uacute;lade s&nbsp;dokumentom <b>Usmernenie k&nbsp;postupu administr&aacute;cie ŽoNFP cez ITMS21+ pre verejn&uacute; časť</b>, ktor&yacute; je zverejnen&yacute; na str&aacute;nke <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/dokumenty-itms21/\">https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/dokumenty-itms21/</a></div></div></div></div>",
+ "miestoPrePodanieZoNFP": "<div><div><div><div>Žiadateľ predklad&aacute; ŽoNFP vr&aacute;tane pr&iacute;loh <b>elektronicky</b> prostredn&iacute;ctvom verejnej časti ITMS<a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a> a elektronicky bez pr&iacute;loh prostredn&iacute;ctvom &Uacute;stredn&eacute;ho port&aacute;lu verejnej spr&aacute;vy<a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftn2\" name=\"_ftnref2\" title=\"\">[2]</a>, podp&iacute;san&uacute; kvalifikovan&yacute;m elektronick&yacute;m podpisom alebo kvalifikovan&yacute;m elektronick&yacute;m podpisom s mand&aacute;tnym certifik&aacute;tom. V osobitn&yacute;ch pr&iacute;padoch (ak nie je možn&eacute; podať ŽoNFP elektronicky alebo nie je možn&eacute; pr&iacute;lohy ŽoNFP nahrať do ITMS a pod.) je žiadateľ opr&aacute;vnen&yacute; predložiť ŽoNFP 1 x v listinnej podobe a/alebo pr&iacute;lohy (m&ocirc;že využiť predloženie v listinnej podobe alebo v pr&iacute;pade potreby na neprepisovateľnom elektronickom m&eacute;diu napr. na USB) na adresu SO&nbsp;PSK:</div><div style=\"margin-left:22.95pt\"><b>Ministerstvo dopravy SR</b></div><div style=\"margin-left:22.95pt\">Sekcia riadenia projektov</div><div style=\"margin-left:22.95pt\">N&aacute;mestie slobody 6</div><div style=\"margin-left:22.95pt\">810 05 Bratislava</div></div></div><div style=\"clear:both\">&nbsp;</div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Aktu&aacute;lne dostupn&aacute; na webovom s&iacute;dle https://www.portal.itms21.sk/.</div></div><div id=\"ftn2\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> Pri odosielan&iacute; elektronickej formy formul&aacute;ra ŽoNFP žiadateľ nemus&iacute; opustiť prostredie ITMS. ITMS automaticky vygeneruje v&scaron;etko potrebn&eacute; pre zrealizovanie elektronick&eacute;ho podania v r&aacute;mci ITMS, t. j. elektronick&uacute; spr&aacute;vu aj samotn&yacute; formul&aacute;r ŽoNFP, ktor&yacute; tvor&iacute; pr&iacute;lohu elektronickej spr&aacute;vy. Po vygenerovan&iacute; elektronickej spr&aacute;vy a formul&aacute;ra ŽoNFP žiadateľ podp&iacute;&scaron;e obidva elektronick&eacute; dokumenty a odo&scaron;le podanie cez verejn&uacute; časť ITMS. Elektronick&eacute; podanie vr&aacute;tane pr&iacute;lohy, t. j. formul&aacute;ra ŽoNFP je doručen&eacute; syst&eacute;mom ITMS do elektronickej schr&aacute;nky poskytovateľa. Toto ist&eacute; podanie sa ulož&iacute; do elektronickej schr&aacute;nky (do odoslan&yacute;ch spr&aacute;v) žiadateľa a rovnako mu bude doručen&aacute; aj elektronick&aacute; doručenka.&nbsp;</div></div></div></div>",
+ "predpokladanaLehotaNaRozhodnutie": "<div><div><div><div>SO PSK spravidla vyd&aacute; rozhodnutie <b>do 70 pracovn&yacute;ch dn&iacute;</b> od predloženia ŽoNFP.</div><div>Za d&aacute;tum predloženia ŽoNFP sa považuje d&aacute;tum podania ŽoNFP do elektronickej schr&aacute;nky poskytovateľa, d&aacute;tum odovzdania ŽoNFP do podateľne SO PSK, alebo d&aacute;tum odovzdania ŽoNFP na po&scaron;tov&uacute;, resp. in&uacute; prepravu (napr. kuri&eacute;rom). Do lehoty sa nezapoč&iacute;tava doba potrebn&aacute; na predloženie ch&yacute;baj&uacute;cich n&aacute;ležitost&iacute; zo strany žiadateľa.</div><div>V pr&iacute;pade, ak z objekt&iacute;vnych d&ocirc;vodov nebude m&ocirc;cť byť ukončen&eacute; konanie o ŽoNFP vo vy&scaron;&scaron;ie uvedenom term&iacute;ne, je SO PSK opr&aacute;vnen&yacute; predĺžiť lehotu na vydanie rozhodnutia, o&nbsp;tejto skutočnosti informuje žiadateľa.</div></div></div><div style=\"clear:both\">&nbsp;</div></div>",
+ "zmenaAZrusenieVyzvy": "<div><div><div><div>V nevyhnutn&yacute;ch pr&iacute;padoch, kedy nie je možn&eacute; konať o ŽoNFP predložen&yacute;ch na z&aacute;klade p&ocirc;vodne vyhl&aacute;senej v&yacute;zvy, alebo je zmena potrebn&aacute; za &uacute;čelom jej optimaliz&aacute;cie, resp. vhodnej&scaron;ieho nastavenia, je poskytovateľ opr&aacute;vnen&yacute; v s&uacute;lade s &sect; 14 ods. 4 až 7 Z&aacute;kona o pr&iacute;spevkoch z fondov v&yacute;zvu zmeniť alebo zru&scaron;iť.</div><div>Poskytovateľ m&ocirc;že v&yacute;zvu po zverejnen&iacute; zmeniť v celom rozsahu (vr&aacute;tane podmienok poskytnutia pr&iacute;spevku) do vydania prv&eacute;ho rozhodnutia<a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a>. Po vydan&iacute; prv&eacute;ho rozhodnutia m&ocirc;že zmeniť form&aacute;lne n&aacute;ležitosti v&yacute;zvy a ďal&scaron;ie skutočnosti t&yacute;kaj&uacute;ce sa poskytovania pr&iacute;spevku, ktor&eacute; nemaj&uacute; charakter podmienky poskytnutia pr&iacute;spevku a pr&iacute;lohy. Poskytovateľ umožn&iacute; žiadateľovi doplniť alebo zmeniť ŽoNFP podan&uacute; do term&iacute;nu zmeny v&yacute;zvy, pričom mu poskytne primeran&uacute; lehotu v z&aacute;vislosti od charakteru zmien v&yacute;zvy. V pr&iacute;pade legislat&iacute;vnych zmien, ktor&eacute; maj&uacute; alebo m&ocirc;žu mať vplyv na zmenu podmienok poskytnutia pr&iacute;spevku, tak&aacute;to zmena nepredstavuje zmenu v&yacute;zvy za predpokladu, že noveliz&aacute;ciou alebo vydan&iacute;m nov&eacute;ho v&scaron;eobecne z&aacute;v&auml;zn&eacute;ho pr&aacute;vneho predpisu ned&ocirc;jde k zmene vecnej podstaty podmienky poskytnutia pr&iacute;spevku. Poskytovateľ v takom pr&iacute;pade posudzuje ŽoNFP podľa aktu&aacute;lne platn&eacute;ho pr&aacute;vneho predpisu, re&scaron;pektuj&uacute;c prechodn&eacute; ustanovenia vo vzťahu k jeho &uacute;činnosti. V pr&iacute;pade, ak legislat&iacute;vne zmeny vyvolaj&uacute; potrebu zmeny v podmienkach poskytnutia pr&iacute;spevku, poskytovateľ v nadv&auml;znosti na ich pos&uacute;denie rozhodne o potrebe zmeny alebo zru&scaron;enia v&yacute;zvy.</div><div>Pri zmene v&yacute;zvy musia byť dodržan&eacute; princ&iacute;py podľa &sect; 2 ods. 2 Z&aacute;kona o pr&iacute;spevkoch z fondov.</div><div>V pr&iacute;pade zmien spojen&yacute;ch s predkladan&iacute;m ŽoNFP prostredn&iacute;ctvom ITMS (napr. zmeny v technickom sp&ocirc;sobe vypĺňania jednotliv&yacute;ch čast&iacute; ŽoNFP), tak&eacute;to zmeny nepredstavuj&uacute; zmenu v&yacute;zvy a o relevantn&yacute;ch technick&yacute;ch postupoch bude poskytovateľ žiadateľov informovať. V pr&iacute;pade identifik&aacute;cie ch&yacute;b v p&iacute;san&iacute;, v počtoch alebo in&yacute;ch zrejm&yacute;ch nespr&aacute;vnost&iacute; (napr. vypl&yacute;vaj&uacute;ce z potreby &uacute;pravy technick&yacute;ch n&aacute;ležitost&iacute; vybran&yacute;ch vzorov&yacute;ch formul&aacute;rov pr&iacute;loh ŽoNFP alebo in&yacute;ch čast&iacute; v&yacute;zvy alebo dokumentov t&yacute;kaj&uacute;cich sa v&yacute;zvy) tak&eacute;to zmeny nepredstavuj&uacute; zmenu v&yacute;zvy a o vykonan&yacute;ch oprav&aacute;ch/&uacute;prav&aacute;ch poskytovateľ informuje žiadateľov zverejnen&iacute;m prostredn&iacute;ctvom ITMS na webovom s&iacute;dle <a href=\"https://portal.itms21.sk/\">www.portal.itms21.sk</a> a <a href=\"http://www.eurofondy.gov.sk/\">www.eurofondy.gov.sk</a>.</div><div>V pr&iacute;pade, ak d&ocirc;jde k podstatnej zmene, alebo ak z objekt&iacute;vnych d&ocirc;vodov nie je možn&eacute; schv&aacute;liť ŽoNFP a n&aacute;sledne financovať projekty na z&aacute;klade v&yacute;zvy, poskytovateľ v&yacute;zvu zru&scaron;&iacute;. ŽoNFP podan&eacute; do d&aacute;tumu zru&scaron;enia v&yacute;zvy, o&nbsp;ktor&yacute;ch poskytovateľ nerozhodol podľa &sect; 16 alebo &sect; 17 Z&aacute;kona o pr&iacute;spevkoch z fondov, poskytovateľ vr&aacute;ti v&scaron;etk&yacute;m žiadateľom. Pravidl&aacute; pre zmenu/zru&scaron;enie v&yacute;zvy sa rovnako aplikuj&uacute; na pr&iacute;pad zmien v dokumentoch, na ktor&eacute; sa v&yacute;zva odvol&aacute;va a tak&eacute;to zmeny maj&uacute; vplyv na zmenu podmienok poskytnutia pr&iacute;spevku.</div><div>Zmeny v&yacute;zvy a jej pr&iacute;loh, vr&aacute;tane zd&ocirc;vodnenia zmien, ako aj zru&scaron;enie v&yacute;zvy, vr&aacute;tane zd&ocirc;vodnenia zru&scaron;enia, bud&uacute; zverejňovan&eacute; prostredn&iacute;ctvom ITMS na webovom s&iacute;dle <a href=\"https://portal.itms21.sk/\">www.portal.itms21.sk</a> a <a href=\"http://www.eurofondy.gov.sk/\">www.eurofondy.gov.sk</a>. V ozn&aacute;meniach poskytovateľ z&aacute;roveň definuje, na ak&eacute; ŽoNFP sa zmena vzťahuje.</div><div>Zmena v&yacute;zvy, resp. zru&scaron;enie v&yacute;zvy je &uacute;činn&eacute; v s&uacute;lade s inform&aacute;ciou uvedenou v ozn&aacute;men&iacute; o zmene/zru&scaron;en&iacute; v&yacute;zvy, najsk&ocirc;r v&scaron;ak dňom zverejnenia na webovom s&iacute;dle <a href=\"https://portal.itms21.sk/\">www.portal.itms21.sk</a> a <a href=\"http://www.eurofondy.gov.sk/\">www.eurofondy.gov.sk</a>.</div></div></div><div style=\"clear:both\">&nbsp;</div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Za prv&eacute; rozhodnutie sa nepovažuje rozhodnutie o zastaven&iacute; konania podľa &sect; 17 ods. 1 Z&aacute;kona č. 121/2022 Z. z. Z&aacute;kon o pr&iacute;spevkoch z fondov Eur&oacute;pskej &uacute;nie a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov.&nbsp;</div></div></div></div>",
+ "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>",
+ "dalsiaSkutocnost": [
+  {
+   "kod": "DS004PSK-MD-027-2025-NP-EFRR",
+   "dalsiaSkutocnost": "<div><div><div><div><b>Pravidlo nebyť podnikom v ťažkostiach</b></div><div><b>Žiadateľ je povinn&yacute; nebyť podnikom v ťažkostiach v zmysle čl&aacute;nku 2 bodu 18 nariadenia Komisie (E&Uacute;) č. 651/2014 o vyhl&aacute;sen&iacute; určit&yacute;ch kateg&oacute;ri&iacute; pomoci za zlučiteľn&eacute; s vn&uacute;torn&yacute;m trhom podľa čl&aacute;nkov 107 a 108 zmluvy.</b></div><div>Žiadateľ nesmie byť podnikom v&nbsp;ťažkostiach. Podrobnosti zohľadňovania podniku v ťažkostiach s&uacute; uveden&eacute; v&nbsp;<b>Metodike k overeniu podniku v&nbsp;ťažkostiach</b> zverejnenej na webovom s&iacute;dle: <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-specificke-pre-program-slovensko/\">https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-specificke-pre-program-slovensko/</a> (Metodick&eacute; dokumenty RO P SK &ndash; usmernenie č.&nbsp;12 k&nbsp;posudzovaniu podniku v&nbsp;ťažkostiach).</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>Žiadateľ po schv&aacute;len&iacute; ŽoNFP vypln&iacute; <b>Pr&iacute;lohu 7.1</b> <b>Test podniku v&nbsp;ťažkostiach </b>a vykon&aacute; tzv. <b>samooverenie</b>, či nie je podnikom v&nbsp;ťažkostiach a&nbsp;v&nbsp;r&aacute;mci poskytnutia s&uacute;činnosti <b>pred uzavret&iacute;m zmluvy o&nbsp;poskytnut&iacute; NFP predlož&iacute; čestn&eacute; vyhl&aacute;senie (pr&iacute;loha v&yacute;zvy 7.2)</b>, že nie je podnikom v&nbsp;ťažkostiach, resp. že hospod&aacute;rska jednotka, ktorej je členom, nie je podnikom v&nbsp;ťažkostiach (ak relevantn&eacute;).</div><div>N&aacute;sledne po podpise zmluvy o&nbsp;poskytnut&iacute; NFP predlož&iacute; žiadateľ, resp. prij&iacute;mateľ<b> pr&iacute;lohu 7.1. Test podniku v&nbsp;ťažkostiach &ndash; </b>žiadateľ je povinn&yacute; predložiť t&uacute;to pr&iacute;lohu do 10 dn&iacute; od nadobudnutia &uacute;činnosti zmluvy o&nbsp;poskytnut&iacute; NFP, resp. do doby stanovenej v&nbsp;n&iacute;m uzavretej zmluve o&nbsp;poskytnut&iacute; NFP, pričom pri vypĺňan&iacute; pr&iacute;lohy vych&aacute;dza z&nbsp;&uacute;dajov platn&yacute;ch ku dňu poskytnutia pomoci, t.j. ku dňu nadobudnutia &uacute;činnosti zmluvy o&nbsp;poskytnut&iacute; NFP.</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div>SO over&iacute; pred uzavret&iacute;m zmluvy o poskytnut&iacute; NFP čestn&eacute; vyhl&aacute;senie (pr&iacute;loha v&yacute;zvy 7.2) a&nbsp;počas realiz&aacute;cie projektu, najnesk&ocirc;r pred &uacute;hradou prvej ŽoP spr&aacute;vnosť žiadateľom uveden&yacute;ch &uacute;dajov v&nbsp;Teste podniku v&nbsp;ťažkostiach z&nbsp;relevantn&yacute;ch &uacute;čtovn&yacute;ch z&aacute;vierok zverejnen&yacute;ch v&nbsp;Registri &uacute;čtovn&yacute;ch z&aacute;vierok zverejnen&yacute;ch na <a href=\"http://www.registeruz.sk/cruz-public/domain/accountingentity/simplesearch\">www.registeruz.sk/cruz-public/domain/accountingentity/simplesearch</a></div><div><b><u>Čas overenia</u></b><b><u>:</u></b></div><div>SO overuje splnenie tejto podmienky pred uzavret&iacute;m zmluvy o poskytnut&iacute; NFP a počas realiz&aacute;cie projektu, najnesk&ocirc;r pred &uacute;hradou prvej ŽoP.</div></div></div><div style=\"clear:both\">&nbsp;</div></div>"
+  },
+  {
+   "kod": "DS002PSK-MD-027-2025-NP-EFRR",
+   "dalsiaSkutocnost": "<div><div><div><div><b>S&uacute;lad s&nbsp;horizont&aacute;lnymi princ&iacute;pmi</b></div><div>Projekt mus&iacute; byť v s&uacute;lade s horizont&aacute;lnymi princ&iacute;pmi, ktor&eacute; s&uacute; definovan&eacute; v čl. 9 nariadenia o spoločn&yacute;ch ustanoveniach<a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a>, s prihliadnut&iacute;m na dodržiavanie z&aacute;sady rovnak&eacute;ho zaobch&aacute;dzania a akt&iacute;vneho podporovania mužov a žien vo v&scaron;etk&yacute;ch aktivit&aacute;ch a činnostiach, najm&auml; ak ide o pr&iacute;stup k zamestnaniu, odmeňovanie a pracovn&yacute; postup, odborn&eacute; vzdel&aacute;vanie a pracovn&eacute; podmienky.</div><div>V projektoch je potrebn&eacute; odstraňovať bari&eacute;ry a zabraňovať v&scaron;etk&yacute;m form&aacute;m diskrimin&aacute;cie, vytv&aacute;rať podmienky, ktor&eacute; zohľadňuj&uacute; &scaron;pecifick&eacute; potreby rozmanit&yacute;ch skup&iacute;n obyvateľstva a zabezpečiť pr&iacute;stupnosť fyzick&eacute;ho prostredia, dopravy, inform&aacute;ci&iacute; a verejn&yacute;ch služieb pre osoby so zdravotn&yacute;m postihnut&iacute;m, v s&uacute;lade s čl. 9 Dohovoru OSN o pr&aacute;vach os&ocirc;b so zdravotn&yacute;m postihnut&iacute;m<a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftn2\" name=\"_ftnref2\" title=\"\">[2]</a>.</div><div>Gestor HP upozorňuje žiadateľa, že plnenie s&uacute;ladu projektu s HP m&ocirc;že byť predmetom finančnej kontroly v implement&aacute;ci&iacute; projektu, ktorej pr&aacute;vny z&aacute;klad vych&aacute;dza z platnej a &uacute;činnej zmluvy o poskytnut&iacute; NFP.</div><div><b><u>Čas plnenia/overenia:</u></b></div><div>V čase realiz&aacute;cie projektu na z&aacute;klade zmluvy o&nbsp;poskytnut&iacute; NFP až do skončenia doby udržateľnosti projektu (ak relevantn&eacute;) v zmysle čl. 65 nariadenia o spoločn&yacute;ch ustanoveniach.</div></div></div><div style=\"clear:both\">&nbsp;</div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> <a href=\"https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060\">https://eur-lex.europa.eu/legal-content/SK/TXT/?uri=CELEX%3A32021R1060</a></div></div><div id=\"ftn2\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> <a href=\"https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf\">https://www.mpsvr.sk/files/slovensky/uvod/legislativa/socialna-pomoc-podpora/dohovor-osn-pravach-osob-so-zdravotnym-postihnutim-opcny-protokol-sk-aj.pdf </a></div></div></div></div>"
+  },
+  {
+   "kod": "DS001PSK-MD-027-2025-NP-EFRR",
+   "dalsiaSkutocnost": "<div><div><div><div><b>Dodržiavanie z&aacute;sady &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; (DNSH)</b></div><div>Prij&iacute;mateľ je povinn&yacute; zabezpečiť, aby bola projektov&aacute; dokument&aacute;cia vzťahuj&uacute;ca sa k n&aacute;rodn&yacute;m projektom spracovan&aacute; v&nbsp;s&uacute;lade so z&aacute;sadou &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; a&nbsp;aby dod&aacute;vatelia - projektanti v nej zohľadnili podmienky DNSH v&nbsp;s&uacute;lade s&nbsp;<b>pr&iacute;lohou č. 3 v&yacute;zvy - DNSH.</b></div><div>Poskytovateľ upozorňuje žiadateľa, že preuk&aacute;zanie dodržiavania&nbsp; z&aacute;sady &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; sa bude vyžadovať pri žiadan&iacute; o NFP na investičn&eacute; &ndash; realizačn&uacute; f&aacute;zu n&aacute;rodn&eacute;ho projektu, resp. v&nbsp;obdob&iacute; realiz&aacute;cie/udržateľnosti investičn&yacute;ch f&aacute;z opr&aacute;vnen&eacute;ho n&aacute;rodn&eacute;ho projektu.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>Čestn&eacute; vyhl&aacute;senie žiadateľa o&nbsp;dodržan&iacute; z&aacute;sady DNSH pri projekte podporenom v&nbsp;r&aacute;mci v&yacute;zvy &ndash; čestn&eacute; vyhl&aacute;senie, že projektov&aacute; dokument&aacute;cia bola spracovan&aacute; v&nbsp;s&uacute;lade so z&aacute;sadou &bdquo;nesp&ocirc;sobovať v&yacute;znamn&uacute; &scaron;kodu&ldquo; a&nbsp;že podmienky DNSH, ako s&uacute; definovan&eacute; v&nbsp;pr&iacute;lohe č. 3 v&yacute;zvy, boli zohľadnen&eacute; pri pr&iacute;prave a&nbsp;projektovan&iacute; projektu.</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div>Kontrola čestn&eacute;ho vyhl&aacute;senia žiadateľa o&nbsp;dodržan&iacute; z&aacute;sady DNSH projekte podporenom v&nbsp;r&aacute;mci v&yacute;zvy.</div><div><b><u>Čas overenia:</u></b></div><div>Pred &uacute;hradou z&aacute;verečnej ŽoP.</div></div></div><div style=\"clear:both\">&nbsp;</div></div>"
+  },
+  {
+   "kod": "DS003PSK-MD-027-2025-NP-EFRR",
+   "dalsiaSkutocnost": "<div><div><div><div><b>Pravidl&aacute; opr&aacute;vnenosti v&yacute;davkov</b></div><div>V&yacute;davky projektu musia byť v s&uacute;lade s jednotn&yacute;mi pravidlami opr&aacute;vnenosti v&yacute;davkov definovan&yacute;mi v <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/\"><b>Pr&iacute;ručke k opr&aacute;vnenosti v&yacute;davkov</b></a><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftn1\" name=\"_ftnref1\" title=\"\"><b><b>[1]</b></b></a> a z&aacute;roveň s&uacute; v s&uacute;lade s pravidlami vymedzen&yacute;mi v <b>pr&iacute;lohe č. 5a</b> v&yacute;zvy - <b>Osobitn&eacute; podmienky opr&aacute;vnenosti v&yacute;davkov</b>.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div><b>Podporn&aacute; dokument&aacute;cia k opr&aacute;vnenosti v&yacute;davkov</b> &ndash; <b>pr&iacute;loha č. 5b v&yacute;zvy &ndash; Rozpočet projektu </b>a&nbsp;ďal&scaron;ia relevantn&aacute; dokument&aacute;cia preukazuj&uacute;ca opr&aacute;vnenosť v&yacute;davkov vr&aacute;tane hospod&aacute;rnosti.</div><div>K&nbsp;jednotliv&yacute;m v&yacute;davkom uveden&yacute;m žiadateľom v&nbsp;rozpočte projektu, predklad&aacute; žiadateľ <b><u>k&oacute;piu relevantnej </u>dokument&aacute;cie, z&nbsp;ktorej vych&aacute;dzal pri stanoven&iacute; v&yacute;&scaron;ky v&yacute;davkov v&nbsp;rozpočte, a&nbsp;to najm&auml;</b>:</div><ul><li>Zmluva s &uacute;spe&scaron;n&yacute;m uch&aacute;dzačom (v pr&iacute;pade ukončen&eacute;ho verejn&eacute;ho obstar&aacute;vania) (ak relevantn&eacute;)</li><li>Protokol o&nbsp;vykonan&iacute; &scaron;t&aacute;tnej/rezortnej expert&iacute;zy (ak relevantn&eacute;)</li><li>Znaleck&yacute; /odborn&yacute; posudok (ak relevantn&eacute;)</li><li>Ocenen&yacute; v&yacute;kaz-v&yacute;mer autorizovanou osobou (ak relevantn&eacute;)</li><li>Podklad k&nbsp;stanoveniu v&yacute;&scaron;ky v&yacute;davkov na z&aacute;klade cenn&iacute;kov pr&aacute;c s&uacute;visiacich s pr&iacute;pravou a realiz&aacute;ciou stavieb (napr. Cenkros, UNIKA, a pod.) (ak relevantn&eacute;)</li><li>Prieskum trhu (ak relevantn&eacute;)</li><li>In&aacute; dokument&aacute;cia preukazuj&uacute;ca stanovenie v&yacute;&scaron;ky v&yacute;davkov (ak relevantn&eacute;).</li></ul><div>&nbsp;</div><div>Žiadateľ je povinn&yacute; uchov&aacute;vať origin&aacute;l s&uacute;visiacich dokladov na z&aacute;klade ktor&yacute;ch bola stanoven&aacute; v&yacute;&scaron;ka pr&iacute;slu&scaron;n&eacute;ho v&yacute;davku u seba a&nbsp;pre &uacute;čely kontroly sprostredkovateľsk&eacute;ho org&aacute;nu (ďalej: &bdquo;SO&ldquo;).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div>V pr&iacute;pade, ak bola v&yacute;&scaron;ka v&yacute;davku stanoven&aacute; na z&aacute;klade uzavretej zmluvy s &uacute;spe&scaron;n&yacute;m uch&aacute;dzačom ako v&yacute;sledkom vykonan&eacute;ho verejn&eacute;ho obstar&aacute;vania, žiadateľ <u>predklad&aacute;</u> iba zmluvu s &uacute;spe&scaron;n&yacute;m uch&aacute;dzačom vr&aacute;tane dodatkov k zmluve (nepredklad&aacute; komplet dokument&aacute;ciu k VO). Žiadateľ je povinn&yacute; uchov&aacute;vať kompletn&uacute; dokument&aacute;ciu k verejn&eacute;mu obstar&aacute;vaniu, vr&aacute;tane zmluvy s &uacute;spe&scaron;n&yacute;m uch&aacute;dzačom u seba a v pr&iacute;pade požiadavky SO je povinn&yacute; kedykoľvek, najnesk&ocirc;r v r&aacute;mci pr&iacute;slu&scaron;nej žiadosti o platbu, predložiť relevantn&uacute; dokument&aacute;ciu, na z&aacute;klade ktorej bola stanoven&aacute; v&yacute;&scaron;ka pr&iacute;slu&scaron;n&eacute;ho v&yacute;davku.</div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div>Podporn&aacute; dokument&aacute;cia k opr&aacute;vnenosti v&yacute;davkov uveden&aacute; vy&scaron;&scaron;ie - v&nbsp;časti: &bdquo;Forma a&nbsp;podoba preuk&aacute;zania&ldquo;</div><div><b><u>Čas overenia:</u></b></div><div>Pred podpisom zmluvy o&nbsp;poskytnut&iacute; NFP a počas realiz&aacute;cie projektu najnesk&ocirc;r pred &uacute;hradou ŽoP.</div></div></div><div style=\"clear:both\">&nbsp;</div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Zverejnen&aacute; na <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/\">https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/</a></div></div></div></div>"
+  }
+ ],
+ "dalsiaFormalnaNalezitost": [
+  {
+   "kod": "DFN003PSK-MD-027-2025-NP-EFRR",
+   "dalsiaFormalnaNalezitost": "<div><div><div><div><b>Relevantn&yacute; sp&ocirc;sob financovania</b></div><div>Žiadateľ pri vypracovan&iacute; zmluvy o&nbsp;poskytnut&iacute;&nbsp;NFP vyberie z&nbsp;nasledovn&yacute;ch sp&ocirc;sobov financovania projektov, t.j. <b>predfinancovanie, z&aacute;lohov&eacute; platby a refund&aacute;cia alebo kombin&aacute;cia uveden&yacute;ch syst&eacute;mov</b>, ktor&yacute; bude obsiahnut&yacute; v zmluve o poskytnut&iacute; NFP.</div><div>Forma poskytovan&eacute;ho pr&iacute;spevku: <b>nen&aacute;vratn&yacute; finančn&yacute; pr&iacute;spevok</b>.</div></div></div><div style=\"clear:both\">&nbsp;</div></div>"
+  },
+  {
+   "kod": "DFN001PSK-MD-027-2025-NP-EFRR",
+   "dalsiaFormalnaNalezitost": "<div><div><div><div><b>Uzavretie zmluvy</b></div><div>Bliž&scaron;ie inform&aacute;cie k postupu pri uzatv&aacute;ran&iacute; zmluvy o poskytnut&iacute; NFP s&uacute; uveden&eacute; v&nbsp;kapitole 5. v dokumente: &bdquo;<a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-cko/\"><i>V&scaron;eobecn&aacute; inform&aacute;cia k predkladaniu a schvaľovaniu žiadost&iacute; o poskytnutie nen&aacute;vratn&eacute;ho finančn&eacute;ho pr&iacute;spevku - Programov&eacute; obdobie 2021 &ndash; 2027</i></a>&ldquo;.</div><div>Vzor Zmluvy o poskytnut&iacute; NFP pre SO MD SR je zverejnen&yacute; na webovom s&iacute;dle: <a href=\"https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-so/\">https://eurofondy.gov.sk/dokumenty-a-publikacie/metodicke-dokumenty/metodicke-dokumenty-so/</a></div></div></div><div style=\"clear:both\">&nbsp;</div></div>"
+  },
+  {
+   "kod": "DFN002PSK-MD-027-2025-NP-EFRR",
+   "dalsiaFormalnaNalezitost": "<div><div><div><div><b>Duplicita financovania</b></div><div>Žiadateľ na opr&aacute;vnen&eacute; v&yacute;davky uveden&eacute; v projekte nem&ocirc;že s&uacute;časne žiadať ich financovanie zo v&scaron;eobecn&eacute;ho rozpočtu E&Uacute; - plat&iacute; z&aacute;kaz duplicitn&eacute;ho financovania v&yacute;davkov.</div><div>V&yacute;davky, na ktor&eacute; boli v minulosti poskytnut&eacute; finančn&eacute; prostriedky zo v&scaron;eobecn&eacute;ho rozpočtu E&Uacute;, s&uacute; v r&aacute;mci projektu neopr&aacute;vnen&eacute;.</div></div></div><div style=\"clear:both\">&nbsp;</div></div>"
+  },
+  {
+   "kod": "DFN004PSK-MD-027-2025-NP-EFRR",
+   "dalsiaFormalnaNalezitost": "<div><div><div><div><b>Bez&uacute;honnosť žiadateľa&nbsp;</b></div><div>Jednou z&nbsp;podmienok pre zaslanie p&iacute;somn&eacute;ho n&aacute;vrhu na uzavretie zmluvy o&nbsp;poskytnut&iacute; NFP je, <b>že žiadateľ, ani člen jeho &scaron;tatut&aacute;rneho a ani dozorn&eacute;ho org&aacute;nu</b> <b>nebol pr&aacute;voplatne ods&uacute;den&yacute; </b>za trestn&yacute; čin subvenčn&eacute;ho podvodu, trestn&yacute; čin po&scaron;kodzovania finančn&yacute;ch z&aacute;ujmov Eur&oacute;pskej &uacute;nie, trestn&yacute; čin machin&aacute;ci&iacute; pri verejnom obstar&aacute;van&iacute; a verejnej dražbe, trestn&yacute; čin prij&iacute;mania &uacute;platku, trestn&yacute; čin podpl&aacute;cania, trestn&yacute; čin nepriamej korupcie alebo trestn&yacute; čin prijatia a poskytnutia nen&aacute;ležitej v&yacute;hody.</div><div>V&nbsp;pr&iacute;pade, že &scaron;tatut&aacute;rny org&aacute;n splnomocn&iacute; in&uacute; osobu na konanie v mene žiadateľa, je potrebn&eacute; preuk&aacute;zať bez&uacute;honnosť aj za t&uacute;to osobu.</div><div><b><u>Forma a&nbsp;podoba preuk&aacute;zania</u></b><b>:</b></div><div>Žiadateľ predlož&iacute; za každ&uacute; fyzick&uacute; osobu v postaven&iacute; &scaron;tatut&aacute;rneho org&aacute;nu, člena dozornej rady a za splnomocnen&uacute; osobu (ak relevantn&eacute;):</div><ol><li><b>Čestn&eacute; vyhl&aacute;senie o bez&uacute;honnosti</b> &ndash; <b>Pr&iacute;loha č. 8a v&yacute;zvy</b> (relevantn&eacute; len pre &scaron;tatut&aacute;rny org&aacute;n subjektu &uacute;strednej &scaron;t&aacute;tnej spr&aacute;vy, subjektu verejnej spr&aacute;vy a subjektu &uacute;zemnej samospr&aacute;vy, pri ktorom pr&aacute;va a povinnosti zmluvn&yacute;ch vzťahov &scaron;tatut&aacute;rnych org&aacute;nov k organiz&aacute;cii, resp. sp&ocirc;sob vymenovania &scaron;tatut&aacute;rneho org&aacute;nu upravuje osobitn&yacute; predpis<a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftn1\" name=\"_ftnref1\" title=\"\">[1]</a>)</li></ol><div style=\"margin-left:22.7pt\">resp.</div><ol><li value=\"2\"><b>&Uacute;daje potrebn&eacute; na vyžiadanie v&yacute;pisu z registra trestov</b> podľa &sect; 46 ods.&nbsp; 5 z&aacute;kona&nbsp;&nbsp; č. 121/2022 o pr&iacute;spevkoch z fondov z Eur&oacute;pskej &uacute;nie &ndash; <b>Pr&iacute;loha č. 8b v&yacute;zvy</b></li></ol><div style=\"margin-left:22.7pt\">resp.</div><ol><li value=\"3\"><b>V&yacute;pis z registra trestov</b>, nie star&scaron;&iacute; ako 3 mesiace &ndash; v pr&iacute;pade osoby <b>&scaron;t&aacute;tnej pr&iacute;slu&scaron;nosti inej ako slovenskej</b></li></ol><div><div><div>&nbsp;</div></div></div><div><b><u>Sp&ocirc;sob overenia</u></b><b>:</b></div><div>SO over&iacute; bez&uacute;honnosť za v&scaron;etky relevantn&eacute; osoby žiadateľa prostredn&iacute;ctvom Čestn&eacute;ho vyhl&aacute;senia o&nbsp;bez&uacute;honnosti alebo v pr&iacute;pade, že žiadateľ predlož&iacute; &Uacute;daje na vyžiadanie v&yacute;pisu z registra trestov, poskytovateľ over&iacute; splnenie podmienky priamo prostredn&iacute;ctvom informačn&eacute;ho monitorovacieho syst&eacute;mu ITMS21+<a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftn2\" name=\"_ftnref2\" title=\"\">[2]</a>, resp. za osobu &scaron;t&aacute;tnej pr&iacute;slu&scaron;nosti inej ako slovenskej v&yacute;pisom z&nbsp;registra trestov (ak relevantn&eacute;).</div><div><b><u>Čas overenia:</u></b></div><div>Pred zaslan&iacute;m p&iacute;somn&eacute;ho n&aacute;vrhu na uzavretie zmluvy o&nbsp;poskytnut&iacute; NFP žiadateľovi.</div></div></div><div style=\"clear:both\">&nbsp;</div><div>&nbsp;<hr align=\"left\" size=\"1\" width=\"33%\" /><div id=\"ftn1\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftnref1\" name=\"_ftn1\" title=\"\">[1]</a> Napr. z&aacute;kon č. 55/2017 Z. z. o &scaron;t&aacute;tnej službe a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov v znen&iacute; neskor&scaron;&iacute;ch predpisov, z&aacute;kon č. 552/2003 Z. z. o v&yacute;kone pr&aacute;ce vo verejnom z&aacute;ujme v znen&iacute; neskor&scaron;&iacute;ch predpisov, &sect; 4 a &sect; 22 z&aacute;kona č. 575/2001 Z. z. o organiz&aacute;cii činnosti vl&aacute;dy a organiz&aacute;cii &uacute;strednej &scaron;t&aacute;tnej spr&aacute;vy v znen&iacute; neskor&scaron;&iacute;ch predpisov, z&aacute;kon č. 180/2014 Z. z. o podmienkach v&yacute;konu volebn&eacute;ho pr&aacute;va a o zmene a doplnen&iacute; niektor&yacute;ch z&aacute;konov v znen&iacute; neskor&scaron;&iacute;ch predpisov.</div></div><div id=\"ftn2\"><div><a href=\"file://ente01/Man_FEU/AE31%20-%20OKMP/2021-27/V%C3%9DZVY/PSK-MD-027-2025-NP-EFRR/PSK-MD-027-2025-NP-EFRR/Vyzva%20PSK-MD-027-2025-NP-EFRR.docx#_ftnref2\" name=\"_ftn2\" title=\"\">[2]</a> V pr&iacute;pade nedostupnosti ITMS21+ over&iacute; SO &uacute;daje elektronicky prostredn&iacute;ctvom elektronickej komunik&aacute;cie v informačnom syst&eacute;me verejnej spr&aacute;vy v&yacute;lučne cez port&aacute;lov&eacute; rie&scaron;enie OverSi.</div></div></div></div>"
+  }
+ ],
+ "verzia": [
+  {
+   "id": 6873,
+   "cislo": 1,
+   "dovodVznikuVerzie": "<div>Prv&aacute; verzia v&yacute;zvy</div>"
+  }
+ ],
+ "ukazovatelVysledkovy": [
+  {
+   "id": 1184,
+   "specifickyCielProgramu": {
+    "id": 41,
+    "href": "/specifickycielprogramu/id/41",
+    "kod": "401301R302",
+    "nazovSk": "RSO3.2 Rozvoj a posilňovanie udržateľnej, inteligentnej a intermodálnej vnútroštátnej, regionálnej a miestnej mobility odolnej proti  zmene klímy vrátane zlepšeného prístupu k TEN-T a cezhraničnej mobility (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870536
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1815,
+    "href": "/ukazovatelprojektovy/id/1815",
+    "kod": "PSKPR050",
+    "nazovSk": "Počet projektov so zlepšenou pripravenosťou na implementáciu",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><b>Definičn&aacute; matica</b></div><div><b>1.1</b></div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Počet projektov, ktor&eacute; na z&aacute;klade vypracovanej dokument&aacute;cie, anal&yacute;zy, &scaron;t&uacute;die alebo spr&aacute;vy dosiahli vy&scaron;&scaron;iu &uacute;roveň pripravenosti na ich n&aacute;sledn&uacute; implement&aacute;ciu. Merateľn&yacute; ukazovateľ umožňuje sledovať, či v&yacute;stupy projektu (dokument&aacute;cie, anal&yacute;zy, &scaron;t&uacute;die, spr&aacute;vy) re&aacute;lne prispeli k&nbsp;posunu projektu smerom k&nbsp;implement&aacute;cii.</div><div><b>Povinnosť plnenia:</b> &aacute;no</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Hl&aacute;senie o dosiahnut&iacute; hodnoty ukazovateľa prostredn&iacute;ctvom ITMS, podporen&eacute; projekty, zmluvy o poskytnut&iacute; NFP, preberac&iacute; protokol, dodac&iacute; list.</div></div>",
+    "casPlnenia": [
+     {
+      "id": 5,
+      "kod": "1088005",
+      "nazovSk": "U - v rámci udržateľnosti projektu",
+      "nazovDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "popisSk": "U - v rámci udržateľnosti projektu",
+      "popisDe": "U - innerhalb der Nachhaltigkeit des Projekts",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSLEDOK",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1763977656356,
+    "updatedAt": 1764240337548
+   }
+  }
+ ],
+ "ukazovatelVystupovy": [
+  {
+   "id": 1150,
+   "specifickyCielProgramu": {
+    "id": 41,
+    "href": "/specifickycielprogramu/id/41",
+    "kod": "401301R302",
+    "nazovSk": "RSO3.2 Rozvoj a posilňovanie udržateľnej, inteligentnej a intermodálnej vnútroštátnej, regionálnej a miestnej mobility odolnej proti  zmene klímy vrátane zlepšeného prístupu k TEN-T a cezhraničnej mobility (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870536
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "ukazovatelProjektovy": {
+    "id": 1298,
+    "href": "/ukazovatelprojektovy/id/1298",
+    "kod": "PSKPSOI02",
+    "nazovSk": "Počet vytvorených dokumentácií, analýz, štúdií a správ v súvislosti s prípravou, implementáciou, monitorovaním a hodnotením",
+    "mernaJednotka": {
+     "id": 9,
+     "kod": "105309",
+     "nazovSk": "počet",
+     "nazovEn": "počet",
+     "nazovDe": "anzahl",
+     "popisSk": "počet",
+     "popisDe": "anzahl",
+     "platnostOd": 725842800000
+    },
+    "definiciaSk": "<div><div><div><div><div>Definičn&aacute; matica</div><div>1.1</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div>Celkov&yacute; počet vytvoren&yacute;ch dokument&aacute;ci&iacute;, anal&yacute;z a &scaron;t&uacute;di&iacute; vypracovan&yacute;ch v tlačenej alebo elektronickej forme, financovan&yacute;ch z prostriedkov projektu.</div><div>Materi&aacute;l predstavuje 100 normostr&aacute;n.</div><div>Hodnota merateľn&eacute;ho ukazovateľa m&ocirc;že byť vypoč&iacute;tan&aacute; aj ako s&uacute;čet rozsahom men&scaron;&iacute;ch dokumentov (napr. materi&aacute;l s rozsahom 20 str&aacute;n predstavuje &ndash; 0,2 dokumentu, 80 str&aacute;n predstavuje &ndash; 0,8 dokumentu).</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Dodac&iacute; list, preberac&iacute; protokol, v&yacute;stup (dokument, spr&aacute;va, ....) a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy&nbsp; a ITMS.</div><div>1.2</div><div><b>Popis znaku, charakteristiky, pravidla</b></div><div><b>Pre projekty poskytovateľa MD SR plat&iacute;:</b></div><div>Celkov&yacute; počet vytvoren&yacute;ch dokument&aacute;ci&iacute;, anal&yacute;z a &scaron;t&uacute;di&iacute; vypracovan&yacute;ch v tlačenej alebo elektronickej forme, financovan&yacute;ch z prostriedkov projektu. &nbsp;</div><div>V&nbsp;pr&iacute;pade, keď bolo vypracovan&yacute;ch viacero stupňov projektovej dokument&aacute;cie, tak do hodnoty merateľn&eacute;ho ukazovateľa, bez ohľadu na počet str&aacute;n, sa mus&iacute; započ&iacute;tať každ&yacute; stupeň projektovej dokument&aacute;cie osobitne.</div><div>Pr&iacute;klad: ak je predmetom projektu dodanie projektovej dokument&aacute;cie v t&yacute;chto stupňoch: DSZ, DUR, DSP a&nbsp;DRS, uv&aacute;dza sa hodnota &bdquo;4&ldquo;.</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Dodac&iacute; list, preberac&iacute; protokol, v&yacute;stup (dokument, spr&aacute;va, ....) a pod. Plnenie znaku deklaruje prij&iacute;mateľ aj prostredn&iacute;ctvom V&yacute;ročnej monitorovacej spr&aacute;vy&nbsp; a ITMS.</div><div>1.3</div><div><b>Pre NP Monitorovanie a hodnotenie inkluz&iacute;vnych polit&iacute;k zameran&yacute;ch na r&oacute;msku popul&aacute;ciu, predov&scaron;etk&yacute;m marginalizovan&eacute; r&oacute;mske komunity poskytovateľa &Uacute;V SR plat&iacute;:</b></div><div>&ldquo;Počet vytvoren&yacute;ch dokument&aacute;ci&iacute;, anal&yacute;z, &scaron;t&uacute;di&iacute; a spr&aacute;v v s&uacute;vislosti s pr&iacute;pravou, implement&aacute;ciou, monitorovan&iacute;m a&nbsp;hodnoten&iacute;m&ldquo;.</div><div><b>Povinnosť plnenia:</b> Minim&aacute;lne jedno krit&eacute;rium z&nbsp;&uacute;rovne 1</div><div><b>Pr&iacute;klady zdrojov overenia, na z&aacute;klade ktor&yacute;ch prij&iacute;mateľ dokladuje plnenie znaku, charakteristiky, pravidla</b></div><div>Najm&auml;: Hl&aacute;senie o dosiahnut&iacute; hodnoty ukazovateľa prostredn&iacute;ctvom ITMS. Podporen&eacute; projekty. Zmluvy o poskytnut&iacute; NFP, Preberac&iacute; protokol.</div><div>&nbsp;</div></div></div><div>&nbsp;</div></div></div>",
+    "casPlnenia": [
+     {
+      "id": 4,
+      "kod": "1088004",
+      "nazovSk": "K - koniec realizácie projektu",
+      "nazovDe": "K - Beendigung der Projektumsetzung",
+      "popisSk": "K - koniec realizácie projektu",
+      "popisDe": "K - Beendigung der Projektumsetzung",
+      "platnostOd": 1484175600000
+     }
+    ],
+    "evidenciaPodlaPohlavia": false,
+    "fondy": [
+     {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 7,
+      "kod": "1032ESF+",
+      "kodZdroj": "ESF+",
+      "nazovSk": "Európsky sociálny fond plus",
+      "nazovEn": "Európsky sociálny fond plus",
+      "popisSk": "Európsky sociálny fond plus",
+      "popisEn": "Európsky sociálny fond plus",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 8,
+      "kod": "1032KF",
+      "kodZdroj": "KF",
+      "nazovSk": "Kohézny fond",
+      "nazovEn": "Kohézny fond",
+      "popisSk": "Kohézny fond",
+      "popisEn": "Kohézny fond",
+      "platnostOd": 1668121200000
+     },
+     {
+      "id": 9,
+      "kod": "1032FST",
+      "kodZdroj": "FST",
+      "nazovSk": "Fond na spravodlivú transformáciu",
+      "nazovEn": "Just Transition Fund",
+      "nazovDe": "Fonds für einen gerechten Übergang",
+      "popisSk": "Fond na spravodlivú transformáciu",
+      "popisEn": "Just Transition Fund",
+      "popisDe": "Fonds für einen gerechten Übergang",
+      "platnostOd": 1668121200000
+     }
+    ],
+    "typ": "VYSTUP",
+    "typVypoctu": "SUCET",
+    "platnost": true,
+    "createdAt": 1675344795460,
+    "updatedAt": 1746522621103
+   }
+  }
+ ],
+ "typAkcieProgramu": [
+  {
+   "id": 609,
+   "href": "/typakcieprogramu/id/609",
+   "kod": "401301R30202011",
+   "nazovSk": "Predinvestičná a projektová príprava",
+   "specifickyCielProgramu": {
+    "id": 41,
+    "href": "/specifickycielprogramu/id/41",
+    "kod": "401301R302",
+    "nazovSk": "RSO3.2 Rozvoj a posilňovanie udržateľnej, inteligentnej a intermodálnej vnútroštátnej, regionálnej a miestnej mobility odolnej proti  zmene klímy vrátane zlepšeného prístupu k TEN-T a cezhraničnej mobility (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870536
+   },
+   "opatrenie": {
+    "id": 36,
+    "href": "/opatrenie/id/36",
+    "kod": "401301R30202",
+    "nazovSk": "Odstránenie kľúčových úzkych miest na cestnej infraštruktúre a zlepšenie regionálnej mobility prostredníctvom modernizácie a výstavby ciest I. triedy",
+    "specifickyCielProgramu": {
+     "id": 41,
+     "href": "/specifickycielprogramu/id/41",
+     "kod": "401301R302",
+     "nazovSk": "RSO3.2 Rozvoj a posilňovanie udržateľnej, inteligentnej a intermodálnej vnútroštátnej, regionálnej a miestnej mobility odolnej proti  zmene klímy vrátane zlepšeného prístupu k TEN-T a cezhraničnej mobility (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 6,
+      "href": "/priorita/id/6",
+      "kod": "401301",
+      "nazovSk": "3P1 Doprava",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867951
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540870536
+    },
+    "createdAt": 1772540870560
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516231970,
+   "updatedAt": 1772541490833
+  },
+  {
+   "id": 996,
+   "href": "/typakcieprogramu/id/996",
+   "kod": "401301R302020P1",
+   "nazovSk": "Podporné aktivity",
+   "specifickyCielProgramu": {
+    "id": 41,
+    "href": "/specifickycielprogramu/id/41",
+    "kod": "401301R302",
+    "nazovSk": "RSO3.2 Rozvoj a posilňovanie udržateľnej, inteligentnej a intermodálnej vnútroštátnej, regionálnej a miestnej mobility odolnej proti  zmene klímy vrátane zlepšeného prístupu k TEN-T a cezhraničnej mobility (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870536
+   },
+   "opatrenie": {
+    "id": 36,
+    "href": "/opatrenie/id/36",
+    "kod": "401301R30202",
+    "nazovSk": "Odstránenie kľúčových úzkych miest na cestnej infraštruktúre a zlepšenie regionálnej mobility prostredníctvom modernizácie a výstavby ciest I. triedy",
+    "specifickyCielProgramu": {
+     "id": 41,
+     "href": "/specifickycielprogramu/id/41",
+     "kod": "401301R302",
+     "nazovSk": "RSO3.2 Rozvoj a posilňovanie udržateľnej, inteligentnej a intermodálnej vnútroštátnej, regionálnej a miestnej mobility odolnej proti  zmene klímy vrátane zlepšeného prístupu k TEN-T a cezhraničnej mobility (EFRR)",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "priorita": {
+      "id": 6,
+      "href": "/priorita/id/6",
+      "kod": "401301",
+      "nazovSk": "3P1 Doprava",
+      "program": {
+       "id": 1,
+       "href": "/program/id/1"
+      },
+      "createdAt": 1772540867951
+     },
+     "kategoriaRegionov": [
+      {
+       "id": 1,
+       "kod": "1033MRR",
+       "kodZdroj": "MRR",
+       "nazovSk": "Menej rozvinutý región",
+       "nazovEn": "less-developed regions",
+       "popisSk": "Menej rozvinutý región",
+       "popisEn": "less-developed regions",
+       "platnostOd": 725842800000
+      },
+      {
+       "id": 2,
+       "kod": "1033VRR",
+       "kodZdroj": "VRR",
+       "nazovSk": "Viac rozvinutý región",
+       "nazovEn": "more-developed regions",
+       "popisSk": "Viac rozvinutý región",
+       "popisEn": "more-developed regions",
+       "platnostOd": 725842800000
+      }
+     ],
+     "fond": {
+      "id": 6,
+      "kod": "1032EFRR",
+      "kodZdroj": "EFRR",
+      "nazovSk": "Európsky fond regionálneho rozvoja",
+      "nazovEn": "European Regional Development Fund",
+      "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+      "popisSk": "Európsky fond regionálneho rozvoja",
+      "popisEn": "European Regional Development Fund",
+      "popisDe": "Europäischen Fonds für regionale Entwicklung",
+      "platnostOd": 1668121200000
+     },
+     "technickaAsistencia": false,
+     "createdAt": 1772540870536
+    },
+    "createdAt": 1772540870560
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "createdAt": 1717516243901,
+   "updatedAt": 1772541490834
+  }
+ ],
+ "oblastIntervencie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 41,
+    "href": "/specifickycielprogramu/id/41",
+    "kod": "401301R302",
+    "nazovSk": "RSO3.2 Rozvoj a posilňovanie udržateľnej, inteligentnej a intermodálnej vnútroštátnej, regionálnej a miestnej mobility odolnej proti  zmene klímy vrátane zlepšeného prístupu k TEN-T a cezhraničnej mobility (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870536
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "oblastIntervencie": {
+    "id": 200099,
+    "kod": "10364PO090",
+    "kodZdroj": "090",
+    "nazovSk": "Novovybudované alebo vylepšené iné národné, regionálne a miestne prístupové cesty",
+    "nazovEn": "Novovybudované alebo vylepšené iné národné, regionálne a miestne prístupové cesty",
+    "nazovDe": "Neubau oder Ausbau von sonstigen nationalen, regionalen und lokalen Zubringerstraßen",
+    "popisSk": "Novovybudované alebo vylepšené iné národné, regionálne a miestne prístupové cesty",
+    "popisDe": "Neubau oder Ausbau von sonstigen nationalen, regionalen und lokalen Zubringerstraßen",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typIntervencie": [],
+ "formaPodpory": [
+  {
+   "specifickyCielProgramu": {
+    "id": 41,
+    "href": "/specifickycielprogramu/id/41",
+    "kod": "401301R302",
+    "nazovSk": "RSO3.2 Rozvoj a posilňovanie udržateľnej, inteligentnej a intermodálnej vnútroštátnej, regionálnej a miestnej mobility odolnej proti  zmene klímy vrátane zlepšeného prístupu k TEN-T a cezhraničnej mobility (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870536
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "formaPodpory": {
+    "id": 200000,
+    "kod": "10374PO01",
+    "kodZdroj": "01",
+    "nazovSk": "Grant",
+    "nazovEn": "Grant",
+    "nazovDe": "Zuschuss",
+    "popisSk": "Grant",
+    "popisDe": "Zuschuss",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "uzemnyMechanizmusAZameranie": [
+  {
+   "specifickyCielProgramu": {
+    "id": 41,
+    "href": "/specifickycielprogramu/id/41",
+    "kod": "401301R302",
+    "nazovSk": "RSO3.2 Rozvoj a posilňovanie udržateľnej, inteligentnej a intermodálnej vnútroštátnej, regionálnej a miestnej mobility odolnej proti  zmene klímy vrátane zlepšeného prístupu k TEN-T a cezhraničnej mobility (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870536
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "uzemnyMechanizmusAZameranie": {
+    "id": 200032,
+    "kod": "10344PO33",
+    "kodZdroj": "33",
+    "nazovSk": "Iné prístupy - Žiadne územné zameranie",
+    "nazovEn": "Iné prístupy - Žiadne územné zameranie",
+    "nazovDe": "Keine territoriale Ausrichtung",
+    "popisSk": "Iné prístupy - Žiadne územné zameranie",
+    "popisDe": "Keine territoriale Ausrichtung",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "hospodarskaCinnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 41,
+    "href": "/specifickycielprogramu/id/41",
+    "kod": "401301R302",
+    "nazovSk": "RSO3.2 Rozvoj a posilňovanie udržateľnej, inteligentnej a intermodálnej vnútroštátnej, regionálnej a miestnej mobility odolnej proti  zmene klímy vrátane zlepšeného prístupu k TEN-T a cezhraničnej mobility (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870536
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "hospodarskaCinnost": {
+    "id": 200014,
+    "kod": "10384PO14",
+    "kodZdroj": "14",
+    "nazovSk": "Doprava a skladovanie",
+    "nazovEn": "Doprava a skladovanie",
+    "nazovDe": "Verkehr und Lagerei",
+    "popisSk": "Doprava a skladovanie",
+    "popisDe": "Verkehr und Lagerei",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "sekundarnyTematickyOkruh": [],
+ "rodovaRovnost": [
+  {
+   "specifickyCielProgramu": {
+    "id": 41,
+    "href": "/specifickycielprogramu/id/41",
+    "kod": "401301R302",
+    "nazovSk": "RSO3.2 Rozvoj a posilňovanie udržateľnej, inteligentnej a intermodálnej vnútroštátnej, regionálnej a miestnej mobility odolnej proti  zmene klímy vrátane zlepšeného prístupu k TEN-T a cezhraničnej mobility (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870536
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "rodovaRovnost": {
+    "id": 200002,
+    "kod": "12084PO03",
+    "kodZdroj": "03",
+    "nazovSk": "Rodovo neutrálny",
+    "nazovEn": "Rodovo neutrálny",
+    "nazovDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "popisSk": "Rodovo neutrálny",
+    "popisDe": "Ohne Bezug zur Gleichstellung der Geschlechter",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": [
+  {
+   "specifickyCielProgramu": {
+    "id": 41,
+    "href": "/specifickycielprogramu/id/41",
+    "kod": "401301R302",
+    "nazovSk": "RSO3.2 Rozvoj a posilňovanie udržateľnej, inteligentnej a intermodálnej vnútroštátnej, regionálnej a miestnej mobility odolnej proti  zmene klímy vrátane zlepšeného prístupu k TEN-T a cezhraničnej mobility (EFRR)",
+    "program": {
+     "id": 1,
+     "href": "/program/id/1"
+    },
+    "priorita": {
+     "id": 6,
+     "href": "/priorita/id/6",
+     "kod": "401301",
+     "nazovSk": "3P1 Doprava",
+     "program": {
+      "id": 1,
+      "href": "/program/id/1"
+     },
+     "createdAt": 1772540867951
+    },
+    "kategoriaRegionov": [
+     {
+      "id": 1,
+      "kod": "1033MRR",
+      "kodZdroj": "MRR",
+      "nazovSk": "Menej rozvinutý región",
+      "nazovEn": "less-developed regions",
+      "popisSk": "Menej rozvinutý región",
+      "popisEn": "less-developed regions",
+      "platnostOd": 725842800000
+     },
+     {
+      "id": 2,
+      "kod": "1033VRR",
+      "kodZdroj": "VRR",
+      "nazovSk": "Viac rozvinutý región",
+      "nazovEn": "more-developed regions",
+      "popisSk": "Viac rozvinutý región",
+      "popisEn": "more-developed regions",
+      "platnostOd": 725842800000
+     }
+    ],
+    "fond": {
+     "id": 6,
+     "kod": "1032EFRR",
+     "kodZdroj": "EFRR",
+     "nazovSk": "Európsky fond regionálneho rozvoja",
+     "nazovEn": "European Regional Development Fund",
+     "nazovDe": "Europäischen Fonds für regionale Entwicklung",
+     "popisSk": "Európsky fond regionálneho rozvoja",
+     "popisEn": "European Regional Development Fund",
+     "popisDe": "Europäischen Fonds für regionale Entwicklung",
+     "platnostOd": 1668121200000
+    },
+    "technickaAsistencia": false,
+    "createdAt": 1772540870536
+   },
+   "kategoriaRegionov": {
+    "id": 1,
+    "kod": "1033MRR",
+    "kodZdroj": "MRR",
+    "nazovSk": "Menej rozvinutý región",
+    "nazovEn": "less-developed regions",
+    "popisSk": "Menej rozvinutý región",
+    "popisEn": "less-developed regions",
+    "platnostOd": 725842800000
+   },
+   "makroregionalnaStrategiaAStrategiaPreMorskeOblasti": {
+    "id": 200010,
+    "kod": "12094PO11",
+    "kodZdroj": "11",
+    "nazovSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovEn": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "nazovDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "popisSk": "Žiadny príspevok k makroregionálnym stratégiám alebo stratégiám pre morské oblasti",
+    "popisDe": "Kein Beitrag zu den makroregionalen Strategien oder Meeresbeckenstrategien",
+    "platnostOd": 1668121200000
+   }
+  }
+ ],
+ "typAkcie": [],
+ "vykonavanie": [],
+ "urcitaTema": [],
+ "kategoriaRegionov": [
+  {
+   "id": 1,
+   "kod": "1033MRR",
+   "kodZdroj": "MRR",
+   "nazovSk": "Menej rozvinutý región",
+   "nazovEn": "less-developed regions",
+   "popisSk": "Menej rozvinutý región",
+   "popisEn": "less-developed regions",
+   "platnostOd": 725842800000
+  },
+  {
+   "id": 2,
+   "kod": "1033VRR",
+   "kodZdroj": "VRR",
+   "nazovSk": "Viac rozvinutý región",
+   "nazovEn": "more-developed regions",
+   "popisSk": "Viac rozvinutý región",
+   "popisEn": "more-developed regions",
+   "platnostOd": 725842800000
+  }
+ ],
+ "statnaPomoc": [],
+ "aktualitaNaVyzve": [],
+ "projektovyZamerIUS": []
+}
